@@ -344,71 +344,122 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "a new <red>paradigm</red>",
-          "japanese": "新しい<red>理論的枠組み</red>"
+          "japanese": "新しい<red>理論的枠組み</red>",
+          "pos": "名",
+          "phonetic": "[pǽrədàim]",
+          "meaning": "パラダイム、理論的枠組み"
         },
         {
           "english": "require further <red>validation</red>",
-          "japanese": "さらなる<red>認証</red>を必要とする"
+          "japanese": "さらなる<red>認証</red>を必要とする",
+          "pos": "名",
+          "phonetic": "[væ̀lədéiʃən]",
+          "meaning": "有効化；承認"
         },
         {
           "english": "the <red>transition</red> from A to B",
-          "japanese": "AからBへの<red>移行</red>"
+          "japanese": "AからBへの<red>移行</red>",
+          "pos": "名",
+          "phonetic": "[trænzíʃən]",
+          "meaning": "移行"
         },
         {
           "english": "a <red>geocentric</red> model",
-          "japanese": "<red>地球中心</red>モデル"
+          "japanese": "<red>地球中心</red>モデル",
+          "pos": "形",
+          "phonetic": "[dʒìːouséntrik]",
+          "meaning": "地球中心の、天動説の"
         },
         {
           "english": "the <red>heliocentric</red> theory",
-          "japanese": "<red>太陽中心</red>説"
+          "japanese": "<red>太陽中心</red>説",
+          "pos": "形",
+          "phonetic": "[hìːliouséntrik]",
+          "meaning": "太陽中心の、地動説の"
         },
         {
           "english": "<red>revolve</red> around the sun",
-          "japanese": "太陽の周りを<red>回転する</red>"
+          "japanese": "太陽の周りを<red>回転する</red>",
+          "pos": "自",
+          "phonetic": "[rivɑ́lv]",
+          "meaning": "回転する；公転する"
         },
         {
           "english": "universal <red>gravitation</red>",
-          "japanese": "万有<red>引力</red>"
+          "japanese": "万有<red>引力</red>",
+          "pos": "名",
+          "phonetic": "[græ̀vətéiʃən]",
+          "meaning": "重力、引力"
         },
         {
           "english": "<red>confirm</red> the hypothesis",
-          "japanese": "仮説を<red>裏づける</red>"
+          "japanese": "仮説を<red>裏づける</red>",
+          "pos": "他",
+          "phonetic": "[kənfə́ːrm]",
+          "meaning": "を確かめる；を立証する"
         },
         {
           "english": "<red>abandon</red> the project",
-          "japanese": "計画を<red>放棄する</red>"
+          "japanese": "計画を<red>放棄する</red>",
+          "pos": "他",
+          "phonetic": "[əbǽndən]",
+          "meaning": "を放棄する"
         },
         {
           "english": "arouse intellectual <red>curiosity</red>",
-          "japanese": "知的<red>好奇心</red>をかき立てる"
+          "japanese": "知的<red>好奇心</red>をかき立てる",
+          "pos": "名",
+          "phonetic": "[kjùəriɑ́səti]",
+          "meaning": "好奇心"
         },
         {
           "english": "the <red>advent</red> of a new era",
-          "japanese": "新時代の<red>到来</red>"
+          "japanese": "新時代の<red>到来</red>",
+          "pos": "名",
+          "phonetic": "[ǽdvent]",
+          "meaning": "到来、出現"
         },
         {
           "english": "a <red>significant</red> change",
-          "japanese": "<red>重大な</red>変化"
+          "japanese": "<red>重大な</red>変化",
+          "pos": "形",
+          "phonetic": "[signífikənt]",
+          "meaning": "重要な"
         },
         {
           "english": "<red>embrace</red> new technologies",
-          "japanese": "新しい技術を<red>受け入れる</red>"
+          "japanese": "新しい技術を<red>受け入れる</red>",
+          "pos": "他",
+          "phonetic": "[imbréis]",
+          "meaning": "を受け入れる"
         },
         {
           "english": "a sudden <red>surge</red> in A",
-          "japanese": "Aの突然の<red>高騰</red>"
+          "japanese": "Aの突然の<red>高騰</red>",
+          "pos": "名",
+          "phonetic": "[sə́ːrdʒ]",
+          "meaning": "急増；高騰"
         },
         {
           "english": "the <red>literacy</red> rate",
-          "japanese": "<red>識字</red>率"
+          "japanese": "<red>識字</red>率",
+          "pos": "名",
+          "phonetic": "[lítərəsi]",
+          "meaning": "読み書き能力"
         },
         {
           "english": "an <red>instantaneous</red> response",
-          "japanese": "<red>瞬時</red>の返答"
+          "japanese": "<red>瞬時</red>の返答",
+          "pos": "形",
+          "phonetic": "[ìnstəntéiniəs]",
+          "meaning": "瞬間的な、瞬時の"
         },
         {
           "english": "a different <red>perspective</red>",
-          "japanese": "別の<red>観点</red>"
+          "japanese": "別の<red>観点</red>",
+          "pos": "名",
+          "phonetic": "[pərspéktiv]",
+          "meaning": "観点、視点"
         }
       ]
     },
@@ -428,71 +479,122 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "disturb the <red>ecosystem</red>",
-          "japanese": "<red>生態系</red>を乱す"
+          "japanese": "<red>生態系</red>を乱す",
+          "pos": "名",
+          "phonetic": "[íːkousìstəm]",
+          "meaning": "生態系"
         },
         {
           "english": "<red>dominate</red> the market",
-          "japanese": "市場を<red>支配する</red>"
+          "japanese": "市場を<red>支配する</red>",
+          "pos": "他",
+          "phonetic": "[dɑ́mənèit]",
+          "meaning": "を支配する"
         },
         {
           "english": "play a <red>passive</red> role",
-          "japanese": "<red>消極的な</red>役割を果たす"
+          "japanese": "<red>消極的な</red>役割を果たす",
+          "pos": "形",
+          "phonetic": "[pǽsiv]",
+          "meaning": "受動的な、消極的な"
         },
         {
           "english": "<red>obtain</red> funding",
-          "japanese": "資金を<red>獲得する</red>"
+          "japanese": "資金を<red>獲得する</red>",
+          "pos": "他",
+          "phonetic": "[əbtéin]",
+          "meaning": "を獲得する"
         },
         {
           "english": "at the <red>expense</red> of A",
-          "japanese": "Aを<red>犠牲</red>にして"
+          "japanese": "Aを<red>犠牲</red>にして",
+          "pos": "名",
+          "phonetic": "[ikspéns]",
+          "meaning": "犠牲、代価"
         },
         {
           "english": "the same <red>species</red>",
-          "japanese": "同じ<red>種</red>（の生物）"
+          "japanese": "同じ<red>種</red>（の生物）",
+          "pos": "名",
+          "phonetic": "[spíːʃiːz]",
+          "meaning": "種"
         },
         {
           "english": "<red>indicate</red> the necessity of A",
-          "japanese": "Aの必要性を<red>示す</red>"
+          "japanese": "Aの必要性を<red>示す</red>",
+          "pos": "他",
+          "phonetic": "[índəkèit]",
+          "meaning": "を示す；を表示する"
         },
         {
           "english": "highly <red>adaptable</red> species",
-          "japanese": "高い<red>適応力</red>のある種"
+          "japanese": "高い<red>適応力</red>のある種",
+          "pos": "名",
+          "phonetic": "[spíːʃiːz]",
+          "meaning": "種"
         },
         {
           "english": "<red>adaptability</red>",
-          "japanese": "<red>適応性</red>、順応性"
+          "japanese": "<red>適応性</red>、順応性",
+          "pos": "名",
+          "phonetic": "[ədæ̀ptəbíləti]",
+          "meaning": "適応性、順応性"
         },
         {
           "english": "<red>superior</red> alternative fuels",
-          "japanese": "<red>優れた</red>代替燃料"
+          "japanese": "<red>優れた</red>代替燃料",
+          "pos": "形",
+          "phonetic": "[səpíəriər]",
+          "meaning": "（他よりも）優れている"
         },
         {
           "english": "<red>reconcile</red> the ideal with reality",
-          "japanese": "理想と現実を<red>一致させる</red>"
+          "japanese": "理想と現実を<red>一致させる</red>",
+          "pos": "他",
+          "phonetic": "[rékənsàil]",
+          "meaning": "を調和させる"
         },
         {
           "english": "the underlying <red>assumption</red>",
-          "japanese": "根拠になっている<red>仮定</red>"
+          "japanese": "根拠になっている<red>仮定</red>",
+          "pos": "名",
+          "phonetic": "[əsʌ́mpʃən]",
+          "meaning": "想定；仮定、前提"
         },
         {
           "english": "<red>compare</red> the results",
-          "japanese": "結果を<red>比較する</red>"
+          "japanese": "結果を<red>比較する</red>",
+          "pos": "他",
+          "phonetic": "[kəmpéər]",
+          "meaning": "を比較する"
         },
         {
           "english": "a <red>trifling</red> sum of money",
-          "japanese": "<red>ごく少ない</red>額のお金"
+          "japanese": "<red>ごく少ない</red>額のお金",
+          "pos": "形",
+          "phonetic": "[tráiflɪŋ]",
+          "meaning": "少量の、ささいな"
         },
         {
           "english": "give a detailed <red>explanation</red>",
-          "japanese": "詳細な<red>説明</red>をする"
+          "japanese": "詳細な<red>説明</red>をする",
+          "pos": "名",
+          "phonetic": "[èksplənéiʃən]",
+          "meaning": "説明"
         },
         {
           "english": "<red>intelligent</red> life",
-          "japanese": "<red>知的</red>生命体"
+          "japanese": "<red>知的</red>生命体",
+          "pos": "形",
+          "phonetic": "[intélədʒənt]",
+          "meaning": "知的な、知能を持つ"
         },
         {
           "english": "be <red>inclined</red> to V",
-          "japanese": "Vしたい<red>気分</red>で；Vする<red>傾向</red>がある"
+          "japanese": "Vしたい<red>気分</red>で；Vする<red>傾向</red>がある",
+          "pos": "形",
+          "phonetic": "[inkláiənd]",
+          "meaning": "気分で；傾向がある"
         }
       ]
     }

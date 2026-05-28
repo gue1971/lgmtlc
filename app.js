@@ -13,6 +13,7 @@ const $app = document.getElementById("app");
 const $footer = document.getElementById("footer");
 const $headerTitle = document.getElementById("headerTitle");
 const $headerSubtitle = document.getElementById("headerSubtitle");
+const $headerPassage = document.getElementById("headerPassage");
 const $backToTocTop = document.getElementById("backToTocTop");
 const $audio = document.getElementById("audio");
 const $viewToggleButton = document.getElementById("viewToggleButton");
@@ -99,7 +100,9 @@ function setStaticIcons() {
   $forwardButton.innerHTML = iconForward2();
 }
 
-function setHeader(title, subtitle = "", showBack = false) {
+function setHeader(title, subtitle = "", showBack = false, passageLabel = "") {
+  $headerPassage.textContent = passageLabel;
+  $headerPassage.classList.toggle("hidden", !passageLabel);
   $headerTitle.textContent = title;
   $headerSubtitle.textContent = subtitle;
   $headerSubtitle.classList.toggle("hidden", !subtitle);
@@ -151,7 +154,7 @@ function renderPassage(id) {
   const meta = findMeta(id);
   const passage = DATA.passages[String(id)];
 
-  setHeader(passage?.titleEn || meta?.titleJa || `Passage ${id}`, passage?.titleJa || meta?.titleJa || "", true);
+  setHeader(passage?.titleEn || meta?.titleJa || `Passage ${id}`, passage?.titleJa || meta?.titleJa || "", true, `Passage ${id}`);
   showFooter(true);
   syncFooterControls();
   updateAudioSource();

@@ -461,6 +461,36 @@ window.LINGUA_DATA = {
           "phonetic": "[pərspéktiv]",
           "meaning": "観点、視点"
         }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>embrace</red>",
+          "pos": "他",
+          "meaning": "を抱きしめる（＋を受け入れる）",
+          "example": "He gently <red>embraced</red> his daughter.",
+          "translation": "彼は娘を優しく抱きしめた"
+        },
+        {
+          "headword": "<red>literacy</red>",
+          "pos": "名",
+          "meaning": "使いこなす能力（＋読み書き能力）",
+          "example": "Basic computer <red>literacy</red> should be taught to everyone.",
+          "translation": "基本的なコンピューター運用能力は誰もが学ぶべきだ"
+        },
+        {
+          "headword": "<red>perspective</red>",
+          "pos": "名",
+          "meaning": "大局観；遠近法（＋観点、視点）",
+          "example": "We need to put things into <red>perspective</red>.",
+          "translation": "物事をバランスの取れた見方で捉える必要がある"
+        },
+        {
+          "headword": "<red>perspective</red>",
+          "pos": "名",
+          "meaning": "大局観；遠近法（＋観点、視点）",
+          "example": "Leonardo painted pictures in <red>perspective</red>.",
+          "translation": "レオナルドは遠近法を用いて絵を描いた"
+        }
       ]
     },
     "2": {
@@ -595,6 +625,29 @@ window.LINGUA_DATA = {
           "pos": "形",
           "phonetic": "[inkláiənd]",
           "meaning": "気分で；傾向がある"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>expense</red>",
+          "pos": "名",
+          "meaning": "費用、出費（＋犠牲、代価）",
+          "example": "I’ve had a lot of <red>expenses</red> this month.",
+          "translation": "今月は出費がかさんだ"
+        },
+        {
+          "headword": "<red>reconcile</red>",
+          "pos": "他",
+          "meaning": "を和解させる（＋を調和させる）",
+          "example": "The father and his son were <red>reconciled</red> at last.",
+          "translation": "父親と息子はようやく和解した"
+        },
+        {
+          "headword": "<red>compare</red>",
+          "pos": "他",
+          "meaning": "をたとえる（＋を比較する）",
+          "example": "Many people <red>compare</red> life to a marathon.",
+          "translation": "人生をマラソンにたとえる人は多い"
         }
       ]
     }

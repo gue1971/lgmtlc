@@ -12,3 +12,92 @@
 .poly-example{margin-top:8px;font-family:Georgia,"Times New Roman",serif;font-size:16px;line-height:1.55;color:#3d3832}
 .poly-translation{margin-top:3px;font-size:14px;line-height:1.5;color:var(--muted)}
 .empty-state{margin:42px auto;max-width:520px;color:var(--muted);text-align:center;line-height:1.8}@media(max-width:380px){.english-text{font-size:19px}.phrase-en{font-size:19px}.one-line-row{grid-template-columns:31px 34px 38px 52px 38px 50px 39px;gap:4px}.play-button{width:46px;height:46px;line-height:46px}.footer-icon{font-size:20px}.plain-select{font-size:13px}}
+
+.footer-icon svg,
+.play-button svg {
+  width: 24px;
+  height: 24px;
+  display: block;
+  margin: auto;
+  color: currentColor;
+}
+
+.footer-icon svg .stroke {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.footer-icon svg .fill {
+  fill: currentColor;
+  stroke: none;
+}
+
+.footer-icon svg .svg-text {
+  fill: currentColor;
+  stroke: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  font-size: 7px;
+  font-weight: 850;
+}
+
+.play-button svg {
+  width: 25px;
+  height: 25px;
+  color: #fff;
+}
+
+.play-button svg .fill {
+  fill: currentColor;
+  stroke: none;
+}
+
+.poly-section {
+  margin-top: 20px;
+}
+
+.poly-title {
+  margin: 20px 4px 10px;
+  color: #2e4b7a;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.poly-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 13px 14px;
+  margin: 8px 0;
+}
+
+.poly-head {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.poly-meaning {
+  margin-top: 6px;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #3d3832;
+}
+
+.poly-example {
+  margin-top: 8px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 1.55;
+  color: #3d3832;
+}
+
+.poly-translation {
+  margin-top: 3px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--muted);
+}

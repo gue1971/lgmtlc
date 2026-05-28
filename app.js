@@ -1,3 +1,298 @@
-const DATA=window.LINGUA_DATA;const state={view:"toc",passageId:null,mode:"english",accent:localStorage.getItem("accent")||"us",rate:Number(localStorage.getItem("rate")||"1")};const $app=document.getElementById("app"),$footer=document.getElementById("footer"),$headerTitle=document.getElementById("headerTitle"),$headerSubtitle=document.getElementById("headerSubtitle"),$backToTocTop=document.getElementById("backToTocTop"),$audio=document.getElementById("audio"),$viewToggleButton=document.getElementById("viewToggleButton"),$rewindButton=document.getElementById("rewindButton"),$playButton=document.getElementById("playButton"),$forwardButton=document.getElementById("forwardButton"),$rateSelect=document.getElementById("rateSelect"),$accentToggleButton=document.getElementById("accentToggleButton");function pad2(n){return String(n).padStart(2,"0")}function audioUrl(id,accent){if(state.mode==='phrases')return`https://juno.zkai.co.jp/contents/shoseki/lingua/lingua_passage${id}_phrase.mp3`;return`https://juno.zkai.co.jp/contents/shoseki/lingua/lingua_passage${id}_eibun${accent==='us'?'A':'B'}.mp3`}function escapeHtml(s){return String(s).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[ch]))}function safeMarkup(s){return String(s).replaceAll("<red>",'<span class="red">').replaceAll("</red>","</span>")}function setHeader(title,subtitle="",showBack=false){$headerTitle.textContent=title;$headerSubtitle.textContent=subtitle;$headerSubtitle.classList.toggle("hidden",!subtitle);$backToTocTop.classList.toggle("hidden",!showBack)}function showFooter(show){$footer.classList.toggle("hidden",!show);$app.classList.toggle("with-footer",show)}function playSvg(){return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6.5v11l8-5.5-8-5.5Z"/></svg>'}
-function pauseSvg(){return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 6h3v12H8zM13 6h3v12h-3z"/></svg>'}
-function renderToc(){state.view="toc";state.passageId=null;document.body.classList.remove("phrase-mode");setHeader(DATA.appTitle,"",false);showFooter(false);pauseAudio();$app.innerHTML=`<div class="toc">${DATA.chapters.map(ch=>`<section class="chapter"><h2 class="chapter-title">第${ch.chapter}章　${escapeHtml(ch.chapterTitle)}</h2>${ch.items.map(item=>{const ready=Boolean(DATA.passages[String(item.id)]);return`<button class="toc-item ${ready?"":"not-ready"}" data-passage-id="${item.id}"><span class="toc-number">${pad2(item.id)}</span><span class="toc-title">${escapeHtml(item.titleJa)}</span></button>`}).join("")}</section>`).join("")}</div>`;$app.scrollTop=0;$app.querySelectorAll("[data-passage-id]").forEach(b=>b.addEventListener("click",()=>renderPassage(Number(b.dataset.passageId))))}function findMeta(id){for(const ch of DATA.chapters){const found=ch.items.find(item=>item.id===id);if(found)return found}return null}function renderPassage(id){state.view="passage";state.passageId=id;const meta=findMeta(id),passage=DATA.passages[String(id)];setHeader(passage?.titleEn||meta?.titleJa||`Passage ${id}`,passage?.titleJa||meta?.titleJa||"",true);showFooter(true);document.body.classList.toggle("phrase-mode",state.mode==="phrases");syncFooterControls();updateAudioSource();if(!passage){$app.innerHTML=`<section class="passage"><div class="card empty-state">このPassageはまだ本文未登録です。<br>音声リンクだけ利用できます。</div></section>`;$app.scrollTop=0;return}$app.innerHTML=`<section class="passage">${state.mode==="english"?renderEnglish(passage):renderPhrases(passage)}</section>`;$app.scrollTop=0}function renderEnglish(passage){return`<div class="card">${passage.paragraphs.map(p=>`<div class="paragraph"><button class="para-hit" data-translation-id="${p.number}" aria-label="${p.number}段落の訳を開く"><span class="para-num">${p.number}</span></button><div class="english-text">${safeMarkup(p.english)}</div><div class="translation-box hidden" id="translation-${p.number}">${safeMarkup(p.translation)}</div></div>`).join("")}</div>`}function renderPhrases(passage){return`<ul class="phrase-list">${passage.phrases.map(phrase=>`<li class="phrase-card"><div class="phrase-en">${safeMarkup(phrase.english)}</div><div class="phrase-ja">${safeMarkup(phrase.japanese)}</div><div class="phrase-meta"><span class="pos-badge">${escapeHtml(phrase.pos||"")}</span><span>${escapeHtml(phrase.phonetic||"")}</span></div><div class="phrase-meaning">${safeMarkup(phrase.meaning||"")}</div></li>`).join("")}</ul>`}function syncFooterControls(){$viewToggleButton.textContent=state.mode==="english"?"☷":"↩";$accentToggleButton.textContent=state.accent==="us"?"🇺🇸":"🇬🇧";$rateSelect.value=String(state.rate)}function updateAudioSource(){if(!state.passageId)return;const current=audioUrl(state.passageId,state.accent);if($audio.src!==current){const wasPlaying=!$audio.paused;$audio.src=current;$audio.playbackRate=state.rate;if(wasPlaying)$audio.play().catch(()=>{})}}function pauseAudio(){$audio.pause();$playButton.innerHTML=playSvg()}function togglePlay(){if(!$audio.src&&state.passageId)updateAudioSource();if($audio.paused){$audio.playbackRate=state.rate;$audio.play().then(()=>{$playButton.innerHTML=pauseSvg()}).catch(()=>{$playButton.innerHTML=playSvg();alert("音声を再生できませんでした。通信状態かリンクを確認してください。")})}else pauseAudio()}document.addEventListener("click",e=>{const hit=e.target.closest(".para-hit");if(hit){const box=document.getElementById(`translation-${hit.dataset.translationId}`);if(box)box.classList.toggle("hidden")}});$backToTocTop.addEventListener("click",renderToc);$viewToggleButton.addEventListener("click",()=>{state.mode=state.mode==="english"?"phrases":"english";renderPassage(state.passageId)});$accentToggleButton.addEventListener("click",()=>{state.accent=state.accent==="us"?"uk":"us";localStorage.setItem("accent",state.accent);syncFooterControls();updateAudioSource()});$rewindButton.addEventListener("click",()=>{if(!$audio.src&&state.passageId)updateAudioSource();$audio.currentTime=Math.max(0,($audio.currentTime||0)-2)});$forwardButton.addEventListener("click",()=>{if(!$audio.src&&state.passageId)updateAudioSource();const nextTime=($audio.currentTime||0)+2;$audio.currentTime=Number.isFinite($audio.duration)?Math.min($audio.duration,nextTime):nextTime});$playButton.addEventListener("click",togglePlay);$rateSelect.addEventListener("change",()=>{state.rate=Number($rateSelect.value);localStorage.setItem("rate",String(state.rate));$audio.playbackRate=state.rate});$audio.addEventListener("ended",()=>{$playButton.innerHTML=playSvg()});$audio.addEventListener("pause",()=>{$playButton.innerHTML=playSvg()});$audio.addEventListener("play",()=>{$playButton.innerHTML=pauseSvg()});renderToc();
+
+const DATA = window.LINGUA_DATA;
+
+const state = {
+  view: "toc",
+  passageId: null,
+  mode: "english",
+  accent: localStorage.getItem("accent") || "us",
+  rate: Number(localStorage.getItem("rate") || "1")
+};
+
+const $app = document.getElementById("app");
+const $footer = document.getElementById("footer");
+const $headerTitle = document.getElementById("headerTitle");
+const $headerSubtitle = document.getElementById("headerSubtitle");
+const $backToTocTop = document.getElementById("backToTocTop");
+const $audio = document.getElementById("audio");
+const $viewToggleButton = document.getElementById("viewToggleButton");
+const $rewindButton = document.getElementById("rewindButton");
+const $playButton = document.getElementById("playButton");
+const $forwardButton = document.getElementById("forwardButton");
+const $rateSelect = document.getElementById("rateSelect");
+const $accentToggleButton = document.getElementById("accentToggleButton");
+
+function pad2(n) {
+  return String(n).padStart(2, "0");
+}
+
+function audioUrl(id) {
+  if (state.mode === "phrases") {
+    return `https://juno.zkai.co.jp/contents/shoseki/lingua/lingua_passage${id}_phrase.mp3`;
+  }
+  return `https://juno.zkai.co.jp/contents/shoseki/lingua/lingua_passage${id}_eibun${state.accent === "us" ? "A" : "B"}.mp3`;
+}
+
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, ch => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  }[ch]));
+}
+
+function safeMarkup(s) {
+  return String(s ?? "")
+    .replaceAll("<red>", '<span class="red">')
+    .replaceAll("</red>", "</span>");
+}
+
+function iconBookOpen() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <path class="stroke" d="M4.5 5.5h6.2c1 0 1.8.8 1.8 1.8v11.2c0-1.1-.9-2-2-2h-6V5.5Z"/>
+    <path class="stroke" d="M19.5 5.5h-6.2c-1 0-1.8.8-1.8 1.8v11.2c0-1.1.9-2 2-2h6V5.5Z"/>
+  </svg>`;
+}
+
+function iconPhraseList() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <path class="stroke" d="M5 6h14M5 12h14M5 18h10"/>
+    <circle class="fill" cx="4.8" cy="6" r="1"/>
+    <circle class="fill" cx="4.8" cy="12" r="1"/>
+    <circle class="fill" cx="4.8" cy="18" r="1"/>
+  </svg>`;
+}
+
+function iconPlay() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <path class="fill" d="M9 6.7c0-.75.83-1.2 1.46-.79l7.55 5.04c.56.37.56 1.19 0 1.56l-7.55 5.04A.94.94 0 0 1 9 16.76V6.7Z"/>
+  </svg>`;
+}
+
+function iconPause() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <rect class="fill" x="7.6" y="6" width="3.2" height="12" rx="1"/>
+    <rect class="fill" x="13.2" y="6" width="3.2" height="12" rx="1"/>
+  </svg>`;
+}
+
+function iconBack2() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <path class="stroke" d="M9.2 7.2H5.4V3.4"/>
+    <path class="stroke" d="M6.1 7.1A7.2 7.2 0 1 1 5 12.4"/>
+    <text class="svg-text" x="10.1" y="15.4">2</text>
+  </svg>`;
+}
+
+function iconForward2() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true">
+    <path class="stroke" d="M14.8 7.2h3.8V3.4"/>
+    <path class="stroke" d="M17.9 7.1A7.2 7.2 0 1 0 19 12.4"/>
+    <text class="svg-text" x="10.1" y="15.4">2</text>
+  </svg>`;
+}
+
+function setStaticIcons() {
+  $rewindButton.innerHTML = iconBack2();
+  $forwardButton.innerHTML = iconForward2();
+}
+
+function setHeader(title, subtitle = "", showBack = false) {
+  $headerTitle.textContent = title;
+  $headerSubtitle.textContent = subtitle;
+  $headerSubtitle.classList.toggle("hidden", !subtitle);
+  $backToTocTop.classList.toggle("hidden", !showBack);
+}
+
+function showFooter(show) {
+  $footer.classList.toggle("hidden", !show);
+  $app.classList.toggle("with-footer", show);
+}
+
+function renderToc() {
+  state.view = "toc";
+  state.passageId = null;
+  setHeader(DATA.appTitle, "", false);
+  showFooter(false);
+  pauseAudio();
+
+  $app.innerHTML = `<div class="toc">${DATA.chapters.map(ch => `
+    <section class="chapter">
+      <h2 class="chapter-title">第${ch.chapter}章　${escapeHtml(ch.chapterTitle)}</h2>
+      ${ch.items.map(item => {
+        const ready = Boolean(DATA.passages[String(item.id)]);
+        return `<button class="toc-item ${ready ? "" : "not-ready"}" data-passage-id="${item.id}">
+          <span class="toc-number">${pad2(item.id)}</span>
+          <span class="toc-title">${escapeHtml(item.titleJa)}</span>
+        </button>`;
+      }).join("")}
+    </section>
+  `).join("")}</div>`;
+
+  $app.scrollTop = 0;
+  $app.querySelectorAll("[data-passage-id]").forEach(button => {
+    button.addEventListener("click", () => renderPassage(Number(button.dataset.passageId)));
+  });
+}
+
+function findMeta(id) {
+  for (const ch of DATA.chapters) {
+    const found = ch.items.find(item => item.id === id);
+    if (found) return found;
+  }
+  return null;
+}
+
+function renderPassage(id) {
+  state.view = "passage";
+  state.passageId = id;
+  const meta = findMeta(id);
+  const passage = DATA.passages[String(id)];
+
+  setHeader(passage?.titleEn || meta?.titleJa || `Passage ${id}`, passage?.titleJa || meta?.titleJa || "", true);
+  showFooter(true);
+  syncFooterControls();
+  updateAudioSource();
+
+  if (!passage) {
+    $app.innerHTML = `<section class="passage">
+      <div class="card empty-state">このPassageはまだ本文未登録です。<br>音声リンクだけ利用できます。</div>
+    </section>`;
+    $app.scrollTop = 0;
+    return;
+  }
+
+  $app.innerHTML = `<section class="passage">${state.mode === "english" ? renderEnglish(passage) : renderPhrases(passage)}</section>`;
+  $app.scrollTop = 0;
+}
+
+function renderEnglish(passage) {
+  return `<div class="card">${passage.paragraphs.map(p => `
+    <div class="paragraph">
+      <button class="para-hit" data-translation-id="${p.number}" aria-label="${p.number}段落の訳を開く">
+        <span class="para-num">${p.number}</span>
+      </button>
+      <div class="english-text">${safeMarkup(p.english)}</div>
+      <div class="translation-box hidden" id="translation-${p.number}">${safeMarkup(p.translation)}</div>
+    </div>
+  `).join("")}</div>`;
+}
+
+function renderPhrases(passage) {
+  const phrases = `<ul class="phrase-list">${passage.phrases.map(phrase => `
+    <li class="phrase-card">
+      <div class="phrase-en">${safeMarkup(phrase.english)}</div>
+      <div class="phrase-ja">${safeMarkup(phrase.japanese)}</div>
+      <div class="phrase-meta">
+        <span class="pos-badge">${escapeHtml(phrase.pos || "")}</span>
+        <span>${escapeHtml(phrase.phonetic || "")}</span>
+      </div>
+      <div class="phrase-meaning">${safeMarkup(phrase.meaning || "")}</div>
+    </li>
+  `).join("")}</ul>`;
+
+  const poly = passage.polysemy?.length ? `
+    <section class="poly-section">
+      <h2 class="poly-title">多義語</h2>
+      ${passage.polysemy.map(item => `
+        <div class="poly-card">
+          <div class="poly-head">${safeMarkup(item.headword)} <span class="pos-badge">${escapeHtml(item.pos || "")}</span></div>
+          <div class="poly-meaning">${safeMarkup(item.meaning || "")}</div>
+          <div class="poly-example">${safeMarkup(item.example || "")}</div>
+          <div class="poly-translation">${safeMarkup(item.translation || "")}</div>
+        </div>
+      `).join("")}
+    </section>` : "";
+
+  return phrases + poly;
+}
+
+function syncFooterControls() {
+  $viewToggleButton.innerHTML = state.mode === "english" ? iconPhraseList() : iconBookOpen();
+  $viewToggleButton.setAttribute("aria-label", state.mode === "english" ? "フレーズへ" : "本文へ");
+  $accentToggleButton.textContent = state.accent === "us" ? "🇺🇸" : "🇬🇧";
+  $rateSelect.value = String(state.rate);
+  setStaticIcons();
+}
+
+function updateAudioSource() {
+  if (!state.passageId) return;
+  const current = audioUrl(state.passageId);
+  if ($audio.src !== current) {
+    const wasPlaying = !$audio.paused;
+    $audio.src = current;
+    $audio.playbackRate = state.rate;
+    if (wasPlaying) $audio.play().catch(() => {});
+  }
+}
+
+function pauseAudio() {
+  $audio.pause();
+  $playButton.innerHTML = iconPlay();
+}
+
+function togglePlay() {
+  if (!$audio.src && state.passageId) updateAudioSource();
+  if ($audio.paused) {
+    $audio.playbackRate = state.rate;
+    $audio.play().then(() => {
+      $playButton.innerHTML = iconPause();
+    }).catch(() => {
+      $playButton.innerHTML = iconPlay();
+      alert("音声を再生できませんでした。通信状態かリンクを確認してください。");
+    });
+  } else {
+    pauseAudio();
+  }
+}
+
+document.addEventListener("click", e => {
+  const hit = e.target.closest(".para-hit");
+  if (hit) {
+    const box = document.getElementById(`translation-${hit.dataset.translationId}`);
+    if (box) box.classList.toggle("hidden");
+  }
+});
+
+$backToTocTop.addEventListener("click", renderToc);
+
+$viewToggleButton.addEventListener("click", () => {
+  state.mode = state.mode === "english" ? "phrases" : "english";
+  renderPassage(state.passageId);
+});
+
+$accentToggleButton.addEventListener("click", () => {
+  state.accent = state.accent === "us" ? "uk" : "us";
+  localStorage.setItem("accent", state.accent);
+  syncFooterControls();
+  updateAudioSource();
+});
+
+$rewindButton.addEventListener("click", () => {
+  if (!$audio.src && state.passageId) updateAudioSource();
+  $audio.currentTime = Math.max(0, ($audio.currentTime || 0) - 2);
+});
+
+$forwardButton.addEventListener("click", () => {
+  if (!$audio.src && state.passageId) updateAudioSource();
+  const nextTime = ($audio.currentTime || 0) + 2;
+  $audio.currentTime = Number.isFinite($audio.duration) ? Math.min($audio.duration, nextTime) : nextTime;
+});
+
+$playButton.addEventListener("click", togglePlay);
+
+$rateSelect.addEventListener("change", () => {
+  state.rate = Number($rateSelect.value);
+  localStorage.setItem("rate", String(state.rate));
+  $audio.playbackRate = state.rate;
+});
+
+$audio.addEventListener("ended", () => { $playButton.innerHTML = iconPlay(); });
+$audio.addEventListener("pause", () => { $playButton.innerHTML = iconPlay(); });
+$audio.addEventListener("play", () => { $playButton.innerHTML = iconPause(); });
+
+setStaticIcons();
+$playButton.innerHTML = iconPlay();
+renderToc();

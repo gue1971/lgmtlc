@@ -13,7 +13,7 @@ window.LINGUA_DATA = {
         {
           "id": 2,
           "titleJa": "地球における優占種は？（1）",
-          "titleEn": ""
+          "titleEn": "Dominant Species on Earth? (1)"
         },
         {
           "id": 3,
@@ -409,6 +409,90 @@ window.LINGUA_DATA = {
         {
           "english": "a different <red>perspective</red>",
           "japanese": "別の<red>観点</red>"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "chapter": 1,
+      "chapterTitle": "自然科学・人類学",
+      "titleJa": "地球における優占種は？（1）",
+      "titleEn": "Dominant Species on Earth? (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Earth is an <red>ecosystem</red> unmistakably <red>dominated</red> by plants. But how can that be? How could the stupidest and most <red>passive</red> beings on the planet have achieved this primacy? <red>Obtaining</red> greater space at the <red>expense</red> of other <red>species</red> <red>indicates</red> greater <red>adaptability</red>, that is, <red>superior</red> problem-solving ability. So why, of all living things, do animals make up only 0.3 percent, and why, of that 0.3 percent, do humans make up an even smaller percentage? Or, putting the question another way, how do we <red>reconcile</red> this fact with the completely human <red>assumption</red> that we are the dominant species, we can control the planet, and we have greater rights than other species? On planet Earth, is there really only 0.3 percent animal life <red>compared</red> to 99.7 percent plant life? Then plants are the dominant beings, while there are only <red>trifling</red> amounts of animals. There can be only one <red>explanation</red>: plants are much more advanced, adaptable, and <red>intelligent</red> beings than we’re <red>inclined</red> to think. (continued)",
+          "translation": "地球は紛れもなく植物に<red>支配されている</red><red>生態系</red>である。しかし、どうしてそうなるのだろうか。地球上で最も愚かしい、そして最も<red>受動的な</red>存在が、どうしてこのような優位性を得し得るのだろうか。他の<red>種</red>を<red>犠牲</red>にして広大な面積を<red>獲得すること</red>は、より高い<red>適応性</red>、すなわち<red>優れた</red>問題解決能力を<red>示している</red>。それではなぜ、すべての生物のうちで、動物が占めるのはわずか0.3パーセントなのだろうか、そしてなぜ、その0.3パーセントのうちで人間が占めるのはさらに小さい割合なのだろうか。あるいは、別の言い方で問いかけてみると、私たちはどのように、この事実と、自分たちが優占な種であり、自分たちがこの惑星を支配することができて、さらに自分たちには他の種よりも大きな権利があるという、完全に人間特有の<red>思い込み</red>との<red>折り合いをつける</red>のだろうか。地球上には、99.7パーセントの植物生命体と<red>比較して</red>、動物の生命体は本当にわずか0.3パーセントしか存在しないのだろうか。そうならば植物は優占な存在であるが、一方で、動物は<red>ごくわずかな</red>量しかいないことになる。あり得る<red>説明</red>はただ1つだ。すなわち、植物は私たちが<red>考えたがる</red>よりも、はるかに進歩した、順応性のある、そして<red>知的な</red>存在である、ということだ。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "disturb the <red>ecosystem</red>",
+          "japanese": "<red>生態系</red>を乱す"
+        },
+        {
+          "english": "<red>dominate</red> the market",
+          "japanese": "市場を<red>支配する</red>"
+        },
+        {
+          "english": "play a <red>passive</red> role",
+          "japanese": "<red>消極的な</red>役割を果たす"
+        },
+        {
+          "english": "<red>obtain</red> funding",
+          "japanese": "資金を<red>獲得する</red>"
+        },
+        {
+          "english": "at the <red>expense</red> of A",
+          "japanese": "Aを<red>犠牲</red>にして"
+        },
+        {
+          "english": "the same <red>species</red>",
+          "japanese": "同じ<red>種</red>（の生物）"
+        },
+        {
+          "english": "<red>indicate</red> the necessity of A",
+          "japanese": "Aの必要性を<red>示す</red>"
+        },
+        {
+          "english": "highly <red>adaptable</red> species",
+          "japanese": "高い<red>適応力</red>のある種"
+        },
+        {
+          "english": "<red>adaptability</red>",
+          "japanese": "<red>適応性</red>、順応性"
+        },
+        {
+          "english": "<red>superior</red> alternative fuels",
+          "japanese": "<red>優れた</red>代替燃料"
+        },
+        {
+          "english": "<red>reconcile</red> the ideal with reality",
+          "japanese": "理想と現実を<red>一致させる</red>"
+        },
+        {
+          "english": "the underlying <red>assumption</red>",
+          "japanese": "根拠になっている<red>仮定</red>"
+        },
+        {
+          "english": "<red>compare</red> the results",
+          "japanese": "結果を<red>比較する</red>"
+        },
+        {
+          "english": "a <red>trifling</red> sum of money",
+          "japanese": "<red>ごく少ない</red>額のお金"
+        },
+        {
+          "english": "give a detailed <red>explanation</red>",
+          "japanese": "詳細な<red>説明</red>をする"
+        },
+        {
+          "english": "<red>intelligent</red> life",
+          "japanese": "<red>知的</red>生命体"
+        },
+        {
+          "english": "be <red>inclined</red> to V",
+          "japanese": "Vしたい<red>気分</red>で；Vする<red>傾向</red>がある"
         }
       ]
     }

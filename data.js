@@ -23,12 +23,12 @@ window.LINGUA_DATA = {
         {
           "id": 4,
           "titleJa": "「生活の知恵」の科学的実証（1）",
-          "titleEn": ""
+          "titleEn": "Scientific Validation of \"Life Wisdom\" (1)"
         },
         {
           "id": 5,
           "titleJa": "「生活の知恵」の科学的実証（2）",
-          "titleEn": ""
+          "titleEn": "Scientific Validation of \"Life Wisdom\" (2)"
         }
       ]
     },
@@ -661,7 +661,7 @@ window.LINGUA_DATA = {
         {
           "number": 1,
           "english": "Why is the word intelligence so disconcerting when used to refer to the plant world? Unlike animals, plants are <red>stationary</red> beings and live anchored to the <red>soil</red> (though not all do). To be able to <red>survive</red> in this condition, they have <red>evolved</red> ways of feeding themselves, <red>reproducing</red>, and defending themselves differently from animals, and they have constructed their bodies modularly in order to cope with <red>external</red> attacks. Thanks to this <red>structure</red>, if an animal eats part of the leaves or the <red>stem</red>, it isn’t a serious problem. A plant doesn’t have individual <red>organs</red> such as a brain, a heart, lungs, and one or more stomachs because, if it did, their injury or <red>removal</red> would threaten the entire <red>organism</red>’s survival. In plants, no single part is essential; and, in fact, the structure is mostly made up of repeated <red>modules</red> that <red>interact</red> with one another and that in certain conditions can even survive <red>autonomously</red>. These structural <red>characteristics</red> make plants very different from animals and more like a colony than an individual.",
-          "translation": "知能という言葉は、植物界に言及するために使われる場合、とても違和感があるのはどうしてだろうか。動物とは異なり、植物は<red>動かない</red>存在であり、（すべてがそうではないものの）<red>土壌</red>に固定されて生きている。この条件で<red>生き残ることが</red>できるために、植物は動物とは異なる方法で、自身を養い、<red>繁殖し</red>、そして自己防衛する方法を<red>進化させ</red>、さらに<red>外部から</red>の攻撃に対処するために、モジュール的に自分たちの体を組み立ててきたのである。このような<red>構造</red>のおかげで、ある動物が葉や<red>茎</red>の一部を食べても、それは深刻な問題ではない。植物には脳や心臓、肺、そして1つもしくは複数の胃といった個別の<red>臓器</red>はないが、それは、もしあるとすれば、それらの損傷や<red>除去</red>が、その<red>生物</red>全体の生存を脅かすことになるからだ。植物には、単一で必要不可欠な部分はない。また実際に、その構造は大部分が、相互に<red>作用し</red>、またある条件の下では<red>自律的に</red>生き残ることもできる、<red>モジュール</red>の繰り返しによってできている。このような構造的<red>特徴</red>が、植物を動物とは極めて異なり、また個体というよりもむしろ群棲に近いものにしている。"
+          "translation": "知能という言葉は，植物界に言及するために使われる場合，とても違和感があるのはどうしてだろうか。動物とは異なり，植物は<red>動かない</red>存在であり，（すべてがそうではないものの）<red>土壌</red>に固定されて生きている。この条件で<red>生き残ることが</red>できるために，植物は動物とは異なる方法で，自身を養い，<red>繁殖し</red>，そして自己防衛する方法を<red>進化させ</red>，さらに<red>外部から</red>の攻撃に対処するために，モジュール的に自分たちの体を組み立ててきたのである。このような<red>構造</red>のおかげで，ある動物が葉や<red>茎</red>の一部を食べても，それは深刻な問題ではない。植物には脳や心臓，肺，そして1つもしくは複数の胃といった個別の<red>臓器</red>はないが，それは，もしあるとすれば，それらの損傷や<red>除去</red>が，その<red>生物</red>全体の生存を脅かすことになるからだ。植物には，単一で必要不可欠な部分はない。また実際に，その構造は大部分が，相互に<red>作用し</red>，またある条件の下では<red>自律的に</red>生き残ることもできる，<red>モジュール</red>の繰り返しによってできている。このような構造的<red>特徴</red>が，植物を動物とは極めて異なり，また個体というよりもむしろ群棲に近いものにしている。"
         },
         {
           "number": 2,
@@ -832,6 +832,332 @@ window.LINGUA_DATA = {
           "meaning": "地球外生命の（＋異質の；外国の）",
           "example": "Scientists have been searching for evidence of <red>alien</red> life for decades.",
           "translation": "科学者は何十年も地球外生命体の証拠を探し続けている"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "chapter": 1,
+      "chapterTitle": "自然科学・人類学",
+      "titleJa": "「生活の知恵」の科学的実証（1）",
+      "titleEn": "Scientific Validation of \"Life Wisdom\" (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Folk <red>wisdom</red> has for centuries <red>insisted</red> that it is possible to ‘catch a <red>chill</red>’. But when modern science <red>examined</red> the <red>evidence</red> for this, it seemed to be no more than a <red>superstition</red>. A number of <red>laboratory experiments</red> introduced cold viruses into people’s noses, exposing some to cold air and others not, and they repeatedly showed that the <red>temperature</red> had no effect at all. The reason for this seemed simple enough: the common cold is caused by rhinoviruses, flu by influenza viruses, pneumonia by <red>bacteria</red>. Temperature has nothing to do with it. If you get extremely cold for too long you can get hypothermia, but you can’t ‘catch a chill’.",
+          "translation": "民衆の<red>知恵</red>は，何世紀にもわたって「寒さで<red>風邪</red>を引く」ことはあり得ると<red>主張</red>してきた。ところが現代科学がこのことに対する<red>根拠</red>を<red>調べる</red>と，それはただの<red>迷信</red>にすぎないようだった。<red>実験室</red>でのいくつかの<red>実験</red>で，風邪のウイルスを人々の鼻の中に入り込ませ，一部の人は冷たい空気にさらし，他の人はさらさなかったところ，その実験が繰り返し示したのは，<red>気温</red>はまったく影響しないということだった。こうなった理由はごく簡単に思われた。すなわち，ふつうの風邪はライノウイルス，インフルエンザはインフルエンザウイルス，肺炎は<red>細菌</red>によって起こるということである。気温は風邪とは関係がないのだ。人はあまりに長い間，非常に低温の状態になると，低体温症になることがあるが，「寒さで風邪を引く」ことはあり得ないのである。"
+        },
+        {
+          "number": 2,
+          "english": "Then in January 2015, headlines like ‘Mom Was Right: You’ll Catch a Cold from Being Cold’ appeared in serious newspapers and magazines. A team at Yale University led by Ellen F. Foxman had found that ‘the <red>innate</red> immune <red>response</red> to the rhinovirus is <red>impaired</red> at the lower body temperature compared to the <red>core</red> body temperature.’ In other words, whether the cold virus is present in your nose does not depend on the temperature, but your immune response to it does, and that means you may indeed be more likely to catch a cold if you get cold: or rather, more likely to develop a cold if your nose has already caught the virus. (continued)",
+          "translation": "その後，2015年1月に，「ママは正しかった―体が冷えると風邪を引く」というような見出しが，真面目な新聞や雑誌に登場した。エレン・F・フォックスマン率いるイェール大学のチームが，「ライノウイルスに対する<red>生得的な</red>免疫<red>反応</red>は，深部体温と比べ，体温が低い状態の時に<red>弱められる</red>」ことを発見したのだ。言い換えれば，鼻の中に風邪のウイルスが存在するかどうかは温度には依存しないが，それに対する免疫反応は温度に左右される。つまり体が冷えると風邪を引く可能性が実際に高くなるかもしれない，ということになる。もっと言えば，鼻がすでにウイルスに感染していたならば，風邪を発症する可能性が高いということなのである。（続）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "the <red>wisdom</red> of humanity",
+          "phonetic": "[wízdəm]",
+          "pos": "名",
+          "japanese": "人類の<red>英知</red>",
+          "meaning": "知恵，英知"
+        },
+        {
+          "english": "<red>insist</red> that SV",
+          "phonetic": "[insíst]",
+          "pos": "他",
+          "japanese": "SVであると<red>主張</red>する",
+          "meaning": "を主張する"
+        },
+        {
+          "english": "catch a <red>chill</red>",
+          "phonetic": "[tʃíl]",
+          "pos": "名",
+          "japanese": "風邪を引く",
+          "meaning": "風邪，悪寒"
+        },
+        {
+          "english": "<red>examine</red> O closely",
+          "phonetic": "[igzǽmən, egz-]",
+          "pos": "他",
+          "japanese": "詳しくOを<red>調べる</red>",
+          "meaning": "を調査する，を検査する"
+        },
+        {
+          "english": "<red>evidence</red> of innocence",
+          "phonetic": "[évədəns]",
+          "pos": "名",
+          "japanese": "無罪の<red>証拠</red>",
+          "meaning": "証拠"
+        },
+        {
+          "english": "an ancient <red>superstition</red>",
+          "phonetic": "[sùːpərstíʃən]",
+          "pos": "名",
+          "japanese": "古代の<red>迷信</red>",
+          "meaning": "迷信"
+        },
+        {
+          "english": "<red>superstitious</red>",
+          "phonetic": "[sùːpərstíʃəs]",
+          "pos": "形",
+          "japanese": "<red>迷信</red>ぶかい",
+          "meaning": "迷信ぶかい"
+        },
+        {
+          "english": "<red>laboratory</red> tests",
+          "phonetic": "[lǽbərətɔ̀ːri, ləbɔ́rətɔ̀ri]",
+          "pos": "名",
+          "japanese": "<red>実験室</red>試験",
+          "meaning": "実験室，研究室"
+        },
+        {
+          "english": "carry out an <red>experiment</red>",
+          "phonetic": "[ikspérəmənt, eks-]",
+          "pos": "名",
+          "japanese": "<red>実験</red>を行う",
+          "meaning": "実験"
+        },
+        {
+          "english": "<red>experimental</red>",
+          "phonetic": "[ikspèrəméntl, eks-]",
+          "pos": "形",
+          "japanese": "<red>実験</red>の",
+          "meaning": "実験の"
+        },
+        {
+          "english": "at a <red>temperature</red> of 100°C",
+          "phonetic": "[témpərətʃər, -prə-, -tjʊər]",
+          "pos": "名",
+          "japanese": "摂氏100度の<red>温度</red>で",
+          "meaning": "温度，気温，体温"
+        },
+        {
+          "english": "try to culture <red>bacteria</red>",
+          "phonetic": "[bæktíəriə]",
+          "pos": "名",
+          "japanese": "<red>バクテリア</red>の培養を試みる",
+          "meaning": "細菌"
+        },
+        {
+          "english": "an <red>innate</red> sense of justice",
+          "phonetic": "[inéit]",
+          "pos": "形",
+          "japanese": "<red>生得的な</red>正義感",
+          "meaning": "生得的な；生まれながらの"
+        },
+        {
+          "english": "make no <red>response</red> to A",
+          "phonetic": "[rispάns]",
+          "pos": "名",
+          "japanese": "Aに対して<red>反応</red>しない",
+          "meaning": "反応；応答"
+        },
+        {
+          "english": "<red>impair</red> one's sight",
+          "phonetic": "[impέər]",
+          "pos": "他",
+          "japanese": "視力を<red>害する</red>",
+          "meaning": "を弱める，を損なう"
+        },
+        {
+          "english": "<red>impairment</red>",
+          "phonetic": "[impéərmənt]",
+          "pos": "名",
+          "japanese": "機能<red>障碍</red>",
+          "meaning": "機能障碍"
+        },
+        {
+          "english": "the <red>core</red> of the problem",
+          "phonetic": "[kɔ́ːr]",
+          "pos": "名",
+          "japanese": "問題の<red>核心</red>",
+          "meaning": "中心，核心"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>chill</red>",
+          "pos": "名",
+          "meaning": "恐怖感（＋風邪，悪寒）",
+          "example": "His story sent a <red>chill</red> down my spine.",
+          "translation": "彼の話を聞いて背筋が寒くなった"
+        },
+        {
+          "headword": "<red>temperature</red>",
+          "pos": "名",
+          "meaning": "体温，発熱（＋温度）",
+          "example": "My <red>temperature</red> is over 100°F.",
+          "translation": "体温が華氏100度を超えています\n※華氏100度は摂氏37.8度に相当する"
+        },
+        {
+          "headword": "<red>response</red>",
+          "pos": "名",
+          "meaning": "回答，返答（＋反応；応答）",
+          "example": "The <red>response</red> rate to the questionnaire was low.",
+          "translation": "アンケート調査の回答率は低かった"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "chapter": 1,
+      "chapterTitle": "自然科学・人類学",
+      "titleJa": "「生活の知恵」の科学的実証（2）",
+      "titleEn": "Scientific Validation of \"Life Wisdom\" (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "These examples don’t look like good evidence for the <red>reliability</red> of evidence-based truth. We are left without enough evidence to reach firm and final conclusions both on an historical question about the cause of a particular death and a scientific question about causes of deaths in general. We seek evidence but often, perhaps usually, it is <red>elusive</red>, absent, <red>ambiguous</red> and <red>inconclusive</red>. <red>Etymologically</red>, <red>empirical</red> means ‘from experience’, and experience seems to be telling us that an empirical approach leaves us with <red>uncertainty</red>, rather than knowledge.",
+          "translation": "これらの例は，根拠に基づく真実の<red>信頼性</red>に対する説得力のある根拠のようには思われない。私たちは，ある特定の1人の死亡原因に関する歴史上の疑問と，死全般の原因に関する科学的疑問の両方について，確固たる最終結論に達するのに十分な根拠がないままである。私たちは根拠を探し求めるが，多くの場合，おそらくたいていの場合，それは<red>捉えどころがなく</red>，姿は見えず，<red>曖昧で</red>，<red>決定的ではない</red>。<red>語源的に</red>は，<red>実証的</red>とは「経験に基づいた」を意味するが，経験は，実証的な手法が知識というよりむしろ<red>不確実性</red>を私たちにもたらす，と教えているようだ。"
+        },
+        {
+          "number": 2,
+          "english": "Far from being a weakness, however, the open-endedness of empirical <red>inquiry</red> is actually its strength. David Hume made this point wonderfully when he observed that ‘all the objects of human reason or inquiry may naturally be divided into two kinds, namely, <red>Relations</red> of Ideas, and Matters of Fact.’ Relations of ideas concern truths of mathematics, <red>geometry</red>, and pure logic. Such truths are, in effect, true by <red>definition</red>, but they tell us nothing about the real world. Matters of fact, in contrast, cannot be established by pure logic. That also means they cannot be established with 100 percent certainty. ‘The contrary of every matter of fact is still possible,’ warned Hume. ‘That the sun will not rise tomorrow is no less <red>intelligible</red> a <red>proposition</red>, and <red>implies</red> no more <red>contradiction</red> than the <red>affirmation</red>, that it will rise.’ (The end)",
+          "translation": "しかし，弱点であるどころか，実証的<red>探究</red>に際限がないことは，実はその長所なのだ。デイヴィッド・ヒュームはこの点を見事に指摘し，「人間の理性あるいは探求のあらゆる対象は，必然的に2種類，つまり観念の<red>関係</red>と事実の問題とに分けられ得る」と述べた。観念の関係は数学，<red>幾何学</red>，そして純粋論理学の真理にかかわっている。実質的には，そのような真理は，<red>定義</red>上は真であるが，現実世界については私たちに何も教えてくれない。事実の問題は，対照的に，純粋論理学では立証できない。それはまた，事実の問題が100パーセントの確実性で立証できるものではないということでもある。「いかなる事実の問題にも，それと正反対のものが，依然として存在し得る」とヒュームは警告した。「明日太陽が昇らないということは，明日太陽が昇るという<red>肯定命題</red>と同じくらい<red>理解可能な命題</red>であり，（明日太陽が昇るという肯定命題と）同じくらい<red>矛盾を含意しない</red>。」（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "increase the <red>reliability</red>",
+          "phonetic": "[rilàiəbíləti]",
+          "pos": "名",
+          "japanese": "<red>信頼性</red>を高める",
+          "meaning": "信頼性"
+        },
+        {
+          "english": "an <red>elusive</red> concept",
+          "phonetic": "[ilúːsiv]",
+          "pos": "形",
+          "japanese": "<red>捉えにくい</red>概念",
+          "meaning": "捉えにくい，理解しにくい"
+        },
+        {
+          "english": "an <red>ambiguous</red> reply",
+          "phonetic": "[æmbígjʊəs]",
+          "pos": "形",
+          "japanese": "<red>曖昧</red>な返答",
+          "meaning": "曖昧な；不明瞭な"
+        },
+        {
+          "english": "an <red>inconclusive</red> debate",
+          "phonetic": "[ìnkənklúːsiv]",
+          "pos": "形",
+          "japanese": "結論の出ない討論",
+          "meaning": "決定的でない，結論の出ない"
+        },
+        {
+          "english": "trace the <red>etymology</red> of A",
+          "phonetic": "[ètəmάlədʒi]",
+          "pos": "名",
+          "japanese": "Aの<red>語源</red>をたどる",
+          "meaning": "語源（学）"
+        },
+        {
+          "english": "<red>etymologically</red>",
+          "phonetic": "[ètəməlάdʒikli]",
+          "pos": "副",
+          "japanese": "<red>語源（学）</red>的に",
+          "meaning": "語源（学）的に"
+        },
+        {
+          "english": "<red>empirical</red> research",
+          "phonetic": "[empírikl]",
+          "pos": "形",
+          "japanese": "<red>実証的</red>な研究",
+          "meaning": "経験に基づいた"
+        },
+        {
+          "english": "add to the <red>uncertainty</red>",
+          "phonetic": "[ʌnsə́ːrtnti]",
+          "pos": "名",
+          "japanese": "<red>不確実性</red>を増す",
+          "meaning": "不確実性"
+        },
+        {
+          "english": "launch an <red>inquiry</red>",
+          "phonetic": "[inkwάiəri, ínkwəri]",
+          "pos": "名",
+          "japanese": "<red>調査</red>を開始する",
+          "meaning": "質問；調査，探究"
+        },
+        {
+          "english": "bear no <red>relation</red> to A",
+          "phonetic": "[riléiʃən, rə-]",
+          "pos": "名",
+          "japanese": "Aとはまったく<red>関係</red>がない",
+          "meaning": "関係"
+        },
+        {
+          "english": "Euclidean <red>geometry</red>",
+          "phonetic": "[dʒiάmitri]",
+          "pos": "名",
+          "japanese": "ユークリッド<red>幾何学</red>",
+          "meaning": "幾何学"
+        },
+        {
+          "english": "fit the <red>definition</red> of A",
+          "phonetic": "[dèfəníʃən]",
+          "pos": "名",
+          "japanese": "Aの<red>定義</red>に合致する",
+          "meaning": "定義"
+        },
+        {
+          "english": "be barely <red>intelligible</red>",
+          "phonetic": "[intélədʒəbl]",
+          "pos": "形",
+          "japanese": "かろうじて<red>理解可能</red>である",
+          "meaning": "理解可能な"
+        },
+        {
+          "english": "a refutable <red>proposition</red>",
+          "phonetic": "[prὰpəzíʃən]",
+          "pos": "名",
+          "japanese": "反証可能な<red>命題</red>",
+          "meaning": "命題，陳述"
+        },
+        {
+          "english": "<red>imply</red> agreement",
+          "phonetic": "[implái]",
+          "pos": "他",
+          "japanese": "同意を暗に<red>示す</red>",
+          "meaning": "を暗示する；を暗に意味する"
+        },
+        {
+          "english": "<red>implication</red>",
+          "phonetic": "[ìmplikéiʃən]",
+          "pos": "名",
+          "japanese": "<red>含意</red>，影響",
+          "meaning": "含意，影響"
+        },
+        {
+          "english": "an obvious <red>contradiction</red>",
+          "phonetic": "[kὰntrədíkʃən]",
+          "pos": "名",
+          "japanese": "明らかな<red>矛盾</red>",
+          "meaning": "矛盾"
+        },
+        {
+          "english": "<red>affirmation</red> of diversity",
+          "phonetic": "[ӕ̀fərméiʃən]",
+          "pos": "名",
+          "japanese": "多様性の<red>肯定</red>",
+          "meaning": "肯定；断言"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>relation</red>",
+          "pos": "名",
+          "meaning": "親戚（＋関係）",
+          "example": "What <red>relation</red> are they to you?",
+          "translation": "彼らとはどういう親戚関係ですか"
+        },
+        {
+          "headword": "<red>proposition</red>",
+          "pos": "名",
+          "meaning": "提案，主張（＋命題，陳述）",
+          "example": "What you’re saying doesn’t sound like a viable <red>proposition</red>.",
+          "translation": "あなたの言っていることは実行可能な提案とは思えない"
         }
       ]
     }

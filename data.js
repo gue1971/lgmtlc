@@ -18,7 +18,7 @@ window.LINGUA_DATA = {
         {
           "id": 3,
           "titleJa": "地球における優占種は？（2）",
-          "titleEn": ""
+          "titleEn": "Dominant Species on Earth? (2)"
         },
         {
           "id": 4,
@@ -648,6 +648,190 @@ window.LINGUA_DATA = {
           "meaning": "をたとえる（＋を比較する）",
           "example": "Many people <red>compare</red> life to a marathon.",
           "translation": "人生をマラソンにたとえる人は多い"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "chapter": 1,
+      "chapterTitle": "自然科学・人類学",
+      "titleJa": "地球における優占種は？（2）",
+      "titleEn": "Dominant Species on Earth? (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Why is the word intelligence so disconcerting when used to refer to the plant world? Unlike animals, plants are <red>stationary</red> beings and live anchored to the <red>soil</red> (though not all do). To be able to <red>survive</red> in this condition, they have <red>evolved</red> ways of feeding themselves, <red>reproducing</red>, and defending themselves differently from animals, and they have constructed their bodies modularly in order to cope with <red>external</red> attacks. Thanks to this <red>structure</red>, if an animal eats part of the leaves or the <red>stem</red>, it isn’t a serious problem. A plant doesn’t have individual <red>organs</red> such as a brain, a heart, lungs, and one or more stomachs because, if it did, their injury or <red>removal</red> would threaten the entire <red>organism</red>’s survival. In plants, no single part is essential; and, in fact, the structure is mostly made up of repeated <red>modules</red> that <red>interact</red> with one another and that in certain conditions can even survive <red>autonomously</red>. These structural <red>characteristics</red> make plants very different from animals and more like a colony than an individual.",
+          "translation": "知能という言葉は、植物界に言及するために使われる場合、とても違和感があるのはどうしてだろうか。動物とは異なり、植物は<red>動かない</red>存在であり、（すべてがそうではないものの）<red>土壌</red>に固定されて生きている。この条件で<red>生き残ることが</red>できるために、植物は動物とは異なる方法で、自身を養い、<red>繁殖し</red>、そして自己防衛する方法を<red>進化させ</red>、さらに<red>外部から</red>の攻撃に対処するために、モジュール的に自分たちの体を組み立ててきたのである。このような<red>構造</red>のおかげで、ある動物が葉や<red>茎</red>の一部を食べても、それは深刻な問題ではない。植物には脳や心臓、肺、そして1つもしくは複数の胃といった個別の<red>臓器</red>はないが、それは、もしあるとすれば、それらの損傷や<red>除去</red>が、その<red>生物</red>全体の生存を脅かすことになるからだ。植物には、単一で必要不可欠な部分はない。また実際に、その構造は大部分が、相互に<red>作用し</red>、またある条件の下では<red>自律的に</red>生き残ることもできる、<red>モジュール</red>の繰り返しによってできている。このような構造的<red>特徴</red>が、植物を動物とは極めて異なり、また個体というよりもむしろ群棲に近いものにしている。"
+        },
+        {
+          "number": 2,
+          "english": "One <red>consequence</red> of their having a structure so different from ours is that plants seem very distant from us, <red>alien</red>, to the point that sometimes it’s even hard for us to remember they’re alive. The fact that we share with most animals a brain, a heart, one or more mouths, lungs, and stomachs makes them seem close and comprehensible. But with plants, it’s completely different. (The end)",
+          "translation": "植物が私たちとは大変異なる構造を持つことによって生じる1つの<red>結果</red>は、植物が生きている、と私たちが思い出すことが時として難しくさえなるほど、植物が私たちとは極めて遠くかけ離れている、つまり<red>異質</red>であると思えるということだ。私たちが脳、心臓、1つもしくは複数の口、肺、そして胃を持つという点で大部分の動物たちと共通するという事実は、彼らを身近でわかりやすいものに感じさせてくれる。しかし植物とでは、まるっきり違うものなのである。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "remain <red>stationary</red>",
+          "phonetic": "[stéiʃənèri]",
+          "pos": "形",
+          "japanese": "静止した状態を保つ",
+          "meaning": "静止した，動かない"
+        },
+        {
+          "english": "fertile <red>soil</red>",
+          "phonetic": "[sɔ́il]",
+          "pos": "名",
+          "japanese": "肥沃な<red>土壌</red>",
+          "meaning": "土；風土"
+        },
+        {
+          "english": "<red>survive</red> in the wild",
+          "phonetic": "[sərváiv]",
+          "pos": "自",
+          "japanese": "荒野で<red>生き残る</red>",
+          "meaning": "生存する"
+        },
+        {
+          "english": "<red>survival</red>",
+          "phonetic": "[sərváivəl]",
+          "pos": "名",
+          "japanese": "<red>生存</red>，存続",
+          "meaning": "生存，存続"
+        },
+        {
+          "english": "<red>evolve</red> new ways of A",
+          "phonetic": "[ivάlv]",
+          "pos": "他",
+          "japanese": "Aの新しい方法を<red>進化させる</red>",
+          "meaning": "を進化させる，を発達させる"
+        },
+        {
+          "english": "<red>reproduce</red> rapidly",
+          "phonetic": "[rìːprəd(j)úːs]",
+          "pos": "自",
+          "japanese": "すばやく<red>繁殖する</red>",
+          "meaning": "繁殖する"
+        },
+        {
+          "english": "the <red>external</red> environment",
+          "phonetic": "[ikstə́ːrnl]",
+          "pos": "形",
+          "japanese": "<red>外部</red>の環境",
+          "meaning": "外部（から）の"
+        },
+        {
+          "english": "a complex <red>structure</red>",
+          "phonetic": "[strʌ́ktʃər]",
+          "pos": "名",
+          "japanese": "複雑な<red>構造</red>",
+          "meaning": "構造（物）"
+        },
+        {
+          "english": "the base of the <red>stem</red>",
+          "phonetic": "[stém]",
+          "pos": "名",
+          "japanese": "幹の根元",
+          "meaning": "幹，茎"
+        },
+        {
+          "english": "<red>organ</red> failure",
+          "phonetic": "[ɔ́ːrgən]",
+          "pos": "名",
+          "japanese": "<red>臓器</red>不全",
+          "meaning": "器官，臓器"
+        },
+        {
+          "english": "<red>removal</red> of the tumor",
+          "phonetic": "[rɪmúːvəl]",
+          "pos": "名",
+          "japanese": "腫瘍の<red>摘出</red>",
+          "meaning": "除去"
+        },
+        {
+          "english": "a microscopic <red>organism</red>",
+          "phonetic": "[ɔ́ːrgənìzəm]",
+          "pos": "名",
+          "japanese": "微生物",
+          "meaning": "生物，有機体"
+        },
+        {
+          "english": "software <red>modules</red>",
+          "phonetic": "[mɑ́dʒuːlz]",
+          "pos": "名",
+          "japanese": "ソフトウェア・<red>モジュール</red>",
+          "meaning": "モジュール，（組み換え可能な）単位"
+        },
+        {
+          "english": "<red>interact</red> with each other",
+          "phonetic": "[ìnərǽkt]",
+          "pos": "自",
+          "japanese": "相互に<red>影響する</red>",
+          "meaning": "相互作用する；交流する"
+        },
+        {
+          "english": "an <red>autonomous</red> vehicle",
+          "phonetic": "[ɔːtάnəməs, ə-]",
+          "pos": "形",
+          "japanese": "<red>自律走行〔自動運転〕</red>車",
+          "meaning": "自律的な；自治権のある"
+        },
+        {
+          "english": "<red>autonomously</red>",
+          "phonetic": "[ɔːtάnəməsli, ə-]",
+          "pos": "副",
+          "japanese": "<red>自発的に</red>，独立して",
+          "meaning": "自発的に，独立して"
+        },
+        {
+          "english": "distinctive <red>characteristics</red>",
+          "phonetic": "[kèrəktərístiks, kӕ̀rik-]",
+          "pos": "名",
+          "japanese": "際立った<red>特徴</red>",
+          "meaning": "特徴"
+        },
+        {
+          "english": "have <red>consequences</red>",
+          "phonetic": "[kάnsəkwènsiz]",
+          "pos": "名",
+          "japanese": "（主に悪い）<red>結果</red>をもたらす",
+          "meaning": "結果；影響"
+        },
+        {
+          "english": "an <red>alien</red> culture",
+          "phonetic": "[éiliən, -ljən]",
+          "pos": "形",
+          "japanese": "<red>異質</red>の文化",
+          "meaning": "異質の；外国の"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>reproduce</red>",
+          "pos": "他",
+          "meaning": "を複製する；を再現する（＋繁殖する）",
+          "example": "To <red>reproduce</red> the photo, we must ask for permission.",
+          "translation": "その写真を複製するには許諾を得る必要がある"
+        },
+        {
+          "headword": "<red>reproduce</red>",
+          "pos": "他",
+          "meaning": "を複製する；を再現する（＋繁殖する）",
+          "example": "Is it possible to <red>reproduce</red> the phenomenon?",
+          "translation": "その現象を再現することは可能ですか"
+        },
+        {
+          "headword": "<red>consequence</red>",
+          "pos": "名",
+          "meaning": "重大さ（＋結果；影響）",
+          "example": "His opinion was of little <red>consequence</red> to her.",
+          "translation": "彼の意見は彼女にとってほとんど重要性を持たなかった"
+        },
+        {
+          "headword": "<red>alien</red>",
+          "pos": "形",
+          "meaning": "地球外生命の（＋異質の；外国の）",
+          "example": "Scientists have been searching for evidence of <red>alien</red> life for decades.",
+          "translation": "科学者は何十年も地球外生命体の証拠を探し続けている"
         }
       ]
     }

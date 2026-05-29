@@ -1,4 +1,5 @@
-Lingua MVP v10
+Lingua MVP v11
 
-- ヘッダ最上段に Passage 番号を表示
-- ヘッダは Passage番号 / 英語タイトル / 日本語タイトル の3段構成
+- Passage 3 を追加
+- Passage 3 の本文・和訳・フレーズ・多義語を追加
+- 目次の Passage 3 タイトル英語も追加

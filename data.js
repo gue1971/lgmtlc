@@ -59,7 +59,7 @@ window.LINGUA_DATA = {
         {
           "id": 10,
           "titleJa": "ウェブ上の著作物の保存（2）",
-          "titleEn": ""
+          "titleEn": "Preservation of Copyrighted Works on the Web (2)"
         }
       ]
     },
@@ -1903,6 +1903,162 @@ window.LINGUA_DATA = {
           "meaning": "《演説・講義など》を行う；を出産する（＋を配達する；を与える）",
           "example": "She had her first baby <red>delivered</red> by C-section.",
           "translation": "彼女は第一子を帝王切開で出産した"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "chapter": 2,
+      "chapterTitle": "テクノロジー",
+      "titleJa": "ウェブ上の著作物の保存（2）",
+      "titleEn": "Preservation of Copyrighted Works on the Web (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The <red>layout</red> of buildings, to <red>cite</red> another example, can tell us if the society was ruled by a king or queen or if it was more <red>communal</red>. Studying <red>humanity</red>’s past helps us <red>navigate</red> today and seek for the future. Through archeology and anthropology, we’ve been able to understand different political systems and methods of <red>governance</red> in the past which have <red>informed</red> how we <red>govern</red> our societies today.",
+          "translation": "別の例を<red>挙げる</red>と，建物の<red>配置</red>はその社会が王または女王によって治められていたかどうか，あるいはそれはもっと<red>共同的</red>であったのかどうかを私たちに教えてくれる。<red>人類</red>の過去を研究することは，私たちが現在を<red>うまく切り抜け</red>，また将来を探求するのに役立つのである。考古学や人類学を通じて，私たちは過去のさまざまな政治制度や<red>統治</red>方法を理解できるのであり，これらの制度や方法が，今日私たちがどのように自らの社会を<red>統治する</red>かに<red>影響を与えて</red>きたのだ。"
+        },
+        {
+          "number": 2,
+          "english": "It is therefore a matter of survival that we work to save the artifacts of our digital culture. We may in the <red>distant</red> future seek to understand at what point and how artificial intelligence came to dominate in our societies and how it <red>affected</red> our cultures. We may want to know how we let social media <red>run amok</red> and what impacts, good and bad, it had on cultures around the world. Culture is the knowledge we use to navigate our life and world. So the question then becomes, how do we ensure that our digital lives and desiderata are <red>preserved</red> as much as possible? How do they get copied into new storage <red>formats</red>? Preserving our present for the future is critical for cultural understanding and navigating our world in the future. (The end)",
+          "translation": "したがって，私たちが自らのデジタル文化の産物を保存するために努力することは死活問題なのだ。<red>遠い</red>将来，私たちは人工知能が，どの時点でどのように私たちの社会で優位を占めるようになったのか，そしてどのようにそれが私たちの文化に<red>影響を与えた</red>のかを理解しようとするかもしれない。自分たちはどのようにソーシャルメディアを<red>暴走させ</red>，さらにそれがどのような影響を，良いものであれ悪いものであれ，世界中の文化に与えたのかを知りたいと思うかもしれない。文化とは，私たちが人生や世界をうまく切り抜けるために使う知識なのである。そこで次の質問は，自分たちのデジタル生活や必要なものが最大限に<red>保存される</red>ことを確実にするには，私たちはどのようにすればいいのだろうか，というものになる。それらはどのように新しい保存<red>形式</red>に複製されるのだろうか。未来のために私たちの現在を保存することは，将来，文化的な理解のために，そして自分たちの世界を切り抜けていくために，極めて重要なのである。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "the <red>layout</red> of the site",
+          "phonetic": "[léiàut]",
+          "pos": "名",
+          "japanese": "会場の<red>レイアウト</red>",
+          "meaning": "配置，設計，レイアウト"
+        },
+        {
+          "english": "commonly <red>cited</red> reasons",
+          "phonetic": "[sáitid]",
+          "pos": "他",
+          "japanese": "よく<red>挙げられる</red>理由",
+          "meaning": "を引用する，を挙げる"
+        },
+        {
+          "english": "<red>communal</red> property",
+          "phonetic": "[kəmjúːnl, kάmjuː-]",
+          "pos": "形",
+          "japanese": "<red>共有</red>の財産",
+          "meaning": "自治体の，共有の"
+        },
+        {
+          "english": "to all <red>humanity</red>",
+          "phonetic": "[hjuːmǽnəti]",
+          "pos": "名",
+          "japanese": "全<red>人類</red>にとって",
+          "meaning": "人類，人間"
+        },
+        {
+          "english": "<red>navigate</red> an unfamiliar place",
+          "phonetic": "[nǽvəgèit]",
+          "pos": "他",
+          "japanese": "不慣れな場所を<red>航行する</red>",
+          "meaning": "を航行する；をうまく切り抜ける"
+        },
+        {
+          "english": "corporate <red>governance</red>",
+          "phonetic": "[gʌ́vərnəns]",
+          "pos": "名",
+          "japanese": "企業<red>統治</red>",
+          "meaning": "統治，運営管理"
+        },
+        {
+          "english": "<red>inform</red> every aspect of A",
+          "phonetic": "[infɔ́ːrm]",
+          "pos": "他",
+          "japanese": "Aのあらゆる面に<red>影響を与える</red>",
+          "meaning": "に影響を与える"
+        },
+        {
+          "english": "<red>informative</red>",
+          "phonetic": "[infɔ́ːrmətiv]",
+          "pos": "形",
+          "japanese": "<red>情報量の多い</red>，有益な",
+          "meaning": "情報量の多い，有益な"
+        },
+        {
+          "english": "<red>govern</red> the country",
+          "phonetic": "[gʌ́vərn]",
+          "pos": "他",
+          "japanese": "国を<red>統治する</red>",
+          "meaning": "を統治する，を治める"
+        },
+        {
+          "english": "in the <red>distant</red> past",
+          "phonetic": "[dístənt]",
+          "pos": "形",
+          "japanese": "<red>遠い</red>昔に",
+          "meaning": "遠い，遠く離れた"
+        },
+        {
+          "english": "be adversely <red>affected</red>",
+          "phonetic": "[əféktid]",
+          "pos": "他",
+          "japanese": "悪影響を<red>受ける</red>",
+          "meaning": "に影響する，に変化をもたらす"
+        },
+        {
+          "english": "allow O to <red>run amok</red>",
+          "phonetic": "[rʌ́n əmʌ́k]",
+          "pos": "動句",
+          "japanese": "Oが<red>暴走する</red>のを許す",
+          "meaning": "暴れ回る，手に負えなくなる"
+        },
+        {
+          "english": "<red>preserve</red> the tradition",
+          "phonetic": "[prizə́ːrv, pre-]",
+          "pos": "他",
+          "japanese": "伝統を<red>守る</red>",
+          "meaning": "を保存する，を守る"
+        },
+        {
+          "english": "<red>preservation</red>",
+          "phonetic": "[prèzərvéiʃən]",
+          "pos": "名",
+          "japanese": "<red>保存</red>，維持",
+          "meaning": "保存，維持"
+        },
+        {
+          "english": "different file <red>formats</red>",
+          "phonetic": "[fɔ́ːrmæts]",
+          "pos": "名",
+          "japanese": "異なるファイルの<red>形式</red>",
+          "meaning": "（記録）形式，フォーマット；様式"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>inform</red>",
+          "pos": "他",
+          "meaning": "に知らせる，に通知する（＋に影響を与える）",
+          "example": "He didn’t <red>inform</red> his parents of his new address.",
+          "translation": "彼は両親に新住所を知らせなかった"
+        },
+        {
+          "headword": "<red>govern</red>",
+          "pos": "他",
+          "meaning": "を決定する，を支配する（＋を統治する，を治める）",
+          "example": "It is the laws of physics that <red>govern</red> the universe.",
+          "translation": "宇宙を支配しているのは物理法則である"
+        },
+        {
+          "headword": "<red>affect</red>",
+          "pos": "他",
+          "meaning": "を装う，の振りをする（＋に影響する，に変化をもたらす）",
+          "example": "He <red>affected</red> ignorance of it.",
+          "translation": "彼はそのことを知らない振りをした"
+        },
+        {
+          "headword": "<red>preserve</red>",
+          "pos": "他",
+          "meaning": "を保護する（＋を保存する，を守る）",
+          "example": "One way to <red>preserve</red> wood is to put varnish on it.",
+          "translation": "木材を保護する方法の一つはニスを塗ることだ"
         }
       ]
     }

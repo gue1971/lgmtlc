@@ -49,12 +49,12 @@ window.LINGUA_DATA = {
         {
           "id": 8,
           "titleJa": "小さな技術、大きな影響",
-          "titleEn": ""
+          "titleEn": "Tiny Tech, Huge Impact"
         },
         {
           "id": 9,
           "titleJa": "ウェブ上の著作物の保存（1）",
-          "titleEn": ""
+          "titleEn": "Preservation of Copyrighted Works on the Web (1)"
         },
         {
           "id": 10,
@@ -1532,6 +1532,377 @@ window.LINGUA_DATA = {
           "meaning": "《集会・行進などで》デモをする（＋を証明する，を明らかに示す）",
           "example": "People <red>demonstrated</red> against the new law.",
           "translation": "人々は新法に対してデモを行った"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "chapter": 2,
+      "chapterTitle": "テクノロジー",
+      "titleJa": "小さな技術，大きな影響",
+      "titleEn": "Tiny Tech, Huge Impact",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Nanotechnology is a field of science and engineering that deals with the <red>manipulation</red> of matter at the nanoscale, or one-billionth of a meter. It <red>involves</red> the design, creation, and control of <red>materials</red> and devices at the atomic and <red>molecular</red> levels.",
+          "translation": "ナノテクノロジーとは，ナノスケール，すなわち1メートルの10億分の1で物質の<red>操作</red>を取り扱う，科学・工学の一分野である。これには原子や<red>分子</red>レベルでの<red>素材</red>や機器の設計，開発，そして制御が<red>含まれる</red>。"
+        },
+        {
+          "number": 2,
+          "english": "This <red>tiny</red> scale allows the formation of materials with unique properties that are not possible at larger sizes. For example, nanomaterials can be stronger, lighter, more conductive, or have different <red>optical</red> properties than their <red>bulkier</red> <red>counterparts</red>.",
+          "translation": "この<red>とても小さな</red>スケールのおかげで，大きなサイズでは不可能な，特有の性質をもつ素材の形成が可能となる。例えば，ナノ素材は，もっと<red>かさばる同類の物</red>よりも，強く，軽く，伝導性がある，あるいは異なる<red>光学的</red>性質をもつ可能性がある。"
+        },
+        {
+          "number": 3,
+          "english": "Nanotechnology has the <red>potential</red> to revolutionize a wide range of industries, including life sciences, electronics, and environmental sciences. For example, in environmental science, nanotechnology is being used to develop water purification systems. These systems use nanoparticles to remove <red>contaminants</red> from water, offering more efficient ways to reuse water. Additionally, in areas like <red>diagnostics</red> and tissue engineering, nanoparticles contribute to <red>progress</red> in medical treatments that can treat and prevent serious illnesses.",
+          "translation": "ナノテクノロジーには，生命科学，電子工学，そして環境科学を含む幅広い産業に大改革をもたらす<red>可能性</red>があるのだ。例えば，環境科学では，ナノテクノロジーが浄水装置の開発に利用されている。これらの装置は水から<red>汚染物質</red>を取り除くためにナノ粒子を用い，水を再利用するのにより効率の良い方法を提供している。さらに，<red>診断法</red>や組織工学のような分野では，ナノ粒子が，重篤な病気を治療したり予防したりできる医療の<red>進展</red>に貢献している。"
+        },
+        {
+          "number": 4,
+          "english": "While nanotechnology holds great promise, it also raises important questions about safety, ethics, and environmental impact. As research and development in nanotechnology continues, it is <red>critical</red> to address these concerns and <red>ensure</red> that the technology is used responsibly and for the benefit of society.",
+          "translation": "ナノテクノロジーは大変有望ではあるものの，安全，倫理，そして環境への影響に関して，重大な問題を提起してもいる。ナノテクノロジーの研究と開発が続いていくと共に，これらの懸念に取り組み，またこの技術が責任をもって，社会の利益のために利用されることを<red>確実にする</red>ことが<red>極めて重要</red>である。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "price <red>manipulation</red>",
+          "phonetic": "[mənìpjəléiʃən]",
+          "pos": "名",
+          "japanese": "物価の<red>操作</red>",
+          "meaning": "操作"
+        },
+        {
+          "english": "<red>involve</red> a lot of effort",
+          "phonetic": "[invάlv, -vɔ́lv]",
+          "pos": "他",
+          "japanese": "多大な努力を<red>必要とする</red>",
+          "meaning": "を必要とする，を伴う"
+        },
+        {
+          "english": "raw <red>material</red>",
+          "phonetic": "[mətíəriəl]",
+          "pos": "名",
+          "japanese": "原<red>材料</red>",
+          "meaning": "物質，材料"
+        },
+        {
+          "english": "stable <red>molecules</red>",
+          "phonetic": "[mάləkjùːlz]",
+          "pos": "名",
+          "japanese": "安定<red>分子</red>",
+          "meaning": "分子"
+        },
+        {
+          "english": "<red>molecular</red>",
+          "phonetic": "[məlékjələr]",
+          "pos": "形",
+          "japanese": "<red>分子</red>の",
+          "meaning": "分子の"
+        },
+        {
+          "english": "a <red>tiny</red> clue",
+          "phonetic": "[táini]",
+          "pos": "形",
+          "japanese": "<red>わずかな</red>手がかり",
+          "meaning": "とても小さい，ごくわずかな"
+        },
+        {
+          "english": "an <red>optical</red> instrument",
+          "phonetic": "[άptikl]",
+          "pos": "形",
+          "japanese": "<red>光学</red>機器",
+          "meaning": "光の，光学的な"
+        },
+        {
+          "english": "a <red>bulky</red> package",
+          "phonetic": "[bʌ́lki]",
+          "pos": "形",
+          "japanese": "<red>かさばる</red>小包",
+          "meaning": "大きい，かさばる"
+        },
+        {
+          "english": "have no <red>counterpart</red>",
+          "phonetic": "[káuntərpὰːrt]",
+          "pos": "名",
+          "japanese": "<red>対応するもの</red>がない",
+          "meaning": "対応物，相当する物（人）"
+        },
+        {
+          "english": "have enormous <red>potential</red>",
+          "phonetic": "[pəténʃəl, pou-]",
+          "pos": "名",
+          "japanese": "巨大な<red>可能性</red>を秘める",
+          "meaning": "（潜在）能力，可能性"
+        },
+        {
+          "english": "<red>contaminate</red> water",
+          "phonetic": "[kəntǽmənèit]",
+          "pos": "他",
+          "japanese": "水を<red>汚染する</red>",
+          "meaning": "を汚染する"
+        },
+        {
+          "english": "<red>contaminant</red>",
+          "phonetic": "[kəntǽmənənt]",
+          "pos": "名",
+          "japanese": "<red>汚染物質</red>，不純物",
+          "meaning": "汚染物質，不純物"
+        },
+        {
+          "english": "be <red>diagnosed</red> as A",
+          "phonetic": "[dàiəgnóuzd]",
+          "pos": "他",
+          "japanese": "（病気が）Aであると<red>診断される</red>",
+          "meaning": "を診断する；の原因を突き止める"
+        },
+        {
+          "english": "<red>diagnostic</red>",
+          "phonetic": "[dàiəgnάstik]",
+          "pos": "形",
+          "japanese": "<red>診断</red>の",
+          "meaning": "診断の"
+        },
+        {
+          "english": "<red>diagnostics</red>",
+          "phonetic": "[dàiəgnάstiks]",
+          "pos": "名",
+          "japanese": "<red>診断法</red>，診断結果",
+          "meaning": "診断法，診断結果"
+        },
+        {
+          "english": "steady <red>progress</red>",
+          "phonetic": "[prάgres, -rəs]",
+          "pos": "名",
+          "japanese": "着実な<red>進歩</red>",
+          "meaning": "進歩，発展"
+        },
+        {
+          "english": "be of <red>critical</red> importance",
+          "phonetic": "[krítikl]",
+          "pos": "形",
+          "japanese": "<red>決定的な</red>重要性を持つ",
+          "meaning": "（極めて）重要な，決定的な"
+        },
+        {
+          "english": "<red>ensure</red> the safety of A",
+          "phonetic": "[inʃúər, en-]",
+          "pos": "他",
+          "japanese": "Aの安全を<red>確保する</red>",
+          "meaning": "を確実にする，を確保する"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>involve</red>",
+          "pos": "他",
+          "meaning": "を巻き込む；を参加させる（＋を必要とする，を伴う）",
+          "example": "I don’t want to <red>involve</red> you in this trouble.",
+          "translation": "このトラブルにあなたを巻き込みたくない"
+        },
+        {
+          "headword": "<red>involve</red>",
+          "pos": "他",
+          "meaning": "を巻き込む；を参加させる（＋を必要とする，を伴う）",
+          "example": "Our goal is to <red>involve</red> a large number of students in volunteer work.",
+          "translation": "大勢の生徒をボランティア活動に参加させることが目標である"
+        },
+        {
+          "headword": "<red>material</red>",
+          "pos": "名",
+          "meaning": "生地（＋物質，材料）",
+          "example": "How much <red>material</red> will you need to make this shirt?",
+          "translation": "このシャツを作るのにはどのくらいの生地が必要ですか"
+        },
+        {
+          "headword": "<red>critical</red>",
+          "pos": "形",
+          "meaning": "批判的な（＋極めて重要な，決定的な）",
+          "example": "The professor is <red>critical</red> of the administration’s policies.",
+          "translation": "その教授は政権の政策に批判的だ"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "chapter": 2,
+      "chapterTitle": "テクノロジー",
+      "titleJa": "ウェブ上の著作物の保存（1）",
+      "titleEn": "Preservation of Copyrighted Works on the Web (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "As we put ever more of our lives into the Cloud and on <red>storage</red> <red>devices</red> like external drives, <red>tablets</red>, and smartphones, we place bits and pieces of our culture there as well: music, art, <red>literature</red>, maps, videos, and photos. These are all <red>artifacts</red> of our culture. The problem with this data storage is that it is changing all the time and with every significant change there is always the possibility of losing data. And if you think that keeping it all in the Cloud is the answer, it isn’t. Take a <red>solar</red> <red>flare</red> as an example. If a major solar flare wipes out Amazon, Apple, Facebook, and other data centers, all will be lost. Or if one of these companies goes <red>bankrupt</red>, it is possible that the data it hosts will be lost. The point is that there are many ways that we could lose our <red>digital</red> culture.",
+          "translation": "私たちが自分たちの生活のますます多くをクラウドや，外付けのドライブ，<red>タブレット</red>，スマートフォンのような<red>記憶装置</red>に入れる時，私たちは自分たちの文化のこまごましたものもそこに置く。それは音楽や美術品，<red>文学</red>，地図，動画，そして写真である。これらはすべて自分たちの文化の<red>産物</red>だ。この情報記憶装置の問題は，それが絶えず変化しており，重大な変化があるたびに常に情報を失う可能性があるということである。そしてもしあなたが，すべてをクラウドに保存しておくことがその解決策であると考えているとしても，それは間違っているのだ。<red>太陽フレア</red>を例として挙げてみよう。仮に大規模な太陽フレアがアマゾン，アップル，フェイスブック，そして他のデータセンターを全滅させれば，すべての情報は失われてしまうだろう。あるいはもし，これらの企業の1つが<red>倒産する</red>と，その企業が管理している情報が失われてしまう可能性がある。肝心なことは，私たちが自分たちの<red>デジタル</red>文化を失いかねない機会はたくさんある，ということだ。"
+        },
+        {
+          "number": 2,
+          "english": "Such loss of our digital culture could make it difficult for those in the future to understand how we lived. This is because it is the small bits and pieces of a culture that we barely think about that often <red>deliver</red> the greatest <red>clues</red> and <red>insights</red> to <red>archeologists</red> and <red>anthropologists</red> studying past cultures. The materials and process used to make an <red>ancient</red> <red>clay</red> pot, for example, tell us about the food culture of the society that made it. (continued)",
+          "translation": "私たちのデジタル文化がそのように失われることで，私たちがどのように生活したかを未来の人たちが理解するのを難しくするかもしれない。これは，過去の文化を研究している<red>考古学者</red>や<red>人類学者</red>たちに，最大の<red>手がかり</red>や<red>洞察</red>を<red>伝える</red>ことが多いのが，私たちがほとんど考えもしない，1つの文化の小さなこまごましたものだからだ。例えば，<red>古代</red>の<red>陶製の</red>壺を作るのに用いられている材料と工程は，それを作った社会の食文化を私たちに教えてくれる。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "the <red>storage</red> of information",
+          "phonetic": "[stɔ́ːridʒ]",
+          "pos": "名",
+          "japanese": "情報の<red>保管</red>",
+          "meaning": "保存，保管；記憶（装置）"
+        },
+        {
+          "english": "electronic <red>devices</red>",
+          "phonetic": "[diváisiz]",
+          "pos": "名",
+          "japanese": "電子<red>機器</red>",
+          "meaning": "装置，機器"
+        },
+        {
+          "english": "<red>tablet</red> apps",
+          "phonetic": "[tǽblət]",
+          "pos": "名",
+          "japanese": "<red>タブレット</red>（用）アプリ",
+          "meaning": "タブレット（端末）；銘板"
+        },
+        {
+          "english": "children’s <red>literature</red>",
+          "phonetic": "[lítərətʃər]",
+          "pos": "名",
+          "japanese": "児童<red>文学</red>",
+          "meaning": "文学"
+        },
+        {
+          "english": "an archeological <red>artifact</red>",
+          "phonetic": "[άrtəfæ̀kt]",
+          "pos": "名",
+          "japanese": "考古学的<red>人工物</red>",
+          "meaning": "遺物，工芸品"
+        },
+        {
+          "english": "the <red>solar</red> system",
+          "phonetic": "[sóulər]",
+          "pos": "形",
+          "japanese": "<red>太陽</red>系",
+          "meaning": "太陽の"
+        },
+        {
+          "english": "the <red>flare</red> of a star",
+          "phonetic": "[flέər]",
+          "pos": "名",
+          "japanese": "恒星の<red>フレア</red>",
+          "meaning": "炎，爆発"
+        },
+        {
+          "english": "go <red>bankrupt</red>",
+          "phonetic": "[bǽŋkrʌpt, -rəpt]",
+          "pos": "形",
+          "japanese": "<red>破産</red>する",
+          "meaning": "破産した，破綻した"
+        },
+        {
+          "english": "<red>digital</red> signature",
+          "phonetic": "[dídʒətl]",
+          "pos": "形",
+          "japanese": "<red>デジタル</red>署名",
+          "meaning": "デジタルの，数字表示の"
+        },
+        {
+          "english": "<red>deliver</red> a message",
+          "phonetic": "[dilívər]",
+          "pos": "他",
+          "japanese": "メッセージを<red>伝える</red>",
+          "meaning": "を配達する；を与える"
+        },
+        {
+          "english": "search for a <red>clue</red>",
+          "phonetic": "[klúː]",
+          "pos": "名",
+          "japanese": "<red>手がかり</red>を探す",
+          "meaning": "手がかり，糸口"
+        },
+        {
+          "english": "deep <red>insight</red> into A",
+          "phonetic": "[ínsàit]",
+          "pos": "名",
+          "japanese": "Aの深い<red>洞察</red>",
+          "meaning": "洞察，理解"
+        },
+        {
+          "english": "prehistoric <red>archeology</red>",
+          "phonetic": "[ὰːrkiάlədʒi]",
+          "pos": "名",
+          "japanese": "先史<red>考古学</red>",
+          "meaning": "考古学"
+        },
+        {
+          "english": "<red>archeologist</red>",
+          "phonetic": "[ὰːrkiάlədʒist]",
+          "pos": "名",
+          "japanese": "<red>考古学者</red>",
+          "meaning": "考古学者"
+        },
+        {
+          "english": "cultural <red>anthropology</red>",
+          "phonetic": "[æ̀nθrəpάlədʒi]",
+          "pos": "名",
+          "japanese": "文化<red>人類学</red>",
+          "meaning": "人類学"
+        },
+        {
+          "english": "<red>anthropologist</red>",
+          "phonetic": "[æ̀nθrəpάlədʒist]",
+          "pos": "名",
+          "japanese": "<red>人類学者</red>",
+          "meaning": "人類学者"
+        },
+        {
+          "english": "an <red>ancient</red> civilization",
+          "phonetic": "[éinʃənt]",
+          "pos": "形",
+          "japanese": "<red>古代</red>文明",
+          "meaning": "古代の"
+        },
+        {
+          "english": "a thin layer of <red>clay</red>",
+          "phonetic": "[kléi]",
+          "pos": "名",
+          "japanese": "<red>粘土</red>の薄い層",
+          "meaning": "粘土；陶製の"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>tablet</red>",
+          "pos": "名",
+          "meaning": "錠剤（＝pill）（＋タブレット，銘板）",
+          "example": "You must take these <red>tablets</red> twice a day.",
+          "translation": "この錠剤を1日2回必ず服用してください"
+        },
+        {
+          "headword": "<red>literature</red>",
+          "pos": "名",
+          "meaning": "文献，資料（＋文学）",
+          "example": "It’s hard to keep up with the latest scientific <red>literature</red>.",
+          "translation": "最新の科学文献についていくのは大変だ"
+        },
+        {
+          "headword": "<red>flare</red>",
+          "pos": "自",
+          "meaning": "（暴動や感情が）突然起きる〔始まる〕（＋炎，爆発）",
+          "example": "Violence <red>flared</red> up outside the store.",
+          "translation": "店の外で暴力行為が勃発した"
+        },
+        {
+          "headword": "<red>deliver</red>",
+          "pos": "他",
+          "meaning": "《演説・講義など》を行う；を出産する（＋を配達する；を与える）",
+          "example": "The Prime Minister <red>delivered</red> a speech to the Diet.",
+          "translation": "総理が国会で演説を行った"
+        },
+        {
+          "headword": "<red>deliver</red>",
+          "pos": "他",
+          "meaning": "《演説・講義など》を行う；を出産する（＋を配達する；を与える）",
+          "example": "She had her first baby <red>delivered</red> by C-section.",
+          "translation": "彼女は第一子を帝王切開で出産した"
         }
       ]
     }

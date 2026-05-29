@@ -39,12 +39,12 @@ window.LINGUA_DATA = {
         {
           "id": 6,
           "titleJa": "技術的特異点の到来？",
-          "titleEn": ""
+          "titleEn": "The Coming of Technological Singularity?"
         },
         {
           "id": 7,
           "titleJa": "偉大な母なる自然を観察する",
-          "titleEn": ""
+          "titleEn": "Observing Our Great Mother Nature"
         },
         {
           "id": 8,
@@ -1158,6 +1158,380 @@ window.LINGUA_DATA = {
           "meaning": "提案，主張（＋命題，陳述）",
           "example": "What you’re saying doesn’t sound like a viable <red>proposition</red>.",
           "translation": "あなたの言っていることは実行可能な提案とは思えない"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "chapter": 2,
+      "chapterTitle": "テクノロジー",
+      "titleJa": "技術的特異点の到来？",
+      "titleEn": "The Coming of Technological Singularity?",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The concept of technological <red>singularity</red> — a <red>hypothetical</red> moment when technological advances <red>surpass</red> human understanding and control — has sparked intense debate. Some experts predict this <red>profound</red> event could occur as early as 2045. At that point in time, <red>artificial</red> intelligence (AI) might <red>exceed</red> human intelligence in every <red>conceivable</red> way. <red>Proponents</red> of this technological singularity argue that AI will evolve <red>exponentially</red> through its recursive self-improvement, leading to <red>breakthroughs</red> beyond our wildest dreams.",
+          "translation": "技術的<red>特異点</red>という概念，すなわち技術的な進歩が人間の理解や制御を<red>超える</red><red>仮説上</red>の瞬間は，激しい議論を巻き起こしてきた。専門家の中には，この<red>重大な</red>できごとが，早ければ2045年にも起こり得ると予測する人もいる。その時点では，<red>人工</red>知能（AI）は，<red>考えられる</red>ありとあらゆる点で人間の知能を<red>超える</red>かもしれない。この技術的特異点の<red>支持者たち</red>は，AIはその再帰的な自己改善を通して<red>急速に</red>進化し，思いもよらない<red>大躍進</red>となるだろうと主張する。"
+        },
+        {
+          "number": 2,
+          "english": "However, technological singularity raises many concerns for the world of tomorrow. There are some consequences to consider. For example, AI contains a “black box” in its sophisticated information processing, making it impossible to understand precisely how it reaches certain conclusions. This results in the problem of false information created by <red>generative</red> AIs.",
+          "translation": "ところが，技術的特異点は将来の世界に対する多くの懸念を提起している。検討すべきいくつかの結果がある。例えば，AIにはその複雑な情報処理において「ブラックボックス」があり，それが，AIがどのように特定の結論に到達するかを正確に理解することを不可能にしている。これが<red>生成</red>AIによって作られる誤情報の問題につながるのだ。"
+        },
+        {
+          "number": 3,
+          "english": "In addition, imagine the consequences if someone fed large-scale <red>malicious</red> information into AI systems, such as <red>radical</red> ideas that may destroy the world as we know it. What if AI could <red>hypothetically</red> <red>absorb</red> and act on such harmful data and begin to evolve away from working to help humanity? Such a scenario could lead to a dystopian future where humans risk becoming <red>obsolete</red>.",
+          "translation": "それに加えて，大規模な<red>悪意のある</red>情報，例えば，現在あるような世界を破壊するかもしれない<red>過激な</red>考えなどを，誰かがAIシステムに送り込んだ場合の結果を想像してみよう。もしAIが<red>仮に</red>そのような有害なデータを<red>取り込んで</red>それに基づいて行動し，人類を助けるために働くことから離れて進化し始めればどうなるだろうか。そのようなシナリオは，人間が<red>時代遅れ</red>になる恐れのあるディストピア的な未来へつながりかねない。"
+        },
+        {
+          "number": 4,
+          "english": "<red>Ultimately</red>, as we move closer to a speculative future like “Singularity,” society must consider how to respond. Many nations have started to take control of the development and use of AI through newly implemented legal systems. This is the first step in navigating the <red>unprecedented</red> changes that technological singularity may bring.",
+          "translation": "<red>最終的には</red>，私たちが「シンギュラリティ」のような思弁的な未来へと近づくにつれて，社会はどのように応じるべきかを考えなければならない。多くの国家が新たに実施された法体系を通じて，AIの開発と使用を統制し始めてきている。これは，技術的特異点がもたらすかもしれない，<red>先例のない</red>変化の舵取りにおける最初の一歩である。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "approach <red>singularity</red>",
+          "phonetic": "[sìŋgjəlǽrəti, -lǽr-]",
+          "pos": "名",
+          "japanese": "<red>シンギュラリティ</red>に近づく",
+          "meaning": "（技術的）特異点，シンギュラリティ"
+        },
+        {
+          "english": "a <red>hypothetical</red> situation",
+          "phonetic": "[hàipəθétikl]",
+          "pos": "形",
+          "japanese": "<red>仮説上</red>の状況",
+          "meaning": "仮定の，仮説上の"
+        },
+        {
+          "english": "<red>surpass</red> last year’s record",
+          "phonetic": "[sərpǽs]",
+          "pos": "他",
+          "japanese": "昨年の記録を<red>上回る</red>",
+          "meaning": "を超える，を上回る"
+        },
+        {
+          "english": "a <red>profound</red> effect on A",
+          "phonetic": "[prəfáund]",
+          "pos": "形",
+          "japanese": "Aへの<red>深刻な</red>影響",
+          "meaning": "深刻な，重大な"
+        },
+        {
+          "english": "<red>artificial</red> satellites",
+          "phonetic": "[ὰːrtəfíʃəl]",
+          "pos": "形",
+          "japanese": "<red>人工</red>衛星",
+          "meaning": "人工の，人造の"
+        },
+        {
+          "english": "<red>exceed</red> the limits",
+          "phonetic": "[iksíːd, ek-]",
+          "pos": "他",
+          "japanese": "限度を<red>超える</red>",
+          "meaning": "を超える，〜にまさる"
+        },
+        {
+          "english": "in every <red>conceivable</red> way",
+          "phonetic": "[kənsíːvəbl]",
+          "pos": "形",
+          "japanese": "<red>考え得る</red>あらゆる方法で",
+          "meaning": "考え得る，想像し得る"
+        },
+        {
+          "english": "a <red>proponent</red> of gun control",
+          "phonetic": "[prəpóunənt, prou-]",
+          "pos": "名",
+          "japanese": "銃規制の<red>支持者</red>",
+          "meaning": "支持者"
+        },
+        {
+          "english": "increase <red>exponentially</red>",
+          "phonetic": "[èkspounénʃəli]",
+          "pos": "副",
+          "japanese": "<red>指数関数的に</red>増加する",
+          "meaning": "指数関数的に，急速に"
+        },
+        {
+          "english": "a historic <red>breakthrough</red>",
+          "phonetic": "[bréikθrùː]",
+          "pos": "名",
+          "japanese": "歴史的な<red>大躍進</red>",
+          "meaning": "重大な発見，（大）躍進"
+        },
+        {
+          "english": "<red>generative</red> AI",
+          "phonetic": "[dʒénərətiv]",
+          "pos": "形",
+          "japanese": "<red>生成</red>AI",
+          "meaning": "生成力のある"
+        },
+        {
+          "english": "<red>malicious</red> software code",
+          "phonetic": "[məlíʃəs]",
+          "pos": "形",
+          "japanese": "<red>悪意</red>のあるソフトウェアコード",
+          "meaning": "悪意のある"
+        },
+        {
+          "english": "a <red>radical</red> reform",
+          "phonetic": "[rǽdikl]",
+          "pos": "形",
+          "japanese": "<red>急進的な</red>改革",
+          "meaning": "急進的な，過激な"
+        },
+        {
+          "english": "<red>hypothetically</red> speaking",
+          "phonetic": "[hàipəθétikli]",
+          "pos": "副",
+          "japanese": "<red>仮説での</red>話だが",
+          "meaning": "仮説のうえで，仮想的に"
+        },
+        {
+          "english": "<red>absorb</red> moisture",
+          "phonetic": "[əbsɔ́ːrb, -zɔ́ːrb]",
+          "pos": "他",
+          "japanese": "水分を<red>吸収する</red>",
+          "meaning": "を吸収する，を取り込む"
+        },
+        {
+          "english": "an <red>obsolete</red> technology",
+          "phonetic": "[ὰbsəlíːt, -lìːt]",
+          "pos": "形",
+          "japanese": "<red>時代遅れ</red>の技術",
+          "meaning": "時代遅れの，廃れた"
+        },
+        {
+          "english": "<red>Ultimately</red>, SV",
+          "phonetic": "[ʌ́ltəmətli]",
+          "pos": "副",
+          "japanese": "<red>最終的には</red>，SVである",
+          "meaning": "最終的に，結局は"
+        },
+        {
+          "english": "<red>unprecedented</red> success",
+          "phonetic": "[ʌnprésədəntid]",
+          "pos": "形",
+          "japanese": "<red>前例のない</red>成功",
+          "meaning": "前例のない，空前の"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>profound</red>",
+          "pos": "形",
+          "meaning": "深遠な，奥深い（＋深刻な，重大な）",
+          "example": "The most <red>profound</red> questions are to be found in philosophy.",
+          "translation": "最も深遠な問いは哲学の中に見つかる"
+        },
+        {
+          "headword": "<red>radical</red>",
+          "pos": "形",
+          "meaning": "根本的な（＋急進的な，過激な）",
+          "example": "The two proposals have <red>radical</red> differences.",
+          "translation": "2つの案には根本的な違いがある"
+        },
+        {
+          "headword": "<red>absorb</red>",
+          "pos": "他",
+          "meaning": "を夢中にさせる（＋を吸収する，を取り込む）",
+          "example": "Her story completely <red>absorbed</red> me.",
+          "translation": "彼女の話は私をすっかり夢中にさせた"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "chapter": 2,
+      "chapterTitle": "テクノロジー",
+      "titleJa": "偉大な母なる自然を観察する",
+      "titleEn": "Observing Our Great Mother Nature",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Throughout history, humans have looked to nature for answers to their technological challenges: Leonardo da Vinci’s sketches of flying machines were inspired by his observations of birds in flight. Though his designs didn’t lead directly to functional aircraft, his innovative philosophy of imitating nature was a sign of things to come.",
+          "translation": "歴史を通じて，人間は自分たちの技術的な諸問題への答えを自然に期待してきた。レオナルド・ダ・ヴィンチの羽ばたき機のスケッチは，飛んでいる鳥を彼が注意深く見ることによって発案されたものである。彼の設計は実用的な航空機に直接結びつくことはなかったが，自然を模倣するという彼の革新的な哲学は，これから起こることの前触れだった。"
+        },
+        {
+          "number": 2,
+          "english": "Ideas <red>derived</red> from nature’s <red>intricate</red> systems continue to <red>contribute</red> to breakthroughs in various scientific fields. Insects, for example, have sparked a wide range of inventions. Have you ever stopped to notice the adept movements of dragonflies in flight? Their wings inspired modern turbine designs. Viewed from the side, the wings of dragonflies are observed to have ridges and grooves. Hence, unlike flat wings, they can catch the breeze more easily, boosting lift without requiring <red>excessive</red> energy. This unique <red>mechanism</red> is being studied to create more efficient small-scale wind turbines and drones.",
+          "translation": "自然の<red>複雑な</red>仕組みに<red>由来する</red>発想は，さまざまな科学分野における飛躍的進歩に<red>寄与し</red>続けている。例えば昆虫は，広範囲にわたる発明の火つけ役となってきた。あなたは立ち止まって，飛んでいるトンボの熟達した動きに目を留めたことがあるだろうか。彼らの羽は，現代のタービンの設計のきっかけとなったのだ。横から見ると，トンボの羽には凹凸があるのがわかる。それゆえに，平坦な羽と異なり，それらはよりたやすく微風を捕らえて，<red>過剰な</red>エネルギーを必要とすることなく上昇を後押しすることができるのだ。この独自の<red>仕組み</red>は，さらに効率の良い小型の風力タービンやドローンを作り出すために研究されている。"
+        },
+        {
+          "number": 3,
+          "english": "There are many other similar examples. The adhesive <red>properties</red> of gecko feet have led to the development of reusable adhesives and climbing robots. Also, the remarkable ability of ants to <red>coordinate</red> <red>complex</red> tasks has led to <red>algorithms</red> for traffic management and <red>logistics</red>. Birds’ ability to migrate across vast distances without losing direction has also informed improvements in <red>navigation</red> systems. Time and again, humans tap into nature’s clever <red>strategies</red> and innovate on them.",
+          "translation": "他にも多くの同じような実例がある。ヤモリの足の接着力のある<red>性質</red>は，再利用可能な接着剤や，クライミングロボットの開発につながってきた。また，<red>複雑な</red>作業を<red>調整する</red>アリの驚くべき能力も，交通管理や<red>物流</red>の<red>アルゴリズム</red>につながってきた。方向を見失うことなく，とてつもない距離を渡る鳥の能力も，<red>誘導</red>システムの改善に影響を及ぼしてきた。幾度となく，人間は自然の賢い<red>戦略</red>を利用し，それに基づいて革新を行っているのだ。"
+        },
+        {
+          "number": 4,
+          "english": "Human inventions based on natural <red>phenomena</red> are called <red>biomimicry</red> or biomimetics. They <red>demonstrate</red> how we can create cutting-edge solutions for modern challenges by <red>mimicking</red> the <red>ingenious</red> designs found in nature, letting Mother Nature be our guiding light.",
+          "translation": "自然界の<red>事象</red>に基づく人間の発明は，<red>バイオミミクリー</red>あるいはバイオミメティクスと呼ばれている。それらは，母なる自然を手本として，自然界に見出される<red>見事な</red>設計を<red>模倣すること</red>で，私たちがどのように現代の諸問題に対する最先端の解決策を作り出せるかということを<red>示している</red>。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>derive</red> pleasure from A",
+          "phonetic": "[dəráiv]",
+          "pos": "他",
+          "japanese": "Aから喜びを<red>引き出す</red>",
+          "meaning": "を引き出す，を派生させる"
+        },
+        {
+          "english": "an <red>intricate</red> network",
+          "phonetic": "[íntrikət]",
+          "pos": "形",
+          "japanese": "<red>複雑な</red>ネットワーク",
+          "meaning": "複雑な，手の込んだ"
+        },
+        {
+          "english": "<red>contribute</red> to society",
+          "phonetic": "[kəntríbjuːt]",
+          "pos": "自",
+          "japanese": "社会に<red>貢献する</red>",
+          "meaning": "貢献する"
+        },
+        {
+          "english": "an <red>excessive</red> display",
+          "phonetic": "[iksésiv, ek-]",
+          "pos": "形",
+          "japanese": "<red>過剰な</red>顕示",
+          "meaning": "過剰な，多すぎる"
+        },
+        {
+          "english": "the <red>mechanism</red> for A",
+          "phonetic": "[mékənìzəm]",
+          "pos": "名",
+          "japanese": "Aの<red>仕組み</red>",
+          "meaning": "仕組み，構造；装置"
+        },
+        {
+          "english": "physical <red>properties</red>",
+          "phonetic": "[prάpərtiz]",
+          "pos": "名",
+          "japanese": "物質の<red>性質</red>〔物性〕",
+          "meaning": "特性"
+        },
+        {
+          "english": "<red>coordinate</red> the team",
+          "phonetic": "[kouɔ́ːrdənèit]",
+          "pos": "他",
+          "japanese": "チームを<red>統率する</red>",
+          "meaning": "を調整する，をまとめる"
+        },
+        {
+          "english": "a <red>complex</red> structure",
+          "phonetic": "[kɑ́mplèks, kəmpléks]",
+          "pos": "形",
+          "japanese": "<red>複雑な</red>構造",
+          "meaning": "複雑な，入り組んだ"
+        },
+        {
+          "english": "<red>complexity</red>",
+          "phonetic": "[kəmpléksəti]",
+          "pos": "名",
+          "japanese": "<red>複雑さ</red>，複雑性",
+          "meaning": "複雑さ，複雑性"
+        },
+        {
+          "english": "devise an <red>algorithm</red>",
+          "phonetic": "[ǽlgərìðəm]",
+          "pos": "名",
+          "japanese": "<red>アルゴリズム</red>を考案する",
+          "meaning": "アルゴリズム，自動計算手順"
+        },
+        {
+          "english": "design the <red>logistics</red> system",
+          "phonetic": "[loudʒístiks]",
+          "pos": "名",
+          "japanese": "<red>物流</red>システムを設計する",
+          "meaning": "物流（の管理），ロジスティクス"
+        },
+        {
+          "english": "<red>navigation</red> by satellite",
+          "phonetic": "[næ̀vəgéiʃən]",
+          "pos": "名",
+          "japanese": "衛星による<red>誘導</red>",
+          "meaning": "誘導，運航"
+        },
+        {
+          "english": "draw up a <red>strategy</red>",
+          "phonetic": "[strǽtədʒi]",
+          "pos": "名",
+          "japanese": "<red>戦略</red>を策定する",
+          "meaning": "戦略，方策"
+        },
+        {
+          "english": "a natural <red>phenomenon</red>",
+          "phonetic": "[finάmənɑ̀n]",
+          "pos": "名",
+          "japanese": "自然<red>現象</red>",
+          "meaning": "現象，事象"
+        },
+        {
+          "english": "an application of <red>biomimicry</red>",
+          "phonetic": "[bàioumímikri]",
+          "pos": "名",
+          "japanese": "<red>バイオミミクリー</red>の応用",
+          "meaning": "生物模倣，バイオミミクリー"
+        },
+        {
+          "english": "<red>demonstrate</red> that A is correct",
+          "phonetic": "[démənstrèit]",
+          "pos": "他",
+          "japanese": "Aが正しいことを<red>証明する</red>",
+          "meaning": "を証明する，を（明らかに）示す"
+        },
+        {
+          "english": "<red>mimic</red> O perfectly",
+          "phonetic": "[mímik]",
+          "pos": "他",
+          "japanese": "完璧にOを<red>模倣する</red>",
+          "meaning": "を模倣する；に擬態する"
+        },
+        {
+          "english": "an <red>ingenious</red> solution",
+          "phonetic": "[indʒíːnjəs]",
+          "pos": "形",
+          "japanese": "<red>見事な</red>解決法",
+          "meaning": "見事な，創意に満ちた"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>contribute</red>",
+          "pos": "他",
+          "meaning": "を寄付する；を寄稿する（＋貢献する）",
+          "example": "I <red>contributed</red> 1,000 yen to the charity.",
+          "translation": "慈善事業に1,000円を寄付した"
+        },
+        {
+          "headword": "<red>contribute</red>",
+          "pos": "他",
+          "meaning": "を寄付する；を寄稿する（＋貢献する）",
+          "example": "My father regularly <red>contributes</red> haiku to the newspaper.",
+          "translation": "父は定期的に新聞に俳句を投稿している"
+        },
+        {
+          "headword": "<red>property</red>",
+          "pos": "名",
+          "meaning": "財産，所有物（＋特性）",
+          "example": "The lawyer specializes in intellectual <red>property</red> rights.",
+          "translation": "その弁護士は知的財産が専門だ"
+        },
+        {
+          "headword": "<red>coordinate</red>",
+          "pos": "名",
+          "meaning": "座標（＋を調整する，をまとめる）",
+          "example": "Mathematics was greatly advanced by the concept of <red>coordinates</red>.",
+          "translation": "座標の概念で数学は大きく進歩した"
+        },
+        {
+          "headword": "<red>demonstrate</red>",
+          "pos": "自",
+          "meaning": "《集会・行進などで》デモをする（＋を証明する，を明らかに示す）",
+          "example": "People <red>demonstrated</red> against the new law.",
+          "translation": "人々は新法に対してデモを行った"
         }
       ]
     }

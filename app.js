@@ -15,6 +15,8 @@ const $headerTitle = document.getElementById("headerTitle");
 const $headerSubtitle = document.getElementById("headerSubtitle");
 const $headerPassage = document.getElementById("headerPassage");
 const $backToTocTop = document.getElementById("backToTocTop");
+const $prevPassageButton = document.getElementById("prevPassageButton");
+const $nextPassageButton = document.getElementById("nextPassageButton");
 const $audio = document.getElementById("audio");
 const $viewToggleButton = document.getElementById("viewToggleButton");
 const $rewindButton = document.getElementById("rewindButton");
@@ -100,6 +102,39 @@ function setStaticIcons() {
   $forwardButton.innerHTML = iconForward2();
 }
 
+
+function iconChevronLeft() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true"><path class="stroke" d="M14.8 6.2 9 12l5.8 5.8"/></svg>`;
+}
+function iconChevronRight() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true"><path class="stroke" d="M9.2 6.2 15 12l-5.8 5.8"/></svg>`;
+}
+function readyPassageIds() {
+  return DATA.chapters.flatMap(ch => ch.items.map(item => item.id)).filter(id => Boolean(DATA.passages[String(id)]));
+}
+function adjacentPassageId(direction) {
+  if (!state.passageId) return null;
+  const ids = readyPassageIds();
+  const index = ids.indexOf(state.passageId);
+  if (index < 0) return null;
+  const nextIndex = index + direction;
+  if (nextIndex < 0 || nextIndex >= ids.length) return null;
+  return ids[nextIndex];
+}
+function updateHeaderNavigation() {
+  const show = state.view === "passage";
+  const prevId = adjacentPassageId(-1);
+  const nextId = adjacentPassageId(1);
+  $prevPassageButton.classList.toggle("hidden", !show || !prevId);
+  $nextPassageButton.classList.toggle("hidden", !show || !nextId);
+  $prevPassageButton.innerHTML = iconChevronLeft();
+  $nextPassageButton.innerHTML = iconChevronRight();
+}
+function goAdjacentPassage(direction) {
+  const id = adjacentPassageId(direction);
+  if (id) renderPassage(id);
+}
+
 function setHeader(title, subtitle = "", showBack = false, passageLabel = "") {
   $headerPassage.textContent = passageLabel;
   $headerPassage.classList.toggle("hidden", !passageLabel);
@@ -107,6 +142,7 @@ function setHeader(title, subtitle = "", showBack = false, passageLabel = "") {
   $headerSubtitle.textContent = subtitle;
   $headerSubtitle.classList.toggle("hidden", !subtitle);
   $backToTocTop.classList.toggle("hidden", !showBack);
+  updateHeaderNavigation();
 }
 
 function showFooter(show) {
@@ -120,6 +156,7 @@ function renderToc() {
   setHeader(DATA.appTitle, "", false);
   showFooter(false);
   pauseAudio();
+  updateHeaderNavigation();
 
   $app.innerHTML = `<div class="toc">${DATA.chapters.map(ch => `
     <section class="chapter">
@@ -157,6 +194,7 @@ function renderPassage(id) {
   setHeader(passage?.titleEn || meta?.titleJa || `Passage ${id}`, passage?.titleJa || meta?.titleJa || "", true, `Passage ${id}`);
   showFooter(true);
   syncFooterControls();
+  updateHeaderNavigation();
   updateAudioSource();
 
   if (!passage) {
@@ -295,6 +333,31 @@ $rateSelect.addEventListener("change", () => {
 $audio.addEventListener("ended", () => { $playButton.innerHTML = iconPlay(); });
 $audio.addEventListener("pause", () => { $playButton.innerHTML = iconPlay(); });
 $audio.addEventListener("play", () => { $playButton.innerHTML = iconPause(); });
+
+
+$prevPassageButton.addEventListener("click", () => goAdjacentPassage(-1));
+$nextPassageButton.addEventListener("click", () => goAdjacentPassage(1));
+
+let touchStartX = 0;
+let touchStartY = 0;
+let touchStartTime = 0;
+$app.addEventListener("touchstart", event => {
+  if (state.view !== "passage" || event.touches.length !== 1) return;
+  touchStartX = event.touches[0].clientX;
+  touchStartY = event.touches[0].clientY;
+  touchStartTime = Date.now();
+}, { passive: true });
+$app.addEventListener("touchend", event => {
+  if (state.view !== "passage" || !touchStartTime || event.changedTouches.length !== 1) return;
+  const dx = event.changedTouches[0].clientX - touchStartX;
+  const dy = event.changedTouches[0].clientY - touchStartY;
+  const elapsed = Date.now() - touchStartTime;
+  touchStartTime = 0;
+  if (elapsed > 650) return;
+  if (Math.abs(dx) < 70 || Math.abs(dx) < Math.abs(dy) * 1.5) return;
+  if (dx < 0) goAdjacentPassage(1);
+  else goAdjacentPassage(-1);
+}, { passive: true });
 
 setStaticIcons();
 $playButton.innerHTML = iconPlay();

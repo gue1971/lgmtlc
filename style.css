@@ -124,3 +124,18 @@
 .header-nav svg{width:24px;height:24px;display:block}
 .header-nav svg .stroke{fill:none;stroke:currentColor;stroke-width:2.1;stroke-linecap:round;stroke-linejoin:round}
 @media(min-width:720px){.header-nav-left{left:calc(50% - 380px)}.header-nav-right{right:calc(50% - 380px)}}
+
+
+/* mobile-hide-header-nav-start */
+@media (max-width: 719px) {
+  .header-nav {
+    display: none !important;
+  }
+}
+
+@media (min-width: 720px) {
+  .header-nav {
+    display: flex;
+  }
+}
+/* mobile-hide-header-nav-end */

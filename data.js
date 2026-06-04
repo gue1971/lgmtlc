@@ -70,27 +70,27 @@ window.LINGUA_DATA = {
         {
           "id": 11,
           "titleJa": "薬剤の奇跡を信じる人々",
-          "titleEn": ""
+          "titleEn": "Public Faith in Pharmaceutical Miracles"
         },
         {
           "id": 12,
           "titleJa": "動物由来感染症（1）",
-          "titleEn": ""
+          "titleEn": "Zoonotic Diseases (1)"
         },
         {
           "id": 13,
           "titleJa": "動物由来感染症（2）",
-          "titleEn": ""
+          "titleEn": "Zoonotic Diseases (2)"
         },
         {
           "id": 14,
           "titleJa": "人間の脳の不思議（1）",
-          "titleEn": ""
+          "titleEn": "The Mysteries of the Human Brain (1)"
         },
         {
           "id": 15,
           "titleJa": "人間の脳の不思議（2）",
-          "titleEn": ""
+          "titleEn": "The Mysteries of the Human Brain (2)"
         }
       ]
     },
@@ -101,7 +101,7 @@ window.LINGUA_DATA = {
         {
           "id": 16,
           "titleJa": "居住型ホスピス",
-          "titleEn": ""
+          "titleEn": "Residential Hospice"
         },
         {
           "id": 17,
@@ -2059,6 +2059,1026 @@ window.LINGUA_DATA = {
           "meaning": "を保護する（＋を保存する，を守る）",
           "example": "One way to <red>preserve</red> wood is to put varnish on it.",
           "translation": "木材を保護する方法の一つはニスを塗ることだ"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "chapter": 3,
+      "chapterTitle": "医学",
+      "titleJa": "薬剤の奇跡を信じる人々",
+      "titleEn": "Public Faith in Pharmaceutical Miracles",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Modern drug <red>therapy</red> began with “salvarsan,” developed by Dr. Paul Ehrlich as a treatment for syphilis. Salvarsan, introduced in 1911, was the first drug to attack the root cause of the disease it treated. Its <red>astonishing</red> effectiveness earned it the nickname “Dr. Ehrlich’s Magic <red>Bullet</red>” — a <red>reflection</red> of the public’s perception of it as a modern miracle. Two mid-twentieth-century <red>pharmaceutical</red> <red>triumphs</red> solidified the public’s belief in “miracle drugs.” The first was penicillin and, by extension, the many other <red>antibiotics</red> that followed it. Antibiotics reduced a bacterial <red>infection</red> from a <red>life-threatening</red> crisis to a brief unpleasantness, ending a long era in which any injury or <red>surgery</red> that broke the skin carried a substantial risk of death from secondary infection. The second was the Salk polio vaccine, and by extension the vaccines that followed it for measles, mumps, and other childhood diseases. These vaccines, <red>administered</red> through massive vaccination campaigns tied to public school attendance, had spectacular results. Diseases that had once killed <red>infants</red> and young children by the thousands all but <red>vanished</red> from the industrialized world within a generation.",
+          "translation": "現代の薬剤<red>治療</red>は，梅毒の治療法としてパウル・エールリヒ博士によって開発された「サルバルサン」で始まった。1911年に導入されたサルバルサンは，その治療対象である疾患の根本的原因を攻撃する初めての薬だった。その<red>驚くべき</red>効果によって，この薬には「エールリヒ博士の魔法の<red>弾丸</red>」というあだ名がついた――それは現代の奇跡として，この薬に対する一般大衆の認識を<red>反映したもの</red>だった。20世紀半ばの<red>薬剤</red>における2つの<red>偉業</red>によって，一般大衆の「奇跡の薬」への信仰は強固なものになった。1つ目はペニシリンと，その延長線上でこれに続いた多くの他の<red>抗生物質</red>だった。抗生物質は細菌<red>感染</red>を，<red>命を脅かす</red>危機からつかの間の不快まで弱め，皮膚を傷つけるなどのような怪我や<red>手術</red>でも，二次感染による死の重大な危険を伴っていた長い時代を終わらせたのだ。2つ目はソークのポリオワクチンと，その延長線上でこれに続いたはしか，おたふく風邪，その他の小児疾患のためのワクチンだった。これらのワクチンは，公立学校の就学と結びついた大規模なワクチン接種キャンペーンを通じて<red>投与され</red>，目覚ましい成果を上げた。かつて<red>乳児</red>や幼児の無数の命を奪っていた疾患は，一世代のうちに先進工業国世界からほとんど<red>姿を消した</red>のである。"
+        },
+        {
+          "number": 2,
+          "english": "Penicillin and the polio vaccine raised public expectations of what drugs in general could do. Their rapid, highly publicized successes and their lack of obvious, significant demerits furthered a belief in drug therapies as a kind of modern-day magic, capable of <red>eliminating</red> any disease, no matter how terrible, in a single <red>stroke</red>. The rapid <red>introduction</red> of new drugs and equally rapid control of old diseases created another expectation, that science could develop drugs to prevent or cure any disease. Popular culture strongly reflects both expectations.",
+          "translation": "ペニシリンやポリオワクチンは，薬全般を用いて実現可能なことに関する一般大衆の期待を高めた。それらはたちまち成功を収め，その成功が広く報じられたために，また明白で重大な欠点がなかったために，いかなる疾患でも，その病状がどれほど重篤であろうとも，一撃で<red>なくすこと</red>ができる一種の現代の魔法としての薬剤治療への信奉が深まることとなった。新薬が素早く<red>導入</red>されて，昔からの疾病も同様に素早く制御できたため，いかなる疾患でも予防あるいは治すための薬が科学によって開発可能なのだ，というもう1つの期待が生まれた。大衆の文化は2つの期待を色濃く反映しているのである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "go into <red>therapy</red>",
+          "phonetic": "[θéərəpi]",
+          "pos": "名",
+          "japanese": "<red>治療</red>を受ける",
+          "meaning": "治療，療養"
+        },
+        {
+          "english": "at an <red>astonishing</red> rate",
+          "phonetic": "[əstάniʃiŋ]",
+          "pos": "形",
+          "japanese": "<red>驚異的な</red>ペースで",
+          "meaning": "驚くべき，驚異的な"
+        },
+        {
+          "english": "be hit by a stray <red>bullet</red>",
+          "phonetic": "[búlət]",
+          "pos": "名",
+          "japanese": "流れ弾に当たる",
+          "meaning": "弾丸"
+        },
+        {
+          "english": "a <red>reflection</red> of the state",
+          "phonetic": "[riflékʃən]",
+          "pos": "名",
+          "japanese": "状態の<red>反映</red>",
+          "meaning": "反映，映し出すもの"
+        },
+        {
+          "english": "a <red>pharmaceutical</red> company",
+          "phonetic": "[fὰːrməs(j)úːtikl]",
+          "pos": "形",
+          "japanese": "<red>製薬</red>会社",
+          "meaning": "薬剤の，医薬品の"
+        },
+        {
+          "english": "the <red>triumph</red> in medicine",
+          "phonetic": "[tráiəmf, -ʌmf]",
+          "pos": "名",
+          "japanese": "医学上の<red>偉業</red>",
+          "meaning": "勝利；偉業"
+        },
+        {
+          "english": "prescribe <red>antibiotics</red>",
+          "phonetic": "[æ̀ntibaiάtiks, æ̀ntai-]",
+          "pos": "名",
+          "japanese": "<red>抗生物質</red>を処方する",
+          "meaning": "抗生物質"
+        },
+        {
+          "english": "prevent secondary <red>infection</red>",
+          "phonetic": "[infékʃən]",
+          "pos": "名",
+          "japanese": "二次<red>感染</red>を防ぐ",
+          "meaning": "感染（症）"
+        },
+        {
+          "english": "<red>infectious</red>",
+          "phonetic": "[infékʃəs]",
+          "pos": "形",
+          "japanese": "<red>感染力</red>のある",
+          "meaning": "感染力のある"
+        },
+        {
+          "english": "a <red>life-threatening</red> illness",
+          "phonetic": "[láifrèθəniŋ]",
+          "pos": "形",
+          "japanese": "<red>命にかかわる</red>病気",
+          "meaning": "生命を脅かす，命にかかわる"
+        },
+        {
+          "english": "recover from knee <red>surgery</red>",
+          "phonetic": "[sə́ːrdʒəri]",
+          "pos": "名",
+          "japanese": "膝の<red>手術</red>から回復する",
+          "meaning": "外科手術；手術室"
+        },
+        {
+          "english": "<red>surgeon</red>",
+          "phonetic": "[sə́ːrdʒən]",
+          "pos": "名",
+          "japanese": "<red>外科医</red>",
+          "meaning": "外科医"
+        },
+        {
+          "english": "<red>administer</red> a new drug",
+          "phonetic": "[ədmínəstər, æd-]",
+          "pos": "他",
+          "japanese": "新薬を<red>投与する</red>",
+          "meaning": "〈薬など〉を投与する"
+        },
+        {
+          "english": "a newborn <red>infant</red>",
+          "phonetic": "[ínfənt]",
+          "pos": "名",
+          "japanese": "生まれたばかりの<red>乳児</red>",
+          "meaning": "幼児，乳児"
+        },
+        {
+          "english": "<red>vanish</red> suddenly",
+          "phonetic": "[vǽniʃ]",
+          "pos": "自",
+          "japanese": "突然<red>消滅する</red>",
+          "meaning": "消える，消滅する"
+        },
+        {
+          "english": "<red>eliminate</red> barriers to A",
+          "phonetic": "[ilímənèit]",
+          "pos": "他",
+          "japanese": "Aの障壁を<red>取り除く</red>",
+          "meaning": "を除去する，を根絶する"
+        },
+        {
+          "english": "in a single <red>stroke</red>",
+          "phonetic": "[stróuk]",
+          "pos": "名",
+          "japanese": "<red>一撃</red>で",
+          "meaning": "一撃，一筆"
+        },
+        {
+          "english": "the <red>introduction</red> of AI",
+          "phonetic": "[ìntrədʌ́kʃən]",
+          "pos": "名",
+          "japanese": "AIの<red>導入</red>",
+          "meaning": "導入，採用"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>reflection</red>",
+          "pos": "名",
+          "meaning": "熟考；（映る）姿（＋反映，映し出すもの）",
+          "example": "I had no time for <red>reflection</red>.",
+          "translation": "じっくり考える余裕がなかった"
+        },
+        {
+          "headword": "<red>reflection</red>",
+          "pos": "名",
+          "meaning": "熟考；（映る）姿（＋反映，映し出すもの）",
+          "example": "Look at your <red>reflection</red> in the mirror.",
+          "translation": "鏡で姿を見てごらん"
+        },
+        {
+          "headword": "<red>administer</red>",
+          "pos": "他",
+          "meaning": "を運営する（＋〈薬など〉を投与する）",
+          "example": "Who <red>administers</red> this foundation?",
+          "translation": "この財団は誰が運営していますか"
+        },
+        {
+          "headword": "<red>stroke</red>",
+          "pos": "名",
+          "meaning": "脳卒中（＋一撃，一筆）",
+          "example": "My father had a <red>stroke</red> and has lost his speech.",
+          "translation": "父は脳卒中を起こして言葉が話せなくなった"
+        },
+        {
+          "headword": "<red>introduction</red>",
+          "pos": "名",
+          "meaning": "紹介（＋導入，採用）",
+          "example": "Do you have a letter of <red>introduction</red> with you?",
+          "translation": "紹介状をお持ちですか"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "chapter": 3,
+      "chapterTitle": "医学",
+      "titleJa": "動物由来感染症（1）",
+      "titleEn": "Zoonotic Diseases (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Over the next 50 years, climate change could drive more than 15,000 new cases of <red>mammals</red> transmitting <red>viruses</red> to other mammals, according to a study published in Nature. It’s one of the first to <red>predict</red> how global warming will shift <red>wildlife</red> <red>habitats</red> and increase <red>encounters</red> between species capable of <red>swapping</red> <red>pathogens</red>, and to quantify how many times viruses are expected to jump between species.",
+          "translation": "ネイチャー誌に発表された研究によると，今後50年にわたって，気候変動のせいで，<red>哺乳動物</red>が他の哺乳動物に<red>ウイルス</red>を伝染させる新たな実例が15,000件あまり増えてしまう可能性があるという。この研究は，地球温暖化が<red>野生動物</red>の<red>生息環境</red>をいかに変え，さらに<red>病原体を交換すること</red>ができる異種間の<red>遭遇</red>をいかに増加させることになるかを<red>予測し</red>，また異種間でウイルスが飛び移ると見込まれる回数を数値化した最初の研究の1つである。"
+        },
+        {
+          "number": 2,
+          "english": "Many researchers say that the COVID-19 <red>pandemic</red> probably started when a previously unknown coronavirus passed from a wild animal to a human: a process called <red>zoonotic</red> transmission. A predicted rise in viruses jumping between species could <red>trigger</red> more <red>outbreaks</red>, posing a serious threat to human and animal health alike, the study warns — providing all the more reason for governments and health organizations to <red>invest</red> in pathogen <red>surveillance</red> and to improve health-care infrastructure.",
+          "translation": "多くの研究者らが言うには，新型コロナウイルス感染症の<red>世界的流行</red>は，それまで知られていなかったコロナウイルスが野生動物からヒトに移動した時に，すなわち<red>動物由来感染</red>と呼ばれる過程で，おそらく始まったということだ。この研究は，異種間で飛び越えるウイルスの予測される増加は，さらなる<red>大流行を引き起こす</red>可能性があり，ヒトと動物の健康に同様に深刻な脅威を及ぼしていると警告し，政府や保健機関が病原菌の<red>監視</red>に<red>投資し</red>，また医療の基盤を改善するべきいっそうの理由を提供している。"
+        },
+        {
+          "number": 3,
+          "english": "The study is “a critical first step in understanding the future risk of climate and land-use change on the next pandemic,” says Kate Jones, who models <red>interactions</red> between ecosystems and human health at University College London. (continued)",
+          "translation": "この研究は「気候の変動や土地利用の変化が次の病気の世界的流行に及ぼす将来の危険性を理解することへの重要な第一歩なのです」と語るのは，ユニバーシティ・カレッジ・ロンドンで生態系とヒトの健康との<red>相互作用</red>をモデル化するケイト・ジョーンズである。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a marine <red>mammal</red>",
+          "phonetic": "[mǽml]",
+          "pos": "名",
+          "japanese": "海洋<red>哺乳類</red>",
+          "meaning": "哺乳類（の動物）"
+        },
+        {
+          "english": "an unknown <red>virus</red>",
+          "phonetic": "[váiərəs]",
+          "pos": "名",
+          "japanese": "未知の<red>ウイルス</red>",
+          "meaning": "ウイルス"
+        },
+        {
+          "english": "<red>predict</red> the result",
+          "phonetic": "[pridíkt]",
+          "pos": "他",
+          "japanese": "結果を<red>予測する</red>",
+          "meaning": "を予測する，を予報する"
+        },
+        {
+          "english": "<red>prediction</red>",
+          "phonetic": "[pridíkʃən]",
+          "pos": "名",
+          "japanese": "<red>予測</red>，予報",
+          "meaning": "予測，予報"
+        },
+        {
+          "english": "protect native <red>wildlife</red>",
+          "phonetic": "[wáildlàif]",
+          "pos": "名",
+          "japanese": "在来種の<red>野生生物</red>を守る",
+          "meaning": "（集合的に）野生動物"
+        },
+        {
+          "english": "the natural <red>habitat</red> of A",
+          "phonetic": "[hǽbətæ̀t]",
+          "pos": "名",
+          "japanese": "Aの自然<red>生息地</red>",
+          "meaning": "生息地，生息環境"
+        },
+        {
+          "english": "a chance <red>encounter</red>",
+          "phonetic": "[enkáuntər]",
+          "pos": "名",
+          "japanese": "偶然の<red>遭遇</red>",
+          "meaning": "出会い，遭遇"
+        },
+        {
+          "english": "<red>swap</red> shirts after a match",
+          "phonetic": "[swάp]",
+          "pos": "他",
+          "japanese": "試合後に（相手と）シャツを<red>交換する</red>",
+          "meaning": "を交換する，を交わす"
+        },
+        {
+          "english": "bacterial <red>pathogen</red>",
+          "phonetic": "[pǽθədʒən]",
+          "pos": "名",
+          "japanese": "細菌性<red>病原体</red>",
+          "meaning": "病原体〔菌〕"
+        },
+        {
+          "english": "the COVID-19 <red>pandemic</red>",
+          "phonetic": "[pændémik]",
+          "pos": "名",
+          "japanese": "新型コロナウイルスの<red>世界的流行</red>",
+          "meaning": "パンデミック，世界的流行"
+        },
+        {
+          "english": "a <red>zoonotic</red> disease",
+          "phonetic": "[zòuənóutik, zùːə-]",
+          "pos": "形",
+          "japanese": "<red>動物由来</red>〔人獣共通〕の病気",
+          "meaning": "動物由来〔人獣共通感染〕の"
+        },
+        {
+          "english": "<red>trigger</red> a response",
+          "phonetic": "[trígər]",
+          "pos": "他",
+          "japanese": "反応を<red>引き起こす</red>",
+          "meaning": "を引き起こす，を作動させる"
+        },
+        {
+          "english": "an <red>outbreak</red> of influenza",
+          "phonetic": "[áutbrèik]",
+          "pos": "名",
+          "japanese": "インフルエンザの<red>大流行</red>",
+          "meaning": "大流行；発生"
+        },
+        {
+          "english": "<red>invest</red> in A",
+          "phonetic": "[invést]",
+          "pos": "自",
+          "japanese": "Aに<red>投資する</red>",
+          "meaning": "投資する"
+        },
+        {
+          "english": "a <red>surveillance</red> camera",
+          "phonetic": "[sərvéiləns]",
+          "pos": "名",
+          "japanese": "<red>監視</red>カメラ",
+          "meaning": "監視，監督"
+        },
+        {
+          "english": "drug <red>interaction</red>",
+          "phonetic": "[ìntərǽkʃən]",
+          "pos": "名",
+          "japanese": "薬の<red>相互作用</red>",
+          "meaning": "相互作用"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>trigger</red>",
+          "pos": "名",
+          "meaning": "引き金；きっかけ（＋を引き起こす，を作動させる）",
+          "example": "The man aimed and pulled the <red>trigger</red>.",
+          "translation": "男はねらいを定めて引き金を引いた"
+        },
+        {
+          "headword": "<red>interaction</red>",
+          "pos": "名",
+          "meaning": "交流，やりとり（＋相互作用）",
+          "example": "We need to encourage more <red>interaction</red> between students.",
+          "translation": "生徒同士のさらなる交流を促進させる必要がある"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "chapter": 3,
+      "chapterTitle": "医学",
+      "titleJa": "動物由来感染症（2）",
+      "titleEn": "Zoonotic Diseases (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The research predicts that much of the new virus transmission will happen when species meet for the first time as they move to cooler locales because of rising temperatures. And it projects that this will occur most often in species-rich ecosystems at high <red>elevations</red>, particularly areas of Africa and Asia, and in areas that are densely <red>populated</red> by humans, including Africa’s Sahel <red>region</red>, India and Indonesia. <red>Assuming</red> that the planet warms by no more than 2°C above pre-industrial temperatures this century — a future predicted by some climate <red>analyses</red> — the number of first-time meetings between species will double by 2070, creating virus-transmission hotspots, the study says.",
+          "translation": "この研究では，新たなウイルス伝播の多くは，気温上昇のせいで，さまざまな種がより涼しい地域へ移動するにつれて，それらが初めて出会う時に起こるだろうと予測されている。そしてこの感染はほとんどの場合，とりわけアフリカやアジア地域の<red>標高</red>の高い地で種が豊富な生態系で，そして<red>人が密集して住んでいる</red>アフリカのサヘル<red>地域</red>，インド，インドネシアなどの地域において起こるだろうと推測されている。地球が今世紀に，産業革命以前の気温から，わずかに2℃しか温暖化しない<red>と仮定しても</red>――これは，いくつかの気候<red>解析</red>で予測された未来だが――異種間の初めての遭遇の件数は2070年までに2倍となり，ウイルス感染のホットスポット（感染しやすい場所）ができてしまうだろうと研究では述べられている。"
+        },
+        {
+          "number": 2,
+          "english": "“This work provides us with more <red>incontrovertible</red> evidence that the coming decades will not only be hotter, but sicker,” says Gregory Albery, a <red>disease</red> <red>ecologist</red> at Georgetown University in Washington DC and a co-author of the study.",
+          "translation": "「この研究は，今後数十年間はもっと暑くなるだけでなく，ますます病気が増えるだろうという，<red>疑う余地のない</red>，さらなる証拠を私たちに提供してくれます。」と，ワシントンDCにあるジョージタウン大学の<red>疾病</red><red>生態学</red>者で，この研究の共著者でもあるグレゴリー・アルバリーは語る。"
+        },
+        {
+          "number": 3,
+          "english": "To make their predictions, Albery and his colleagues developed and tested models, and ran <red>simulations</red> over a five-year period. They combined models of virus transmission and species <red>distribution</red> under various climate-change scenarios, <red>focusing</red> on mammals because of their <red>relevance</red> to human health. (The end)",
+          "translation": "予測を行うために，アルバリーと彼の同僚たちはモデルを開発し，試して，さらに5年に及ぶ期間にわたり<red>シミュレーション</red>を実行した。彼らはさまざまな気候変動の筋書きの下で，ウイルス感染と種の<red>分布</red>のモデルを組み合わせ，ヒトの健康との<red>関連性</red>があるという理由で哺乳類に<red>重点を置いている</red>。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "at higher <red>elevations</red>",
+          "phonetic": "[èləvéiʃənz]",
+          "pos": "名",
+          "japanese": "より高い<red>高度</red>で",
+          "meaning": "高度，標高"
+        },
+        {
+          "english": "a <red>thinly-populated</red> area",
+          "phonetic": "[θínli pάpjəlèitid]",
+          "pos": "形",
+          "japanese": "<red>住んでいる人の少ない</red>地域",
+          "meaning": "住んでいる人の少ない"
+        },
+        {
+          "english": "neighboring <red>regions</red>",
+          "phonetic": "[ríːdʒənz]",
+          "pos": "名",
+          "japanese": "近隣の<red>地区</red>",
+          "meaning": "地域，地方"
+        },
+        {
+          "english": "<red>assuming</red> that SV",
+          "phonetic": "[əs(j)úːmiŋ]",
+          "pos": "他",
+          "japanese": "SVである<red>と仮定すると</red>",
+          "meaning": "だと仮定する，を前提とする"
+        },
+        {
+          "english": "a chemical <red>analysis</red>",
+          "phonetic": "[ənǽləsis]",
+          "pos": "名",
+          "japanese": "化学<red>分析</red>",
+          "meaning": "分析，解析"
+        },
+        {
+          "english": "<red>analyze</red>",
+          "phonetic": "[ǽnəlàiz]",
+          "pos": "他",
+          "japanese": "を<red>分析する</red>",
+          "meaning": "を分析する"
+        },
+        {
+          "english": "<red>incontrovertible</red> evidence",
+          "phonetic": "[ìnkɑ̀ntrəvə́ːrtəbl]",
+          "pos": "形",
+          "japanese": "<red>疑う余地のない</red>証拠",
+          "meaning": "明白な，疑う余地のない"
+        },
+        {
+          "english": "contract the <red>disease</red>",
+          "phonetic": "[dizíːz]",
+          "pos": "名",
+          "japanese": "<red>病気</red>にかかる",
+          "meaning": "病気，疾患"
+        },
+        {
+          "english": "marine <red>ecology</red>",
+          "phonetic": "[ikάlədʒi, e-]",
+          "pos": "名",
+          "japanese": "海洋<red>生態学</red>",
+          "meaning": "生態学"
+        },
+        {
+          "english": "<red>ecologist</red>",
+          "phonetic": "[ikάlədʒist, e-]",
+          "pos": "名",
+          "japanese": "<red>生態学者</red>",
+          "meaning": "生態学者"
+        },
+        {
+          "english": "three-dimensional <red>simulation</red>",
+          "phonetic": "[sìmjəléiʃən]",
+          "pos": "名",
+          "japanese": "3D<red>シミュレーション</red>",
+          "meaning": "シミュレーション，模擬実験"
+        },
+        {
+          "english": "<red>simulate</red>",
+          "phonetic": "[símjəlèit]",
+          "pos": "他",
+          "japanese": "の<red>シミュレーションを行う</red>",
+          "meaning": "のシミュレーションを行う"
+        },
+        {
+          "english": "the <red>distribution</red> of bears",
+          "phonetic": "[dìstrəbjúːʃən]",
+          "pos": "名",
+          "japanese": "熊の<red>分布</red>",
+          "meaning": "分布，散らばり具合"
+        },
+        {
+          "english": "<red>focus</red> on the individual",
+          "phonetic": "[fóukəs]",
+          "pos": "自",
+          "japanese": "個々人に<red>焦点を当てる</red>",
+          "meaning": "焦点を合わせる，集中する"
+        },
+        {
+          "english": "<red>relevance</red> to reality",
+          "phonetic": "[réləvəns]",
+          "pos": "名",
+          "japanese": "現実との<red>関連性</red>",
+          "meaning": "関連性，つながり"
+        },
+        {
+          "english": "<red>relevant</red>",
+          "phonetic": "[réləvənt]",
+          "pos": "形",
+          "japanese": "<red>関連性のある</red>；重要な",
+          "meaning": "関連性のある；重要な"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>assume</red>",
+          "pos": "他",
+          "meaning": "（責任など）を引き受ける（＋だと仮定する，を前提とする）",
+          "example": "She will <red>assume</red> full responsibility for the project.",
+          "translation": "プロジェクトの全責任は彼女が負います"
+        },
+        {
+          "headword": "<red>ecology</red>",
+          "pos": "名",
+          "meaning": "（自然）環境（＋生態学）",
+          "example": "Land development can disrupt a forest <red>ecology</red>.",
+          "translation": "土地開発が森の環境を乱すことがある"
+        },
+        {
+          "headword": "<red>distribution</red>",
+          "pos": "名",
+          "meaning": "配布，流通（＋分布，散らばり具合）",
+          "example": "Flyer <red>distribution</red> is an effective marketing strategy.",
+          "translation": "チラシの配布は有効なマーケティング戦略である"
+        },
+        {
+          "headword": "<red>relevance</red>",
+          "pos": "名",
+          "meaning": "妥当性，適切さ（＋関連性，つながり）",
+          "example": "His comment lacked <red>relevance</red>.",
+          "translation": "彼の論評は妥当性を欠いていた"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "chapter": 3,
+      "chapterTitle": "医学",
+      "titleJa": "人間の脳の不思議（1）",
+      "titleEn": "The Mysteries of the Human Brain (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Humans are able to thrive in many different environments, from the <red>frozen</red> tundra to the high mountains to busy urban centers. This is possible because the human brain is born remarkably unfinished. Instead of arriving with everything wired up — let’s call it “hardwired” — a human brain allows itself to be shaped by the <red>details</red> of life experience. This leads to long periods of <red>helplessness</red> as the young brain slowly <red>molds</red> to its environment. It’s “livewired”.",
+          "translation": "人類は<red>凍っていた</red>ツンドラから高山，騒がしい都心まで，多種多様な環境でしっかりと生きていくことができる。そうすることができるのは，人間の脳が，驚くほど未完成の状態で生まれるからだ。すべてが配線の施された状態で生まれてくるのではなく――それを「組み込み済み」と呼ぶことにしよう――人間の脳は，人生経験の<red>こまごまとした部分</red>によって脳自体が形作られることを可能にしている。このため，若い脳がゆっくりとその環境に<red>合わせて形成されていく</red>間，<red>無力</red>な長い期間を生むことになる。人間の脳は「絶えず書き換えられている」のである。"
+        },
+        {
+          "number": 2,
+          "english": "What’s the secret behind the <red>flexibility</red> of young brains? It’s not about growing new <red>cells</red> — in fact, the number of brain cells is the same in children and adults. Instead, the secret lies in how those cells are connected.",
+          "translation": "若い脳のこの<red>柔軟性</red>に隠された秘密は何だろうか。それは新しい<red>細胞</red>が増殖することとは関係がない。実際，脳細胞の数は子どもと成人とで同じである。むしろ，その秘密はそれらの細胞がどのように結合されるか，ということにある。"
+        },
+        {
+          "number": 3,
+          "english": "At birth, a baby’s <red>neurons</red> are <red>distinct</red> and unconnected, and in the first two years of life they begin connecting up extremely rapidly as they take in <red>sensory</red> information. As many as two million new connections, or “<red>synapses</red>,” are formed every second in an infant’s brain. By age two, a child has over one hundred trillion synapses, double the number an adult has.",
+          "translation": "出生時点では赤ちゃんの<red>ニューロン</red>は<red>一本一本がはっきり区別され</red>，結合しておらず，その後，人生の最初の2年間に，<red>感覚</red>情報を取り込むにつれて，極めて急速に結合し始める。毎秒200万もの新たな結合，すなわち「<red>シナプス</red>」が，乳児の脳内で形成されるのである。2歳までに，子どもは100兆あまりのシナプスを手に入れるが，それは成人がもつ数の2倍である。"
+        },
+        {
+          "number": 4,
+          "english": "It has now reached a peak and has far more connections than it will need. At this point, the <red>blooming</red> of new connections is taken over by a strategy of neural “pruning”. As you <red>mature</red>, 50% of your synapses will be cut back. (continued)",
+          "translation": "ここでシナプスの数は頂点に達し，必要となるよりもはるかに多い結合数になっている。この段階で，新たな結合の<red>大発生</red>は，神経の「刈り込み」戦略に引き継がれる。人が<red>成熟する</red>につれて，シナプスの50％は刈り込まれてしまうのである。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>frozen</red> beef",
+          "phonetic": "[fróuzn]",
+          "pos": "形",
+          "japanese": "<red>冷凍</red>牛肉",
+          "meaning": "凍った，冷凍の"
+        },
+        {
+          "english": "describe in <red>detail</red>",
+          "phonetic": "[díːteil, ditéil]",
+          "pos": "名",
+          "japanese": "<red>詳細</red>に記述する",
+          "meaning": "詳細，ディテール"
+        },
+        {
+          "english": "a sense of <red>helplessness</red>",
+          "phonetic": "[hélpləsnəs]",
+          "pos": "名",
+          "japanese": "<red>無力感</red>",
+          "meaning": "無力さ，無力感"
+        },
+        {
+          "english": "<red>mold</red> to the body",
+          "phonetic": "[móuld]",
+          "pos": "自",
+          "japanese": "体に<red>形が合う</red>（ように変化する）",
+          "meaning": "適合する，ぴったり合う"
+        },
+        {
+          "english": "strong and <red>flexible</red>",
+          "phonetic": "[fléksəbl]",
+          "pos": "形",
+          "japanese": "強くて<red>柔軟な</red>",
+          "meaning": "柔軟な；適応力のある"
+        },
+        {
+          "english": "<red>flexibility</red>",
+          "phonetic": "[flèksəbíləti]",
+          "pos": "名",
+          "japanese": "<red>柔軟性</red>，適応性",
+          "meaning": "柔軟性，適応性"
+        },
+        {
+          "english": "cancer <red>cells</red>",
+          "phonetic": "[sélz]",
+          "pos": "名",
+          "japanese": "がん<red>細胞</red>",
+          "meaning": "細胞"
+        },
+        {
+          "english": "<red>cellular</red>",
+          "phonetic": "[séljələr]",
+          "pos": "形",
+          "japanese": "<red>細胞</red>の",
+          "meaning": "細胞の"
+        },
+        {
+          "english": "a mirror <red>neuron</red>",
+          "phonetic": "[n(j)úərɑːn]",
+          "pos": "名",
+          "japanese": "ミラー<red>ニューロン</red>",
+          "meaning": "ニューロン，神経単位"
+        },
+        {
+          "english": "three <red>distinct</red> groups",
+          "phonetic": "[distíŋkt]",
+          "pos": "形",
+          "japanese": "明確に<red>異なる</red>3つの集団",
+          "meaning": "明確に異なる"
+        },
+        {
+          "english": "the <red>sensory</red> center",
+          "phonetic": "[sénsəri]",
+          "pos": "形",
+          "japanese": "<red>感覚</red>中枢",
+          "meaning": "感覚（知覚）の"
+        },
+        {
+          "english": "form a <red>synapse</red>",
+          "phonetic": "[sínæps, -]",
+          "pos": "名",
+          "japanese": "<red>シナプス</red>を形成する",
+          "meaning": "シナプス"
+        },
+        {
+          "english": "<red>bloom</red> in the spring",
+          "phonetic": "[blúːm]",
+          "pos": "自",
+          "japanese": "春に<red>開花する</red>",
+          "meaning": "開花する，成長する"
+        },
+        {
+          "english": "<red>mature</red> into A",
+          "phonetic": "[mət(j)úər, -tʃúər]",
+          "pos": "自",
+          "japanese": "<red>成長</red>してAになる",
+          "meaning": "成熟する，熟成する"
+        },
+        {
+          "english": "<red>maturity</red>",
+          "phonetic": "[mət(j)úərəti, -tʃúər-]",
+          "pos": "名",
+          "japanese": "<red>成熟</red>，熟成",
+          "meaning": "成熟，熟成"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>mold</red>",
+          "pos": "他/名",
+          "meaning": "を形作る／型；カビ（＋適合する，ぴったり合う）",
+          "example": "It is education that <red>molds</red> the minds of children.",
+          "translation": "子どもの精神を形成するのは教育である"
+        },
+        {
+          "headword": "<red>mold</red>",
+          "pos": "他/名",
+          "meaning": "を形作る／型；カビ（＋適合する，ぴったり合う）",
+          "example": "It’s not easy to break the <red>mold</red> of art.",
+          "translation": "芸術の型を破るのは容易ではない"
+        },
+        {
+          "headword": "<red>mold</red>",
+          "pos": "他/名",
+          "meaning": "を形作る／型；カビ（＋適合する，ぴったり合う）",
+          "example": "Penicillin is extracted from <red>mold</red>.",
+          "translation": "ペニシリンはカビから抽出される"
+        },
+        {
+          "headword": "<red>bloom</red>",
+          "pos": "自",
+          "meaning": "繁栄する（＋開花する，成長する）",
+          "example": "The Japanese economy started to <red>bloom</red> after the war.",
+          "translation": "戦争が終わって日本経済は繁栄を開始した"
+        },
+        {
+          "headword": "<red>mature</red>",
+          "pos": "形",
+          "meaning": "成熟した（＋成熟する，熟成する）",
+          "example": "They were physically <red>mature</red>, but behaved immaturely.",
+          "translation": "彼らは肉体的には成熟していたが，振る舞いは未熟だった"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "chapter": 3,
+      "chapterTitle": "医学",
+      "titleJa": "人間の脳の不思議（2）",
+      "titleEn": "The Mysteries of the Human Brain (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Which synapses stay and which go? When a synapse successfully <red>participates</red> in a <red>circuit</red>, it is strengthened; in contrast, synapses <red>weaken</red> if they aren’t useful, and <red>eventually</red> they are eliminated. Just like paths in a forest, you lose the connections that you don’t use.",
+          "translation": "どのシナプスが残り，どれが消えるのだろうか。あるシナプスがうまく1つの<red>回路</red>に<red>加わる</red>と，それは強化されるが，対照的に，役に立たなければシナプスは<red>弱まり</red>，<red>最終的には</red>排除されてしまう。まるで森の中の小道のように，使われない結合はなくなるのである。"
+        },
+        {
+          "number": 2,
+          "english": "In a <red>sense</red>, the <red>process</red> of becoming who you are is <red>defined</red> by <red>carving</red> back the possibilities that were already present. You become who you are not because of what grows in your brain, but because of what is removed.",
+          "translation": "ある<red>意味</red>で，人が今の自分になる<red>過程</red>は，すでに存在していた可能性<red>を切り落としていく</red>ことで<red>明確なものになる</red>。人が今の自分になるのは，その人の脳内で育ったもののおかげではなく，排除されたもののおかげなのである。"
+        },
+        {
+          "number": 3,
+          "english": "Throughout our childhoods, our local environments <red>refine</red> our brain, taking the <red>infinite</red> possibilities and shaping it back to <red>correspond</red> to what we’re exposed to. Our brains form fewer but stronger connections.",
+          "translation": "子ども時代を通して，私たちの局所環境が私たちの脳に<red>磨きをかけ</red>，<red>無限の</red>可能性を取り込んだ上で，脳を私たちがさらされたものと<red>合致する</red>ような形にし直すのだ。私たちの脳は，より少ないながらもより強い結合を作るのである。"
+        },
+        {
+          "number": 4,
+          "english": "As an example, the language that you’re exposed to in infancy (say, English versus Japanese) refines your ability to hear the particular sounds of your language, and <red>worsens</red> your <red>capacity</red> to hear the sounds of other languages. That is, a baby born in Japan and a baby born in America can hear and respond to all the sounds in both languages. Through time, the baby raised in Japan will lose the ability to <red>distinguish</red> between sounds that aren’t separated in Japanese. We are shaped by the world we happen to drop into. (The end)",
+          "translation": "一例を挙げると，幼少の頃にさらされた言語（例えば英語対日本語）は，母語の特定の音を聞き取る能力を鍛え，そして他の言語の音を聞き取る<red>能力を低下させる</red>。すなわち，日本で生まれる赤ちゃんとアメリカで生まれる赤ちゃんは，2つの言語の音をすべて聞き取り，それに反応することができる。時とともに，日本で育てられた赤ちゃんは，日本語において区別されない音を<red>識別する</red>能力を失うことになるのだ。私たちは，たまたま生まれ落ちる世界によって作り上げられるのである。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>participate</red> in a test",
+          "phonetic": "[pɑːrtísəpèit]",
+          "pos": "自",
+          "japanese": "テストに<red>参加する</red>",
+          "meaning": "参加する"
+        },
+        {
+          "english": "a <red>circuit</red> board",
+          "phonetic": "[sə́ːrkət]",
+          "pos": "名",
+          "japanese": "<red>回路</red>基板",
+          "meaning": "回路，回線"
+        },
+        {
+          "english": "cause O to <red>weaken</red>",
+          "phonetic": "[wíːkən]",
+          "pos": "自",
+          "japanese": "Oを<red>弱まらせる</red>",
+          "meaning": "弱まる，力を失う"
+        },
+        {
+          "english": "<red>eventually</red> succeed",
+          "phonetic": "[ivéntʃuəli, -tʃəli]",
+          "pos": "副",
+          "japanese": "<red>最終的に</red>成功する",
+          "meaning": "最終的に，結局は"
+        },
+        {
+          "english": "in every <red>sense</red> of the word",
+          "phonetic": "[séns]",
+          "pos": "名",
+          "japanese": "言葉のあらゆる<red>意味</red>において",
+          "meaning": "（言葉の）意味，語義"
+        },
+        {
+          "english": "the aging <red>process</red>",
+          "phonetic": "[prɑ́ses, -əs]",
+          "pos": "名",
+          "japanese": "老化の<red>過程</red>",
+          "meaning": "過程，作用"
+        },
+        {
+          "english": "<red>define</red> a term",
+          "phonetic": "[difáin]",
+          "pos": "他",
+          "japanese": "用語<red>を定義する</red>",
+          "meaning": "を定義する；を明らかにする"
+        },
+        {
+          "english": "<red>carve</red> a Buddha",
+          "phonetic": "[kɑ́ːrv]",
+          "pos": "他",
+          "japanese": "仏像を<red>彫刻する</red>",
+          "meaning": "を削る；を減らす"
+        },
+        {
+          "english": "<red>refine</red> the design",
+          "phonetic": "[rifáin]",
+          "pos": "他",
+          "japanese": "デザイン<red>を洗練する</red>",
+          "meaning": "を洗練する，に磨きをかける"
+        },
+        {
+          "english": "<red>infinite</red> possibilities",
+          "phonetic": "[ínfənət]",
+          "pos": "形",
+          "japanese": "<red>無限</red>の可能性",
+          "meaning": "無限の，無数の"
+        },
+        {
+          "english": "<red>correspond</red> with the facts",
+          "phonetic": "[kɔ̀ːrəspάnd, kɑ̀ːr-]",
+          "pos": "自",
+          "japanese": "事実と<red>一致する</red>",
+          "meaning": "一致する，符合する"
+        },
+        {
+          "english": "<red>worsen</red> the relationship",
+          "phonetic": "[wə́ːrsn]",
+          "pos": "他",
+          "japanese": "関係<red>を悪化させる</red>",
+          "meaning": "を悪化させる"
+        },
+        {
+          "english": "an innate <red>capacity</red>",
+          "phonetic": "[kəpǽsəti]",
+          "pos": "名",
+          "japanese": "生得の<red>能力</red>",
+          "meaning": "能力，素質"
+        },
+        {
+          "english": "<red>distinguish</red> between A and B",
+          "phonetic": "[distíŋgwiʃ]",
+          "pos": "自",
+          "japanese": "AとBを<red>区別する</red>",
+          "meaning": "区別する，相違を見分ける"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>sense</red>",
+          "pos": "名",
+          "meaning": "感覚；分別（＋（言葉の）意味，語義）",
+          "example": "Dogs have a keen <red>sense</red> of smell.",
+          "translation": "犬は匂いの感覚が鋭い"
+        },
+        {
+          "headword": "<red>sense</red>",
+          "pos": "名",
+          "meaning": "感覚；分別（＋（言葉の）意味，語義）",
+          "example": "He had enough <red>sense</red> to refuse the bribe.",
+          "translation": "彼には賄賂を断るだけの分別があった"
+        },
+        {
+          "headword": "<red>process</red>",
+          "pos": "名",
+          "meaning": "工程，製法（＋過程，作用）",
+          "example": "I watched the production <red>process</red> from beginning to end.",
+          "translation": "製造工程を始めから終わりまで見学した"
+        },
+        {
+          "headword": "<red>correspond</red>",
+          "pos": "自",
+          "meaning": "対応する，相当する（＋一致する，符合する）",
+          "example": "Write the number that <red>corresponds</red> to your answer.",
+          "translation": "解答に対応する数字を記入しなさい"
+        },
+        {
+          "headword": "<red>capacity</red>",
+          "pos": "名",
+          "meaning": "容量，定員（＋能力，素質）",
+          "example": "What’s the storage <red>capacity</red> of this hard drive?",
+          "translation": "このハードディスクの記録容量はどのくらいですか"
+        }
+      ]
+    },
+    "16": {
+      "id": 16,
+      "chapter": 4,
+      "chapterTitle": "医療",
+      "titleJa": "居住型ホスピス",
+      "titleEn": "Residential Hospice",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "For many <red>terminally-ill</red> patients, the desire to spend their final days in a familiar, comforting environment is a profound one. A recent survey in Japan <red>revealed</red> that over 43% of respondents preferred to die at home, compared to 41.6% who favored passing away at medical <red>institutions</red>. This slight difference suggests the difficult balance between the comfort of a familiar space and the specialized care of a medical institution. The wish for greater <red>personalized</red> end-of-life care, coupled with the <red>burden</red> that full-time care can present to family members, has led to a rise in the popularity of <red>hospice</red>-type <red>residences</red>.",
+          "translation": "多くの<red>末期</red>患者にとって，自分の最後の日々を慣れ親しんだ，心が和む環境で過ごしたいという強い願いは切実なものである。日本での最近の調査で<red>明らかになった</red>ことだが，自分の家で死にたいという回答者が43％を超えたのに対して，医療<red>機関</red>で亡くなるほうがいいという回答者は41.6％だった。このように僅差であることが，慣れ親しんだ場所の安らぎと，医療機関の専門的な看護との難しい均衡を示唆している。より<red>個別化された</red>終末期医療への希望が，終日の看護が家族に与えかねない<red>負担</red>と相まって，<red>ホスピス</red>型<red>住居</red>人気の高まりにつながっているのである。"
+        },
+        {
+          "number": 2,
+          "english": "Hospice-type residences, which are slightly different from ordinary nursing homes, are specialized <red>facilities</red> catering to patients with terminal conditions, such as late-stage cancer. Unlike hospitals, these residences meet patients’ <red>aforementioned</red> <red>preference</red> for familiar comfort and professional care. These patients can live at their own pace and <red>retain</red> some measure of <red>independence</red> while benefiting from their chosen level of <red>palliative</red> care. Residents are encouraged to bring personal furnishings to create a home-like atmosphere, furthering the sense of comfort in their final days.",
+          "translation": "ホスピス型住居は，ふつうの老人ホームとは少し異なっており，末期がんなど，末期の状態にある患者たちに対応する専門<red>施設</red>である。病院とは違い，このような住居は，慣れ親しんだ安らぎと専門的看護に対する，患者たちの<red>前述の希望</red>に応えるものである。こうした患者たちは，自分が望む度合いの<red>緩和</red>ケアの恩恵を受けながら，自身のペースで生活し，ある程度の<red>自立を保つ</red>ことができるのだ。居住者たちは，我が家のような雰囲気を作り出すために個人の家具を持ち込むことが奨励され，それが彼らの最後の日々における心地よい感覚を高めている。"
+        },
+        {
+          "number": 3,
+          "english": "Demand for hospice-type residences is projected to surge, with industry reports indicating a 2.7-fold increase in facility openings between 2020 and 2023. However, these facilities are quite <red>costly</red> for the average retiree with limited financial means. <red>Addressing</red> this gap requires societal support to ensure that all individuals, regardless of wealth, can make meaningful choices about their end-of-life care and <red>maintain</red> <red>dignity</red> in their <red>twilight</red> years.",
+          "translation": "ホスピス型住居の需要は急増すると見込まれており，業界レポートに示されているところでは，施設の新規開設数は，2020年から2023年の間に2.7倍に増加するということである。しかしこのような施設は，限られた財力しか持たない平均的な退職者にとっては，かなり<red>費用がかかる</red>ものだ。この格差に<red>対処する</red>には，すべての人が富とは関わりなく，確実に終末期医療について意味のある選択ができ，その<red>晩年</red>に<red>尊厳を維持</red>できるようにすることが，社会的支援に求められるのである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a <red>terminally-ill</red> patient",
+          "phonetic": "[tə́ːrmənəli]",
+          "pos": "形",
+          "japanese": "<red>末期</red>患者",
+          "meaning": "病気が末期段階の"
+        },
+        {
+          "english": "<red>reveal</red> the truth",
+          "phonetic": "[rivíːl]",
+          "pos": "他",
+          "japanese": "真実を<red>明らかにする</red>",
+          "meaning": "を明らかにする"
+        },
+        {
+          "english": "an educational <red>institution</red>",
+          "phonetic": "[ìnstət(j)úːʃən]",
+          "pos": "名",
+          "japanese": "教育<red>機関</red>",
+          "meaning": "施設，機関"
+        },
+        {
+          "english": "a <red>personalized</red> program",
+          "phonetic": "[pə́ːrsənəlàizd]",
+          "pos": "形",
+          "japanese": "<red>個別化された</red>プログラム",
+          "meaning": "個別化された，個人仕様の"
+        },
+        {
+          "english": "shoulder the <red>burden</red> of A",
+          "phonetic": "[bə́ːrdn]",
+          "pos": "名",
+          "japanese": "Aの<red>重荷</red>を背負う",
+          "meaning": "重荷，負担，大変な仕事"
+        },
+        {
+          "english": "a <red>hospice</red> for the dying",
+          "phonetic": "[hάspis]",
+          "pos": "名",
+          "japanese": "末期患者のための<red>ホスピス</red>",
+          "meaning": "ホスピス"
+        },
+        {
+          "english": "a private <red>residence</red>",
+          "phonetic": "[rézədəns]",
+          "pos": "名",
+          "japanese": "個人の<red>邸宅</red>［民家］",
+          "meaning": "住まい，住居"
+        },
+        {
+          "english": "a medical <red>facility</red>",
+          "phonetic": "[fəsíləti]",
+          "pos": "名",
+          "japanese": "医療<red>施設</red>",
+          "meaning": "施設，設備"
+        },
+        {
+          "english": "for the <red>aforementioned</red> reason",
+          "phonetic": "[əfɔ̀ːrménʃənd, -ʃən]",
+          "pos": "形",
+          "japanese": "<red>前述</red>の理由により",
+          "meaning": "前述の，先に述べた"
+        },
+        {
+          "english": "in order of <red>preference</red>",
+          "phonetic": "[préfərəns]",
+          "pos": "名",
+          "japanese": "<red>好み</red>の順に",
+          "meaning": "好み，希望；優先（権）"
+        },
+        {
+          "english": "<red>retain</red> an old custom",
+          "phonetic": "[ritéin]",
+          "pos": "他",
+          "japanese": "古い慣習<red>を保ち続ける</red>",
+          "meaning": "を維持する，を保持する"
+        },
+        {
+          "english": "achieve <red>independence</red>",
+          "phonetic": "[ìndipéndəns]",
+          "pos": "名",
+          "japanese": "<red>独立</red>を成し遂げる",
+          "meaning": "独立，自立"
+        },
+        {
+          "english": "<red>palliative</red> care",
+          "phonetic": "[pǽliətiv]",
+          "pos": "形",
+          "japanese": "<red>緩和</red>ケア",
+          "meaning": "緩和の，一時的に和らげる"
+        },
+        {
+          "english": "a <red>costly</red> mistake",
+          "phonetic": "[kɔ́ːstli]",
+          "pos": "形",
+          "japanese": "<red>高くつく</red>過ち",
+          "meaning": "費用のかかる，高額な"
+        },
+        {
+          "english": "<red>address</red> the issue",
+          "phonetic": "[ədrés]",
+          "pos": "他",
+          "japanese": "問題に<red>取り組む</red>",
+          "meaning": "に取り組む，に対処する"
+        },
+        {
+          "english": "<red>maintain</red> the status quo",
+          "phonetic": "[meintéin, mən-]",
+          "pos": "他",
+          "japanese": "現状<red>を維持する</red>",
+          "meaning": "を維持する"
+        },
+        {
+          "english": "treat O with <red>dignity</red>",
+          "phonetic": "[dígnəti]",
+          "pos": "名",
+          "japanese": "<red>威厳</red>を持ってOに接する",
+          "meaning": "尊厳，威厳"
+        },
+        {
+          "english": "in his <red>twilight</red> years",
+          "phonetic": "[twáilàit]",
+          "pos": "形",
+          "japanese": "彼の<red>晩年</red>に",
+          "meaning": "たそがれ（時）の，薄明かりの"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>institution</red>",
+          "pos": "名",
+          "meaning": "制度（＋施設，機関）",
+          "example": "Marriage is a social <red>institution</red>.",
+          "translation": "結婚は社会的制度である"
+        },
+        {
+          "headword": "<red>facility</red>",
+          "pos": "名",
+          "meaning": "才能，容易さ（＋施設，設備）",
+          "example": "Young children learn a new language with <red>facility</red>.",
+          "translation": "幼い子どもは新しい言語を楽々と学ぶ"
+        },
+        {
+          "headword": "<red>maintain</red>",
+          "pos": "他",
+          "meaning": "を主張する（＋を維持する）",
+          "example": "The defendant <red>maintained</red> his innocence.",
+          "translation": "被告人は無実を主張した"
         }
       ]
     }

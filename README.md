@@ -1,5 +1,5 @@
-Lingua MVP v17
+Lingua MVP v20
 
-- 幅が狭いスマホ表示ではヘッダ左右の前後Passageボタンを非表示
-- PC幅では前後Passageボタンを表示
-- スマホの左右スワイプ移動は維持
+- Passage 15 を追加
+- Passage 16 を追加
+- Passage 15/16 の本文・和訳・フレーズ・多義語を追加

@@ -1,5 +1,10 @@
-Lingua MVP v20
+Lingua MVP v21
 
-- Passage 15 を追加
-- Passage 16 を追加
-- Passage 15/16 の本文・和訳・フレーズ・多義語を追加
+- PWA対応を追加
+- manifest.webmanifest を追加
+- Service Worker を追加
+- 添付画像からPWAアイコンを生成
+
+使い方:
+1. HTTPS配信またはlocalhostで開く
+2. Android Chromeのメニューから「ホーム画面に追加」または「アプリをインストール」

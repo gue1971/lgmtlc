@@ -106,12 +106,12 @@ window.LINGUA_DATA = {
         {
           "id": 17,
           "titleJa": "臓器移植の推定同意（1）",
-          "titleEn": ""
+          "titleEn": "Presumed Consent for Organ Donation (1)"
         },
         {
           "id": 18,
           "titleJa": "臓器移植の推定同意（2）",
-          "titleEn": ""
+          "titleEn": "Presumed Consent for Organ Donation (2)"
         },
         {
           "id": 19,
@@ -3079,6 +3079,359 @@ window.LINGUA_DATA = {
           "meaning": "を主張する（＋を維持する）",
           "example": "The defendant <red>maintained</red> his innocence.",
           "translation": "被告人は無実を主張した"
+        }
+      ]
+    },
+    "17": {
+      "id": 17,
+      "chapter": 4,
+      "chapterTitle": "医療",
+      "titleJa": "臓器移植の推定同意（1）",
+      "titleEn": "Presumed Consent for Organ Donation (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In 2018, there were 4,351 Canadians on waiting lists for an organ <red>transplant</red>. In the same year, 223 Canadians died while awaiting organ transplants.",
+          "translation": "2018年，臓器<red>移植</red>の順番待ちリストには4,351人のカナダ人がいた。同年，223人のカナダ人が臓器移植を待つ間に亡くなった。"
+        },
+        {
+          "number": 2,
+          "english": "These numbers have been growing over the last decade. For example, between 2009 and 2019, the number of Canadians in end-stage renal failure increased by 35 per cent, significantly raising the number of individuals requiring <red>kidney</red> transplants. The situation is only expected to worsen, as it is <red>anticipated</red> that more Canadians will require organ transplants over the coming years.",
+          "translation": "こういった数字は過去10年間で増加してきた。例えば，2009年から2019年の間に，末期の腎不全を患うカナダ人の数は35パーセント増加し，<red>腎臓</red>移植を求める人の数を大幅に引き上げた。さらに多くのカナダ人が，今後数年にわたって臓器移植を求めることになると<red>予測される</red>ので，状況は悪化する一方だと思われる。"
+        },
+        {
+          "number": 3,
+          "english": "Against the <red>backdrop</red> of these <red>sobering</red> statistics, Nova Scotia is set to become the first <red>jurisdiction</red> in North America to <red>enact</red> <red>legislation</red> to <red>tackle</red> the shortage of organs for transplant. Passed on April 2, 2019, the Human Organ and <red>Tissue</red> Act is scheduled to come into effect on Jan. 18, 2021.",
+          "translation": "これらの<red>はっとさせられるような</red>統計データを<red>背景</red>に，ノバスコシア州は，移植用臓器の不足に<red>取り組む</red>ための法律<red>を制定する</red>北米初の<red>管轄区域</red>となることになっている。ヒト臓器・<red>組織</red>法は2019年4月2日に可決され，2021年1月18日に発効される予定である。"
+        },
+        {
+          "number": 4,
+          "english": "The act <red>institutes</red> an “opt-out” system to organ <red>donation</red>, which <red>functions</red> on the idea of <red>presumed consent</red>. In its essence, this idea presumes that individuals have consented to having their organs <red>harvested</red> upon their death for transplantation into others in need of those organs.",
+          "translation": "この法律は，臓器<red>提供</red>の「オプトアウト」方式<red>を定めており</red>，これは<red>推定同意</red>の考え方に基づいて<red>機能する</red>。要するにこの考え方は，個人がその死亡時にその臓器を，それを必要としている他人への移植のために<red>摘出される</red>ことに同意していると推定するものだ。"
+        },
+        {
+          "number": 5,
+          "english": "Nova Scotia’s opt-out system goes against <red>prevailing</red> practice in Canada. Currently, organ donation is based on the “opt-in” system, in which individuals must sign up to be organ donors while they are alive in order for their organs to be harvested for transplantation upon their death. (continued)",
+          "translation": "ノバスコシア州のオプトアウト方式は，カナダで<red>広く行われている</red>慣行に反している。現在のところ，臓器提供は「オプトイン」方式に基づいており，個人の死亡時にその臓器が移植用に摘出されるためには，彼らが生きている間に臓器提供者になるための登録を行わなければならない。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "an organ <red>transplant</red>",
+          "phonetic": "[trænsplǽnt]",
+          "pos": "名",
+          "japanese": "臓器<red>移植</red>",
+          "meaning": "移植"
+        },
+        {
+          "english": "<red>kidney</red> failure",
+          "phonetic": "[kídni]",
+          "pos": "名",
+          "japanese": "<red>腎</red>不全",
+          "meaning": "腎臓"
+        },
+        {
+          "english": "<red>anticipate</red> changes",
+          "phonetic": "[æntísəpèit]",
+          "pos": "他",
+          "japanese": "変化<red>を予期する</red>",
+          "meaning": "を予期する，だと予測する"
+        },
+        {
+          "english": "against the <red>backdrop</red> of A",
+          "phonetic": "[bǽkdrɑ̀p]",
+          "pos": "名",
+          "japanese": "Aを<red>背景</red>として",
+          "meaning": "背景"
+        },
+        {
+          "english": "a <red>sobering</red> thought",
+          "phonetic": "[sóubəriŋ]",
+          "pos": "形",
+          "japanese": "（人を）<red>はっとさせるような</red>考え",
+          "meaning": "真剣にさせる，はっとさせるような"
+        },
+        {
+          "english": "beyond the <red>jurisdiction</red>",
+          "phonetic": "[dʒùərisdíkʃən]",
+          "pos": "名",
+          "japanese": "<red>管轄</red>外で",
+          "meaning": "管轄区域；司法権"
+        },
+        {
+          "english": "<red>enact</red> a law",
+          "phonetic": "[inǽkt]",
+          "pos": "他",
+          "japanese": "法律<red>を制定する</red>",
+          "meaning": "を制定する"
+        },
+        {
+          "english": "approve <red>legislation</red>",
+          "phonetic": "[lèdʒisléiʃən]",
+          "pos": "名",
+          "japanese": "法律（の制定）を承認する",
+          "meaning": "立法（行為），法律制定"
+        },
+        {
+          "english": "<red>tackle</red> the problem",
+          "phonetic": "[tǽkl]",
+          "pos": "他",
+          "japanese": "問題に<red>取り組む</red>",
+          "meaning": "に取り組む"
+        },
+        {
+          "english": "nervous <red>tissue</red>",
+          "phonetic": "[tíʃuː]",
+          "pos": "名",
+          "japanese": "神経<red>組織</red>",
+          "meaning": "（細胞）組織"
+        },
+        {
+          "english": "<red>institute</red> a new policy",
+          "phonetic": "[ínstət(j)ùːt]",
+          "pos": "他",
+          "japanese": "新政策<red>を制定する</red>",
+          "meaning": "を制定する，を設ける"
+        },
+        {
+          "english": "an organ <red>donation</red>",
+          "phonetic": "[dounéiʃən]",
+          "pos": "名",
+          "japanese": "臓器<red>提供</red>",
+          "meaning": "提供，贈呈"
+        },
+        {
+          "english": "<red>function</red> normally",
+          "phonetic": "[fʌ́ŋkʃən]",
+          "pos": "自",
+          "japanese": "正常に<red>機能する</red>",
+          "meaning": "作動する，機能する"
+        },
+        {
+          "english": "be <red>presumed</red> to be innocent",
+          "phonetic": "[prizúːmd]",
+          "pos": "他",
+          "japanese": "無罪と<red>推定される</red>",
+          "meaning": "だと推定する"
+        },
+        {
+          "english": "by mutual <red>consent</red>",
+          "phonetic": "[kənsént]",
+          "pos": "名",
+          "japanese": "お互いの<red>同意</red>によって",
+          "meaning": "同意，合意"
+        },
+        {
+          "english": "<red>harvest</red> crops",
+          "phonetic": "[hɑ́ːrvəst]",
+          "pos": "他",
+          "japanese": "作物<red>を収穫する</red>",
+          "meaning": "を収穫する，を摘出する"
+        },
+        {
+          "english": "<red>prevail</red> among Asian countries",
+          "phonetic": "[privéil]",
+          "pos": "自",
+          "japanese": "アジア諸国の間で<red>広がっている</red>",
+          "meaning": "流行している，普及している"
+        },
+        {
+          "english": "<red>prevailing</red>",
+          "phonetic": "[privéiliŋ, prə-]",
+          "pos": "形",
+          "japanese": "<red>流行している</red>，普及している",
+          "meaning": "広く行われている"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>tissue</red>",
+          "pos": "名",
+          "meaning": "ティッシュ（＋（細胞）組織）",
+          "example": "The girl blew her nose on a <red>tissue</red>.",
+          "translation": "女の子はティッシュで鼻をかんだ"
+        },
+        {
+          "headword": "<red>donation</red>",
+          "pos": "名",
+          "meaning": "寄付金，義援金（＋提供，贈呈）",
+          "example": "Our organization is funded by private <red>donations</red>.",
+          "translation": "私たちの組織は個人の寄付金で運営されています"
+        },
+        {
+          "headword": "<red>prevail</red>",
+          "pos": "自",
+          "meaning": "勝利する，まさる（＋流行している，普及している）",
+          "example": "Truth will always <red>prevail</red>.",
+          "translation": "真実は常に勝つ"
+        }
+      ]
+    },
+    "18": {
+      "id": 18,
+      "chapter": 4,
+      "chapterTitle": "医療",
+      "titleJa": "臓器移植の推定同意（2）",
+      "titleEn": "Presumed Consent for Organ Donation (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "<strong>The case for presumed consent</strong><br>There is <red>ample</red> evidence to <red>substantiate</red> the <red>effectiveness</red> of presumed consent policy. Take the case of Spain, the country with the most <red>robust</red> opt-out system, which it established over 40 years ago. In 2019, Spain had 49 <red>deceased</red> organ donors per million population — by far the highest in the world. This compares to Canada’s paltry rate of 20.6 per million population on the same <red>measure</red>.",
+          "translation": "<strong>推定同意の事例</strong><br>推定同意政策の<red>有効性を実証する</red><red>十分な</red>証拠がある。最も<red>強固な</red>オプトアウト方式がある国，スペインの事例を挙げてみよう。同国はこれを40年あまり前に確立している。2019年，スペインには人口100万人あたり49人の<red>死亡した</red>臓器提供者がいたが，それは世界で群を抜いて最も高い比率であった。これは，同じ<red>基準</red>で比較した際の100万人あたりわずか20.6人というカナダの比率とは比べ物にならない。"
+        },
+        {
+          "number": 2,
+          "english": "Despite Canada’s <red>lagging</red> donation indicators, most Canadians support organ donation. For example, 85 per cent of Ontarians support donation, although only one-third have opted-in to the current system.",
+          "translation": "カナダの臓器提供が<red>後れを取っている</red>ことが示されているにもかかわらず，カナダ人の大部分は臓器提供を支持している。例えば，オンタリオ州の人々の85パーセントは臓器提供を支持しているものの，現行の方式にオプトインして同意の意思を示しているのはわずか3分の1の人たちにすぎない。"
+        },
+        {
+          "number": 3,
+          "english": "This <red>discrepancy</red> has been <red>attributed</red> to <red>apathy</red> in <red>registering</red> as a donor rather than serious moral <red>objections</red> to donating <red>posthumously</red>. If <red>surveys</red> of public opinion are correct, then an opt-out system would get it right more times than it gets it wrong when making assumptions about individuals’ wishes. (The end)",
+          "translation": "この<red>食い違い</red>は，死後に臓器提供することへの真剣な道徳的<red>反対</red>というよりもむしろ，臓器提供者として<red>登録すること</red>への<red>無関心が原因になっているもの</red>であると考えられてきた。世論<red>調査</red>が正しいとすると，個々人の意向について推定する場合に，オプトアウト方式はその意向を誤解するよりも，正しく理解することのほうが多いのだろう。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>ample</red> evidence of A",
+          "phonetic": "[ǽmpl]",
+          "pos": "形",
+          "japanese": "Aの<red>豊富</red>な証拠",
+          "meaning": "多量の，豊富な"
+        },
+        {
+          "english": "<red>substantiate</red> one’s claim",
+          "phonetic": "[səbstǽnʃièit]",
+          "pos": "他",
+          "japanese": "主張<red>を裏付ける</red>",
+          "meaning": "を裏付ける，を実証する"
+        },
+        {
+          "english": "an <red>effective</red> means",
+          "phonetic": "[eféktiv]",
+          "pos": "形",
+          "japanese": "<red>有効</red>な手段",
+          "meaning": "効果的な，有効な"
+        },
+        {
+          "english": "<red>effectiveness</red>",
+          "phonetic": "[eféktivnəs]",
+          "pos": "名",
+          "japanese": "<red>効果</red>，有効性",
+          "meaning": "効果，有効性"
+        },
+        {
+          "english": "a <red>robust</red> faith",
+          "phonetic": "[roubʌ́st]",
+          "pos": "形",
+          "japanese": "<red>強固</red>な信念",
+          "meaning": "強力な；頑丈な"
+        },
+        {
+          "english": "one’s <red>deceased</red> parents",
+          "phonetic": "[disíːst]",
+          "pos": "形",
+          "japanese": "<red>亡くなった</red>両親",
+          "meaning": "亡くなった，死亡している"
+        },
+        {
+          "english": "on the same <red>measure</red>",
+          "phonetic": "[méʒər]",
+          "pos": "名",
+          "japanese": "同じ<red>基準</red>で",
+          "meaning": "基準；程度，分量"
+        },
+        {
+          "english": "<red>lag</red> behind other countries",
+          "phonetic": "[lǽg]",
+          "pos": "自",
+          "japanese": "他国に<red>後れを取る</red>",
+          "meaning": "後れを取る，進行が遅い"
+        },
+        {
+          "english": "a <red>discrepancy</red> in A",
+          "phonetic": "[diskrépənsi]",
+          "pos": "名",
+          "japanese": "Aの<red>差異</red>",
+          "meaning": "差異，不一致"
+        },
+        {
+          "english": "<red>attribute</red> A to B",
+          "phonetic": "[ətríbjuːt, -bjùːt]",
+          "pos": "他",
+          "japanese": "Aの<red>原因</red>はBだと考える",
+          "meaning": "（結果など）の原因を〈人・物・事〉にする"
+        },
+        {
+          "english": "<red>apathy</red> towards the election",
+          "phonetic": "[ǽpəθi]",
+          "pos": "名",
+          "japanese": "選挙への<red>無関心</red>",
+          "meaning": "無関心，無気力"
+        },
+        {
+          "english": "<red>register</red> for a course",
+          "phonetic": "[rédʒistər]",
+          "pos": "自",
+          "japanese": "講座に<red>登録する</red>",
+          "meaning": "登録する"
+        },
+        {
+          "english": "<red>registration</red>",
+          "phonetic": "[rèdʒəstréiʃən]",
+          "pos": "名",
+          "japanese": "<red>登録</red>，記載",
+          "meaning": "登録，記載"
+        },
+        {
+          "english": "raise an <red>objection</red>",
+          "phonetic": "[əbdʒékʃən]",
+          "pos": "名",
+          "japanese": "<red>反対</red>の声を上げる",
+          "meaning": "反対（意見），抗議"
+        },
+        {
+          "english": "<red>objectionable</red>",
+          "phonetic": "[əbdʒékʃənəbl]",
+          "pos": "形",
+          "japanese": "<red>不快</red>な，腹立たしい",
+          "meaning": "不快な，腹立たしい"
+        },
+        {
+          "english": "be published <red>posthumously</red>",
+          "phonetic": "[pɑ́stʃəməsli]",
+          "pos": "副",
+          "japanese": "<red>死後に</red>出版される",
+          "meaning": "死後に"
+        },
+        {
+          "english": "take part in a <red>survey</red>",
+          "phonetic": "[sə́ːrvei, sərvéi]",
+          "pos": "名",
+          "japanese": "<red>調査</red>に参加する",
+          "meaning": "調査，測量"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>measure</red>",
+          "pos": "名",
+          "meaning": "対策（＋基準；程度，分量）",
+          "example": "Further <red>measures</red> must be taken to combat global warming.",
+          "translation": "地球温暖化を防ぐにはさらなる対策が必要だ"
+        },
+        {
+          "headword": "<red>attribute</red>",
+          "pos": "名",
+          "meaning": "属性，特性（＋〈原因〉を〜に帰す）",
+          "example": "What <red>attributes</red> do you think are necessary for a leader?",
+          "translation": "リーダーに必要な特性は何だと思いますか"
+        },
+        {
+          "headword": "<red>register</red>",
+          "pos": "他",
+          "meaning": "を記録する（＋登録する）",
+          "example": "Kuwait <red>registered</red> the highest temperature in the world.",
+          "translation": "クウェートが世界最高気温を記録した"
         }
       ]
     }

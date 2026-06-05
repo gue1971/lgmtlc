@@ -1,6 +1,6 @@
 {
   "name": "リンガメタリカ",
-  "short_name": "リンガ",
+  "short_name": "リンガメタリカ",
   "description": "リンガメタリカ学習用ローカルビューア",
   "start_url": "./index.html",
   "scope": "./",

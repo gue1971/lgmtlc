@@ -2146,7 +2146,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "a <red>life-threatening</red> illness",
-          "phonetic": "[láifrèθəniŋ]",
+          "phonetic": "[láifθrètnɪŋ]",
           "pos": "形",
           "japanese": "<red>命にかかわる</red>病気",
           "meaning": "生命を脅かす，命にかかわる"

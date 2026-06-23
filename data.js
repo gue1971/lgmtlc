@@ -142,17 +142,17 @@ window.LINGUA_DATA = {
         {
           "id": 23,
           "titleJa": "伝統的な建築から学べること（2）",
-          "titleEn": ""
+          "titleEn": "Lessons from Traditional Architecture (2)"
         },
         {
           "id": 24,
           "titleJa": "持続可能な未来へ向けて対策を講じる（1）",
-          "titleEn": ""
+          "titleEn": "Taking Steps Toward a Sustainable Future (1)"
         },
         {
           "id": 25,
           "titleJa": "持続可能な未来へ向けて対策を講じる（2）",
-          "titleEn": ""
+          "titleEn": "Taking Steps Toward a Sustainable Future (2)"
         }
       ]
     },
@@ -163,27 +163,27 @@ window.LINGUA_DATA = {
         {
           "id": 26,
           "titleJa": "功利主義と政策（1）",
-          "titleEn": ""
+          "titleEn": "Utilitarianism and Policy (1)"
         },
         {
           "id": 27,
           "titleJa": "功利主義と政策（2）",
-          "titleEn": ""
+          "titleEn": "Utilitarianism and Policy (2)"
         },
         {
           "id": 28,
           "titleJa": "社会正義への新たな道？",
-          "titleEn": ""
+          "titleEn": "A New Path to Social Justice?"
         },
         {
           "id": 29,
           "titleJa": "公平な社会とは？（1）",
-          "titleEn": ""
+          "titleEn": "What is a Fair Society? (1)"
         },
         {
           "id": 30,
           "titleJa": "公平な社会とは？（2）",
-          "titleEn": ""
+          "titleEn": "What is a Fair Society? (2)"
         }
       ]
     },
@@ -4093,6 +4093,1292 @@ window.LINGUA_DATA = {
           "meaning": "元素（＋要素）",
           "example": "K is the <red>element</red> symbol for potassium.",
           "translation": "Kはカリウムの元素記号である"
+        }
+      ]
+    },
+    "23": {
+      "id": 23,
+      "chapter": 5,
+      "chapterTitle": "環境",
+      "titleJa": "伝統的な建築から学べること（2）",
+      "titleEn": "Lessons from Traditional Architecture (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Traditional building principles are also closely linked to the natural <red>features</red> of the land. For example, <red>in terms of</red> <red>draining</red> <red>excess</red> rainwater from the land in ancient Rome, rainwater catchment systems on the ground were used to collect water that ran down from roofs. Thus, damage to buildings was reduced, and the recycled water could be used in homes, <red>in addition to</red> <red>supplementing</red> the city’s water supply. The natural features of the land also influenced the way that a building was placed. Various pre-industrial societies made considerations for providing natural daylight. In traditional Persian <red>architecture</red>, <red>courtyards</red> were used to allow more natural light into a greater number of rooms. To best allow for natural heating and cooling, rooms with south-facing windows were used in the winter, while those with north-facing windows were favored in the summer. <red>Incorporating</red> more natural daylight in modern building design would reduce our <red>dependence</red> on electric power and <red>combat</red> carbon emissions. Additionally, medical studies have shown that increasing the amount of natural light at home and in the workplace also improves people’s health and energy levels. (The end)",
+          "translation": "伝統的な建設の原則はまた，その土地の自然の<red>特性</red>とも密接に結びついている。例えば，古代ローマにおいて，土地から<red>余剰な</red>雨水を<red>排出させる</red>という<red>観点から</red>，地上の雨水集水システムが，屋根から流れ落ちる水を集めるのに使われた。それゆえに，建物への損害は軽減され，しかもそのリサイクルされた水は街の水の供給を<red>補完する</red>のに<red>加えて</red>，家庭でも利用することができたのである。土地の自然の特性はまた，建物が設置される方法にも影響を与えた。産業革命前のさまざまな社会は，自然光を提供することを考慮した。伝統的なペルシャ<red>建築</red>では，より多数の部屋の中に自然光がいっそう多く入るようにするために，<red>中庭</red>が利用された。自然による暖房や冷却の効果を最大にするために，南向きの窓がある部屋は冬に利用され，一方，北向きの窓がある部屋は夏に好まれた。現代の建築設計にももっと自然光を<red>取り込むこと</red>ができれば，私たちは電力への<red>依存</red>を削減し，また二酸化炭素の排出を<red>防ぐ</red>ことができるだろう。加えて，家庭や職場における自然光の量を増やすことは，人々の健康や活力の度合いをも改善することを医学的研究は示している。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a conspicuous <red>feature</red>",
+          "japanese": "顕著な<red>特徴</red>",
+          "pos": "名",
+          "phonetic": "[fíːtʃər]",
+          "meaning": "特徴，特色"
+        },
+        {
+          "english": "<red>in terms of</red> A",
+          "japanese": "A<red>の観点から</red>",
+          "pos": "",
+          "phonetic": "[in tə́ːrmz əv]",
+          "meaning": "の観点から"
+        },
+        {
+          "english": "<red>drain</red> a pool",
+          "japanese": "プールの<red>排水をする</red>",
+          "pos": "他",
+          "phonetic": "[dréin]",
+          "meaning": "の排水をする；を流し出す"
+        },
+        {
+          "english": "get rid of <red>excess</red> heat",
+          "japanese": "<red>余分な</red>熱を取る",
+          "pos": "形/名",
+          "phonetic": "[iksés, ék-]",
+          "meaning": "余分（の），超過（した）"
+        },
+        {
+          "english": "<red>in addition to</red> A",
+          "japanese": "A<red>に加えて</red>，A以外にも",
+          "pos": "",
+          "phonetic": "[in ədíʃən tə]",
+          "meaning": "に加えて"
+        },
+        {
+          "english": "<red>additional</red>",
+          "japanese": "<red>追加</red>の，付加的な",
+          "pos": "形",
+          "phonetic": "[ədíʃənl]",
+          "meaning": "追加の，付加的な"
+        },
+        {
+          "english": "<red>supplement</red> A with B",
+          "japanese": "BでA<red>を補う</red>",
+          "pos": "他",
+          "phonetic": "[sʌ́pləmənt]",
+          "meaning": "を補う，を補充する"
+        },
+        {
+          "english": "<red>supplementary</red>",
+          "japanese": "<red>補足的な</red>，追加の",
+          "pos": "形",
+          "phonetic": "[sʌ̀pləméntəri]",
+          "meaning": "補足的な，追加の"
+        },
+        {
+          "english": "the <red>architect</red> of the strategy",
+          "japanese": "戦略の<red>立案者</red>",
+          "pos": "名",
+          "phonetic": "[ɑ́ːrkətèkt]",
+          "meaning": "建築家，設計者"
+        },
+        {
+          "english": "<red>architecture</red>",
+          "japanese": "<red>建築</red>；構造物",
+          "pos": "名",
+          "phonetic": "[ɑ́ːrkətèktʃər]",
+          "meaning": "建築；構造物"
+        },
+        {
+          "english": "a walled <red>courtyard</red>",
+          "japanese": "塀で囲われた<red>中庭</red>",
+          "pos": "名",
+          "phonetic": "[kɔ́ːrtjɑ̀ːrd]",
+          "meaning": "中庭"
+        },
+        {
+          "english": "<red>incorporate</red> suggestions",
+          "japanese": "提案<red>を取り入れる</red>",
+          "pos": "他",
+          "phonetic": "[inkɔ́ːrpərèit]",
+          "meaning": "を取り入れる，を組み込む"
+        },
+        {
+          "english": "<red>incorporation</red>",
+          "japanese": "<red>組み入れ</red>，編入",
+          "pos": "名",
+          "phonetic": "[inkɔ̀ːrpəréiʃən]",
+          "meaning": "組み入れ，編入"
+        },
+        {
+          "english": "<red>dependence</red> on imported oil",
+          "japanese": "輸入石油への<red>依存</red>",
+          "pos": "名",
+          "phonetic": "[dipéndəns]",
+          "meaning": "依存；依存症"
+        },
+        {
+          "english": "<red>combat</red> desertification",
+          "japanese": "砂漠化<red>を防ぐ</red>",
+          "pos": "他",
+          "phonetic": "[kάmbæt, kəmbǽt]",
+          "meaning": "を防止する，と戦う"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>feature</red>",
+          "pos": "名",
+          "meaning": "特集（記事）（＋特徴，特質）",
+          "example": "The magazine ran a <red>feature</red> on language learning.",
+          "translation": "その雑誌は言語学習の特集を掲載した"
+        },
+        {
+          "headword": "<red>term</red>",
+          "pos": "名",
+          "meaning": "用語；学期；（契約などの）条件（＋観点）",
+          "example": "It’s hard to read a passage full of technical <red>terms</red>.",
+          "translation": "専門用語だらけの文章を読むのは大変だ"
+        },
+        {
+          "headword": "<red>term</red>",
+          "pos": "名",
+          "meaning": "用語；学期；（契約などの）条件（＋観点）",
+          "example": "How can I apply to US schools in the spring <red>term</red>?",
+          "translation": "春学期にアメリカの学校に志願するにはどうすればよいですか"
+        },
+        {
+          "headword": "<red>term</red>",
+          "pos": "名",
+          "meaning": "用語；学期；（契約などの）条件（＋観点）",
+          "example": "They agreed to the <red>terms</red> of the contract.",
+          "translation": "彼らは契約の条件に合意した"
+        },
+        {
+          "headword": "<red>drain</red>",
+          "pos": "名",
+          "meaning": "排水管；流出（＋の排水をする；を流し出す）",
+          "example": "The sink <red>drain</red> is blocked again.",
+          "translation": "流しの排水管がまた詰まった"
+        },
+        {
+          "headword": "<red>drain</red>",
+          "pos": "名",
+          "meaning": "排水管；流出（＋の排水をする；を流し出す）",
+          "example": "Japan must prevent brain <red>drain</red> at any cost.",
+          "translation": "日本は何としてでも頭脳流出を防がなければならない"
+        }
+      ]
+    },
+    "24": {
+      "id": 24,
+      "chapter": 5,
+      "chapterTitle": "環境",
+      "titleJa": "持続可能な未来へ向けて対策を講じる（1）",
+      "titleEn": "Taking Steps Toward a Sustainable Future (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "With climate change a pressing reality, the question on many minds is: can we fuel our future sustainably, or are we too dependent on <red>fossil</red> fuels to make the shift? Fossil fuels — formed from ancient plant and animal matter deep within the earth — are our primary energy source, but they’re <red>finite</red>. Moreover, when we burn these fuels, we release carbon dioxide (CO2), a greenhouse gas that <red>traps</red> heat and <red>accelerates</red> global warming. As the evidence of climate change <red>mounts</red>, the need for cleaner, <red>renewable</red> energy is more <red>urgent</red> than ever before. But what alternatives are available to keep our lights on and our cars running without harming the planet?",
+          "translation": "気候変動が差し迫った現実となる中で，多くの人の心に浮かぶ疑問はこうである。私たちは持続的に自分たちの未来に燃料を供給することができるのだろうか，あるいは，私たちは<red>化石</red>燃料に依存しすぎて，（化石燃料からの）転換を行えないのだろうか。化石燃料――地中深くにある古代の植物及び動物質から作られた燃料――は，私たちの主要エネルギー源であるが，<red>有限</red>のものである。その上，私たちがこれらの燃料を燃やす時，私たちは二酸化炭素（CO2），すなわち熱を<red>閉じ込め</red>，地球温暖化を<red>加速する</red>温室効果ガスを放出する。気候変動の証拠が<red>増える</red>につれて，もっとクリーンで<red>再生可能な</red>エネルギーの必要性が，かつてないほどにいっそう<red>切迫している</red>。しかし，地球に害を及ぼすことなく，私たちの明かりを点け，私たちの自動車を走らせ続けるために，どのような代わりになる手段を利用することができるのだろうか。"
+        },
+        {
+          "number": 2,
+          "english": "One <red>option</red> lies in renewable energy sources, which are already reshaping our power grids and offering cleaner <red>solutions</red>: solar energy <red>harnesses</red> sunlight, wind power taps into natural air currents, and hydropower <red>captures</red> the flow of rivers. Together, these sources help reduce our reliance on fossil fuels, offering cleaner ways to produce electricity. Each has its strengths and limitations, but all contribute to lowering emissions and providing energy that doesn’t harm the environment as fossil fuels do.",
+          "translation": "1つの<red>選択肢</red>は再生可能なエネルギー源にあり，それらはすでに私たちの送電網を新しい形にし，また，よりクリーンな<red>解決策</red>を提供している。つまり，太陽エネルギーは太陽の光<red>を利用し</red>，風力は自然の気流を活用し，また水力発電は河川の流れ<red>を捕らえる</red>のだ。これらのエネルギー源は，組み合わさって私たちの化石燃料への依存を減らすのに役立ち，よりクリーンな発電方法を与えてくれる。それぞれが長所と限界を持つが，いずれも排出を低下させ，化石燃料が与えるようには環境に害を与えないエネルギーを提供するのに寄与している。"
+        },
+        {
+          "number": 3,
+          "english": "Another promising <red>candidate</red> is <red>hydrogen</red> energy, particularly a subset known as green hydrogen. Green hydrogen is a clean fuel produced through water electrolysis using renewable energy. It has the potential to power <red>vehicles</red>, heat homes, and support industry without <red>emitting</red> any CO2. (continued)",
+          "translation": "もう1つの有望な<red>候補</red>は<red>水素</red>エネルギーで，とりわけグリーン水素として知られる下位分類である。グリーン水素は，再生可能エネルギーを使う水電解を通じて生産されるクリーンな燃料である。これは，CO2をまったく<red>排出する</red>ことなく，<red>輸送機関</red>に動力を供給し，家屋を暖め，そして産業を支援する可能性を秘めている。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "the burning of <red>fossil</red> fuels",
+          "japanese": "<red>化石</red>燃料の燃焼",
+          "pos": "名",
+          "phonetic": "[fάsl]",
+          "meaning": "化石（の）"
+        },
+        {
+          "english": "<red>finite</red> resources",
+          "japanese": "<red>有限</red>の資源",
+          "pos": "形",
+          "phonetic": "[fáɪnaɪt]",
+          "meaning": "有限の"
+        },
+        {
+          "english": "<red>trap</red> heat from the sun",
+          "japanese": "太陽熱を<red>閉じ込める</red>",
+          "pos": "他",
+          "phonetic": "[trǽp]",
+          "meaning": "を捕まえる，を閉じ込める"
+        },
+        {
+          "english": "<red>accelerate</red> the process",
+          "japanese": "プロセスを<red>加速させる</red>",
+          "pos": "他",
+          "phonetic": "[əksélərèit, æk-, ik-]",
+          "meaning": "を加速させる"
+        },
+        {
+          "english": "The expenses will <red>mount</red>.",
+          "japanese": "出費が<red>増大する</red>だろう。",
+          "pos": "自",
+          "phonetic": "[máunt]",
+          "meaning": "増加する，高まる"
+        },
+        {
+          "english": "<red>renewable</red> sources of energy",
+          "japanese": "<red>再生可能</red>エネルギー源",
+          "pos": "形",
+          "phonetic": "[rin(j)úːəbl, rə-]",
+          "meaning": "再生可能の"
+        },
+        {
+          "english": "an <red>urgent</red> situation",
+          "japanese": "<red>緊急</red>事態",
+          "pos": "形",
+          "phonetic": "[ə́ːrdʒənt]",
+          "meaning": "緊急の，切迫した"
+        },
+        {
+          "english": "keep one’s <red>options</red> open",
+          "japanese": "<red>選択</red>を留保する（決めずにおく）",
+          "pos": "名",
+          "phonetic": "[άpʃənz]",
+          "meaning": "選択肢；選択権"
+        },
+        {
+          "english": "come up with a <red>solution</red>",
+          "japanese": "<red>解決策</red>を思いつく",
+          "pos": "名",
+          "phonetic": "[səlúːʃən]",
+          "meaning": "解決策；解答"
+        },
+        {
+          "english": "<red>harness</red> the sun’s energy",
+          "japanese": "太陽エネルギー<red>を利用する</red>",
+          "pos": "他",
+          "phonetic": "[hάːrnəs]",
+          "meaning": "を利用する，を力に変える"
+        },
+        {
+          "english": "<red>capture</red> a wild animal",
+          "japanese": "野生動物を<red>捕らえる</red>",
+          "pos": "他",
+          "phonetic": "[kǽptʃər]",
+          "meaning": "を捕捉する，を捕まえる"
+        },
+        {
+          "english": "a <red>candidate</red> for president",
+          "japanese": "大統領<red>候補者</red>",
+          "pos": "名",
+          "phonetic": "[kǽndədèit, -dət]",
+          "meaning": "候補（者）"
+        },
+        {
+          "english": "liquid <red>hydrogen</red>",
+          "japanese": "液体<red>水素</red>",
+          "pos": "名",
+          "phonetic": "[háidrədʒən]",
+          "meaning": "水素"
+        },
+        {
+          "english": "an autonomous <red>vehicle</red>",
+          "japanese": "自動運転<red>車</red>",
+          "pos": "名",
+          "phonetic": "[víːəkl]",
+          "meaning": "（バスやトラックを含む）乗り物，車"
+        },
+        {
+          "english": "<red>emit</red> black smoke",
+          "japanese": "黒煙<red>を発する</red>",
+          "pos": "他",
+          "phonetic": "[imít]",
+          "meaning": "（光・熱など）を発する，を排出する"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>mount</red>",
+          "pos": "他",
+          "meaning": "を取り付ける（＋増加する，高まる）",
+          "example": "He <red>mounted</red> the speakers on the wall.",
+          "translation": "彼は壁にスピーカーを取り付けた"
+        },
+        {
+          "headword": "<red>solution</red>",
+          "pos": "名",
+          "meaning": "溶液（＋解決策；解答）",
+          "example": "The nurse used a saline <red>solution</red> to clean the wound.",
+          "translation": "看護師は食塩水で傷口を洗った"
+        },
+        {
+          "headword": "<red>capture</red>",
+          "pos": "他",
+          "meaning": "を捉える，をとりこにする（＋を捕捉する，を捕まえる）",
+          "example": "The story has <red>captured</red> the imagination of millions.",
+          "translation": "その物語は何百万人もの人々の心を捉えた"
+        },
+        {
+          "headword": "<red>vehicle</red>",
+          "pos": "名",
+          "meaning": "表現手段，媒体（＋乗り物，車）",
+          "example": "She found a <red>vehicle</red> for her passion.",
+          "translation": "彼女は自分の情熱の表現手段を見つけた"
+        }
+      ]
+    },
+    "25": {
+      "id": 25,
+      "chapter": 5,
+      "chapterTitle": "環境",
+      "titleJa": "持続可能な未来へ向けて対策を講じる（2）",
+      "titleEn": "Taking Steps Toward a Sustainable Future (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In recent years, Japan has been making progress in sustainable energy solutions by investing heavily in hydrogen <red>infrastructure</red>. As the technology advances, green hydrogen may play a central role in humanity’s shift to a low-carbon society. <red>Advocates</red> of green hydrogen aim for it to replace fossil fuels’ roles in supporting various industries and transportation systems.",
+          "translation": "近年，日本は水素の<red>基盤施設</red>に巨額の投資を行うことで，持続可能なエネルギーの解決策において進展してきた。その技術が進化するにつれて，グリーン水素は，人類の低炭素社会への転換における中心的な役割を果たすかもしれない。グリーン水素の<red>賛同者</red>たちは，各種産業や交通網の支援に関して，それが化石燃料の役割に取って代わることを目指している。"
+        },
+        {
+          "number": 2,
+          "english": "<red>Innovative</red> waste-to-energy <red>initiatives</red> are also positioned as potential solutions to problems outside of producing renewable energy. Imagine turning plastic waste such as the harmful <red>microplastics</red> in our oceans into usable energy. In Tsushima City, Nagasaki, for <red>instance</red>, plastic waste washed ashore is being transformed into fuel to power local facilities. This not only reduces ocean pollution but also generates energy locally. Such projects help combat both waste management and energy challenges, allowing cities and communities to <red>convert</red> waste into a <red>resource</red> rather than <red>dispose of</red> it.",
+          "translation": "<red>革新的な</red>廃棄物発電の<red>新たな取り組み</red>は，再生可能エネルギー生産以外の問題への潜在的な解決策としても位置付けられている。海洋中の有害な<red>マイクロプラスチック</red>などのプラスチックごみを，利用可能なエネルギーに変えることを想像してみよう。<red>例えば</red>長崎県対馬市では，海岸に漂着したプラスチックごみが，地域施設に電力を供給する燃料へと変換されている。これは海洋汚染を減らすだけでなく，その地域でエネルギーを生み出してもいる。このようなプロジェクトは，廃棄物管理とエネルギーの課題どちらともに対処するのに一役買っており，市や地域社会が，廃棄物を<red>処分する</red>よりむしろ<red>資源</red>に<red>転換する</red>ことを可能にしている。"
+        },
+        {
+          "number": 3,
+          "english": "Although waste-to-energy technology shows promise, it is not without its share of challenges. While converting waste into energy helps reduce the landfill burden, the most sustainable approach is to reduce waste production itself. Achieving a truly sustainable future will require <red>implementing</red> creative solutions to <red>minimize</red> waste on a global scale while making the transition to renewable energy sources. For new energy technologies, such as waste-to-energy, international cooperation and massive investment from the public and private sectors will be <red>vital</red> to keep our societies <red>thriving</red> into the future. (The end)",
+          "translation": "廃棄物発電技術は有望であるものの，それ相応の困難を伴う。廃棄物をエネルギーに変換することは，ごみの埋め立ての負担を削減するのに役立つが，最も持続可能な取り組み方は，廃棄物の発生量そのものを減らすことである。真に持続可能な未来の達成には，再生可能エネルギー源に移行しつつ，地球規模で廃棄物を<red>最小化する</red>ための，創造的な解決策を<red>実行すること</red>が必要である。廃棄物発電などの新たなエネルギー技術には，私たちの社会が未来へ向かって<red>繁栄し続け</red>るために，国際協力と，官民両部門からの巨額の投資が<red>不可欠</red>となるだろう。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "improve local <red>infrastructure</red>",
+          "japanese": "地域<red>インフラ</red>を改善する",
+          "pos": "名",
+          "phonetic": "[ínfrəstrʌ̀ktʃər]",
+          "meaning": "インフラ，社会基盤施設"
+        },
+        {
+          "english": "an animal welfare <red>advocate</red>",
+          "japanese": "動物福祉の<red>主張者</red>",
+          "pos": "名",
+          "phonetic": "[ǽdvəkət, -kèit]",
+          "meaning": "提唱者，信奉者"
+        },
+        {
+          "english": "<red>advocate</red>",
+          "japanese": "<red>を提唱する</red>，を推奨する",
+          "pos": "他",
+          "phonetic": "[ǽdvəkèit]",
+          "meaning": "を提唱する，を推奨する"
+        },
+        {
+          "english": "an <red>innovative</red> solution",
+          "japanese": "<red>革新的な</red>解決法",
+          "pos": "形",
+          "phonetic": "[ínəvèitiv]",
+          "meaning": "革新的な，創造的な"
+        },
+        {
+          "english": "<red>initiate</red> a reform",
+          "japanese": "改革<red>に着手する</red>",
+          "pos": "他",
+          "phonetic": "[iníʃièit]",
+          "meaning": "を開始する，に着手する"
+        },
+        {
+          "english": "<red>initiative</red>",
+          "japanese": "<red>率先</red>，イニシアチブ；新しい試み",
+          "pos": "名",
+          "phonetic": "[iníʃətiv, -ʃiə-]",
+          "meaning": "率先，イニシアチブ；新しい試み"
+        },
+        {
+          "english": "collect <red>microplastics</red>",
+          "japanese": "<red>マイクロプラスチック</red>を回収する",
+          "pos": "名",
+          "phonetic": "[màikrouplǽstiks]",
+          "meaning": "マイクロプラスチック※5mm以下の破片"
+        },
+        {
+          "english": "an <red>instance</red> of serendipity",
+          "japanese": "セレンディピティの<red>事例</red>",
+          "pos": "名",
+          "phonetic": "[ínstəns]",
+          "meaning": "例，事例"
+        },
+        {
+          "english": "<red>convert</red> sunlight into energy",
+          "japanese": "日光をエネルギーに<red>変える</red>",
+          "pos": "他",
+          "phonetic": "[kənvə́ːrt]",
+          "meaning": "を変換する；を変形させる"
+        },
+        {
+          "english": "<red>conversion</red>",
+          "japanese": "<red>変換</red>",
+          "pos": "名",
+          "phonetic": "[kənvə́ːrʒən, -ʃən]",
+          "meaning": "変換"
+        },
+        {
+          "english": "turn trash into <red>resources</red>",
+          "japanese": "ごみを<red>資源</red>に変える",
+          "pos": "名",
+          "phonetic": "[ríːsɔːrsz, -zɔːrsz, risɔ́ːrsiz, -zɔ́ːrsiz]",
+          "meaning": "資源"
+        },
+        {
+          "english": "<red>dispose of</red> nuclear waste",
+          "japanese": "核廃棄物を<red>処分する</red>",
+          "pos": "他",
+          "phonetic": "[dispóuz əv]",
+          "meaning": "を処分する"
+        },
+        {
+          "english": "<red>disposal</red>",
+          "japanese": "<red>処分</red>",
+          "pos": "名",
+          "phonetic": "[dispóuzl]",
+          "meaning": "処分"
+        },
+        {
+          "english": "<red>implement</red> the decision",
+          "japanese": "決定を<red>実行する</red>",
+          "pos": "他",
+          "phonetic": "[ímplèmənt]",
+          "meaning": "を実行する，を実施する"
+        },
+        {
+          "english": "<red>implementation</red>",
+          "japanese": "<red>実行</red>，実施",
+          "pos": "名",
+          "phonetic": "[impləməntéiʃən]",
+          "meaning": "実行，実施"
+        },
+        {
+          "english": "<red>minimize</red> the risk",
+          "japanese": "リスクを<red>最小化する</red>",
+          "pos": "他",
+          "phonetic": "[mínəmàiz]",
+          "meaning": "を最小化する，を最小限にとどめる"
+        },
+        {
+          "english": "be of <red>vital</red> importance",
+          "japanese": "<red>不可欠</red>な重要性を持つ",
+          "pos": "形",
+          "phonetic": "[váitl]",
+          "meaning": "不可欠な；極めて重要な"
+        },
+        {
+          "english": "<red>thrive</red> as a commercial center",
+          "japanese": "商業の中心地として<red>繁栄する</red>",
+          "pos": "自",
+          "phonetic": "[θráiv]",
+          "meaning": "繁栄する；成長する"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>convert</red>",
+          "pos": "自",
+          "meaning": "改宗する（＋を変換する；を変形させる）",
+          "example": "The whole tribe <red>converted</red> to Christianity.",
+          "translation": "その部族は全員がキリスト教に改宗した"
+        },
+        {
+          "headword": "<red>implement</red>",
+          "pos": "名",
+          "meaning": "（簡単な）道具，用具（＋を実行する，を実施する）",
+          "example": "The earliest known farm <red>implements</red> date as far back as 5500 BCE.",
+          "translation": "知られている中で最古の農業用具は紀元前5500年までさかのぼる"
+        },
+        {
+          "headword": "<red>vital</red>",
+          "pos": "形",
+          "meaning": "バイタルの，生命徴候の（＋不可欠な；極めて重要な）",
+          "example": "The doctor checked the patient’s <red>vital</red> signs.",
+          "translation": "医師は患者のバイタルをチェックした"
+        }
+      ]
+    },
+    "26": {
+      "id": 26,
+      "chapter": 6,
+      "chapterTitle": "政策",
+      "titleJa": "功利主義と政策（1）",
+      "titleEn": "Utilitarianism and Policy (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "What kind of policies can truly make the citizens of a society happy? The British jurist Jeremy Bentham, who rose to <red>prominence</red> during the Industrial <red>Revolution</red>, argued for “the greatest happiness of the greatest number.” <red>At first glance</red>, this seems like an ideal goal. However, behind the happiness of the <red>majority</red> lies the <red>simultaneous</red> unhappiness of some minorities.",
+          "translation": "どのような政策が，ある社会にいる市民たちを真に幸福にできるのだろうか。イギリスの法学者で，産業<red>革命</red>期に<red>有名になった</red>ジェレミー・ベンサムは「最大多数の最大幸福」を主張した。<red>一見</red>，これは理想的な目標のように思われる。しかし，<red>多数派</red>の幸福の陰には，それと<red>同時に存在する</red>一部の少数派の不幸があるのである。"
+        },
+        {
+          "number": 2,
+          "english": "This idea — that society should accept the unhappiness of a few to <red>maximize</red> overall happiness — is at the heart of <red>utilitarianism</red>. Utilitarianism advocates that if making all citizens happy is impossible, some <red>sacrifices</red> may be necessary to <red>prioritize</red> the greatest happiness for most people. This <red>concept</red> appears not only in <red>ethics</red> but also in economics and <red>sociology</red>. (continued)",
+          "translation": "この考え方，すなわち社会は全体の幸福を<red>最大限にする</red>ために，少数の人たちの不幸を受け入れるべきだ，という考えが<red>功利主義</red>の中核にある。功利主義は，すべての市民を幸福にすることが不可能ならば，大部分の人々の最大の幸福を<red>優先する</red>ためには，いくらかの<red>犠牲</red>は必要かもしれないと主張する。この<red>概念</red>は，<red>倫理学</red>にだけでなく，経済学や<red>社会学</red>にも登場する。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "gain <red>prominence</red> in A",
+          "japanese": "Aで<red>目立つ</red>ようになる，Aにおいて<red>有名</red>になる",
+          "pos": "名",
+          "phonetic": "[prάmənəns]",
+          "meaning": "卓越；傑出"
+        },
+        {
+          "english": "the green <red>revolution</red>",
+          "japanese": "緑の<red>革命</red>（＝大規模な農業技術改革）",
+          "pos": "名",
+          "phonetic": "[rèvəlúːʃən]",
+          "meaning": "革命，大変革"
+        },
+        {
+          "english": "<red>revolutionary</red>",
+          "japanese": "<red>革命的な</red>",
+          "pos": "形",
+          "phonetic": "[rèvəlúːʃənèri]",
+          "meaning": "革命的な"
+        },
+        {
+          "english": "<red>at first glance</red>",
+          "japanese": "<red>一見</red>したところでは，一目で",
+          "pos": "",
+          "phonetic": "[æt fə́ːrst glǽns]",
+          "meaning": "一見して"
+        },
+        {
+          "english": "form a <red>majority</red> of A",
+          "japanese": "Aの<red>多数派</red>を形成する",
+          "pos": "名",
+          "phonetic": "[mədʒɔ́ːrəti, -dʒάr-]",
+          "meaning": "多数（派），過半数；得票差"
+        },
+        {
+          "english": "a <red>simultaneous</red> interpreter",
+          "japanese": "同時通訳者",
+          "pos": "形",
+          "phonetic": "[sàiməltéiniəs, sɪ-]",
+          "meaning": "同時の"
+        },
+        {
+          "english": "<red>simultaneously</red>",
+          "japanese": "<red>同時に</red>",
+          "pos": "副",
+          "phonetic": "[sàiməltéiniəsli]",
+          "meaning": "同時に"
+        },
+        {
+          "english": "<red>maximize</red> the value",
+          "japanese": "価値を<red>最大化</red>する",
+          "pos": "他",
+          "phonetic": "[mǽksəmàiz]",
+          "meaning": "を最大化する；を最大限に活用する"
+        },
+        {
+          "english": "a form of <red>utilitarianism</red>",
+          "japanese": "<red>功利主義</red>の一形式",
+          "pos": "名",
+          "phonetic": "[jùːtìlətéəriənìzəm]",
+          "meaning": "功利主義"
+        },
+        {
+          "english": "at the <red>sacrifice</red> of A",
+          "japanese": "Aを<red>犠牲</red>にして",
+          "pos": "名",
+          "phonetic": "[sǽkrəfais]",
+          "meaning": "犠牲"
+        },
+        {
+          "english": "put a <red>priority</red> on A",
+          "japanese": "Aを<red>優先事項</red>にする",
+          "pos": "名",
+          "phonetic": "[praiɔ́ːrəti, -ɑ́r-]",
+          "meaning": "優先事項；優先権"
+        },
+        {
+          "english": "<red>prioritize</red>",
+          "japanese": "<red>を優先</red>させる，を優先的に扱う",
+          "pos": "他",
+          "phonetic": "[praiɔ́ːrətàiz, -ɑ́r-, práiərə-]",
+          "meaning": "を優先させる，を優先的に扱う"
+        },
+        {
+          "english": "develop a new <red>concept</red>",
+          "japanese": "新しい<red>概念</red>を組み立てる",
+          "pos": "名",
+          "phonetic": "[kάnsept]",
+          "meaning": "概念；考え方，構想"
+        },
+        {
+          "english": "<red>conceptual</red>",
+          "japanese": "<red>概念</red>上の，概念的な",
+          "pos": "形",
+          "phonetic": "[kənséptʃuəl, -tʃəl]",
+          "meaning": "概念上の，概念的な"
+        },
+        {
+          "english": "a matter of social <red>ethics</red>",
+          "japanese": "社会<red>倫理</red>の問題",
+          "pos": "名",
+          "phonetic": "[éθiks]",
+          "meaning": "倫理（学）"
+        },
+        {
+          "english": "<red>ethical</red>",
+          "japanese": "<red>倫理的な</red>，道徳的な",
+          "pos": "形",
+          "phonetic": "[éθikl]",
+          "meaning": "倫理的な，道徳的な"
+        },
+        {
+          "english": "comparative <red>sociology</red>",
+          "japanese": "比較<red>社会学</red>",
+          "pos": "名",
+          "phonetic": "[sòusiálədʒi]",
+          "meaning": "社会学"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>revolution</red>",
+          "pos": "名",
+          "meaning": "公転，一回り（＋革命，大変革）",
+          "example": "Jupiter makes one complete <red>revolution</red> around the Sun every 11.86 Earth years.",
+          "translation": "木星は地球の11.86年で太陽を公転する"
+        },
+        {
+          "headword": "<red>majority</red>",
+          "pos": "名",
+          "meaning": "成年，成人（＋多数（派），過半数；得票差）",
+          "example": "In 2022, the age of <red>majority</red> in Japan was lowered to 18.",
+          "translation": "2022年，日本の成人年齢は18歳に引き下げられた"
+        }
+      ]
+    },
+    "27": {
+      "id": 27,
+      "chapter": 6,
+      "chapterTitle": "政策",
+      "titleJa": "功利主義と政策（2）",
+      "titleEn": "Utilitarianism and Policy (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "During times of rapid societal expansion, the limitations <red>associated</red> with utilitarianism may not be as noticeable. When the overall happiness of society increases, the happiness of minorities also tends to grow, <red>albeit</red> at a smaller <red>increment</red> than the majority, making the <red>discontent</red> of minorities less noticeable. However, once society enters a period of <red>stability</red> or <red>stagnation</red>, any slight gains in happiness soon disappear, making the <red>dissatisfaction</red> of minorities harder to ignore. As the overall <red>quality</red> of life appears to be in decline, minorities in particular may struggle to <red>envision</red> a better future.",
+          "translation": "急速な社会の拡張期には，功利主義に<red>関連する</red>限界は，それほど目立たないかもしれない。社会の全体的な幸福が増加すると，多数派よりも<red>増加</red>は少ないものの，少数派の幸福も増す傾向があり，これが少数派の<red>不満</red>をより目立たなくしてしまう。ところが，いったん社会が<red>安定</red>，あるいは<red>景気停滞</red>の時期に入ると，幸福のどのようなわずかな増加もすぐに消えてしまって，少数派の<red>不満</red>を無視することはより難しくなる。全体的な生活の<red>質</red>が低下しているように見える時，とりわけ少数派は，よりよき未来を<red>思い描こう</red>と苦闘するのかもしれない。"
+        },
+        {
+          "number": 2,
+          "english": "Should society prioritize the happiness of the majority to maximize <red>collective</red> happiness? Or should it seek to <red>alleviate</red> the minority’s <red>frustrations</red>, even if this means some sacrifice from the majority? When the <red>abstract</red> philosophy of utilitarianism is considered in real-world terms, this is the <red>unavoidable</red> <red>dilemma</red>. (The end)",
+          "translation": "社会は<red>全体の</red>幸福を最大限にするために，多数派の幸福を優先するべきなのだろうか。それとも，たとえ多数派からいくらかの犠牲を払う結果になるとしても，社会は少数派の<red>不満</red>を<red>軽減</red>しようと努力すべきなのだろうか。功利主義という<red>抽象的な</red>哲学が現実世界の観点から検討される場合，これは<red>避けることができない</red><red>ジレンマ</red>である。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>associate</red> Bali with vacations",
+          "japanese": "バリ島から休暇を<red>連想</red>する",
+          "pos": "他",
+          "phonetic": "[əsóuʃièit, -si-]",
+          "meaning": "を連想する；を関連づける"
+        },
+        {
+          "english": "<red>albeit</red> expensive",
+          "japanese": "高価ではあるけれども",
+          "pos": "接",
+          "phonetic": "[ɔːlbíːit]",
+          "meaning": "…であるけれども，たとえ…でも"
+        },
+        {
+          "english": "an <red>increment</red> in income",
+          "japanese": "収入の<red>増加</red>",
+          "pos": "名",
+          "phonetic": "[íŋkrəmənt, ín-]",
+          "meaning": "増加，増大；増加量"
+        },
+        {
+          "english": "public <red>discontent</red> with A",
+          "japanese": "A に対する民衆の<red>不満</red>",
+          "pos": "名",
+          "phonetic": "[dìskəntént]",
+          "meaning": "不満"
+        },
+        {
+          "english": "achieve economic <red>stability</red>",
+          "japanese": "経済的<red>安定</red>を達成する",
+          "pos": "名",
+          "phonetic": "[stəbíləti]",
+          "meaning": "安定性"
+        },
+        {
+          "english": "a long period of <red>stagnation</red>",
+          "japanese": "長期間の<red>不況</red>",
+          "pos": "名",
+          "phonetic": "[stægnéiʃən]",
+          "meaning": "不況；景気停滞"
+        },
+        {
+          "english": "reveal one’s <red>dissatisfaction</red>",
+          "japanese": "<red>不満</red>を表に出す",
+          "pos": "名",
+          "phonetic": "[dìssæ̀tisfǽkʃən]",
+          "meaning": "不満"
+        },
+        {
+          "english": "<red>quality</red> of life",
+          "japanese": "生活の<red>質</red>，クオリティ・オブ・ライフ【略】QOL",
+          "pos": "名",
+          "phonetic": "[kwɑ́ːləti]",
+          "meaning": "質，性質"
+        },
+        {
+          "english": "<red>envision</red> a rosy future",
+          "japanese": "バラ色の未来を<red>思い描く</red>",
+          "pos": "他",
+          "phonetic": "[invíʒən, en-]",
+          "meaning": "を思い描く，を想像する"
+        },
+        {
+          "english": "<red>collective</red> will",
+          "japanese": "<red>全体の</red>意思",
+          "pos": "形",
+          "phonetic": "[kəléktiv]",
+          "meaning": "全体の，総体の，共同の"
+        },
+        {
+          "english": "<red>alleviate</red> a burden",
+          "japanese": "負担を<red>軽減する</red>",
+          "pos": "他",
+          "phonetic": "[əlíːvièit]",
+          "meaning": "を軽減する，を緩和する"
+        },
+        {
+          "english": "overcome one’s <red>frustration</red>",
+          "japanese": "<red>欲求不満</red>を克服する",
+          "pos": "名",
+          "phonetic": "[frʌstréiʃən]",
+          "meaning": "欲求不満；挫折"
+        },
+        {
+          "english": "an <red>abstract</red> principle",
+          "japanese": "<red>抽象的な</red>原理",
+          "pos": "形",
+          "phonetic": "[æbstrǽkt, ǽ-]",
+          "meaning": "抽象的な；観念的な"
+        },
+        {
+          "english": "<red>unavoidable</red> circumstances",
+          "japanese": "<red>避けようのない</red>状況",
+          "pos": "形",
+          "phonetic": "[ʌ̀nəvɔ́idəbl]",
+          "meaning": "不可避の，避けられない"
+        },
+        {
+          "english": "face the <red>dilemma</red> of A",
+          "japanese": "Aの<red>ジレンマ</red>に直面する",
+          "pos": "名",
+          "phonetic": "[dilémə, dai-]",
+          "meaning": "ジレンマ，板挟み"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>associate</red>",
+          "pos": "自／形",
+          "meaning": "交際する／準ずる（＋を連想する；を関連づける）",
+          "example": "The suspect denied <red>associating</red> with terrorists.<br>She is an Associate Professor of Physics at ABC University.",
+          "translation": "容疑者はテロリストとの付き合いがあることを否定した<br>彼女は ABC 大学の物理学准教授です"
+        },
+        {
+          "headword": "<red>quality</red>",
+          "pos": "形",
+          "meaning": "高品質の，高級な（＋質，性質）",
+          "example": "The Guardian is considered a <red>quality</red> newspaper.",
+          "translation": "「ガーディアン」は高級紙とみなされている"
+        },
+        {
+          "headword": "<red>collective</red>",
+          "pos": "形",
+          "meaning": "集合の（＋全体の，総体の，共同の）",
+          "example": "In US English, it is standard to treat a <red>collective</red> noun as singular.",
+          "translation": "アメリカ英語では集合名詞を単数扱いするのが標準だ"
+        }
+      ]
+    },
+    "28": {
+      "id": 28,
+      "chapter": 6,
+      "chapterTitle": "政策",
+      "titleJa": "社会正義への新たな道？",
+      "titleEn": "A New Path to Social Justice?",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In recent years, the idea of Universal Basic Income (UBI) has <red>sparked</red> debate in many countries. This concept refers to a policy that provides every citizen with enough money to ensure a basic standard of living without requiring them to work. Notably, despite the socialist implications of UBI, this idea is now being explored in <red>capitalist</red> societies focused on free <red>competition</red>. To fully understand its potential, let’s consider the case for UBI through the lens of social justice.",
+          "translation": "近年，ユニバーサルベーシックインカム（UBI）という発想が，多くの国で議論を<red>引き起こして</red>いる。この構想は，すべての市民に，働くことを求めることなく，基本的な生活水準を保障するのに十分なお金を提供する，という政策のことをいう。とりわけ，UBI には社会主義の影響があるものの，この発想は現在，自由<red>競争</red>に重点を置いた<red>資本主義</red>社会において検討されている。その潜在的な力を十分に理解するために，社会正義というレンズを通して UBI の事例を検討してみよう。"
+        },
+        {
+          "number": 2,
+          "english": "In many nations, rising <red>inequality</red> among groups such as single parents, disabled workers, and foreign residents has highlighted the need for policies to address economic <red>disparity</red>. Traditional utilitarianism, which prioritizes the greatest happiness for the majority, often <red>justifies</red> social inequality as necessary for maximizing overall societal <red>welfare</red>. In contrast, UBI not only aims to reduce poverty but also to promote social equality by securing each citizen’s Right to Life.",
+          "translation": "多くの国では，シングルペアレント，身体障碍労働者，また外国人居住者などの集団の中で高まりつつある<red>不平等</red>が，経済<red>格差</red>に対処するための政策の必要性を浮き彫りにしてきた。従来の功利主義は，多数派のための最大幸福を優先するため，全体的な社会<red>福祉</red>を最大にするために必要なものとして，社会の不平等を<red>正当化する</red>ことが多い。対照的に，UBI は貧困を削減するだけでなく，市民一人ひとりの生存権を確保することで，社会的平等を促進することにもねらいを定めている。"
+        },
+        {
+          "number": 3,
+          "english": "The 20th-century philosopher John Rawls challenged classical utilitarianism by advocating “the difference principle,” which argues that social inequality should only be <red>tolerated</red> if it benefits the most disadvantaged. In this light, UBI could be seen as one approach to the <red>realization</red> of Rawls’ vision of social justice.",
+          "translation": "20世紀の哲学者，ジョン・ロールズは，社会の不平等は，それが最も恵まれない人に利益を与える場合に限って<red>許容される</red>べきである，と主張する「格差原理」を標榜することによって，古典的な功利主義に異を唱えた。この観点から，UBI は，ロールズの社会正義の構想の<red>実現</red>へ向けたひとつの取り組み方とみなすこともできるだろう。"
+        },
+        {
+          "number": 4,
+          "english": "Naturally, challenges remain. Critics argue that UBI could <red>foster</red> laziness or <red>strain</red> public finances. However, empirical studies suggest that financial <red>security</red> would inspire people, not demotivate them. As advanced technology continues to reshape social structures, UBI might just be our pathway to a more <red>equitable</red> future.",
+          "translation": "当然ながら，課題は残っている。批判者たちは，UBI が怠惰を<red>助長</red>したり，あるいは公共財政を<red>逼迫させ</red>たりするかもしれないと主張している。しかし，実証的な研究は，経済的な<red>安定</red>は人々の意欲をそぐのではなく，奮起させるだろうと示唆している。先進技術が社会構造を再形成し続けるなかで，UBI はもしかすると，さらなる<red>公平な</red>未来への私たちの道なのかもしれない。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>spark</red> a debate",
+          "japanese": "論争を<red>引き起こす</red>",
+          "pos": "他",
+          "phonetic": "[spɑ́ːrk]",
+          "meaning": "を引き起こす"
+        },
+        {
+          "english": "the accumulation of <red>capital</red>",
+          "japanese": "<red>資本</red>の蓄積",
+          "pos": "名",
+          "phonetic": "[kǽpətl]",
+          "meaning": "資本"
+        },
+        {
+          "english": "<red>capitalist</red>",
+          "japanese": "<red>資本主義の</red>",
+          "pos": "形",
+          "phonetic": "[kǽpətəlist]",
+          "meaning": "資本主義の"
+        },
+        {
+          "english": "intense <red>competition</red> for A",
+          "japanese": "Aを求める激しい<red>競争</red>",
+          "pos": "名",
+          "phonetic": "[kὰmpətíʃən]",
+          "meaning": "競争；競争相手"
+        },
+        {
+          "english": "address gender <red>inequality</red>",
+          "japanese": "ジェンダー<red>不平等</red>に取り組む",
+          "pos": "名",
+          "phonetic": "[ìnìkwɑ́ləti]",
+          "meaning": "不平等"
+        },
+        {
+          "english": "economic <red>disparity</red>",
+          "japanese": "経済的<red>格差</red>",
+          "pos": "名",
+          "phonetic": "[dispǽrəti, -pǽr-]",
+          "meaning": "格差，不均衡"
+        },
+        {
+          "english": "<red>justify</red> one’s action",
+          "japanese": "行動を<red>正当化する</red>",
+          "pos": "他",
+          "phonetic": "[dʒʌ́stəfài]",
+          "meaning": "を正当化する"
+        },
+        {
+          "english": "<red>justification</red>",
+          "japanese": "<red>正当化</red>",
+          "pos": "名",
+          "phonetic": "[dʒὰstəfəkéiʃən]",
+          "meaning": "正当化"
+        },
+        {
+          "english": "concern for child <red>welfare</red>",
+          "japanese": "児童<red>福祉</red>への配慮",
+          "pos": "名",
+          "phonetic": "[wélfɛər]",
+          "meaning": "福祉，幸福"
+        },
+        {
+          "english": "can no longer <red>tolerate</red> O",
+          "japanese": "これ以上 O に<red>耐えられない</red>",
+          "pos": "他",
+          "phonetic": "[tάlərèit]",
+          "meaning": "に耐える，を我慢する；を許す"
+        },
+        {
+          "english": "<red>tolerance</red>",
+          "japanese": "<red>耐性</red>，忍耐；許容",
+          "pos": "名",
+          "phonetic": "[tάlərəns]",
+          "meaning": "耐性，忍耐；許容"
+        },
+        {
+          "english": "the <red>realization</red> of a dream",
+          "japanese": "夢の<red>実現</red>",
+          "pos": "名",
+          "phonetic": "[rìːələzéiʃən]",
+          "meaning": "実現"
+        },
+        {
+          "english": "<red>foster</red> the sense of community",
+          "japanese": "共同体感覚を<red>育む</red>",
+          "pos": "他",
+          "phonetic": "[fɔ́stər, -fάs-]",
+          "meaning": "を育てる，を育成する"
+        },
+        {
+          "english": "severely <red>strain</red> relations",
+          "japanese": "大きく関係を<red>悪化</red>させる",
+          "pos": "他",
+          "phonetic": "[stréin]",
+          "meaning": "を痛める，を悪化させる"
+        },
+        {
+          "english": "national <red>security</red>",
+          "japanese": "国家<red>安全保障</red>",
+          "pos": "名",
+          "phonetic": "[sikjúərəti]",
+          "meaning": "安全，保障，安定"
+        },
+        {
+          "english": "<red>secure</red>",
+          "japanese": "<red>安全な</red>，安心できる",
+          "pos": "形",
+          "phonetic": "[sikjúər]",
+          "meaning": "安全な，安心できる"
+        },
+        {
+          "english": "an <red>equitable</red> system",
+          "japanese": "<red>公平な</red>仕組み",
+          "pos": "形",
+          "phonetic": "[ékwətəbl]",
+          "meaning": "公平な，公正な"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>capital</red>",
+          "pos": "名／形",
+          "meaning": "首都／大文字の（＋資本）",
+          "example": "California’s <red>capital</red> is Sacramento, not Los Angeles.<br>A <red>capital</red> letter is also called an uppercase letter.",
+          "translation": "カリフォルニア州の首都はロサンゼルスではなくサクラメントです<br>（アルファベットの）capital letter（＝大文字）は uppercase letter とも言う"
+        },
+        {
+          "headword": "<red>competition</red>",
+          "pos": "名",
+          "meaning": "コンクール（＋競争；競争相手）",
+          "example": "She won an international magic <red>competition</red>.",
+          "translation": "彼女は手品の国際コンクールで優勝した"
+        },
+        {
+          "headword": "<red>realization</red>",
+          "pos": "名",
+          "meaning": "認識，理解（＋実現）",
+          "example": "She came to the <red>realization</red> that he must change his attitude.",
+          "translation": "彼女は，彼は態度を変える必要があるという認識に至った"
+        },
+        {
+          "headword": "<red>security</red>",
+          "pos": "名",
+          "meaning": "警備；安心（感）（＋安全，保障，安定）",
+          "example": "There is a need for tighter <red>security</red> around the building.<br>He gave the child the emotional <red>security</red> she needed.<br>※ physical security または physical safety で「身体的安全」を表す",
+          "translation": "ビル周辺のセキュリティを強化する必要がある<br>彼はその子が必要としている情緒的安心感を与えた"
+        }
+      ]
+    },
+    "29": {
+      "id": 29,
+      "chapter": 6,
+      "chapterTitle": "政策",
+      "titleJa": "公平な社会とは？（1）",
+      "titleEn": "What is a Fair Society? (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Historically, the power and <red>wealth</red> of individuals was <red>related</red> to their parentage. In <red>hereditary aristocracies</red>, for example, a person’s social position and economic situation were <red>determined</red> by the <red>lottery</red> of birth: if a child was born into an <red>influential</red> and wealthy family, they would likely inherit this power and wealth. <red>Critics</red> of this system have argued that power and wealth should be <red>distributed</red> based on a person’s effort and ability. A society organised in this way is referred to as a <red>meritocracy</red>. The term was coined by Michael Young, a British sociologist, in his 1958 novel <i>The Rise of Meritocracy: 1870–2033</i>. At first glance, this system appears to have many benefits; however, under closer <red>examination</red>, it becomes clear that it is not without problems. (continued)",
+          "translation": "歴史的に見て，個々人の権力と<red>富</red>はその生まれと<red>結びついて</red>いた。例えば，<red>世襲の貴族社会</red>では，ある人の社会的な立場や経済状況は，家柄という<red>宝くじ</red>によって<red>決定されて</red>いたのだ。つまり，ある子どもが<red>影響力のある</red>裕福な家に生まれたならば，その子がおそらくは，この権力と富を受け継ぐことになっていただろう。この体制の<red>批判者</red>らは，権力と富は人の努力や能力に基づいて<red>分配される</red>べきであると主張してきた。このようなやり方で組織された社会は，<red>メリトクラシー</red>と呼ばれている。この言葉は，イギリスの社会学者，マイケル・ヤングの造語であり，彼の1958年の小説『メリトクラシーの台頭 1870-2033』の中で使われた。一見したところ，この体制には多くの利点があるように見えるが，より詳細に<red>検討</red>してみると，これには問題がないわけではないということが明らかになる。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "accumulate one’s <red>wealth</red>",
+          "japanese": "<red>富</red>を蓄積する",
+          "pos": "名",
+          "phonetic": "[wélθ]",
+          "meaning": "富，財産"
+        },
+        {
+          "english": "be closely <red>related</red> to A",
+          "japanese": "Aと密接に<red>関連がある</red>",
+          "pos": "他",
+          "phonetic": "[riléitid, rə-]",
+          "meaning": "を関連付ける"
+        },
+        {
+          "english": "a <red>hereditary</red> ruler",
+          "japanese": "<red>世襲</red>の統治者",
+          "pos": "形",
+          "phonetic": "[hərédətèri]",
+          "meaning": "世襲の，親から受け継いだ"
+        },
+        {
+          "english": "<red>heredity</red>",
+          "japanese": "<red>遺伝</red>；世襲",
+          "pos": "名",
+          "phonetic": "[hərédəti]",
+          "meaning": "遺伝；世襲"
+        },
+        {
+          "english": "hereditary <red>aristocracy</red>",
+          "japanese": "世襲の<red>貴族階級</red>",
+          "pos": "名",
+          "phonetic": "[ərístɑ́ːkrəsi]",
+          "meaning": "貴族政治，貴族階級"
+        },
+        {
+          "english": "be genetically <red>determined</red>",
+          "japanese": "遺伝的に<red>決定される</red>",
+          "pos": "他",
+          "phonetic": "[ditə́ːrmənd]",
+          "meaning": "を決定する"
+        },
+        {
+          "english": "<red>determinant</red>",
+          "japanese": "<red>決定要因</red>，因子",
+          "pos": "名",
+          "phonetic": "[ditə́ːrmənənt]",
+          "meaning": "決定要因，因子"
+        },
+        {
+          "english": "win the <red>lottery</red>",
+          "japanese": "<red>宝くじ</red>に当たる",
+          "pos": "名",
+          "phonetic": "[lɑ́təri]",
+          "meaning": "くじ引き，抽選"
+        },
+        {
+          "english": "an <red>influential</red> politician",
+          "japanese": "<red>影響力の強い</red>政治家",
+          "pos": "形",
+          "phonetic": "[ìnfluénʃəl]",
+          "meaning": "影響力のある"
+        },
+        {
+          "english": "<red>influencer</red>",
+          "japanese": "<red>インフルエンサー</red>",
+          "pos": "名",
+          "phonetic": "[ínfluənsər]",
+          "meaning": "インフルエンサー"
+        },
+        {
+          "english": "an outspoken <red>critic</red> of A",
+          "japanese": "Aの辛らつな<red>批評家</red>",
+          "pos": "名",
+          "phonetic": "[krítik]",
+          "meaning": "批評家；批判者"
+        },
+        {
+          "english": "be equally <red>distributed</red>",
+          "japanese": "平等に<red>分配される</red>",
+          "pos": "他",
+          "phonetic": "[distríbjuːtid]",
+          "meaning": "を分配する，を配布する"
+        },
+        {
+          "english": "the unfairness of <red>meritocracy</red>",
+          "japanese": "<red>メリトクラシー</red>の不公平さ",
+          "pos": "名",
+          "phonetic": "[mèrətɑ́ːkrəsi]",
+          "meaning": "メリトクラシー，功績（能力）主義"
+        },
+        {
+          "english": "on closer <red>examination</red>",
+          "japanese": "詳しく<red>調べて</red>みると",
+          "pos": "名",
+          "phonetic": "[igzæ̀mənéiʃən, egz-]",
+          "meaning": "調査，検査；検討，吟味"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>wealth</red>",
+          "pos": "名",
+          "meaning": "《a wealth of の形で》豊富，多量（＋富，財産）",
+          "example": "This book contains a <red>wealth</red> of information.",
+          "translation": "この本には豊富な情報が含まれている"
+        },
+        {
+          "headword": "<red>hereditary</red>",
+          "pos": "形",
+          "meaning": "遺伝（性）の（＋世襲の，親から受け継いだ）",
+          "example": "<red>Hereditary</red> traits are determined by genes.",
+          "translation": "遺伝形質は遺伝子によって決定される"
+        },
+        {
+          "headword": "<red>distribute</red>",
+          "pos": "他",
+          "meaning": "を分布させる（＋を分配する，を配布する）",
+          "example": "Bamboo is widely <red>distributed</red> throughout the world.",
+          "translation": "竹は世界中に広く分布している"
+        }
+      ]
+    },
+    "30": {
+      "id": 30,
+      "chapter": 6,
+      "chapterTitle": "政策",
+      "titleJa": "公平な社会とは？（2）",
+      "titleEn": "What is a Fair Society? (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In the society which Young’s book describes, a person’s social position is earned through a combination of their intelligence and effort. Thus, the most intelligent and industrious members of society rise to the top. While the society which Young outlined may seem attractive due to its supposed <red>fairness</red>, it is important to recognise that Young was not advocating such a society. Rather, his book is a <red>satire</red> which was intended as a warning of the dangers of meritocracy. It describes a dystopian society in which <red>egalitarianism</red> is <red>perceived</red> as a negative concept. Although Young’s fictional society is not stratified according to birth, it is <red>rigidly</red> divided according to one’s intelligence and hard work.",
+          "translation": "ヤングの著書が描く社会では，人の社会的な立場はその知性と努力の組み合わせを通じて得られる。したがって，最も知性的で勤勉な社会の構成員たちが，頂点に立つのである。ヤングが大まかに述べた社会は，その仮定の上での<red>公正性</red>ゆえに魅力的に見えるかもしれないが，ヤングはそのような社会を奨励していなかったことを認識することが重要である。むしろ，彼の著書はメリトクラシーが持つ危険性への警告として意図された<red>風刺本</red>なのだ。それは，<red>平等主義</red>が否定的な概念として<red>捉えられている</red>ディストピアの社会を描写している。ヤングの架空の社会は生まれによって階層化されているわけではないが，個人の知性と努力に応じて<red>厳密に</red>分けられている。"
+        },
+        {
+          "number": 2,
+          "english": "The potentially pernicious nature of the meritocratic approach is <red>illustrated</red> by the book’s pompous narrator referring to people who are <red>deemed</red> less intelligent as “the stupid” and “the <red>dull</red>”. For Young, one of the <red>fundamental</red> problems of a meritocracy was that those who reached <red>elevated</red> positions in society would be <red>convinced</red> that their success was just <red>reward</red> for their effort and ability, while those who did not succeed would have to accept responsibility for their failure. Accordingly, meritocracy would create a <red>hierarchy</red> of social respect: those who are at the top would be <red>granted</red> respect, but those unable to succeed would be <red>denied</red> respect, both from others and from themselves. (The end)",
+          "translation": "メリトクラシー的な手法が持つ潜在的に有害な性質は，あまり知的ではないと<red>みなされる</red>人々を「馬鹿なやつら」や「<red>愚鈍な</red>連中」と呼ぶ，この本の尊大な語り手によって<red>示されている</red>。ヤングにとって，メリトクラシーの<red>根本的な</red>問題のひとつは，社会において<red>高い</red>地位に到達する人々は，その成功は彼らの努力と能力に対する正当な<red>報酬</red>だと<red>確信する</red>だろうし，その一方で成功しない人々は，自分たちの失敗に対する責任を受け入れなければならないだろう，ということだった。したがって，メリトクラシーは社会的尊敬の<red>階層制度</red>を作り出すことになる。すなわち，頂点にいる人々は尊敬が<red>与えられる</red>が，成功できない人々には尊敬が<red>与えられない</red>だろう，そしてそれは他人からだけでなく自分たち自身からも，ということだ。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "in the interest of <red>fairness</red>",
+          "japanese": "<red>公平性</red>のために",
+          "pos": "名",
+          "phonetic": "[féərnəs]",
+          "meaning": "公平（性），公正（性）"
+        },
+        {
+          "english": "political <red>satire</red>",
+          "japanese": "政治の<red>風刺</red>",
+          "pos": "名",
+          "phonetic": "[sǽtaiər]",
+          "meaning": "風刺（本），皮肉"
+        },
+        {
+          "english": "the ideal of <red>egalitarianism</red>",
+          "japanese": "<red>平等主義</red>という理想",
+          "pos": "名",
+          "phonetic": "[igæ̀lətéəriənìzm]",
+          "meaning": "平等主義"
+        },
+        {
+          "english": "be <red>perceived</red> as a threat",
+          "japanese": "脅威と<red>受け取られる</red>",
+          "pos": "他",
+          "phonetic": "[pərsíːvd]",
+          "meaning": "と捉える，を理解する"
+        },
+        {
+          "english": "follow a <red>rigid</red> procedure",
+          "japanese": "<red>厳格な</red>手順に従う",
+          "pos": "形",
+          "phonetic": "[rídʒid]",
+          "meaning": "厳格な"
+        },
+        {
+          "english": "<red>rigidly</red>",
+          "japanese": "<red>厳格に</red>，厳密に",
+          "pos": "副",
+          "phonetic": "[rídʒidli]",
+          "meaning": "厳格に，厳密に"
+        },
+        {
+          "english": "<red>illustrate</red> the point",
+          "japanese": "要点を<red>説明する</red>",
+          "pos": "他",
+          "phonetic": "[íləstrèit]",
+          "meaning": "を説明する，を例示する"
+        },
+        {
+          "english": "be <red>deemed</red> necessary",
+          "japanese": "必要であると<red>みなされる</red>",
+          "pos": "他",
+          "phonetic": "[díːmd]",
+          "meaning": "とみなす"
+        },
+        {
+          "english": "regard O as <red>dull</red>",
+          "japanese": "Oを<red>頭が悪い</red>（おもしろくない）と思う",
+          "pos": "形",
+          "phonetic": "[dʌ́l]",
+          "meaning": "鈍い，物わかりの悪い"
+        },
+        {
+          "english": "a <red>fundamental</red> difference",
+          "japanese": "<red>根本的</red>相違",
+          "pos": "形",
+          "phonetic": "[fʌ̀ndəméntl]",
+          "meaning": "根本的な，基本的な"
+        },
+        {
+          "english": "<red>fundamentalism</red>",
+          "japanese": "<red>原理主義</red>，根本主義",
+          "pos": "名",
+          "phonetic": "[fʌ̀ndəméntəlìzm]",
+          "meaning": "原理主義，根本主義"
+        },
+        {
+          "english": "the <red>elevated</red> status",
+          "japanese": "<red>高い</red>地位",
+          "pos": "形",
+          "phonetic": "[éləvèitid]",
+          "meaning": "〈地位などが〉高い；高尚な"
+        },
+        {
+          "english": "be <red>convinced</red> of one’s guilt",
+          "japanese": "有罪であると<red>確信している</red>",
+          "pos": "形",
+          "phonetic": "[kənvínst]",
+          "meaning": "納得（確信）している"
+        },
+        {
+          "english": "receive just <red>reward</red>",
+          "japanese": "正当な<red>報酬</red>を受け取る",
+          "pos": "名",
+          "phonetic": "[riwɔ́ːrd, rə-]",
+          "meaning": "報酬"
+        },
+        {
+          "english": "bureaucratic <red>hierarchy</red>",
+          "japanese": "官僚組織の<red>ヒエラルキー</red>",
+          "pos": "名",
+          "phonetic": "[háiərὰːrki]",
+          "meaning": "階級（層）制度，ヒエラルキー"
+        },
+        {
+          "english": "<red>grant</red> citizenship to A",
+          "japanese": "Aに市民権を<red>与える</red>",
+          "pos": "他",
+          "phonetic": "[grǽnt]",
+          "meaning": "を与える，を認める"
+        },
+        {
+          "english": "<red>deny</red> O freedom",
+          "japanese": "Oに自由を<red>与えない</red>",
+          "pos": "他",
+          "phonetic": "[dinái]",
+          "meaning": "を与えない，を拒む"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>dull</red>",
+          "pos": "形",
+          "meaning": "退屈な（＋鈍い，物わかりの悪い）",
+          "example": "There’s never a <red>dull</red> moment in this city.",
+          "translation": "この街には退屈な瞬間が一瞬たりともない"
+        },
+        {
+          "headword": "<red>grant</red>",
+          "pos": "名",
+          "meaning": "助成金（＋を与える，を認める）",
+          "example": "Competition for research <red>grants</red> is intense.",
+          "translation": "研究助成金を求める競争は熾烈だ"
+        },
+        {
+          "headword": "<red>deny</red>",
+          "pos": "他",
+          "meaning": "を否定する（＋を与えない，を拒む）",
+          "example": "The president <red>denied</red> the existence of the document.",
+          "translation": "大統領は，その文書の存在を否定した"
         }
       ]
     }

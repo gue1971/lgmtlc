@@ -139,3 +139,27 @@
   }
 }
 /* mobile-hide-header-nav-end */
+
+
+
+
+/* 数字表示の統一：全Passage共通 */
+.english-text,
+.translation-box,
+.phrase-card,
+.poly-card {
+  font-variant-numeric: lining-nums tabular-nums;
+  font-feature-settings: "lnum" 1, "tnum" 1;
+}
+
+.num {
+  display: inline;
+  font: inherit;
+  font-size: 1em !important;
+  line-height: inherit;
+  letter-spacing: inherit;
+  color: inherit;
+  font-variant-numeric: lining-nums tabular-nums;
+  font-feature-settings: "lnum" 1, "tnum" 1;
+  white-space: nowrap;
+}

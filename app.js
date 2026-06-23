@@ -46,11 +46,6 @@ function escapeHtml(s) {
   }[ch]));
 }
 
-function safeMarkup(s) {
-  return String(s ?? "")
-    .replaceAll("<red>", '<span class="red">')
-    .replaceAll("</red>", "</span>");
-}
 
 function iconBookOpen() {
   return `<svg viewBox="0 0 24 24" aria-hidden="true">
@@ -215,8 +210,8 @@ function renderEnglish(passage) {
       <button class="para-hit" data-translation-id="${p.number}" aria-label="${p.number}段落の訳を開く">
         <span class="para-num">${p.number}</span>
       </button>
-      <div class="english-text">${safeMarkup(p.english)}</div>
-      <div class="translation-box hidden" id="translation-${p.number}">${safeMarkup(p.translation)}</div>
+      <div class="english-text">${marked(p.english)}</div>
+      <div class="translation-box hidden" id="translation-${p.number}">${marked(p.translation)}</div>
     </div>
   `).join("")}</div>`;
 }
@@ -224,13 +219,13 @@ function renderEnglish(passage) {
 function renderPhrases(passage) {
   const phrases = `<ul class="phrase-list">${passage.phrases.map(phrase => `
     <li class="phrase-card">
-      <div class="phrase-en">${safeMarkup(phrase.english)}</div>
-      <div class="phrase-ja">${safeMarkup(phrase.japanese)}</div>
+      <div class="phrase-en">${marked(phrase.english)}</div>
+      <div class="phrase-ja">${marked(phrase.japanese)}</div>
       <div class="phrase-meta">
         <span class="pos-badge">${escapeHtml(phrase.pos || "")}</span>
         <span>${escapeHtml(phrase.phonetic || "")}</span>
       </div>
-      <div class="phrase-meaning">${safeMarkup(phrase.meaning || "")}</div>
+      <div class="phrase-meaning">${marked(phrase.meaning || "")}</div>
     </li>
   `).join("")}</ul>`;
 
@@ -239,10 +234,10 @@ function renderPhrases(passage) {
       <h2 class="poly-title">多義語</h2>
       ${passage.polysemy.map(item => `
         <div class="poly-card">
-          <div class="poly-head">${safeMarkup(item.headword)} <span class="pos-badge">${escapeHtml(item.pos || "")}</span></div>
-          <div class="poly-meaning">${safeMarkup(item.meaning || "")}</div>
-          <div class="poly-example">${safeMarkup(item.example || "")}</div>
-          <div class="poly-translation">${safeMarkup(item.translation || "")}</div>
+          <div class="poly-head">${marked(item.headword)} <span class="pos-badge">${escapeHtml(item.pos || "")}</span></div>
+          <div class="poly-meaning">${marked(item.meaning || "")}</div>
+          <div class="poly-example">${marked(item.example || "")}</div>
+          <div class="poly-translation">${marked(item.translation || "")}</div>
         </div>
       `).join("")}
     </section>` : "";

@@ -116,12 +116,12 @@ window.LINGUA_DATA = {
         {
           "id": 19,
           "titleJa": "遺伝子編集による治療は許されるか？（1）",
-          "titleEn": ""
+          "titleEn": "Is Gene Editing for Treatment Permissible? (1)"
         },
         {
           "id": 20,
           "titleJa": "遺伝子編集による治療は許されるか？（2）",
-          "titleEn": ""
+          "titleEn": "Is Gene Editing for Treatment Permissible? (2)"
         }
       ]
     },
@@ -3432,6 +3432,334 @@ window.LINGUA_DATA = {
           "meaning": "を記録する（＋登録する）",
           "example": "Kuwait <red>registered</red> the highest temperature in the world.",
           "translation": "クウェートが世界最高気温を記録した"
+        }
+      ]
+    },
+    "19": {
+      "id": 19,
+      "chapter": 4,
+      "chapterTitle": "医療",
+      "titleJa": "遺伝子編集による治療は許されるか？（1）",
+      "titleEn": "Is Gene Editing for Treatment Permissible? (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The ability to <red>edit</red> human <red>genes</red> carries great promise in curing diseases. Researchers are investigating how gene editing can help combat complex diseases that involve <red>multiple</red> genes and often lifestyle and environmental factors. For instance, the technology could be used to <red>enhance</red> our own <red>immune</red> <red>defences</red> to attack cancer cells, or to cut the HIV <red>genome</red> from infected human cells. However, there is currently more focus on the many <red>genetic</red> diseases known to be caused by a single-gene <red>mutation</red>. Gene editing could cure many of them by <red>locating</red> and repairing an <red>alteration</red> in a single letter of DNA out of the 3.2 billion base pairs that make up the human genome. One example is Duchenne <red>muscular</red> dystrophy. It is a severe genetic <red>disorder</red> caused by a mutation in a gene that contains the instructions to make dystrophin, a protein necessary for the maintenance of <red>muscle</red> structure and function. The absence of this protein leads to debilitating <red>symptoms</red> as the muscles become progressively weaker. Patients with Duchenne muscular dystrophy rarely live beyond their early twenties. However, there is hope that gene editing can repair this mutation, thus <red>restoring</red> the gene’s capacity to instruct for dystrophin production. Although human trials have not begun and many challenges remain, successful trials in mice and in human cells in the laboratory have shown enormous potential. (continued)",
+          "translation": "ヒト<red>遺伝子</red>を<red>編集する</red>ことができることは，病気の治療に対して人々に大きな期待感を抱かせている。研究者たちは，遺伝子編集が<red>複数の</red>遺伝子及びしばしば生活様式や環境要因に関連する複雑な病気と闘うのに，どのように役立つかを調査中である。例えばこの技術は，がん細胞を攻撃するために自分自身の<red>免疫防御</red>力を<red>高め</red>たり，感染したヒト細胞からHIV（ヒト免疫不全ウイルス）<red>ゲノム</red>を切り取ったりするのに利用できる可能性がある。しかし目下のところ，単一遺伝子の<red>突然変異</red>によって引き起こされることがわかっている多くの遺伝性疾患へと，よりいっそうの注目が集まっている。遺伝子編集はそれらの疾患の多くを治すことが可能であるが，それはヒトゲノムを構成する32億の塩基対の中で，単一のDNA塩基の<red>変化</red>の位置を突き止めて修復することによって可能となる。その一例が，デュシェンヌ型筋ジストロフィーだ。これは重い遺伝性の<red>疾患</red>で，<red>筋肉</red>組織の構造や機能の維持に必要なタンパク質であるジストロフィンを作るための指示書を含む遺伝子の突然変異によって引き起こされる。このタンパク質の欠如によって，筋肉が次第に弱くなり，衰弱性の<red>症状</red>が生じるのである。デュシェンヌ型筋ジストロフィーの患者たちがその20代前半を超えて生きることはめったにない。しかし，遺伝子編集によってこの突然変異を修復することが可能であり，そうすることで遺伝子がジストロフィン生成を指示する能力を<red>回復する</red>ことができるという望みがある。人体での臨床試験は始まっていない上，多くの課題が残るが，実験室におけるマウス個体での，そしてヒトの細胞での順調な試験の結果は，非常に大きな可能性を示している。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>edit</red> the draft",
+          "japanese": "草稿を<red>編集する</red>",
+          "pos": "他",
+          "phonetic": "[édət]",
+          "meaning": "を編集する"
+        },
+        {
+          "english": "a <red>gene</red> mutation",
+          "japanese": "<red>遺伝子</red>変異",
+          "pos": "名",
+          "phonetic": "[dʒíːn]",
+          "meaning": "遺伝子"
+        },
+        {
+          "english": "<red>genetic</red>",
+          "japanese": "<red>遺伝子</red>の；遺伝学的な",
+          "pos": "形",
+          "phonetic": "[dʒənétik]",
+          "meaning": "遺伝子の；遺伝学的な"
+        },
+        {
+          "english": "<red>multiple</red> versions",
+          "japanese": "<red>複数の</red>バージョン",
+          "pos": "形",
+          "phonetic": "[mʌ́ltəpl]",
+          "meaning": "多数の；多様な"
+        },
+        {
+          "english": "<red>enhance</red> the quality",
+          "japanese": "質を<red>高める</red>",
+          "pos": "他",
+          "phonetic": "[inhǽns, en-]",
+          "meaning": "高める，を向上させる"
+        },
+        {
+          "english": "the <red>immune</red> system",
+          "japanese": "<red>免疫</red>システム",
+          "pos": "形",
+          "phonetic": "[imjúːn]",
+          "meaning": "免疫がある，免疫の"
+        },
+        {
+          "english": "a <red>defense</red> against A",
+          "japanese": "Aに対する<red>防御</red>",
+          "pos": "名",
+          "phonetic": "[diféns]",
+          "meaning": "防御，防衛（力）"
+        },
+        {
+          "english": "sequence a <red>genome</red>",
+          "japanese": "<red>ゲノム</red>の配列を決定する",
+          "pos": "名",
+          "phonetic": "[dʒíːnoum]",
+          "meaning": "ゲノム"
+        },
+        {
+          "english": "induce <red>mutation</red>",
+          "japanese": "<red>変異</red>を誘発する",
+          "pos": "名",
+          "phonetic": "[mju(:)téiʃən]",
+          "meaning": "（突然）変異"
+        },
+        {
+          "english": "<red>locate</red> a particular gene",
+          "japanese": "特定の遺伝子の<red>場所を突き止める</red>",
+          "pos": "他",
+          "phonetic": "[lóukeit, -́]",
+          "meaning": "の場所を特定する"
+        },
+        {
+          "english": "make a radical <red>alteration</red>",
+          "japanese": "抜本的<red>変更</red>を加える",
+          "pos": "名",
+          "phonetic": "[ɔ̀ːltəréiʃən]",
+          "meaning": "変化；変更，修正"
+        },
+        {
+          "english": "severe <red>muscular</red> pain",
+          "japanese": "ひどい<red>筋肉痛</red>",
+          "pos": "形",
+          "phonetic": "[mʌ́skjulər]",
+          "meaning": "筋肉の，筋肉質の"
+        },
+        {
+          "english": "a sleep <red>disorder</red>",
+          "japanese": "睡眠<red>障碍</red>",
+          "pos": "名",
+          "phonetic": "[disɔ́ːrdər, diz-]",
+          "meaning": "不調，障碍，病気"
+        },
+        {
+          "english": "stretch the <red>muscles</red>",
+          "japanese": "<red>筋肉</red>を伸ばす",
+          "pos": "名",
+          "phonetic": "[mʌ́slz]",
+          "meaning": "筋肉（組織）"
+        },
+        {
+          "english": "a typical <red>symptom</red>",
+          "japanese": "典型的な<red>症状</red>",
+          "pos": "名",
+          "phonetic": "[símptəm]",
+          "meaning": "症状，徴候"
+        },
+        {
+          "english": "<red>restore</red> law and order",
+          "japanese": "法と秩序を<red>回復する</red>",
+          "pos": "他",
+          "phonetic": "[ristɔ́ːr]",
+          "meaning": "を回復する，を取り戻す"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>locate</red>",
+          "pos": "他",
+          "meaning": "を（ある場所に）置く（＋の場所を特定する）",
+          "example": "The university is <red>located</red> in a quiet area.",
+          "translation": "その大学は静かな地区に位置している"
+        },
+        {
+          "headword": "<red>disorder</red>",
+          "pos": "名",
+          "meaning": "混乱（＋不調，障碍，病気）",
+          "example": "The traffic was in total <red>disorder</red>.",
+          "translation": "交通は完全な混乱状態だった"
+        },
+        {
+          "headword": "<red>restore</red>",
+          "pos": "他",
+          "meaning": "を修復する（＋を回復する，を取り戻す）",
+          "example": "The old painting was carefully <red>restored</red>.",
+          "translation": "古い絵画が注意深く修復された"
+        }
+      ]
+    },
+    "20": {
+      "id": 20,
+      "chapter": 4,
+      "chapterTitle": "医療",
+      "titleJa": "遺伝子編集による治療は許されるか？（2）",
+      "titleEn": "Is Gene Editing for Treatment Permissible? (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Eliminating genetic disorders in people also raises the possibility of doing so in <red>embryos</red>. This would remove the <red>complicated</red> process of delivering gene editing tools to specific cells in a living person. In addition, the edited DNA in an embryo would be passed from generation to generation. <red>Therapeutic</red> gene editing in living people targets <red>somatic</red> cells. These cells make up most of the body, and their DNA is not <red>inherited</red> by future generations. For instance, the somatic cells targeted in Duchenne muscular dystrophy treatment are the patient’s muscle cells. In contrast, <red>germ</red> cells are cells whose DNA is <red>transmitted</red> to <red>offspring</red>, such as egg and <red>sperm</red> cells. <red>Repairing</red> a single-gene mutation in an early-stage embryo would ensure that as the embryo develops into an adult organism, all the cells in the body would contain the repaired DNA. As this includes the germ cells, all <red>subsequent</red> generations would also receive a healthy copy of the gene. Thus, performing gene editing in an embryo would also prevent genetic diseases in future humans, making it both the most <red>potent</red> use of gene editing technology and the most <red>controversial</red>.",
+          "translation": "人間の遺伝性疾患を撲滅することは，<red>胚</red>の中でそのようにする可能性も提起する。これによって，遺伝子編集ツールを生きている人間の特定の細胞に運ぶという<red>複雑な</red>過程は不要になるだろう。さらに，胚の中の編集されたDNAは，世代から世代へと伝えられるだろう。生きている人々の<red>治療目的</red>の遺伝子編集は，<red>体細胞</red>を対象にしている。これらの細胞が体の大部分を構成しており，そのDNAは将来の世代によって<red>受け継がれる</red>ことはない。例えば，デュシェンヌ型筋ジストロフィーの治療で対象となる体細胞は，その患者の筋肉細胞である。それとは対照的に<red>生殖細胞</red>とは，そのDNAが<red>子孫</red>へと<red>伝えられる</red>卵細胞や<red>精子</red>細胞である。初期胚の中の単一遺伝子の突然変異を<red>修復する</red>ことにより，胚が成体へと発達するに従って，体内のすべての細胞が修復されたDNAを含むことが確実になるだろう。これには生殖細胞も含まれるので，すべての<red>後続の</red>世代も，遺伝子の健全な写しを受け取ることになる。したがって，胚で遺伝子編集を行うことは，将来の人間の遺伝性疾患を防ぐことにもなり，そのために胚での遺伝子編集が最も<red>有力な</red>，かつ最も<red>議論を呼ぶ</red>遺伝子編集技術の利用法となっているのである。"
+        },
+        {
+          "number": 2,
+          "english": "Despite the <red>apparent</red> advantages, there are many ethical objections to editing the human genome. Even if the technology proves to be safe and effective, many people question whether we have the right to <red>permanently</red> change the genome of future generations who cannot be involved in the decision-making process and as such cannot give informed consent. (The end)",
+          "translation": "<red>明らかな</red>利点があるにもかかわらず，ヒトゲノムを編集することへの倫理的反対は多い。その技術が安全で効果があると判明しても，多くの人たちは疑問を抱いている。意思決定の過程に関与することができず，それゆえに納得した上での同意をすることができない未来世代の人々のゲノムを，<red>永久に</red>変える権利を我々が持っているのかどうか，と。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>embryo</red> implantation",
+          "japanese": "<red>胚</red>（の）着床",
+          "pos": "名",
+          "phonetic": "[émbriòu]",
+          "meaning": "胚；胎芽"
+        },
+        {
+          "english": "a highly <red>complicated</red> issue",
+          "japanese": "非常に<red>複雑な</red>問題",
+          "pos": "形",
+          "phonetic": "[kάmpləkèitid]",
+          "meaning": "複雑な"
+        },
+        {
+          "english": "<red>therapeutic</red> intervention",
+          "japanese": "<red>治療的</red>介入",
+          "pos": "形",
+          "phonetic": "[θèərəpjúːtik]",
+          "meaning": "治療（目的）の"
+        },
+        {
+          "english": "a <red>somatic</red> cell clone",
+          "japanese": "<red>体細胞</red>クローン",
+          "pos": "形",
+          "phonetic": "[soumǽtik, sə-]",
+          "meaning": "身体の；体細胞の"
+        },
+        {
+          "english": "<red>inherit</red> the traits of A",
+          "japanese": "Aの特質を<red>受け継ぐ</red>",
+          "pos": "他",
+          "phonetic": "[inhérət]",
+          "meaning": "を受け継ぐ"
+        },
+        {
+          "english": "<red>germ</red> cells",
+          "japanese": "<red>生殖細胞</red>",
+          "pos": "名",
+          "phonetic": "[dʒə́ːrm]",
+          "meaning": "胚；芽"
+        },
+        {
+          "english": "<red>transmit</red> a disease",
+          "japanese": "病気を<red>伝染させる</red>",
+          "pos": "他",
+          "phonetic": "[trænsmít, trænz-]",
+          "meaning": "を伝える；を受け渡す"
+        },
+        {
+          "english": "produce <red>offspring</red>",
+          "japanese": "<red>子孫</red>を産む",
+          "pos": "名",
+          "phonetic": "[ɔ́ːfsprɪŋ]",
+          "meaning": "子孫，子ども"
+        },
+        {
+          "english": "a normal <red>sperm</red> count",
+          "japanese": "正常な<red>精子</red>数",
+          "pos": "名",
+          "phonetic": "[spə́ːrm]",
+          "meaning": "精子"
+        },
+        {
+          "english": "<red>repair</red> tissues",
+          "japanese": "（細胞）組織を<red>修復する</red>",
+          "pos": "他",
+          "phonetic": "[ripéər, rə-]",
+          "meaning": "を修復する；を修理する"
+        },
+        {
+          "english": "<red>subsequent</red> research",
+          "japanese": "<red>後続の</red>研究",
+          "pos": "形",
+          "phonetic": "[sʌ́bsikwənt]",
+          "meaning": "後続の，その後の"
+        },
+        {
+          "english": "a <red>potent</red> solution",
+          "japanese": "有力な<red>解決策</red>",
+          "pos": "形",
+          "phonetic": "[póutnt]",
+          "meaning": "有力な；強い影響力のある"
+        },
+        {
+          "english": "a <red>controversial</red> subject",
+          "japanese": "<red>賛否両論</red>の話題",
+          "pos": "形",
+          "phonetic": "[kὰntrəvə́ːrʃəl]",
+          "meaning": "論争的な，賛否両論ある"
+        },
+        {
+          "english": "for no <red>apparent</red> reason",
+          "japanese": "<red>明白な</red>理由なしに",
+          "pos": "形",
+          "phonetic": "[əpέrənt, əpǽr-]",
+          "meaning": "明らかな，明白な"
+        },
+        {
+          "english": "<red>permanent</red> damage",
+          "japanese": "<red>永久的な</red>損傷",
+          "pos": "形",
+          "phonetic": "[pə́ːrmənənt]",
+          "meaning": "永久の，永遠の"
+        },
+        {
+          "english": "<red>permanently</red>",
+          "japanese": "<red>永久に</red>",
+          "pos": "副",
+          "phonetic": "[pə́ːrmənəntli]",
+          "meaning": "永久に"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>germ</red>",
+          "pos": "名",
+          "meaning": "細菌，ばい菌；初期段階，（考えなどの）萌芽（＋胚，芽）",
+          "example": "Washing your hands with soap helps prevent the spread of <red>germs</red>.",
+          "translation": "石鹸で手を洗うことが，ばい菌の拡大を防ぐのに役立つ"
+        },
+        {
+          "headword": "<red>germ</red>",
+          "pos": "名",
+          "meaning": "細菌，ばい菌；初期段階，（考えなどの）萌芽（＋胚，芽）",
+          "example": "The <red>germ</red> of the theory began to form in his teens.",
+          "translation": "その理論の萌芽は彼が10代の頃に形成され始めた"
+        },
+        {
+          "headword": "<red>transmit</red>",
+          "pos": "他",
+          "meaning": "を送信する；を放送する（＋を伝える；を受け渡す）",
+          "example": "I had trouble <red>transmitting</red> the images.",
+          "translation": "画像を送信するのに苦労した"
+        },
+        {
+          "headword": "<red>transmit</red>",
+          "pos": "他",
+          "meaning": "を送信する；を放送する（＋を伝える；を受け渡す）",
+          "example": "The ceremony was <red>transmitted</red> live via satellite.",
+          "translation": "セレモニーは衛星中継で生放送された"
+        },
+        {
+          "headword": "<red>apparent</red>",
+          "pos": "形",
+          "meaning": "外見上の，一見…と思われる（＋明らかな，明白な）",
+          "example": "The <red>apparent</red> cause of death was food poisoning.",
+          "translation": "見たところ死因と思われるのは食中毒であった"
+        },
+        {
+          "headword": "<red>apparent</red>",
+          "pos": "形",
+          "meaning": "外見上の，一見…と思われる（＋明らかな，明白な）",
+          "example": "= It <red>appeared</red> that food poisoning was the cause of death.",
+          "translation": ""
         }
       ]
     }

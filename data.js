@@ -132,12 +132,12 @@ window.LINGUA_DATA = {
         {
           "id": 21,
           "titleJa": "気候変動が食糧生産に与える影響",
-          "titleEn": ""
+          "titleEn": "Climate's Effect on Food"
         },
         {
           "id": 22,
           "titleJa": "伝統的な建築から学べること（1）",
-          "titleEn": ""
+          "titleEn": "Lessons from Traditional Architecture (1)"
         },
         {
           "id": 23,
@@ -3760,6 +3760,339 @@ window.LINGUA_DATA = {
           "meaning": "外見上の，一見…と思われる（＋明らかな，明白な）",
           "example": "= It <red>appeared</red> that food poisoning was the cause of death.",
           "translation": ""
+        }
+      ]
+    },
+    "21": {
+      "id": 21,
+      "chapter": 5,
+      "chapterTitle": "環境",
+      "titleJa": "気候変動が食糧生産に与える影響",
+      "titleEn": "Climate's Effect on Food",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "At the start of the 21st century, <red>agriculture</red> and changes in land use accounted for about 25 percent of global <red>greenhouse</red> gas <red>discharges</red>, but in 2050, they could amount to more than 75 percent if nothing was done to reduce the <red>contribution</red> from agriculture. Changes in land use are an important <red>contributor</red> to agricultural discharges, especially cutting down forests to make way for <red>crops</red>, which releases into the atmosphere large amounts of <red>carbon</red> that have been <red>stored</red> in the trees and soil. In short, whatever methods are used to increase food production will need to reduce greenhouse gases if we are to prevent <red>climate</red> change.",
+          "translation": "21世紀の初めには，<red>農業</red>と土地利用の変化が，世界の<red>温室効果ガス排出量</red>のおよそ25パーセントを占めていたが，2050年には，農業から生じる<red>要因</red>を削減するために何も行われなければ，75パーセントあまりに達する可能性がある。土地利用の変化は，農業に関連した放出の重要な<red>要因</red>となっており，<red>農作物</red>用に土地を空けるために森林を伐採することはとりわけそうで，樹木や土壌に<red>貯蔵されて</red>きた大量の<red>二酸化炭素</red>を大気中に放出してしまうのだ。要するに，私たちが<red>気候</red>変動を阻止するつもりなら，食糧生産を拡大するのに使われる手段は何であれ，温室効果ガスを削減する必要があるだろう。"
+        },
+        {
+          "number": 2,
+          "english": "The second impact of climate change is that agricultural production itself will be affected by the changing climate. There are likely to be winners and losers. Warmer summers and higher carbon dioxide levels mean that <red>productivity</red> in such areas as Canada and northern Europe may increase. On the other hand, areas <red>currently</red> suitable for agriculture such as the countries of southern Europe may become too hot and dry for growing food. Africa, with its growing population and <red>relatively</red> low agricultural productivity, is predicted to suffer in many parts from more uncertain rainfall and a longer dry season. Agricultural productivity may, therefore, decline by somewhere between 5 percent and 25 percent, depending on the crop and the location, by the latter part of the 21st century.",
+          "translation": "気候変動の2つ目の影響は，農業生産そのものが，変わりつつある気候によって影響を受けるだろうということだ。勝者と敗者が出てくる可能性が高いのである。夏の気温が上昇し，二酸化炭素レベルが高くなるということは，カナダや北ヨーロッパなどの地域の<red>生産性</red>が高まる可能性を意味する。一方，南ヨーロッパ諸国などの，<red>現在は</red>農業に適した地域が，食物を栽培するには暑すぎるうえ乾燥しすぎるということになるかもしれない。人口が増加しつつあり，農業の生産性が<red>比較的</red>低いアフリカは，多くの地域でますます不安定な降雨や，より長い乾季に苦しむと予測されている。したがって，農業の生産性は，21世紀の後半までに，農産物と地域によっては，およそ5パーセントから25パーセントの割合で低下するかもしれないのである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "traditional <red>agriculture</red>",
+          "japanese": "伝統的<red>農業</red>",
+          "pos": "名",
+          "phonetic": "[ǽgrikʌ̀ltʃər]",
+          "meaning": "農業"
+        },
+        {
+          "english": "<red>agricultural</red>",
+          "japanese": "<red>農業</red>の",
+          "pos": "形",
+          "phonetic": "[ӕ̀grikʌ́ltʃərəl]",
+          "meaning": "農業の"
+        },
+        {
+          "english": "a <red>greenhouse</red> gas",
+          "japanese": "<red>温室</red>効果ガス",
+          "pos": "名",
+          "phonetic": "[gríːnhàus]",
+          "meaning": "温室"
+        },
+        {
+          "english": "an electric <red>discharge</red>",
+          "japanese": "電気の<red>放出</red>（放電）",
+          "pos": "名",
+          "phonetic": "[distʃάrdʒ, -́]",
+          "meaning": "排出（量），放出"
+        },
+        {
+          "english": "make a <red>contribution</red> to A",
+          "japanese": "Aに<red>貢献</red>する，Aの一因となる",
+          "pos": "名",
+          "phonetic": "[kὰntrəbjúːʃən]",
+          "meaning": "寄与，一因"
+        },
+        {
+          "english": "<red>contributor</red>",
+          "japanese": "<red>貢献するもの</red>［人］",
+          "pos": "名",
+          "phonetic": "[kəntríbjutər]",
+          "meaning": "貢献するもの［人］"
+        },
+        {
+          "english": "a staple food <red>crop</red>",
+          "japanese": "主食<red>農作物</red>",
+          "pos": "名",
+          "phonetic": "[krάp]",
+          "meaning": "作物；収穫高"
+        },
+        {
+          "english": "atmospheric <red>carbon</red> dioxide",
+          "japanese": "大気中の二酸化<red>炭素</red>",
+          "pos": "名",
+          "phonetic": "[kάːrbən]",
+          "meaning": "炭素"
+        },
+        {
+          "english": "<red>store</red> jewels in a safe",
+          "japanese": "金庫で宝石を<red>保管する</red>",
+          "pos": "他",
+          "phonetic": "[stɔ́ːr]",
+          "meaning": "を貯蔵する；を保存しておく"
+        },
+        {
+          "english": "a tropical <red>climate</red>",
+          "japanese": "熱帯性<red>気候</red>",
+          "pos": "名",
+          "phonetic": "[kláimət]",
+          "meaning": "気候"
+        },
+        {
+          "english": "a <red>productive</red> life",
+          "japanese": "<red>生産的</red>な生活",
+          "pos": "形",
+          "phonetic": "[prədʌ́ktiv]",
+          "meaning": "生産的な；建設的な"
+        },
+        {
+          "english": "<red>productivity</red>",
+          "japanese": "<red>生産性</red>",
+          "pos": "名",
+          "phonetic": "[pròudʌktívəti]",
+          "meaning": "生産性"
+        },
+        {
+          "english": "be <red>currently</red> available",
+          "japanese": "<red>現在は</red>入手可能である",
+          "pos": "副",
+          "phonetic": "[kə́ːrəntli]",
+          "meaning": "現在は，現状では"
+        },
+        {
+          "english": "be <red>relatively</red> stable",
+          "japanese": "<red>比較的</red>安定している",
+          "pos": "副",
+          "phonetic": "[rélətivli]",
+          "meaning": "相対的に，比較的"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>contribution</red>",
+          "pos": "名",
+          "meaning": "寄付金（＋寄与，一因）",
+          "example": "A <red>contribution</red> of 3,000 yen will buy 90 vaccines.",
+          "translation": "3,000円の寄付で90回分のワクチンが買える"
+        },
+        {
+          "headword": "<red>crop</red>",
+          "pos": "他",
+          "meaning": "を刈り込む，を切り取る（＋作物；収穫高）",
+          "example": "You can <red>crop</red> the image to the desired portion.",
+          "translation": "画像のご希望の箇所を切り取れます"
+        },
+        {
+          "headword": "<red>climate</red>",
+          "pos": "名",
+          "meaning": "情勢（＋気候）",
+          "example": "The election results will reflect the political <red>climate</red>.",
+          "translation": "選挙結果は政治情勢を反映するものになるだろう"
+        }
+      ]
+    },
+    "22": {
+      "id": 22,
+      "chapter": 5,
+      "chapterTitle": "環境",
+      "titleJa": "伝統的な建築から学べること（1）",
+      "titleEn": "Lessons from Traditional Architecture (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "When we imagine the <red>primary</red> causes of environmental damage, we tend to focus on our cars, the food that we eat, and other things we <red>consume</red>. Surprisingly, however, the construction, maintenance, and operation of buildings is the largest contributor to global carbon <red>emissions</red>, at 39%. This includes the production and <red>transportation</red> of construction materials and the energy <red>consumption</red> needed to maintain buildings. Since the mid-1800s, global urbanization has increased, resulting in the rapid development of cheap urban housing, which has been <red>detrimental</red> to both the environment and to our well-being. The environmental and health-related harm done could be <red>curbed</red> by returning to traditional <red>principles</red> of <red>sustainable</red> building and design that have been used for thousands of years.",
+          "translation": "私たちが環境被害の<red>主な</red>原因を思い浮かべる場合，自分たちの自動車，自分たちが食べる食べもの，また自分たちが<red>消費する</red>その他のものに重点を置きがちである。しかし，意外にも，建物の建設，保守管理，そして操業が39％と，地球規模での二酸化炭素<red>排出量</red>の最大要因なのだ。この数字は建設資材の生産と<red>輸送</red>，さらに建物の維持に必要なエネルギー<red>消費</red>を含んでいる。1800年代半ば以降，世界の都市化が進み，結果的に，安価な都市住宅の急速な開発につながったが，それは環境にも私たちの健康にも<red>有害</red>となっている。環境や健康関連の被害は，何千年もの間使われてきた，<red>持続可能な</red>建設と設計という伝統的<red>原則</red>に立ち返ることによって，<red>抑えられる</red>可能性がある。"
+        },
+        {
+          "number": 2,
+          "english": "Following traditional <red>principles</red> can help societies maintain a <red>delicate</red> <red>equilibrium</red> between built and natural environments. One example is the ancient Chinese practice of feng shui, which aims to create <red>habitable</red> and sustainable spaces in harmony with nature. Feng shui <red>practitioners</red> recommend that buildings be a comfortable distance from busy roads, rivers, and the surrounding natural area. In addition to this, other pre-industrial building design <red>elements</red> responded to specific local climate challenges. In Tonga, houses traditionally had <red>curved</red> roofs that deflected the wind from <red>tropical</red> storms common in the region. Similarly, in pre-industrial Norway, living grass roofs provided protection against the area’s <red>harsh</red> winters without consuming energy like modern heating systems do. Although not the <red>norm</red> these days, examples of these traditions still exist. (continued)",
+          "translation": "伝統的<red>原則</red>に従うことは，社会が建築物と自然環境の<red>微妙な</red><red>均衡</red>を維持するのに役立ってくれる。その一例が古代中国の風水の慣習で，これは自然と調和して，<red>居住に適した</red>持続可能な空間を作り出すことを目指している。風水の<red>実践者たち</red>が推奨しているのは，建物が交通量の多い道路や河川，また周辺の自然地域と心地よく感じる距離だけ離れていることだ。これに加えて，他の産業革命前の建築設計<red>要素</red>は，特定の地域の気候の課題に対応した。トンガでは，家屋には伝統的に，この地域でよくみられる<red>熱帯</red>の暴風雨からの風を逸らす，<red>湾曲した</red>屋根がついていた。同じように，産業革命前のノルウェーでは，草を生やした（←屋上緑化の）屋根が，現代の暖房システムがするようにはエネルギーを消費することなく，この地域の<red>厳しい</red>冬から守ってくれた。最近では<red>標準</red>とは言えないものの，こういった伝統の例は今も存在している。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a <red>primary</red> care physician",
+          "japanese": "一般診療医（←<red>第一</red>に診てもらう医者）",
+          "pos": "形",
+          "phonetic": "[práimèri, -məri]",
+          "meaning": "第一の，主要な"
+        },
+        {
+          "english": "<red>consume</red> more calories",
+          "japanese": "より多くのカロリーを<red>消費する</red>",
+          "pos": "他",
+          "phonetic": "[kəns(j)úːm]",
+          "meaning": "を消費する；を摂取する"
+        },
+        {
+          "english": "<red>consumption</red>",
+          "japanese": "<red>消費</red>，使い果たすこと",
+          "pos": "名",
+          "phonetic": "[kənsʌ́mpʃən]",
+          "meaning": "消費，使い果たすこと"
+        },
+        {
+          "english": "a zero-<red>emission</red> vehicle",
+          "japanese": "排出量ゼロ自動車",
+          "pos": "名",
+          "phonetic": "[imíʃən]",
+          "meaning": "排出；排出量"
+        },
+        {
+          "english": "<red>transport</red> goods by sea",
+          "japanese": "海上で物資を<red>輸送する</red>",
+          "pos": "他",
+          "phonetic": "[trænspɔ́ːrt]",
+          "meaning": "を輸送する"
+        },
+        {
+          "english": "<red>transportation</red>",
+          "japanese": "<red>輸送</red>；交通機関",
+          "pos": "名",
+          "phonetic": "[trὰnspərtéiʃən]",
+          "meaning": "輸送；交通機関"
+        },
+        {
+          "english": "be <red>detrimental</red> to health",
+          "japanese": "健康に<red>有害</red>な",
+          "pos": "形",
+          "phonetic": "[dètrəméntl]",
+          "meaning": "有害な，不利益を与える"
+        },
+        {
+          "english": "<red>curb</red> inflation",
+          "japanese": "インフレを<red>抑制する</red>",
+          "pos": "他",
+          "phonetic": "[kə́ːrb]",
+          "meaning": "を抑制する，を制限する"
+        },
+        {
+          "english": "the <red>principle</red> of equality",
+          "japanese": "平等の<red>原則</red>",
+          "pos": "名",
+          "phonetic": "[prínsəpl]",
+          "meaning": "原理，原則"
+        },
+        {
+          "english": "<red>sustainable</red> ways of living",
+          "japanese": "<red>持続可能な</red>暮らし方",
+          "pos": "形",
+          "phonetic": "[səstéinəbl]",
+          "meaning": "持続可能な"
+        },
+        {
+          "english": "a <red>delicate</red> balance",
+          "japanese": "<red>崩れやすい</red>均衡",
+          "pos": "形",
+          "phonetic": "[délikət]",
+          "meaning": "壊れやすい；繊細な"
+        },
+        {
+          "english": "the <red>equilibrium</red> in an ecosystem",
+          "japanese": "生態系の<red>バランス</red>",
+          "pos": "名",
+          "phonetic": "[ìːkwəlíbriəm, é-]",
+          "meaning": "均衡，バランス"
+        },
+        {
+          "english": "the <red>habitable</red> zone",
+          "japanese": "<red>生存可能</red>圏",
+          "pos": "形",
+          "phonetic": "[hǽbətəbl]",
+          "meaning": "居住可能な，人間の住める"
+        },
+        {
+          "english": "Zen <red>practitioners</red>",
+          "japanese": "禅の<red>実践者たち</red>",
+          "pos": "名",
+          "phonetic": "[præktíʃənərz]",
+          "meaning": "実践家"
+        },
+        {
+          "english": "an important <red>element</red>",
+          "japanese": "重要な<red>要素</red>",
+          "pos": "名",
+          "phonetic": "[éləmənt]",
+          "meaning": "要素"
+        },
+        {
+          "english": "a <red>curved</red> surface",
+          "japanese": "<red>湾曲した</red>表面",
+          "pos": "形",
+          "phonetic": "[kə́ːrvd]",
+          "meaning": "湾曲した，カーブした"
+        },
+        {
+          "english": "a <red>tropical</red> rainforest",
+          "japanese": "<red>熱帯</red>雨林",
+          "pos": "形",
+          "phonetic": "[trά:pikəl]",
+          "meaning": "熱帯の"
+        },
+        {
+          "english": "a <red>harsh</red> environment",
+          "japanese": "<red>過酷</red>な環境",
+          "pos": "形",
+          "phonetic": "[hάːrʃ]",
+          "meaning": "厳しい，過酷な"
+        },
+        {
+          "english": "become the <red>norm</red>",
+          "japanese": "<red>標準</red>になる（＝当たり前になる）",
+          "pos": "名",
+          "phonetic": "[nɔ́ːrm]",
+          "meaning": "標準；規範"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>primary</red>",
+          "pos": "形",
+          "meaning": "初等（初級）の（＋第一の，主要な）",
+          "example": "<red>Primary</red> education is of the utmost importance.",
+          "translation": "初等教育は最も大きな重要性をもつ"
+        },
+        {
+          "headword": "<red>consumption</red>",
+          "pos": "名",
+          "meaning": "摂取，飲食（＋消費，使い果たすこと）",
+          "example": "The doctor advised him to reduce his alcohol <red>consumption</red>.",
+          "translation": "医師は彼にアルコール摂取を減らすよう助言した"
+        },
+        {
+          "headword": "<red>principle</red>",
+          "pos": "名",
+          "meaning": "主義，道義（＋原理，原則）",
+          "example": "It’s against my <red>principles</red> to tell a lie.",
+          "translation": "嘘をつくことは私の道義に反する"
+        },
+        {
+          "headword": "<red>delicate</red>",
+          "pos": "形",
+          "meaning": "（問題や状況が）慎重さを要する（＋壊れやすい；繊細な）",
+          "example": "Abortion is a <red>delicate</red> issue.",
+          "translation": "人工妊娠中絶は慎重さを要する（軽々しく論じられない）問題だ"
+        },
+        {
+          "headword": "<red>element</red>",
+          "pos": "名",
+          "meaning": "元素（＋要素）",
+          "example": "K is the <red>element</red> symbol for potassium.",
+          "translation": "Kはカリウムの元素記号である"
         }
       ]
     }

@@ -1,3 +1,21 @@
+function safeMarkup(s) {
+  return String(s ?? "")
+    .replaceAll("<strong>", "<strong>")
+    .replaceAll("</strong>", "</strong>")
+    .replaceAll("<br>", "<br>")
+    .replaceAll("<red>", '<span class="red">')
+    .replaceAll("</red>", "</span>");
+}
+
+function stabilizeNumbers(html) {
+  return String(html ?? "").replace(/(?<![\w>])\d[\d,.]*(?:\s?%|\s?per cent|\s?°C|兆|万|億)?/g, '<span class="num">$&</span>');
+}
+
+function marked(s) {
+  return stabilizeNumbers(safeMarkup(s));
+}
+
+
 
 const DATA = window.LINGUA_DATA;
 

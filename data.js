@@ -177,13 +177,13 @@ window.LINGUA_DATA = {
         },
         {
           "id": 29,
-          "titleJa": "公平な社会とは？（1）",
-          "titleEn": "What is a Fair Society? (1)"
+          "titleEn": "What is a Fair Society? (1)",
+          "titleJa": "公平な社会とは？（1）"
         },
         {
           "id": 30,
-          "titleJa": "公平な社会とは？（2）",
-          "titleEn": "What is a Fair Society? (2)"
+          "titleEn": "What is a Fair Society? (2)",
+          "titleJa": "公平な社会とは？（2）"
         }
       ]
     },
@@ -3101,7 +3101,7 @@ window.LINGUA_DATA = {
         },
         {
           "number": 3,
-          "english": "Against the <red>backdrop</red> of these <red>sobering</red> statistics, Nova Scotia is set to become the first <red>jurisdiction</red> in North America to <red>enact</red> <red>legislation</red> to <red>tackle</red> the shortage of organs for transplant. Passed on April 2, 2019, the Human Organ and <red>Tissue</red> Act is scheduled to come into effect on Jan. 18, 2021.",
+          "english": "In the <red>backdrop</red> of these <red>sobering</red> statistics, Nova Scotia is set to become the first <red>jurisdiction</red> in North America to <red>enact</red> <red>legislation</red> to <red>tackle</red> the shortage of organs for transplant. Passed on April 2, 2019, the Human Organ and <red>Tissue</red> Act is scheduled to come into effect on Jan. 18, 2021.",
           "translation": "これらの<red>はっとさせられるような</red>統計データを<red>背景</red>に，ノバスコシア州は，移植用臓器の不足に<red>取り組む</red>ための法律<red>を制定する</red>北米初の<red>管轄区域</red>となることになっている。ヒト臓器・<red>組織</red>法は2019年4月2日に可決され，2021年1月18日に発効される予定である。"
         },
         {
@@ -5091,8 +5091,8 @@ window.LINGUA_DATA = {
       "paragraphs": [
         {
           "number": 1,
-          "english": "Historically, the power and <red>wealth</red> of individuals was <red>related</red> to their parentage. In <red>hereditary aristocracies</red>, for example, a person’s social position and economic situation were <red>determined</red> by the <red>lottery</red> of birth: if a child was born into an <red>influential</red> and wealthy family, they would likely inherit this power and wealth. <red>Critics</red> of this system have argued that power and wealth should be <red>distributed</red> based on a person’s effort and ability. A society organised in this way is referred to as a <red>meritocracy</red>. The term was coined by Michael Young, a British sociologist, in his 1958 novel <i>The Rise of Meritocracy: 1870–2033</i>. At first glance, this system appears to have many benefits; however, under closer <red>examination</red>, it becomes clear that it is not without problems. (continued)",
-          "translation": "歴史的に見て，個々人の権力と<red>富</red>はその生まれと<red>結びついて</red>いた。例えば，<red>世襲の貴族社会</red>では，ある人の社会的な立場や経済状況は，家柄という<red>宝くじ</red>によって<red>決定されて</red>いたのだ。つまり，ある子どもが<red>影響力のある</red>裕福な家に生まれたならば，その子がおそらくは，この権力と富を受け継ぐことになっていただろう。この体制の<red>批判者</red>らは，権力と富は人の努力や能力に基づいて<red>分配される</red>べきであると主張してきた。このようなやり方で組織された社会は，<red>メリトクラシー</red>と呼ばれている。この言葉は，イギリスの社会学者，マイケル・ヤングの造語であり，彼の1958年の小説『メリトクラシーの台頭 1870-2033』の中で使われた。一見したところ，この体制には多くの利点があるように見えるが，より詳細に<red>検討</red>してみると，これには問題がないわけではないということが明らかになる。（続く）"
+          "english": "Historically, the power and <red>wealth</red> of individuals was <red>related</red> to their parentage. In <red>hereditary aristocracies</red>, for example, a person’s social position and economic situation were <red>determined</red> by the <red>lottery</red> of birth: if a child was born into an <red>influential</red> and wealthy family, they would likely inherit this power and wealth. <red>Critics</red> of this system have argued that power and wealth should be <red>distributed</red> based on a person’s effort and ability. A society organised in this way is referred to as a <red>meritocracy</red>. The term was coined by Michael Young, a British sociologist, in his 1958 novel The Rise of Meritocracy: 1870-2033. At first glance, this system appears to have many benefits; however, under closer <red>examination</red>, it becomes clear that it is not without problems. (continued)",
+          "translation": "歴史的に見て，個々人の権力と<red>富</red>はその生まれと<red>結びついて</red>いた。例えば，<red>世襲の貴族社会</red>では，ある人の社会的な立場や 経済状況は，家柄という<red>宝くじ</red>によって<red>決定されて</red>いたのだ。つまり，ある子どもが<red>影響力のある</red>裕福な家に生まれたならば， その子がおそらくは，この権力と富を受け継ぐことになっていただろう。この体制の<red>批評家ら</red>は，権力と富は人の努力や能力に基づいて <red>分配される</red>べきであると主張してきた。このようなやり方で組織された社会は，<red>メリトクラシー</red>と呼ばれている。この言葉は，イギリスの 社会学者，マイケル・ヤングの造語であり，彼の1958年の小説『メリトクラシーの台頭 1870-2033』の中で使われた。一見したところ，この体制には 多くの利点があるように見えるが，より詳細に<red>検討してみる</red>と，これには問題がないわけではないということが明らかになる。（続く）"
         }
       ],
       "phrases": [
@@ -5107,7 +5107,7 @@ window.LINGUA_DATA = {
           "english": "be closely <red>related</red> to A",
           "japanese": "Aと密接に<red>関連がある</red>",
           "pos": "他",
-          "phonetic": "[riléitid, rə-]",
+          "phonetic": "[riléitid, ro-]",
           "meaning": "を関連付ける"
         },
         {
@@ -5128,7 +5128,7 @@ window.LINGUA_DATA = {
           "english": "hereditary <red>aristocracy</red>",
           "japanese": "世襲の<red>貴族階級</red>",
           "pos": "名",
-          "phonetic": "[ərístɑ́ːkrəsi]",
+          "phonetic": "[èrəstάkrəsi]",
           "meaning": "貴族政治，貴族階級"
         },
         {
@@ -5139,17 +5139,10 @@ window.LINGUA_DATA = {
           "meaning": "を決定する"
         },
         {
-          "english": "<red>determinant</red>",
-          "japanese": "<red>決定要因</red>，因子",
-          "pos": "名",
-          "phonetic": "[ditə́ːrmənənt]",
-          "meaning": "決定要因，因子"
-        },
-        {
           "english": "win the <red>lottery</red>",
           "japanese": "<red>宝くじ</red>に当たる",
           "pos": "名",
-          "phonetic": "[lɑ́təri]",
+          "phonetic": "[lάtəri]",
           "meaning": "くじ引き，抽選"
         },
         {
@@ -5161,7 +5154,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>influencer</red>",
-          "japanese": "<red>インフルエンサー</red>",
+          "japanese": "インフルエンサー",
           "pos": "名",
           "phonetic": "[ínfluənsər]",
           "meaning": "インフルエンサー"
@@ -5182,14 +5175,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "the unfairness of <red>meritocracy</red>",
-          "japanese": "<red>メリトクラシー</red>の不公平さ",
+          "japanese": "メリトクラシーの不公平さ",
           "pos": "名",
-          "phonetic": "[mèrətɑ́ːkrəsi]",
+          "phonetic": "[mèrətάkrəsi]",
           "meaning": "メリトクラシー，功績（能力）主義"
         },
         {
           "english": "on closer <red>examination</red>",
-          "japanese": "詳しく<red>調べて</red>みると",
+          "japanese": "詳しく<red>調べてみる</red>と",
           "pos": "名",
           "phonetic": "[igzæ̀mənéiʃən, egz-]",
           "meaning": "調査，検査；検討，吟味"
@@ -5229,12 +5222,12 @@ window.LINGUA_DATA = {
         {
           "number": 1,
           "english": "In the society which Young’s book describes, a person’s social position is earned through a combination of their intelligence and effort. Thus, the most intelligent and industrious members of society rise to the top. While the society which Young outlined may seem attractive due to its supposed <red>fairness</red>, it is important to recognise that Young was not advocating such a society. Rather, his book is a <red>satire</red> which was intended as a warning of the dangers of meritocracy. It describes a dystopian society in which <red>egalitarianism</red> is <red>perceived</red> as a negative concept. Although Young’s fictional society is not stratified according to birth, it is <red>rigidly</red> divided according to one’s intelligence and hard work.",
-          "translation": "ヤングの著書が描く社会では，人の社会的な立場はその知性と努力の組み合わせを通じて得られる。したがって，最も知性的で勤勉な社会の構成員たちが，頂点に立つのである。ヤングが大まかに述べた社会は，その仮定の上での<red>公正性</red>ゆえに魅力的に見えるかもしれないが，ヤングはそのような社会を奨励していなかったことを認識することが重要である。むしろ，彼の著書はメリトクラシーが持つ危険性への警告として意図された<red>風刺本</red>なのだ。それは，<red>平等主義</red>が否定的な概念として<red>捉えられている</red>ディストピアの社会を描写している。ヤングの架空の社会は生まれによって階層化されているわけではないが，個人の知性と努力に応じて<red>厳密に</red>分けられている。"
+          "translation": "ヤングの著書が描く社会では，人の社会的な立場はその知性と努力の組み合わせを通じて得られる。したがって，最も知性的で勤勉な社会の構成員たちが，頂点に立つのである。ヤングが大まかに述べた社会は，その仮定の上での<red>公正性</red>ゆえに魅力的に見えるかもしれないが，ヤングはそのような社会を奨励して いなかったことを認識することが重要である。むしろ，彼の著書はメリトクラシーが持つ危険性への警告として意図された<red>風刺本</red>なのだ。それは， <red>平等主義</red>が否定的な概念として<red>捉えられて</red>いるディストピアの社会を描写している。ヤングの架空の社会は生まれによって階層化されている わけではないが，個人の知性と努力に応じて<red>厳密に</red>分けられている。"
         },
         {
           "number": 2,
-          "english": "The potentially pernicious nature of the meritocratic approach is <red>illustrated</red> by the book’s pompous narrator referring to people who are <red>deemed</red> less intelligent as “the stupid” and “the <red>dull</red>”. For Young, one of the <red>fundamental</red> problems of a meritocracy was that those who reached <red>elevated</red> positions in society would be <red>convinced</red> that their success was just <red>reward</red> for their effort and ability, while those who did not succeed would have to accept responsibility for their failure. Accordingly, meritocracy would create a <red>hierarchy</red> of social respect: those who are at the top would be <red>granted</red> respect, but those unable to succeed would be <red>denied</red> respect, both from others and from themselves. (The end)",
-          "translation": "メリトクラシー的な手法が持つ潜在的に有害な性質は，あまり知的ではないと<red>みなされる</red>人々を「馬鹿なやつら」や「<red>愚鈍な</red>連中」と呼ぶ，この本の尊大な語り手によって<red>示されている</red>。ヤングにとって，メリトクラシーの<red>根本的な</red>問題のひとつは，社会において<red>高い</red>地位に到達する人々は，その成功は彼らの努力と能力に対する正当な<red>報酬</red>だと<red>確信する</red>だろうし，その一方で成功しない人々は，自分たちの失敗に対する責任を受け入れなければならないだろう，ということだった。したがって，メリトクラシーは社会的尊敬の<red>階層制度</red>を作り出すことになる。すなわち，頂点にいる人々は尊敬が<red>与えられる</red>が，成功できない人々には尊敬が<red>与えられない</red>だろう，そしてそれは他人からだけでなく自分たち自身からも，ということだ。（完）"
+          "english": "The potentially pernicious nature of the meritocratic approach is <red>illustrated</red> by the book’s pompous narrator referring to people who are <red>deemed</red> less intelligent as “the stupid” and “the <red>dull</red>.” For Young, one of the <red>fundamental</red> problems of a meritocracy was that those who reached <red>elevated</red> positions in society would be <red>convinced</red> that their success was just <red>reward</red> for their effort and ability, while those who did not succeed would have to accept responsibility for their failure. Accordingly, meritocracy would create a <red>hierarchy</red> of social respect: those who are at the top would be <red>granted</red> respect, but those unable to succeed would be <red>denied</red> respect, both from others and from themselves. (The end)",
+          "translation": "メリトクラシー的な手法が持つ潜在的に有害な性質は，あまり知的ではないと<red>みなされる</red>人々を「馬鹿なやつら」や「<red>愚鈍な</red>連中」と呼ぶ， この本の尊大な語り手によって<red>示されて</red>いる。ヤングにとって，メリトクラシーの<red>根本的な</red>問題のひとつは，社会において<red>高い</red>地位に 到達する人々は，その成功は彼らの努力と能力に対する正当な<red>報酬</red>だと<red>確信する</red>だろうし，その一方で成功しない人々は，自分たちの失敗に対する 責任を受け入れなければならないだろう，ということだった。したがって，メリトクラシーは社会的尊敬の<red>階層制度</red>を作り出すことになる。すなわち， 頂点にいる人々は尊敬が<red>与えられる</red>が，成功できない人々には尊敬が<red>与えられない</red>だろう，そしてそれは他人からだけでなく自分たち自身からも， ということだ。（完）"
         }
       ],
       "phrases": [
@@ -5256,7 +5249,7 @@ window.LINGUA_DATA = {
           "english": "the ideal of <red>egalitarianism</red>",
           "japanese": "<red>平等主義</red>という理想",
           "pos": "名",
-          "phonetic": "[igæ̀lətéəriənìzm]",
+          "phonetic": "[igæ̀lətériənìzəm]",
           "meaning": "平等主義"
         },
         {
@@ -5296,9 +5289,9 @@ window.LINGUA_DATA = {
         },
         {
           "english": "regard O as <red>dull</red>",
-          "japanese": "Oを<red>頭が悪い</red>（おもしろくない）と思う",
+          "japanese": "Oを頭が悪い（おもしろくない）と思う",
           "pos": "形",
-          "phonetic": "[dʌ́l]",
+          "phonetic": "[dʌl]",
           "meaning": "鈍い，物わかりの悪い"
         },
         {
@@ -5310,9 +5303,9 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>fundamentalism</red>",
-          "japanese": "<red>原理主義</red>，根本主義",
+          "japanese": "原理主義，根本主義",
           "pos": "名",
-          "phonetic": "[fʌ̀ndəméntəlìzm]",
+          "phonetic": "[fʌ̀ndəméntəlìzəm]",
           "meaning": "原理主義，根本主義"
         },
         {
@@ -5333,21 +5326,21 @@ window.LINGUA_DATA = {
           "english": "receive just <red>reward</red>",
           "japanese": "正当な<red>報酬</red>を受け取る",
           "pos": "名",
-          "phonetic": "[riwɔ́ːrd, rə-]",
+          "phonetic": "[riwɔ́ːrd, ro-]",
           "meaning": "報酬"
         },
         {
           "english": "bureaucratic <red>hierarchy</red>",
           "japanese": "官僚組織の<red>ヒエラルキー</red>",
           "pos": "名",
-          "phonetic": "[háiərὰːrki]",
+          "phonetic": "[háiərὰrki]",
           "meaning": "階級（層）制度，ヒエラルキー"
         },
         {
           "english": "<red>grant</red> citizenship to A",
           "japanese": "Aに市民権を<red>与える</red>",
           "pos": "他",
-          "phonetic": "[grǽnt]",
+          "phonetic": "[grǽnt]",
           "meaning": "を与える，を認める"
         },
         {

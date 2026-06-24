@@ -375,3 +375,31 @@ $app.addEventListener("touchend", event => {
 setStaticIcons();
 $playButton.innerHTML = iconPlay();
 renderToc();
+
+
+// Prevent iOS/Safari double-tap zoom on fast repeated taps of footer controls.
+// This is scoped to the footer only, so normal page pinch zoom and text zoom remain available.
+(function preventFooterDoubleTapZoom() {
+  let lastTouchEnd = 0;
+  document.addEventListener('touchend', (event) => {
+    const footerControl = event.target.closest(
+      '.footer, .player-footer, .bottom-bar, button, select, .control-btn, .icon-btn, .speed-select'
+    );
+    if (!footerControl) return;
+
+    const now = Date.now();
+    if (now - lastTouchEnd <= 320) {
+      event.preventDefault();
+    }
+    lastTouchEnd = now;
+  }, { passive: false });
+
+  document.addEventListener('dblclick', (event) => {
+    const footerControl = event.target.closest(
+      '.footer, .player-footer, .bottom-bar, button, select, .control-btn, .icon-btn, .speed-select'
+    );
+    if (!footerControl) return;
+    event.preventDefault();
+  }, { passive: false });
+})();
+

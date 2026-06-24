@@ -163,3 +163,35 @@
   font-feature-settings: "lnum" 1, "tnum" 1;
   white-space: nowrap;
 }
+
+
+/* Prevent accidental double-tap zoom on the fixed audio/navigation footer.
+   Keep normal page pinch-zoom available, but make rapid taps on controls behave as controls. */
+.footer,
+.footer *,
+.player-footer,
+.player-footer *,
+.bottom-bar,
+.bottom-bar *,
+button,
+.control-btn,
+.icon-btn,
+.speed-select,
+select {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.footer button,
+.footer select,
+.player-footer button,
+.player-footer select,
+.bottom-bar button,
+.bottom-bar select,
+.control-btn,
+.icon-btn,
+.speed-select {
+  -webkit-user-select: none;
+  user-select: none;
+}
+

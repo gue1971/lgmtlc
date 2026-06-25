@@ -355,8 +355,7 @@ let touchStartX = 0;
 let touchStartY = 0;
 let touchStartTime = 0;
 let touchStartedOnText = false;
-let selectionGestureActive = false;
-let selectionGestureTimer = 0;
+let touchStartedWithSelection = false;
 
 function hasActiveTextSelection() {
   const selection = window.getSelection?.();
@@ -369,51 +368,53 @@ function isSelectableTextTarget(target) {
   );
 }
 
-document.addEventListener("selectionchange", () => {
-  if (!hasActiveTextSelection()) return;
-  selectionGestureActive = true;
-  clearTimeout(selectionGestureTimer);
-  selectionGestureTimer = setTimeout(() => { selectionGestureActive = false; }, 900);
-});
-
 $app.addEventListener("touchstart", event => {
   if (state.view !== "passage" || event.touches.length !== 1) return;
-  if (hasActiveTextSelection()) {
-    touchStartTime = 0;
-    selectionGestureActive = true;
-    return;
-  }
   touchStartX = event.touches[0].clientX;
   touchStartY = event.touches[0].clientY;
   touchStartTime = Date.now();
   touchStartedOnText = isSelectableTextTarget(event.target);
-}, { passive: true });
-
-$app.addEventListener("touchmove", () => {
-  if (hasActiveTextSelection()) selectionGestureActive = true;
+  touchStartedWithSelection = hasActiveTextSelection();
 }, { passive: true });
 
 $app.addEventListener("touchcancel", () => {
   touchStartTime = 0;
   touchStartedOnText = false;
+  touchStartedWithSelection = false;
 }, { passive: true });
 
 $app.addEventListener("touchend", event => {
   if (state.view !== "passage" || !touchStartTime || event.changedTouches.length !== 1) return;
+
   const dx = event.changedTouches[0].clientX - touchStartX;
   const dy = event.changedTouches[0].clientY - touchStartY;
   const elapsed = Date.now() - touchStartTime;
   const startedOnText = touchStartedOnText;
+  const startedWithSelection = touchStartedWithSelection;
+
   touchStartTime = 0;
   touchStartedOnText = false;
+  touchStartedWithSelection = false;
 
-  // Text selection and page swipe are intentionally separated:
-  // - If text is currently selected, or selection just started, never change passages.
-  // - If the gesture began on selectable text and was not a quick flick, treat it as reading/selection.
-  if (hasActiveTextSelection() || selectionGestureActive) return;
-  if (startedOnText && elapsed > 360) return;
-  if (elapsed > 650) return;
-  if (Math.abs(dx) < 80 || Math.abs(dx) < Math.abs(dy) * 1.7) return;
+  const absX = Math.abs(dx);
+  const absY = Math.abs(dy);
+  const isQuickHorizontalFlick =
+    elapsed <= 520 &&
+    absX >= 72 &&
+    absX >= absY * 1.35;
+
+  // Text selection and passage flick are separated by gesture shape:
+  // - Slow/long drags on text are treated as selection/reading and never move pages.
+  // - A short, clear horizontal flick still moves pages, even if it starts over text.
+  // This keeps text selection usable without killing the normal swipe navigation.
+  if (!isQuickHorizontalFlick) return;
+  if (startedOnText && elapsed > 420) return;
+
+  // If text is already selected, allow only an intentional quick horizontal flick.
+  // This avoids accidental movement while adjusting selection handles, but restores
+  // the expected "サッと横へ払う" page navigation.
+  if (startedWithSelection && (elapsed > 360 || absX < 96 || absX < absY * 1.8)) return;
+
   if (dx < 0) goAdjacentPassage(1);
   else goAdjacentPassage(-1);
 }, { passive: true });

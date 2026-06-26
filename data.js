@@ -194,27 +194,27 @@ window.LINGUA_DATA = {
         {
           "id": 31,
           "titleJa": "絶滅の危機にあるアイスランド語",
-          "titleEn": ""
+          "titleEn": "The Endangered Icelandic Language"
         },
         {
           "id": 32,
           "titleJa": "古代語の発見",
-          "titleEn": ""
+          "titleEn": "The Discovery of an Ancient Language"
         },
         {
           "id": 33,
           "titleJa": "子どもならではのポジティブバイアス（1）",
-          "titleEn": ""
+          "titleEn": "Positive Bias Unique to Children (1)"
         },
         {
           "id": 34,
           "titleJa": "子どもならではのポジティブバイアス（2）",
-          "titleEn": ""
+          "titleEn": "Positive Bias Unique to Children (2)"
         },
         {
           "id": 35,
           "titleJa": "子どもならではのポジティブバイアス（3）",
-          "titleEn": ""
+          "titleEn": "Positive Bias Unique to Children (3)"
         }
       ]
     },
@@ -225,7 +225,7 @@ window.LINGUA_DATA = {
         {
           "id": 36,
           "titleJa": "暗号資産は通貨の未来か？",
-          "titleEn": ""
+          "titleEn": "Is Cryptocurrency the Future of Money?"
         },
         {
           "id": 37,
@@ -5372,6 +5372,1009 @@ window.LINGUA_DATA = {
           "meaning": "を否定する（＋を与えない，を拒む）",
           "example": "The president <red>denied</red> the existence of the document.",
           "translation": "大統領は，その文書の存在を否定した"
+        }
+      ]
+    },
+    "31": {
+      "id": 31,
+      "chapter": 7,
+      "chapterTitle": "言語・教育・文化",
+      "titleJa": "絶滅の危機にあるアイスランド語",
+      "titleEn": "The Endangered Icelandic Language",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In Iceland, <red>linguists</red> and language <red>scholars</red> are beginning to <red>explore</red> the danger of the Icelandic language disappearing completely. Although not <red>endangered</red> at present, it is predicted that if <red>current trends</red> in language use continue, Icelandic could be considered an endangered language by 2045, and could be all but <red>extinct</red> by 2070. But why?",
+          "translation": "アイスランドでは，<red>言語学者</red>や言語の<red>研究者</red>たちが，アイスランド語が完全に消えてしまいつつある危険性を<red>詳しく調査し</red>始めている。今のところは，<red>絶滅の危機に瀕して</red>いるわけではないが，言語使用の<red>現在の動向</red>が続くなら，アイスランド語は2045年までに絶滅危機言語とみなされ，2070年までにはほとんど<red>絶滅している</red>可能性があると予測されている。しかし，どうしてだろうか。"
+        },
+        {
+          "number": 2,
+          "english": "The answer could be found in the very reason that allows many people to learn a second language, which is technology. There is an increasing <red>reliance</red> upon voice <red>commands</red> to <red>operate</red> digital services and <red>equipment</red>, and Icelandic is often not included in the language lists of many current products. This is due to the <red>financial</red> cost, where supporting a language only spoken by around 300,000 people would be too demanding for many companies.",
+          "translation": "その答えは，多くの人々が第二言語を学ぶことを可能にしているまさにその理由，すなわち，テクノロジーに見出せるかもしれない。デジタルのサービスや機器を<red>操作する</red>のに，音声による<red>命令</red>への<red>依存</red>が増加しているが，アイスランド語は多くの現行製品の言語リストには含まれていないことがよくある。これは<red>金銭的な</red>コストのせいで，わずか30万人ほどの人々が話すにすぎない言語をサポートすることは，多くの企業にとってあまりにも大変な努力を要するものになってしまうからだ。"
+        },
+        {
+          "number": 3,
+          "english": "The <red>issue</red> of Icelandic becoming endangered is one that the <red>academic</red> community, as well as the government, have been quick to address. Promoting the language, however, has been a difficult task as many younger people rely more on their English skills than they do on their native language.",
+          "translation": "アイスランド語が絶滅の危機に瀕しつつあるという<red>問題</red>は，政府と同様に，<red>学界</red>も迅速に対処してきたものだ。しかしながら，この言語を振興することは，多くの若者が自分たちの母語よりも英語の技能に頼っているために，難しい課題となっている。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a historical <red>linguist</red>",
+          "japanese": "歴史<red>言語学者</red>",
+          "pos": "名",
+          "phonetic": "[líŋgwist]",
+          "meaning": "言語学者"
+        },
+        {
+          "english": "<red>linguistics</red>",
+          "japanese": "<red>言語学</red>",
+          "pos": "名",
+          "phonetic": "[lìŋgwístiks]",
+          "meaning": "言語学"
+        },
+        {
+          "english": "a distinguished <red>scholar</red>",
+          "japanese": "著名な<red>学者</red>",
+          "pos": "名",
+          "phonetic": "[skάlər]",
+          "meaning": "学者，研究者"
+        },
+        {
+          "english": "<red>explore</red> the possibility of A",
+          "japanese": "Aの可能性を<red>探る</red>",
+          "pos": "他",
+          "phonetic": "[iksplɔ́ːr, eks-]",
+          "meaning": "を探る，を詳しく調べる"
+        },
+        {
+          "english": "<red>endanger</red> the health of A",
+          "japanese": "Aの健康を<red>危険にさらす</red>",
+          "pos": "他",
+          "phonetic": "[indéindʒər, en-]",
+          "meaning": "を危険にさらす"
+        },
+        {
+          "english": "<red>endangered</red>",
+          "japanese": "<red>絶滅危機</red>の",
+          "pos": "形",
+          "phonetic": "[indéindʒərd, en-]",
+          "meaning": "絶滅危機の"
+        },
+        {
+          "english": "the <red>current</red> issue of A",
+          "japanese": "Aの<red>最新号</red>",
+          "pos": "形",
+          "phonetic": "[kə́ːrənt]",
+          "meaning": "現在の，最新の"
+        },
+        {
+          "english": "the general <red>trend</red>",
+          "japanese": "全般的な<red>傾向</red>",
+          "pos": "名",
+          "phonetic": "[trénd]",
+          "meaning": "傾向，トレンド"
+        },
+        {
+          "english": "become <red>extinct</red>",
+          "japanese": "<red>絶滅する</red>",
+          "pos": "形",
+          "phonetic": "[ikstíŋkt, eks-]",
+          "meaning": "絶滅した，死に絶えた"
+        },
+        {
+          "english": "<red>reliance</red> on imports",
+          "japanese": "輸入品への<red>依存</red>",
+          "pos": "名",
+          "phonetic": "[riláiəns, rə-]",
+          "meaning": "依存，信頼"
+        },
+        {
+          "english": "obey the <red>command</red>",
+          "japanese": "<red>命令</red>に従う",
+          "pos": "名",
+          "phonetic": "[kəmǽnd]",
+          "meaning": "命令，指令"
+        },
+        {
+          "english": "<red>operate</red> the machinery",
+          "japanese": "機械を<red>操作する</red>",
+          "pos": "他",
+          "phonetic": "[άpəreit]",
+          "meaning": "を操作する，を運営する"
+        },
+        {
+          "english": "high-tech <red>equipment</red>",
+          "japanese": "ハイテク<red>機器</red>",
+          "pos": "名",
+          "phonetic": "[ikwípmənt]",
+          "meaning": "装置，機器"
+        },
+        {
+          "english": "the Ministry of <red>Finance</red>",
+          "japanese": "<red>財務省</red>",
+          "pos": "名",
+          "phonetic": "[fáinæns, fənǽns]",
+          "meaning": "財政，財務"
+        },
+        {
+          "english": "<red>financial</red>",
+          "japanese": "<red>財務（金銭）</red>の，金銭的な",
+          "pos": "形",
+          "phonetic": "[fainǽnʃəl, fə-]",
+          "meaning": "財務（金銭）の，金銭的な"
+        },
+        {
+          "english": "a variety of social <red>issues</red>",
+          "japanese": "さまざまな社会<red>問題</red>",
+          "pos": "名",
+          "phonetic": "[íʃuːz]",
+          "meaning": "問題（点），論点"
+        },
+        {
+          "english": "protect <red>academic</red> freedom",
+          "japanese": "<red>学問</red>の自由を守る",
+          "pos": "形",
+          "phonetic": "[ӕkədémik, -̀-]",
+          "meaning": "学問の，研究に関する"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>explore</red>",
+          "pos": "他",
+          "meaning": "を探検する（＋を探る，を詳しく調べる）",
+          "example": "The researchers <red>explored</red> unknown regions of the Amazon.",
+          "translation": "研究者たちはアマゾンの未踏地域を探検した"
+        },
+        {
+          "headword": "<red>current</red>",
+          "pos": "名",
+          "meaning": "流れ；海流（＋現在の，最新の）",
+          "example": "It’s an effort to swim against the <red>current</red>.",
+          "translation": "流れに逆らって泳ぐのは骨が折れる"
+        },
+        {
+          "headword": "<red>current</red>",
+          "pos": "名",
+          "meaning": "流れ；海流（＋現在の，最新の）",
+          "example": "The Tsushima <red>Current</red> enters the Sea of Japan through the Strait of Korea.",
+          "translation": "対馬海流は朝鮮海峡を通って日本海へ流れ込む"
+        },
+        {
+          "headword": "<red>command</red>",
+          "pos": "名",
+          "meaning": "運用能力（＋命令，指令）",
+          "example": "My brother has an excellent <red>command</red> of Korean.",
+          "translation": "弟は韓国語を自在に使いこなす力を持っている"
+        },
+        {
+          "headword": "<red>issue</red>",
+          "pos": "他",
+          "meaning": "を発行する（＋問題（点），論点）",
+          "example": "New bills will be <red>issued</red> next year.",
+          "translation": "来年，新しいお札が発行されます"
+        }
+      ]
+    },
+    "32": {
+      "id": 32,
+      "chapter": 7,
+      "chapterTitle": "言語・教育・文化",
+      "titleJa": "古代語の発見",
+      "titleEn": "The Discovery of an Ancient Language",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The discovery of the Sanskrit language and literature was a <red>crucial</red> event in the development of our historical <red>consciousness</red>, and in the <red>evolution</red> of all cultural sciences. In its importance and influence it may be compared to the great intellectual revolution brought about through the Copernican system in the field of natural science. The Copernican <red>hypothesis</red> <red>reversed</red> the <red>conception</red> of the <red>cosmic</red> order. The earth was no longer in the center of the universe; it became a “star among stars.” The geocentric conception of the physical world was <red>discarded</red>. In the same sense the <red>acquaintance</red> with Sanskrit literature made an end to that conception of human culture which saw its real and only center in the world of <red>classical antiquity</red>. Henceforward the Greco-Roman world could only be regarded as a single <red>province</red>, a small <red>sector</red> of the universe of human culture. The <red>philosophy</red> of history had to be built upon a new and larger basis. Hegel called the discovery of the common <red>origin</red> of Greek and Sanskrit the discovery of a new world. The students of comparative grammar in the nineteenth century saw their work in the same light. They were convinced that they had found the magic word which alone could open the doors of understanding to the history of human civilization.",
+          "translation": "サンスクリットの言語と文学の発見は，私たちの歴史<red>意識</red>の発達の中で，またすべての人文科学の<red>発展</red>の中で，<red>きわめて重要</red>なできごとだった。その重要性と影響において，この発見は，自然科学の分野でコペルニクスの体系を通じてもたらされた，偉大な知的革命に匹敵するかもしれない。コペルニクスの<red>仮説</red>（＝地動説）は，宇宙の秩序の<red>概念</red>を<red>ひっくり返した</red>。地球はもはや宇宙の中心ではなくなった。地球は「星々の中の星」になったのだ。物質界における地球中心の概念は<red>退けられた</red>。同じ意味で，サンスクリットの文学の<red>知識</red>は，<red>古典古代</red>の世界に真の，そして唯一の中心があるとみなしていた人類文化の概念を終わらせたのだ。この時点から，ギリシャ・ローマ世界は単なる一<red>地方</red>，すなわち人類文化という宇宙の小さな<red>部分</red>にすぎないとみなされ得るようになったのである。歴史<red>哲学</red>は，新たな，より大きな基盤の上に構築されなければならなくなったのだ。ヘーゲルはギリシャ語とサンスクリット語の共通<red>起源</red>の発見を，新世界の発見と呼んだ。19世紀の比較文法の研究者たちは，自分たちの研究を同じ観点で見ていた。彼らは自分たちが，人類文明史への理解の扉を，それだけで開けることができる魔法の言葉を見つけたと確信していたのである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "at the <red>crucial</red> moment",
+          "japanese": "決定的瞬間に",
+          "pos": "形",
+          "phonetic": "[krúːʃəl]",
+          "meaning": "決定的な，きわめて重要な"
+        },
+        {
+          "english": "public <red>consciousness</red>",
+          "japanese": "国民の<red>意識</red>",
+          "pos": "名",
+          "phonetic": "[kάnʃəsnəs]",
+          "meaning": "意識"
+        },
+        {
+          "english": "the <red>evolution</red> of computers",
+          "japanese": "コンピューターの<red>進歩</red>",
+          "pos": "名",
+          "phonetic": "[èvəlúːʃən, iːv-]",
+          "meaning": "進化；発展"
+        },
+        {
+          "english": "put forward a <red>hypothesis</red>",
+          "japanese": "<red>仮説</red>を提唱する",
+          "pos": "名",
+          "phonetic": "[haipάθəsis, hi-]",
+          "meaning": "仮説"
+        },
+        {
+          "english": "<red>reverse</red> the positions",
+          "japanese": "立場を<red>逆転させる</red>",
+          "pos": "他",
+          "phonetic": "[rivə́ːrs, rə-]",
+          "meaning": "を逆転させる，を逆にする"
+        },
+        {
+          "english": "have no <red>conception</red> of A",
+          "japanese": "Aが<red>理解できない</red>（思いつかない）",
+          "pos": "名",
+          "phonetic": "[kənsépʃən]",
+          "meaning": "概念，理解"
+        },
+        {
+          "english": "the <red>cosmic</red> order",
+          "japanese": "<red>宇宙</red>の秩序",
+          "pos": "形",
+          "phonetic": "[kάzmik]",
+          "meaning": "宇宙の"
+        },
+        {
+          "english": "<red>discard</red> the notion of A",
+          "japanese": "Aという考えを<red>捨て去る</red>",
+          "pos": "他",
+          "phonetic": "[diskάːrd]",
+          "meaning": "を廃棄する；（考えなど）を捨て去る"
+        },
+        {
+          "english": "some <red>acquaintance</red> with A",
+          "japanese": "Aへの多少の<red>知識</red>",
+          "pos": "名",
+          "phonetic": "[əkwéintəns]",
+          "meaning": "知識；心得"
+        },
+        {
+          "english": "<red>classical</red> physics",
+          "japanese": "<red>古典</red>物理学",
+          "pos": "形",
+          "phonetic": "[klǽsikl]",
+          "meaning": "古典派の"
+        },
+        {
+          "english": "classical <red>antiquity</red>",
+          "japanese": "<red>古典古代</red>（＝古代ギリシャ・ローマ時代）",
+          "pos": "名",
+          "phonetic": "[æntíkwəti]",
+          "meaning": "古代；古代の遺物"
+        },
+        {
+          "english": "the coastal <red>provinces</red>",
+          "japanese": "沿岸<red>地方</red>",
+          "pos": "名",
+          "phonetic": "[prάvinsiz]",
+          "meaning": "地方，田舎"
+        },
+        {
+          "english": "<red>provincial</red>",
+          "japanese": "<red>地方</red>の，州の",
+          "pos": "形",
+          "phonetic": "[prəvínʃəl]",
+          "meaning": "地方の，州の"
+        },
+        {
+          "english": "the agricultural <red>sector</red>",
+          "japanese": "農業<red>部門</red>",
+          "pos": "名",
+          "phonetic": "[séktər]",
+          "meaning": "部門，部分，セクター"
+        },
+        {
+          "english": "political <red>philosophy</red>",
+          "japanese": "政治<red>哲学</red>",
+          "pos": "名",
+          "phonetic": "[fəlάsəfi]",
+          "meaning": "哲学；一般理論，原理"
+        },
+        {
+          "english": "the <red>origin</red> of language",
+          "japanese": "言語の<red>起源</red>",
+          "pos": "名",
+          "phonetic": "[ɔ́ːrədʒin, ór-]",
+          "meaning": "起源，発祥"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>conception</red>",
+          "pos": "名",
+          "meaning": "着想，構想（＋概念，理解）",
+          "example": "Our team managed the project from <red>conception</red> to completion.",
+          "translation": "私たちのチームは構想から完成までこのプロジェクトを管理しました"
+        },
+        {
+          "headword": "<red>acquaintance</red>",
+          "pos": "名",
+          "meaning": "知人，知り合い（＋知識；心得）",
+          "example": "Mr. Lawson is a common <red>acquaintance</red> of ours.",
+          "translation": "ローソンさんは私たちの共通の知人です"
+        },
+        {
+          "headword": "<red>province</red>",
+          "pos": "名",
+          "meaning": "領域，（専門）分野（＋地方，田舎）",
+          "example": "Language is considered to be the <red>province</red> of humans.",
+          "translation": "言語は人間特有の領域だと思われている"
+        }
+      ]
+    },
+    "33": {
+      "id": 33,
+      "chapter": 7,
+      "chapterTitle": "言語・教育・文化",
+      "titleJa": "子どもならではのポジティブバイアス（1）",
+      "titleEn": "Positive Bias Unique to Children (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "You might <red>hesitate</red> to make a character judgment about someone based on a first encounter. Most adults would probably want to see how a stranger acts in several different <red>circumstances</red>, to decide whether someone new is nice, mean or <red>trustworthy</red>.",
+          "translation": "あなたは誰かについて，最初の出会いに基づいて性格を判断するのは<red>ためらって</red>しまうかもしれない。大部分の大人は，見知らぬ人が感じがいいか，意地が悪いか，あるいは<red>信頼できる</red>か判断するのに，いくつかの異なる<red>状況</red>でその人がどのように行動するかを，おそらく知りたいと思うだろう。"
+        },
+        {
+          "number": 2,
+          "english": "Young children are strikingly less cautious when making character judgments. They often show a positivity <red>bias</red>: a <red>tendency</red> to focus on <red>positive</red> actions or selectively process information that promotes positive judgments about the self, others, or even animals and objects.",
+          "translation": "幼い子どもたちはそれに比べ，性格判断を行う場合，驚くほど警戒心がない。彼らはポジティビティ<red>バイアス</red>，すなわち，<red>前向きな</red>行動を重視したり，あるいは自分自身，他人，または動物や物についても肯定的な判断を促すような情報を，えり好んで処理したりする<red>傾向</red>を見せることが多いのだ。"
+        },
+        {
+          "number": 3,
+          "english": "Why does it matter if children see the world through rose-colored glasses? Children who are overly <red>optimistic</red> may <red>unwittingly</red> find themselves in unsafe situations, or they may be unable or unwilling to learn from <red>constructive</red> feedback. And in an <red>era</red> of “fake news” and <red>myriad</red> informational sources, it’s more important than ever to raise strong critical thinkers who will grow into adults who make informed life decisions. <red>Psychologists</red> like me <red>investigate</red> this <red>optimism</red> that seems to <red>emerge</red> very early in life to figure out more about how it works —— and how and why it eventually decreases over time.",
+          "translation": "子どもたちがバラ色の眼鏡（楽観的な考え方）を通して世界を見るのが，どうして問題なのだろうか。あまりにも<red>楽観的な</red>子どもたちは<red>知らず知らずのうちに</red>，自分たちが気づいた時には，安全でない状況にいるかもしれないし，あるいは<red>建設的な</red>意見から学ぶことができないか，もしくは学ぼうとしないかもしれない。さらに「フェイクニュース」や<red>数え切れない</red>情報源の<red>時代</red>においては，十分な情報を得た上での人生の決断をする大人になるような，しっかりした批判的な物の見方をする人を育てることが，これまで以上に重要である。私のような<red>心理学者たち</red>は，人生の極めて早い段階で<red>出現する</red>ように見えるこの<red>楽観主義</red>を<red>研究している</red>。それがどのように機能するのか――そしてそれがどのように，なぜ時間と共に最終的に減少するのかについてさらに解き明かすために。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "do not <red>hesitate</red> to ask",
+          "japanese": "遠慮せずに尋ねる",
+          "pos": "他",
+          "phonetic": "[hézəteit]",
+          "meaning": "…するのをためらう，躊躇する"
+        },
+        {
+          "english": "given the <red>circumstances</red>",
+          "japanese": "諸事情を考慮すると",
+          "pos": "名",
+          "phonetic": "[ðsə sərkə́mstænsiz]",
+          "meaning": "事情，状況，境遇"
+        },
+        {
+          "english": "<red>circumstantial</red>",
+          "japanese": "状況の",
+          "pos": "形",
+          "phonetic": "[sə̀ːrkəmstǽnʃəl]",
+          "meaning": "状況の"
+        },
+        {
+          "english": "a <red>trustworthy</red> person",
+          "japanese": "信頼できる人",
+          "pos": "形",
+          "phonetic": "[trʌ́stwəːrði]",
+          "meaning": "信頼できる，頼りになる"
+        },
+        {
+          "english": "unconscious <red>bias</red>",
+          "japanese": "無意識の偏見",
+          "pos": "名",
+          "phonetic": "[báiəs]",
+          "meaning": "バイアス（偏見）；偏り"
+        },
+        {
+          "english": "a <red>tendency</red> to follow others",
+          "japanese": "他の人々に追従する傾向",
+          "pos": "名",
+          "phonetic": "[téndənsi]",
+          "meaning": "傾向，風潮"
+        },
+        {
+          "english": "a <red>positive</red> attitude",
+          "japanese": "積極的な態度",
+          "pos": "形",
+          "phonetic": "[pάzətiv]",
+          "meaning": "積極的な，前向きな；好ましい"
+        },
+        {
+          "english": "be <red>optimistic</red> about A",
+          "japanese": "Aについて楽観的である",
+          "pos": "形",
+          "phonetic": "[ὰptəmístik]",
+          "meaning": "楽観的な"
+        },
+        {
+          "english": "<red>optimism</red>",
+          "japanese": "楽観主義（論）",
+          "pos": "名",
+          "phonetic": "[άptəmìzm]",
+          "meaning": "楽観主義（論）"
+        },
+        {
+          "english": "<red>unwittingly</red> offend O",
+          "japanese": "うっかりOを怒らせてしまう",
+          "pos": "副",
+          "phonetic": "[ʌnwítiŋli]",
+          "meaning": "気づかずに，うっかり"
+        },
+        {
+          "english": "a <red>constructive</red> dialogue",
+          "japanese": "建設的な対話",
+          "pos": "形",
+          "phonetic": "[kənstrʌ́ktiv]",
+          "meaning": "建設的な"
+        },
+        {
+          "english": "enter a new <red>era</red>",
+          "japanese": "新時代に入る",
+          "pos": "名",
+          "phonetic": "[íərə, éərə, írə]",
+          "meaning": "時代"
+        },
+        {
+          "english": "the <red>myriad</red> stars",
+          "japanese": "無数の星々",
+          "pos": "形",
+          "phonetic": "[míriəd]",
+          "meaning": "無数の，数え切れない"
+        },
+        {
+          "english": "cognitive <red>psychology</red>",
+          "japanese": "認知心理学",
+          "pos": "名",
+          "phonetic": "[sàikάlədʒi]",
+          "meaning": "心理学"
+        },
+        {
+          "english": "<red>psychologist</red>",
+          "japanese": "心理学者",
+          "pos": "名",
+          "phonetic": "[saikάlədʒist]",
+          "meaning": "心理学者"
+        },
+        {
+          "english": "<red>investigate</red> the cause of A",
+          "japanese": "Aの原因を調査する",
+          "pos": "他",
+          "phonetic": "[invéstəgèit]",
+          "meaning": "を調査する，を研究する"
+        },
+        {
+          "english": "<red>emerge</red> early in life",
+          "japanese": "早い時期（子どもの頃）に現れる",
+          "pos": "自",
+          "phonetic": "[imə́ːrdʒ]",
+          "meaning": "現れる；明らかになる"
+        },
+        {
+          "english": "<red>emergence</red>",
+          "japanese": "出現，発生",
+          "pos": "名",
+          "phonetic": "[imə́ːrdʒəns]",
+          "meaning": "出現，発生"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>positive</red>",
+          "pos": "形",
+          "meaning": "確信して（＋積極的な，前向きな；好ましい）",
+          "example": "We were <red>positive</red> that we would win the lawsuit.",
+          "translation": "私たちは（裁判の）勝訴を確信していた"
+        },
+        {
+          "headword": "<red>emerge</red>",
+          "pos": "自",
+          "meaning": "抜け出す，脱却する（＋現れる；明らかになる）",
+          "example": "Many countries are struggling to <red>emerge</red> from poverty.",
+          "translation": "多くの国々が貧困から抜け出すのに苦労している"
+        }
+      ]
+    },
+    "34": {
+      "id": 34,
+      "chapter": 7,
+      "chapterTitle": "言語・教育・文化",
+      "titleJa": "子どもならではのポジティブバイアス（2）",
+      "titleEn": "Positive Bias Unique to Children (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Smart little optimists<br>In many ways, children are <red>sophisticated</red> thinkers. In early childhood, they carefully gather data from their environment to construct theories about the world. For example, children understand that <red>animate objects</red>, such as animals, operate very differently from <red>inanimate</red> objects, such as chairs. Even <red>preschoolers</red> can tell the difference between experts and non-experts, and they understand that different kinds of experts know different things —— like how doctors know how human bodies work and <red>mechanics</red> know how cars work. Children even track people’s records of <red>accuracy</red> to decide whether they can be trusted as learning sources for things like the names of unknown objects. This level of <red>skepticism</red> is <red>impressive</red>, but it is sorely lacking when children are asked to make <red>evaluative</red> rather than <red>neutral</red> judgments. Here, children show clear evidence of a positivity bias.",
+          "translation": "賢い小さな楽観主義者たち<br>いろいろな意味で，子どもたちは<red>洗練された</red>思想家である。幼少期には，自分たちの環境から注意深く情報を集めて，世の中についての理論を構築する。例えば，子どもたちは動物などの<red>生きている物体</red>は，椅子などの<red>生命のない</red>物体とは大きく異なって動作することを理解する。<red>未就学児</red>でも，専門家と素人の違いはわかるし，さらに彼らは，違う種類の専門家は違うことを知っていると理解している。医師は人間の体がどのようにはたらくかを知っていて，また<red>整備士</red>は自動車がどのように動くかを知っているのである。子どもたちは，知らない物体の名前といったものに対する学習資料として，人を信頼できるかどうかを判断するため，その人の<red>正確さ</red>の記録をたどることさえする。この水準の<red>疑り深さ</red>は<red>素晴らしい</red>ものの，子どもたちが<red>中立</red>の判断ではなく<red>評価的な</red>判断をするよう求められる場合には，それがひどく欠けているのである。ここで，子どもたちはポジティビティバイアスの明確な証拠を示すのだ。"
+        },
+        {
+          "number": 2,
+          "english": "For example, my <red>colleagues</red> and I have shown that 3- to 6-year-olds only need to see one positive behavior to judge a story character as nice, but several negative behaviors to judge a character as mean. I’ve also found that children <red>reject</red> negative <red>trait descriptions</red> about strangers (such as “mean”) from <red>credible</red> judges of character, but readily accept positive trait descriptions (like “nice”).",
+          "translation": "例えば，<red>同僚たち</red>と私が示してきたのは，3歳から6歳の子どもが，物語の登場人物がいい人だと判断するのに，好ましい態度をひとつだけ見ればよいが，その人物が意地悪だと判断するには，いくつかの好ましくない態度を見る必要がある，ということだ。子どもたちは，<red>信頼できる</red>人となりを見る目がある人物からの，見知らぬ人についての（「意地悪」などの）否定的な<red>特徴の説明</red>を<red>受け入れない</red>が，（「感じがよい」のような）肯定的な特徴の説明は容易に受け入れる，ということも私は発見してきた。"
+        },
+        {
+          "number": 3,
+          "english": "Altogether, research reveals that the positivity bias is present as early as 3 years of age, peaks in middle childhood, and weakens only in late childhood.",
+          "translation": "要するに，研究が明らかにしているのは，ポジティビティバイアスは早ければ3歳で存在しており，子ども時代の中間で最大に達し，それから子ども時代の終盤になって初めて弱まるということである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "a <red>sophisticated</red> reader",
+          "japanese": "洗練された【目の肥えた】読み手",
+          "pos": "形",
+          "phonetic": "[səfístəkeitid]",
+          "meaning": "洗練された，見識のある，熟練した"
+        },
+        {
+          "english": "an <red>animate</red> object",
+          "japanese": "生命のある物体，生命体",
+          "pos": "形",
+          "phonetic": "[ǽnəmət]",
+          "meaning": "生命のある，生きている"
+        },
+        {
+          "english": "a physical <red>object</red>",
+          "japanese": "形のある物，有形物",
+          "pos": "名",
+          "phonetic": "[άbdʒikt, -dʒəkt]",
+          "meaning": "物体，もの；対象"
+        },
+        {
+          "english": "an <red>inanimate</red> object",
+          "japanese": "非生命体，無生物",
+          "pos": "形",
+          "phonetic": "[inǽnəmət]",
+          "meaning": "無生物の，生命のない"
+        },
+        {
+          "english": "a family with <red>preschoolers</red>",
+          "japanese": "未就学児のいる家庭",
+          "pos": "名",
+          "phonetic": "[prískúːlərz]",
+          "meaning": "未就学児"
+        },
+        {
+          "english": "an automotive <red>mechanic</red>",
+          "japanese": "自動車修理工",
+          "pos": "名",
+          "phonetic": "[məkǽnik, mi-]",
+          "meaning": "整備士，修理工"
+        },
+        {
+          "english": "an <red>accurate</red> description",
+          "japanese": "正確な記述",
+          "pos": "形",
+          "phonetic": "[ǽkjərət]",
+          "meaning": "正確な，精度の高い"
+        },
+        {
+          "english": "<red>accuracy</red>",
+          "japanese": "正確さ；精度",
+          "pos": "名",
+          "phonetic": "[ǽkjərəsi]",
+          "meaning": "正確さ；精度"
+        },
+        {
+          "english": "be met with <red>skepticism</red>",
+          "japanese": "懐疑の眼で見られる",
+          "pos": "名",
+          "phonetic": "[sképtəsìzm]",
+          "meaning": "懐疑（的態度）；疑い深さ"
+        },
+        {
+          "english": "an <red>impressive</red> speech",
+          "japanese": "印象的な【見事な】演説",
+          "pos": "形",
+          "phonetic": "[imprésiv]",
+          "meaning": "印象的な，素晴らしい"
+        },
+        {
+          "english": "an <red>evaluative</red> judgment",
+          "japanese": "評価的な判断",
+          "pos": "形",
+          "phonetic": "[ivǽljuətiv]",
+          "meaning": "評価的な，査定の"
+        },
+        {
+          "english": "take a <red>neutral</red> position",
+          "japanese": "中立の立場を取る",
+          "pos": "形",
+          "phonetic": "[n(j)úːtrəl]",
+          "meaning": "中立の，公平な"
+        },
+        {
+          "english": "a <red>colleague</red> at work",
+          "japanese": "職場の同僚",
+          "pos": "名",
+          "phonetic": "[kάliːg]",
+          "meaning": "同僚，仲間"
+        },
+        {
+          "english": "<red>reject</red> one’s offer",
+          "japanese": "申し出を拒絶する",
+          "pos": "他",
+          "phonetic": "[ridʒékt, rə-]",
+          "meaning": "を拒絶する，を拒否する"
+        },
+        {
+          "english": "a cultural <red>trait</red>",
+          "japanese": "文化の特性",
+          "pos": "名",
+          "phonetic": "[tréit]",
+          "meaning": "特徴，特性"
+        },
+        {
+          "english": "an objective <red>description</red> of A",
+          "japanese": "Aの客観的な記述",
+          "pos": "名",
+          "phonetic": "[diskrípʃən]",
+          "meaning": "記述，描写；説明"
+        },
+        {
+          "english": "a <red>credible</red> expert",
+          "japanese": "信頼できる専門家",
+          "pos": "形",
+          "phonetic": "[krédəbl]",
+          "meaning": "信頼できる，確実性の高い"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>object</red>",
+          "pos": "名",
+          "meaning": "目的，目標（＋物体，もの；対象）",
+          "example": "A life without an <red>object</red> is not worth living.",
+          "translation": "目的のない人生など生きるに値しない"
+        },
+        {
+          "headword": "<red>object</red>",
+          "pos": "自",
+          "meaning": "反対する（＋物体，もの；対象）",
+          "example": "The opposition parties <red>objected</red> to the ruling party’s bill.",
+          "translation": "野党は与党の法案に反対した"
+        },
+        {
+          "headword": "<red>description</red>",
+          "pos": "名",
+          "meaning": "種類（＋記述，描写；説明）",
+          "example": "The marathon was attended by people of all <red>descriptions</red>.",
+          "translation": "マラソン大会にはあらゆる種類の人々が参加した"
+        }
+      ]
+    },
+    "35": {
+      "id": 35,
+      "chapter": 7,
+      "chapterTitle": "言語・教育・文化",
+      "titleJa": "子どもならではのポジティブバイアス（3）",
+      "titleEn": "Positive Bias Unique to Children (3)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Why do we start life with rose-colored glasses?<br><br><br><br><br>Psychologists don’t know for sure why kids are so optimistic. It’s likely due in part to the positive social experiences that most children are lucky enough to have early in life.",
+          "translation": "私たちはなぜ人生をバラ色の眼鏡で始めるのだろうか<br><br><br><br><br>心理学者たちは，子どもたちがどうしてそれほど楽観的なのか，はっきりとはわからない。それは，大多数の子どもたちが人生の早い段階で幸運にも持つ，肯定的な社会経験が一因である可能性が高い。"
+        },
+        {
+          "number": 2,
+          "english": "With age, children are <red>exposed</red> to harsher realities. They begin to see differences in performance among people, including their <red>peers</red>, and this gives them a sense of where they stand in relation to others. They eventually receive evaluative feedback from their teachers and start to experience a greater variety of negative relational experiences, like <red>bullying</red>.",
+          "translation": "年齢とともに，子どもたちはより厳しい現実に<red>さらされる</red>。彼らは自分の<red>仲間たち</red>を含め，人々の間では成績が異なることがわかり始める。そしてこのことが，彼らに他者との関係における自分の立ち位置の感覚を与える。彼らはいずれ，教師たちから評価に関する意見を受け取り，それから<red>いじめ</red>のような，もっと多種多様なよくない対人関係の経験を持ち始めるのだ。"
+        },
+        {
+          "number": 3,
+          "english": "Even so, children often remain <red>stubbornly</red> optimistic despite <red>contrary</red> evidence. There may be different forces at play here: Because positivity is so <red>ingrained</red> in children’s minds, they may <red>struggle</red> to pay attention to and <red>integrate</red> contradictory evidence into their working theories about people. American children are also taught not to say mean things about others and may question the <red>intentions</red> of well-meaning people that speak hard truths. This may be the reason that children prioritize <red>benevolence</red> over <red>expertise</red> when learning new information. (The end)",
+          "translation": "それでも，子どもたちは<red>反対の</red>証拠があるにもかかわらず，<red>頑固に</red>楽観的のままでいることがよくある。ここには異なる力が働いているのかもしれない。すなわち，肯定感が子どもたちの心に<red>しっかりと植え付けられている</red>ので，それと矛盾する証拠に目を向け，自身が形成中の人々に関する仮説にそれを<red>統合する</red>のに<red>苦労している</red>のかもしれない，ということだ。アメリカの子どもたちはまた，他人について意地悪なことを言わないように教えられており，厳しい真実を口にする悪意のない人々の<red>意図</red>に疑問を抱くのかもしれない。これがおそらくは，子どもたちが新たな情報を知る時に，<red>専門知識</red>よりも<red>善意</red>を優先する理由なのだろう。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "be <red>exposed</red> to new ideas",
+          "japanese": "新しい考えにふれる",
+          "pos": "他",
+          "phonetic": "[ikspóuzd, eks-]",
+          "meaning": "をさらす；をふれさせる"
+        },
+        {
+          "english": "respect one’s <red>peers</red>",
+          "japanese": "仲間を尊敬する",
+          "pos": "名",
+          "phonetic": "[píərz]",
+          "meaning": "仲間，（地位や年齢が）同じ人"
+        },
+        {
+          "english": "<red>bully</red> younger children",
+          "japanese": "幼い子どもをいじめる",
+          "pos": "他",
+          "phonetic": "[búli]",
+          "meaning": "をいじめる，を脅す"
+        },
+        {
+          "english": "<red>bullying</red>",
+          "japanese": "いじめ",
+          "pos": "名",
+          "phonetic": "[búliiŋ]",
+          "meaning": "いじめ"
+        },
+        {
+          "english": "be too <red>stubborn</red> to V",
+          "japanese": "頑固すぎてVできない",
+          "pos": "形",
+          "phonetic": "[stʌ́bərn]",
+          "meaning": "頑固な，強情な"
+        },
+        {
+          "english": "<red>stubbornly</red>",
+          "japanese": "頑固に，しぶとく",
+          "pos": "副",
+          "phonetic": "[stʌ́bərnli]",
+          "meaning": "頑固に，しぶとく"
+        },
+        {
+          "english": "have <red>contrary</red> views on A",
+          "japanese": "Aについて正反対の見解を持つ",
+          "pos": "形",
+          "phonetic": "[kάntrèri]",
+          "meaning": "正反対の，真逆の"
+        },
+        {
+          "english": "be <red>ingrained</red> in the culture",
+          "japanese": "文化にしっかりと根付いている",
+          "pos": "形",
+          "phonetic": "[ingréind]",
+          "meaning": "しっかり根付いた；定着している"
+        },
+        {
+          "english": "<red>struggle</red> desperately to V",
+          "japanese": "Vしようと必死に努力する",
+          "pos": "自",
+          "phonetic": "[strʌ́gl, strə́gəl]",
+          "meaning": "奮闘する，懸命に努力する"
+        },
+        {
+          "english": "<red>integrate</red> A into B",
+          "japanese": "AをBに組み込む（と統合する）",
+          "pos": "他",
+          "phonetic": "[íntəgrèit]",
+          "meaning": "を統合する"
+        },
+        {
+          "english": "<red>integration</red>",
+          "japanese": "統合，統一",
+          "pos": "名",
+          "phonetic": "[ìntəgréiʃən]",
+          "meaning": "統合，統一"
+        },
+        {
+          "english": "with the <red>intention</red> of V-ing",
+          "japanese": "Vする意図を持って",
+          "pos": "名",
+          "phonetic": "[inténʃən]",
+          "meaning": "意図，目的"
+        },
+        {
+          "english": "<red>intentional</red>",
+          "japanese": "意図的な，目的のある",
+          "pos": "形",
+          "phonetic": "[inténʃənl]",
+          "meaning": "意図的な，目的のある"
+        },
+        {
+          "english": "practice <red>benevolence</red>",
+          "japanese": "慈善を行う",
+          "pos": "名",
+          "phonetic": "[bənévələns]",
+          "meaning": "慈善，善意"
+        },
+        {
+          "english": "<red>benevolent</red>",
+          "japanese": "慈悲深い，善意ある",
+          "pos": "形",
+          "phonetic": "[bənévələnt]",
+          "meaning": "慈悲深い，善意ある"
+        },
+        {
+          "english": "<red>expertise</red> on the subject",
+          "japanese": "話題に関する専門知識",
+          "pos": "名",
+          "phonetic": "[èkspərtíːz, -tíːs]",
+          "meaning": "専門知識，専門的技術"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>expose</red>",
+          "pos": "他",
+          "meaning": "を暴露する（＋をさらす；をふれさせる）",
+          "example": "A weekly magazine <red>exposed</red> tax evasion by the company’s president.",
+          "translation": "週刊誌が会社社長の脱税を暴露した"
+        },
+        {
+          "headword": "<red>peer</red>",
+          "pos": "自",
+          "meaning": "凝視する（＋仲間，（年齢や地位が）同じ人）※同音異義語",
+          "example": "Galileo <red>peered</red> at Jupiter through his telescope.",
+          "translation": "ガリレオは望遠鏡で木星を凝視した"
+        },
+        {
+          "headword": "<red>struggle</red>",
+          "pos": "自",
+          "meaning": "格闘する（＋奮闘する，懸命に努力する）",
+          "example": "The man <red>struggled</red> with a mugger in the street.",
+          "translation": "男は路上で強盗と格闘した"
+        }
+      ]
+    },
+    "36": {
+      "id": 36,
+      "chapter": 8,
+      "chapterTitle": "経済・経営・メディア",
+      "titleJa": "暗号資産は通貨の未来か？",
+      "titleEn": "Is Cryptocurrency the Future of Money?",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Physical money has long been the world’s dominant means of exchange. However, digital <red>assets</red> known as <red>cryptocurrency</red> may soon <red>overtake</red> their physical ancestors. Cryptocurrencies seem to offer the same <red>mobility</red> and ease of exchange as traditional cash without the need for centralized governments and banks to manage the <red>currency</red>.",
+          "translation": "物理的マネーは，長らく世界の支配的な交換手段だった。しかし，<red>暗号資産</red>として知られるデジタル<red>資産</red>が，まもなくその物理的な前身を<red>追い抜く</red>かもしれない。暗号資産は，中央集権化された政府や銀行が<red>通貨</red>を管理する必要なしに，従来の現金と同じ<red>流動性</red>や交換のしやすさを提供するようだ。"
+        },
+        {
+          "number": 2,
+          "english": "Cryptocurrency relies on <red>decentralized</red> networks, where value is determined by market demand rather than government backing. This feature grants users more freedom but can lead to <red>catastrophe</red> if something goes wrong. Instead of banks, cryptocurrency <red>transactions</red> rely on blockchain technology, a system for tracking and <red>verifying</red> exchanges. These supposedly secure systems have nevertheless been the target of several high-profile hacks, including a 2016 incident in which hackers stole $60 million worth of cryptocurrency from a <red>prominent</red> blockchain, striking a major blow to user confidence.",
+          "translation": "暗号資産は<red>分散</red>ネットワークに依存するが，そこでは価値は政府の後ろ盾ではなく市場の需要によって決められる。この特徴が利用者にさらなる自由を与えるが，何か問題が起きると，<red>大惨事</red>につながりかねない。銀行の代わりに，暗号資産の<red>取引</red>は，やりとりを追跡し正しいかどうか<red>検証する</red>システムである，ブロックチェーン技術に依存している。これらの推定上は安全なシステムは，それでもいくつかの注目を浴びるハッキングの標的となってきた。それには，ハッカーたちが<red>有名な</red>ブロックチェーンから6,000万ドル相当の暗号資産を盗んだ2016年の事件が含まれており，これは利用者の信用に大きな打撃を与えた。"
+        },
+        {
+          "number": 3,
+          "english": "In addition to the lack of traditional <red>safeguards</red>, cryptocurrencies are <red>notoriously</red> unpredictable. Their value can skyrocket or <red>plummet</red> at speeds unthinkable for ordinary Wall Street markets. One cryptocurrency dropped over 60 percent in value and then reached new highs, all within a two-year span. Such <red>fluctuations</red> attract speculators but make everyday use highly impractical for the average consumer.",
+          "translation": "従来の<red>防御手段</red>の欠如に加えて，暗号資産は予測不可能なことで<red>悪名高い</red>。その価値は，通常のウォール街の市場では考えられない速さで急騰するか，もしくは<red>急落する</red>ことがある。ある暗号資産はその価値が60パーセント余り下がり，その後新高値を付けたが，それらすべては2年以内に起きたことだった。そのような<red>変動</red>は投機家を引きつけるが，日常の使用を平均的な消費者にとって極めて非現実的にしてしまうのだ。"
+        },
+        {
+          "number": 4,
+          "english": "Despite all its uncertainties, cryptocurrencies are uniquely positioned to make international transactions incredibly efficient. Even as governments increase regulation, cryptocurrencies continue to <red>proliferate</red>. The narrative has shifted in recent years away from whether or not cryptocurrency is a passing trend to questions of how exactly it will continue to affect our future.",
+          "translation": "あらゆるその不確定要素にもかかわらず，暗号資産は国際的な取引を信じられないほど効率的にする，独自の位置に置かれている。まさに各国政府が規制を強めている時でも，暗号資産は<red>拡散し</red>続けているのだ。人々の口に上る話題は，近年では，暗号資産は一時的な流行りかどうか，ということから離れて，具体的にどのように私たちの未来に影響を与え続けることになるのだろうか，という問題へと移ってきている。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "liquid <red>assets</red>",
+          "japanese": "流動資産",
+          "pos": "名",
+          "phonetic": "[ǽsets]",
+          "meaning": "資産，財産"
+        },
+        {
+          "english": "trade in <red>cryptocurrency</red>",
+          "japanese": "暗号資産を取引する",
+          "pos": "名",
+          "phonetic": "[kríptoukʌ̀rənsi, krìptoukə́ːrənsi]",
+          "meaning": "暗号資産"
+        },
+        {
+          "english": "<red>overtake</red> the bus",
+          "japanese": "バスを追い越す",
+          "pos": "他",
+          "phonetic": "[òuvərtéik]",
+          "meaning": "を追い越す，に勝る"
+        },
+        {
+          "english": "social <red>mobility</red>",
+          "japanese": "社会的流動性　※階層間の移動",
+          "pos": "名",
+          "phonetic": "[moubíləti]",
+          "meaning": "流動性，機動性"
+        },
+        {
+          "english": "pay in local <red>currency</red>",
+          "japanese": "現地通貨で支払う",
+          "pos": "名",
+          "phonetic": "[kə́ːrənsi]",
+          "meaning": "通貨，貨幣"
+        },
+        {
+          "english": "<red>decentralized</red> computing",
+          "japanese": "分散型コンピューティング",
+          "pos": "形",
+          "phonetic": "[dìséntrəlàizd]",
+          "meaning": "分散型の，非集中的な"
+        },
+        {
+          "english": "face a <red>catastrophe</red>",
+          "japanese": "大災害に直面する",
+          "pos": "名",
+          "phonetic": "[kətǽstrəfi]",
+          "meaning": "大災害，惨禍"
+        },
+        {
+          "english": "conclude a <red>transaction</red>",
+          "japanese": "取引を完了する",
+          "pos": "名",
+          "phonetic": "[trænsǽkʃən]",
+          "meaning": "取引，やりとり"
+        },
+        {
+          "english": "<red>verify</red> the theory",
+          "japanese": "理論の正しさを検証する",
+          "pos": "他",
+          "phonetic": "[vérəfài]",
+          "meaning": "を検証する，を証明する"
+        },
+        {
+          "english": "a <red>prominent</red> figure",
+          "japanese": "著名な人物",
+          "pos": "形",
+          "phonetic": "[prάmənənt]",
+          "meaning": "著名な，卓越した"
+        },
+        {
+          "english": "a <red>safeguard</red> against error",
+          "japanese": "ミスの防止策",
+          "pos": "名",
+          "phonetic": "[séifgɑ̀ːrd]",
+          "meaning": "防護手段，安全装置"
+        },
+        {
+          "english": "a <red>notorious</red> terrorist group",
+          "japanese": "悪名高いテロ集団",
+          "pos": "形",
+          "phonetic": "[noutɔ́ːriəs]",
+          "meaning": "悪名高い，評判の悪い"
+        },
+        {
+          "english": "<red>notoriously</red>",
+          "japanese": "悪名高く，知ってのとおり",
+          "pos": "副",
+          "phonetic": "[noutɔ́ːriəsli]",
+          "meaning": "悪名高く，知ってのとおり"
+        },
+        {
+          "english": "<red>plummet</red> toward the ground",
+          "japanese": "地面めがけてまっすぐ落ちる",
+          "pos": "自",
+          "phonetic": "[plʌ́mət]",
+          "meaning": "急落する，まっすぐ落ちる"
+        },
+        {
+          "english": "price <red>fluctuations</red>",
+          "japanese": "物価の変動",
+          "pos": "名",
+          "phonetic": "[flʌ̀ktʃuéiʃənz]",
+          "meaning": "変動，動揺"
+        },
+        {
+          "english": "<red>proliferate</red> endlessly",
+          "japanese": "果てしなく増加する",
+          "pos": "自",
+          "phonetic": "[prəlífərèit]",
+          "meaning": "急増する，拡散する"
+        },
+        {
+          "english": "<red>proliferation</red>",
+          "japanese": "拡散，急増",
+          "pos": "名",
+          "phonetic": "[prəlìfəréiʃən]",
+          "meaning": "拡散，急増"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>asset</red>",
+          "pos": "名",
+          "meaning": "強み；貴重な存在（＋資産，財産）",
+          "example": "A foreign language ability is a big <red>asset</red>.",
+          "translation": "外国語の語学力は大きな強みだ"
+        },
+        {
+          "headword": "<red>overtake</red>",
+          "pos": "他",
+          "meaning": "（感情などが人）を襲う（＋を追い越す，に勝る）",
+          "example": "I was <red>overtaken</red> by drowsiness during the test.",
+          "translation": "テスト中，眠気に襲われた"
+        },
+        {
+          "headword": "<red>currency</red>",
+          "pos": "名",
+          "meaning": "普及（＋通貨，貨幣）",
+          "example": "The term “biodiversity” has gained <red>currency</red> in recent years.",
+          "translation": "「生物多様性」という言葉は近年広く使われるようになった"
         }
       ]
     }

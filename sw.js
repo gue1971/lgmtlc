@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lingua-mvp-v38';
+const CACHE_NAME = 'lingua-mvp-v41';
 const CORE_ASSETS = [
   './',
   './index.html',

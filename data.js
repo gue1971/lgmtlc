@@ -393,14 +393,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>confirm</red> the hypothesis",
-          "japanese": "仮説を<red>裏づける</red>",
+          "japanese": "仮説<red>を裏づける</red>",
           "pos": "他",
           "phonetic": "[kənfə́ːrm]",
           "meaning": "を確かめる；を立証する"
         },
         {
           "english": "<red>abandon</red> the project",
-          "japanese": "計画を<red>放棄する</red>",
+          "japanese": "計画<red>を放棄する</red>",
           "pos": "他",
           "phonetic": "[əbǽndən]",
           "meaning": "を放棄する"
@@ -428,7 +428,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>embrace</red> new technologies",
-          "japanese": "新しい技術を<red>受け入れる</red>",
+          "japanese": "新しい技術<red>を受け入れる</red>",
           "pos": "他",
           "phonetic": "[imbréis]",
           "meaning": "を受け入れる"
@@ -516,7 +516,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>dominate</red> the market",
-          "japanese": "市場を<red>支配する</red>",
+          "japanese": "市場<red>を支配する</red>",
           "pos": "他",
           "phonetic": "[dɑ́mənèit]",
           "meaning": "を支配する"
@@ -530,7 +530,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>obtain</red> funding",
-          "japanese": "資金を<red>獲得する</red>",
+          "japanese": "資金<red>を獲得する</red>",
           "pos": "他",
           "phonetic": "[əbtéin]",
           "meaning": "を獲得する"
@@ -551,7 +551,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>indicate</red> the necessity of A",
-          "japanese": "Aの必要性を<red>示す</red>",
+          "japanese": "Aの必要性<red>を示す</red>",
           "pos": "他",
           "phonetic": "[índəkèit]",
           "meaning": "を示す；を表示する"
@@ -579,7 +579,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>reconcile</red> the ideal with reality",
-          "japanese": "理想と現実を<red>一致させる</red>",
+          "japanese": "理想と現実<red>を一致させる</red>",
           "pos": "他",
           "phonetic": "[rékənsàil]",
           "meaning": "を調和させる"
@@ -593,7 +593,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>compare</red> the results",
-          "japanese": "結果を<red>比較する</red>",
+          "japanese": "結果<red>を比較する</red>",
           "pos": "他",
           "phonetic": "[kəmpéər]",
           "meaning": "を比較する"
@@ -674,7 +674,7 @@ window.LINGUA_DATA = {
           "english": "remain <red>stationary</red>",
           "phonetic": "[stéiʃənèri]",
           "pos": "形",
-          "japanese": "静止した状態を保つ",
+          "japanese": "<red>静止した</red>状態を保つ",
           "meaning": "静止した，動かない"
         },
         {
@@ -702,7 +702,7 @@ window.LINGUA_DATA = {
           "english": "<red>evolve</red> new ways of A",
           "phonetic": "[ivάlv]",
           "pos": "他",
-          "japanese": "Aの新しい方法を<red>進化させる</red>",
+          "japanese": "Aの新しい方法<red>を進化させる</red>",
           "meaning": "を進化させる，を発達させる"
         },
         {
@@ -730,7 +730,7 @@ window.LINGUA_DATA = {
           "english": "the base of the <red>stem</red>",
           "phonetic": "[stém]",
           "pos": "名",
-          "japanese": "幹の根元",
+          "japanese": "<red>幹</red>の根元",
           "meaning": "幹，茎"
         },
         {
@@ -751,7 +751,7 @@ window.LINGUA_DATA = {
           "english": "a microscopic <red>organism</red>",
           "phonetic": "[ɔ́ːrgənìzəm]",
           "pos": "名",
-          "japanese": "微生物",
+          "japanese": "<red>微生物</red>",
           "meaning": "生物，有機体"
         },
         {
@@ -872,14 +872,14 @@ window.LINGUA_DATA = {
           "english": "catch a <red>chill</red>",
           "phonetic": "[tʃíl]",
           "pos": "名",
-          "japanese": "風邪を引く",
+          "japanese": "<red>風邪</red>を引く",
           "meaning": "風邪，悪寒"
         },
         {
           "english": "<red>examine</red> O closely",
           "phonetic": "[igzǽmən, egz-]",
           "pos": "他",
-          "japanese": "詳しくOを<red>調べる</red>",
+          "japanese": "詳しくO<red>を調べる</red>",
           "meaning": "を調査する，を検査する"
         },
         {
@@ -956,7 +956,7 @@ window.LINGUA_DATA = {
           "english": "<red>impair</red> one's sight",
           "phonetic": "[impέər]",
           "pos": "他",
-          "japanese": "視力を<red>害する</red>",
+          "japanese": "視力<red>を害する</red>",
           "meaning": "を弱める，を損なう"
         },
         {
@@ -1042,7 +1042,7 @@ window.LINGUA_DATA = {
           "english": "an <red>inconclusive</red> debate",
           "phonetic": "[ìnkənklúːsiv]",
           "pos": "形",
-          "japanese": "結論の出ない討論",
+          "japanese": "<red>結論の出ない</red>討論",
           "meaning": "決定的でない，結論の出ない"
         },
         {
@@ -1119,7 +1119,7 @@ window.LINGUA_DATA = {
           "english": "<red>imply</red> agreement",
           "phonetic": "[implái]",
           "pos": "他",
-          "japanese": "同意を暗に<red>示す</red>",
+          "japanese": "同意<red>を暗に示す</red>",
           "meaning": "を暗示する；を暗に意味する"
         },
         {
@@ -1208,7 +1208,7 @@ window.LINGUA_DATA = {
           "english": "<red>surpass</red> last year’s record",
           "phonetic": "[sərpǽs]",
           "pos": "他",
-          "japanese": "昨年の記録を<red>上回る</red>",
+          "japanese": "昨年の記録<red>を上回る</red>",
           "meaning": "を超える，を上回る"
         },
         {
@@ -1229,7 +1229,7 @@ window.LINGUA_DATA = {
           "english": "<red>exceed</red> the limits",
           "phonetic": "[iksíːd, ek-]",
           "pos": "他",
-          "japanese": "限度を<red>超える</red>",
+          "japanese": "限度<red>を超える</red>",
           "meaning": "を超える，〜にまさる"
         },
         {
@@ -1292,7 +1292,7 @@ window.LINGUA_DATA = {
           "english": "<red>absorb</red> moisture",
           "phonetic": "[əbsɔ́ːrb, -zɔ́ːrb]",
           "pos": "他",
-          "japanese": "水分を<red>吸収する</red>",
+          "japanese": "水分<red>を吸収する</red>",
           "meaning": "を吸収する，を取り込む"
         },
         {
@@ -1374,7 +1374,7 @@ window.LINGUA_DATA = {
           "english": "<red>derive</red> pleasure from A",
           "phonetic": "[dəráiv]",
           "pos": "他",
-          "japanese": "Aから喜びを<red>引き出す</red>",
+          "japanese": "Aから喜び<red>を引き出す</red>",
           "meaning": "を引き出す，を派生させる"
         },
         {
@@ -1416,7 +1416,7 @@ window.LINGUA_DATA = {
           "english": "<red>coordinate</red> the team",
           "phonetic": "[kouɔ́ːrdənèit]",
           "pos": "他",
-          "japanese": "チームを<red>統率する</red>",
+          "japanese": "チーム<red>を統率する</red>",
           "meaning": "を調整する，をまとめる"
         },
         {
@@ -1479,14 +1479,14 @@ window.LINGUA_DATA = {
           "english": "<red>demonstrate</red> that A is correct",
           "phonetic": "[démənstrèit]",
           "pos": "他",
-          "japanese": "Aが正しいことを<red>証明する</red>",
+          "japanese": "Aが正しいこと<red>を証明する</red>",
           "meaning": "を証明する，を（明らかに）示す"
         },
         {
           "english": "<red>mimic</red> O perfectly",
           "phonetic": "[mímik]",
           "pos": "他",
-          "japanese": "完璧にOを<red>模倣する</red>",
+          "japanese": "完璧にO<red>を模倣する</red>",
           "meaning": "を模倣する；に擬態する"
         },
         {
@@ -1575,7 +1575,7 @@ window.LINGUA_DATA = {
           "english": "<red>involve</red> a lot of effort",
           "phonetic": "[invάlv, -vɔ́lv]",
           "pos": "他",
-          "japanese": "多大な努力を<red>必要とする</red>",
+          "japanese": "多大な努力<red>を必要とする</red>",
           "meaning": "を必要とする，を伴う"
         },
         {
@@ -1638,7 +1638,7 @@ window.LINGUA_DATA = {
           "english": "<red>contaminate</red> water",
           "phonetic": "[kəntǽmənèit]",
           "pos": "他",
-          "japanese": "水を<red>汚染する</red>",
+          "japanese": "水<red>を汚染する</red>",
           "meaning": "を汚染する"
         },
         {
@@ -1652,7 +1652,7 @@ window.LINGUA_DATA = {
           "english": "be <red>diagnosed</red> as A",
           "phonetic": "[dàiəgnóuzd]",
           "pos": "他",
-          "japanese": "（病気が）Aであると<red>診断される</red>",
+          "japanese": "（病気が）Aである<red>と診断される</red>",
           "meaning": "を診断する；の原因を突き止める"
         },
         {
@@ -1687,7 +1687,7 @@ window.LINGUA_DATA = {
           "english": "<red>ensure</red> the safety of A",
           "phonetic": "[inʃúər, en-]",
           "pos": "他",
-          "japanese": "Aの安全を<red>確保する</red>",
+          "japanese": "Aの安全<red>を確保する</red>",
           "meaning": "を確実にする，を確保する"
         }
       ],
@@ -1808,7 +1808,7 @@ window.LINGUA_DATA = {
           "english": "<red>deliver</red> a message",
           "phonetic": "[dilívər]",
           "pos": "他",
-          "japanese": "メッセージを<red>伝える</red>",
+          "japanese": "メッセージ<red>を伝える</red>",
           "meaning": "を配達する；を与える"
         },
         {
@@ -1957,7 +1957,7 @@ window.LINGUA_DATA = {
           "english": "<red>navigate</red> an unfamiliar place",
           "phonetic": "[nǽvəgèit]",
           "pos": "他",
-          "japanese": "不慣れな場所を<red>航行する</red>",
+          "japanese": "不慣れな場所<red>を航行する</red>",
           "meaning": "を航行する；をうまく切り抜ける"
         },
         {
@@ -1971,7 +1971,7 @@ window.LINGUA_DATA = {
           "english": "<red>inform</red> every aspect of A",
           "phonetic": "[infɔ́ːrm]",
           "pos": "他",
-          "japanese": "Aのあらゆる面に<red>影響を与える</red>",
+          "japanese": "Aのあらゆる面<red>に影響を与える</red>",
           "meaning": "に影響を与える"
         },
         {
@@ -1985,7 +1985,7 @@ window.LINGUA_DATA = {
           "english": "<red>govern</red> the country",
           "phonetic": "[gʌ́vərn]",
           "pos": "他",
-          "japanese": "国を<red>統治する</red>",
+          "japanese": "国<red>を統治する</red>",
           "meaning": "を統治する，を治める"
         },
         {
@@ -1999,7 +1999,7 @@ window.LINGUA_DATA = {
           "english": "be adversely <red>affected</red>",
           "phonetic": "[əféktid]",
           "pos": "他",
-          "japanese": "悪影響を<red>受ける</red>",
+          "japanese": "悪影響<red>を受ける</red>",
           "meaning": "に影響する，に変化をもたらす"
         },
         {
@@ -2013,7 +2013,7 @@ window.LINGUA_DATA = {
           "english": "<red>preserve</red> the tradition",
           "phonetic": "[prizə́ːrv, pre-]",
           "pos": "他",
-          "japanese": "伝統を<red>守る</red>",
+          "japanese": "伝統<red>を守る</red>",
           "meaning": "を保存する，を守る"
         },
         {
@@ -2099,7 +2099,7 @@ window.LINGUA_DATA = {
           "english": "be hit by a stray <red>bullet</red>",
           "phonetic": "[búlət]",
           "pos": "名",
-          "japanese": "流れ弾に当たる",
+          "japanese": "<red>流れ弾</red>に当たる",
           "meaning": "弾丸"
         },
         {
@@ -2169,7 +2169,7 @@ window.LINGUA_DATA = {
           "english": "<red>administer</red> a new drug",
           "phonetic": "[ədmínəstər, æd-]",
           "pos": "他",
-          "japanese": "新薬を<red>投与する</red>",
+          "japanese": "新薬<red>を投与する</red>",
           "meaning": "〈薬など〉を投与する"
         },
         {
@@ -2190,7 +2190,7 @@ window.LINGUA_DATA = {
           "english": "<red>eliminate</red> barriers to A",
           "phonetic": "[ilímənèit]",
           "pos": "他",
-          "japanese": "Aの障壁を<red>取り除く</red>",
+          "japanese": "Aの障壁<red>を取り除く</red>",
           "meaning": "を除去する，を根絶する"
         },
         {
@@ -2288,7 +2288,7 @@ window.LINGUA_DATA = {
           "english": "<red>predict</red> the result",
           "phonetic": "[pridíkt]",
           "pos": "他",
-          "japanese": "結果を<red>予測する</red>",
+          "japanese": "結果<red>を予測する</red>",
           "meaning": "を予測する，を予報する"
         },
         {
@@ -2323,7 +2323,7 @@ window.LINGUA_DATA = {
           "english": "<red>swap</red> shirts after a match",
           "phonetic": "[swάp]",
           "pos": "他",
-          "japanese": "試合後に（相手と）シャツを<red>交換する</red>",
+          "japanese": "試合後に（相手と）シャツ<red>を交換する</red>",
           "meaning": "を交換する，を交わす"
         },
         {
@@ -2351,7 +2351,7 @@ window.LINGUA_DATA = {
           "english": "<red>trigger</red> a response",
           "phonetic": "[trígər]",
           "pos": "他",
-          "japanese": "反応を<red>引き起こす</red>",
+          "japanese": "反応<red>を引き起こす</red>",
           "meaning": "を引き起こす，を作動させる"
         },
         {
@@ -2463,7 +2463,7 @@ window.LINGUA_DATA = {
           "english": "<red>analyze</red>",
           "phonetic": "[ǽnəlàiz]",
           "pos": "他",
-          "japanese": "を<red>分析する</red>",
+          "japanese": "<red>を分析する</red>",
           "meaning": "を分析する"
         },
         {
@@ -2664,7 +2664,7 @@ window.LINGUA_DATA = {
           "english": "three <red>distinct</red> groups",
           "phonetic": "[distíŋkt]",
           "pos": "形",
-          "japanese": "明確に<red>異なる</red>3つの集団",
+          "japanese": "<red>明確に異なる</red>3つの集団",
           "meaning": "明確に異なる"
         },
         {
@@ -2788,7 +2788,7 @@ window.LINGUA_DATA = {
           "english": "cause O to <red>weaken</red>",
           "phonetic": "[wíːkən]",
           "pos": "自",
-          "japanese": "Oを<red>弱まらせる</red>",
+          "japanese": "Oを<red>弱まら</red>せる",
           "meaning": "弱まる，力を失う"
         },
         {
@@ -2823,7 +2823,7 @@ window.LINGUA_DATA = {
           "english": "<red>carve</red> a Buddha",
           "phonetic": "[kɑ́ːrv]",
           "pos": "他",
-          "japanese": "仏像を<red>彫刻する</red>",
+          "japanese": "仏像<red>を彫刻する</red>",
           "meaning": "を削る；を減らす"
         },
         {
@@ -2942,7 +2942,7 @@ window.LINGUA_DATA = {
           "english": "<red>reveal</red> the truth",
           "phonetic": "[rivíːl]",
           "pos": "他",
-          "japanese": "真実を<red>明らかにする</red>",
+          "japanese": "真実<red>を明らかにする</red>",
           "meaning": "を明らかにする"
         },
         {
@@ -3033,7 +3033,7 @@ window.LINGUA_DATA = {
           "english": "<red>address</red> the issue",
           "phonetic": "[ədrés]",
           "pos": "他",
-          "japanese": "問題に<red>取り組む</red>",
+          "japanese": "問題<red>に取り組む</red>",
           "meaning": "に取り組む，に対処する"
         },
         {
@@ -3169,14 +3169,14 @@ window.LINGUA_DATA = {
           "english": "approve <red>legislation</red>",
           "phonetic": "[lèdʒisléiʃən]",
           "pos": "名",
-          "japanese": "法律（の制定）を承認する",
+          "japanese": "<red>法律（の制定）</red>を承認する",
           "meaning": "立法（行為），法律制定"
         },
         {
           "english": "<red>tackle</red> the problem",
           "phonetic": "[tǽkl]",
           "pos": "他",
-          "japanese": "問題に<red>取り組む</red>",
+          "japanese": "問題<red>に取り組む</red>",
           "meaning": "に取り組む"
         },
         {
@@ -3211,7 +3211,7 @@ window.LINGUA_DATA = {
           "english": "be <red>presumed</red> to be innocent",
           "phonetic": "[prizúːmd]",
           "pos": "他",
-          "japanese": "無罪と<red>推定される</red>",
+          "japanese": "無罪<red>と推定される</red>",
           "meaning": "だと推定する"
         },
         {
@@ -3451,7 +3451,7 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "<red>edit</red> the draft",
-          "japanese": "草稿を<red>編集する</red>",
+          "japanese": "草稿<red>を編集する</red>",
           "pos": "他",
           "phonetic": "[édət]",
           "meaning": "を編集する"
@@ -3479,7 +3479,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>enhance</red> the quality",
-          "japanese": "質を<red>高める</red>",
+          "japanese": "質<red>を高める</red>",
           "pos": "他",
           "phonetic": "[inhǽns, en-]",
           "meaning": "高める，を向上させる"
@@ -3556,7 +3556,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>restore</red> law and order",
-          "japanese": "法と秩序を<red>回復する</red>",
+          "japanese": "法と秩序<red>を回復する</red>",
           "pos": "他",
           "phonetic": "[ristɔ́ːr]",
           "meaning": "を回復する，を取り戻す"
@@ -3628,28 +3628,28 @@ window.LINGUA_DATA = {
         },
         {
           "english": "a <red>somatic</red> cell clone",
-          "japanese": "<red>体細胞</red>クローン",
+          "japanese": "<red>体</red>細胞クローン",
           "pos": "形",
           "phonetic": "[soumǽtik, sə-]",
           "meaning": "身体の；体細胞の"
         },
         {
           "english": "<red>inherit</red> the traits of A",
-          "japanese": "Aの特質を<red>受け継ぐ</red>",
+          "japanese": "Aの特質<red>を受け継ぐ</red>",
           "pos": "他",
           "phonetic": "[inhérət]",
           "meaning": "を受け継ぐ"
         },
         {
           "english": "<red>germ</red> cells",
-          "japanese": "<red>生殖細胞</red>",
+          "japanese": "<red>生殖</red>細胞",
           "pos": "名",
           "phonetic": "[dʒə́ːrm]",
           "meaning": "胚；芽"
         },
         {
           "english": "<red>transmit</red> a disease",
-          "japanese": "病気を<red>伝染させる</red>",
+          "japanese": "病気<red>を伝染させる</red>",
           "pos": "他",
           "phonetic": "[trænsmít, trænz-]",
           "meaning": "を伝える；を受け渡す"
@@ -3670,7 +3670,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>repair</red> tissues",
-          "japanese": "（細胞）組織を<red>修復する</red>",
+          "japanese": "（細胞）組織<red>を修復する</red>",
           "pos": "他",
           "phonetic": "[ripéər, rə-]",
           "meaning": "を修復する；を修理する"
@@ -3684,14 +3684,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "a <red>potent</red> solution",
-          "japanese": "有力な<red>解決策</red>",
+          "japanese": "<red>有力な</red>解決策",
           "pos": "形",
           "phonetic": "[póutnt]",
           "meaning": "有力な；強い影響力のある"
         },
         {
           "english": "a <red>controversial</red> subject",
-          "japanese": "<red>賛否両論</red>の話題",
+          "japanese": "<red>賛否両論の</red>話題",
           "pos": "形",
           "phonetic": "[kὰntrəvə́ːrʃəl]",
           "meaning": "論争的な，賛否両論ある"
@@ -3840,7 +3840,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>store</red> jewels in a safe",
-          "japanese": "金庫で宝石を<red>保管する</red>",
+          "japanese": "金庫で宝石<red>を保管する</red>",
           "pos": "他",
           "phonetic": "[stɔ́ːr]",
           "meaning": "を貯蔵する；を保存しておく"
@@ -3933,7 +3933,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>consume</red> more calories",
-          "japanese": "より多くのカロリーを<red>消費する</red>",
+          "japanese": "より多くのカロリー<red>を消費する</red>",
           "pos": "他",
           "phonetic": "[kəns(j)úːm]",
           "meaning": "を消費する；を摂取する"
@@ -3947,14 +3947,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "a zero-<red>emission</red> vehicle",
-          "japanese": "排出量ゼロ自動車",
+          "japanese": "<red>排出量</red>ゼロ自動車",
           "pos": "名",
           "phonetic": "[imíʃən]",
           "meaning": "排出；排出量"
         },
         {
           "english": "<red>transport</red> goods by sea",
-          "japanese": "海上で物資を<red>輸送する</red>",
+          "japanese": "海上で物資<red>を輸送する</red>",
           "pos": "他",
           "phonetic": "[trænspɔ́ːrt]",
           "meaning": "を輸送する"
@@ -3975,7 +3975,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>curb</red> inflation",
-          "japanese": "インフレを<red>抑制する</red>",
+          "japanese": "インフレ<red>を抑制する</red>",
           "pos": "他",
           "phonetic": "[kə́ːrb]",
           "meaning": "を抑制する，を制限する"
@@ -4301,14 +4301,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>trap</red> heat from the sun",
-          "japanese": "太陽熱を<red>閉じ込める</red>",
+          "japanese": "太陽熱<red>を閉じ込める</red>",
           "pos": "他",
           "phonetic": "[trǽp]",
           "meaning": "を捕まえる，を閉じ込める"
         },
         {
           "english": "<red>accelerate</red> the process",
-          "japanese": "プロセスを<red>加速させる</red>",
+          "japanese": "プロセス<red>を加速させる</red>",
           "pos": "他",
           "phonetic": "[əksélərèit, æk-, ik-]",
           "meaning": "を加速させる"
@@ -4357,7 +4357,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>capture</red> a wild animal",
-          "japanese": "野生動物を<red>捕らえる</red>",
+          "japanese": "野生動物<red>を捕らえる</red>",
           "pos": "他",
           "phonetic": "[kǽptʃər]",
           "meaning": "を捕捉する，を捕まえる"
@@ -4504,7 +4504,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>convert</red> sunlight into energy",
-          "japanese": "日光をエネルギーに<red>変える</red>",
+          "japanese": "日光をエネルギー<red>に変える</red>",
           "pos": "他",
           "phonetic": "[kənvə́ːrt]",
           "meaning": "を変換する；を変形させる"
@@ -4525,7 +4525,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>dispose of</red> nuclear waste",
-          "japanese": "核廃棄物を<red>処分する</red>",
+          "japanese": "核廃棄物<red>を処分する</red>",
           "pos": "他",
           "phonetic": "[dispóuz əv]",
           "meaning": "を処分する"
@@ -4539,7 +4539,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>implement</red> the decision",
-          "japanese": "決定を<red>実行する</red>",
+          "japanese": "決定<red>を実行する</red>",
           "pos": "他",
           "phonetic": "[ímplèmənt]",
           "meaning": "を実行する，を実施する"
@@ -4553,7 +4553,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>minimize</red> the risk",
-          "japanese": "リスクを<red>最小化する</red>",
+          "japanese": "リスク<red>を最小化する</red>",
           "pos": "他",
           "phonetic": "[mínəmàiz]",
           "meaning": "を最小化する，を最小限にとどめる"
@@ -4653,7 +4653,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "a <red>simultaneous</red> interpreter",
-          "japanese": "同時通訳者",
+          "japanese": "<red>同時</red>通訳者",
           "pos": "形",
           "phonetic": "[sàiməltéiniəs, sɪ-]",
           "meaning": "同時の"
@@ -4781,7 +4781,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>albeit</red> expensive",
-          "japanese": "高価ではあるけれども",
+          "japanese": "<red>高価ではあるけれども</red>",
           "pos": "接",
           "phonetic": "[ɔːlbíːit]",
           "meaning": "…であるけれども，たとえ…でも"
@@ -4830,7 +4830,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>envision</red> a rosy future",
-          "japanese": "バラ色の未来を<red>思い描く</red>",
+          "japanese": "バラ色の未来<red>を思い描く</red>",
           "pos": "他",
           "phonetic": "[invíʒən, en-]",
           "meaning": "を思い描く，を想像する"
@@ -4844,7 +4844,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>alleviate</red> a burden",
-          "japanese": "負担を<red>軽減する</red>",
+          "japanese": "負担<red>を軽減する</red>",
           "pos": "他",
           "phonetic": "[əlíːvièit]",
           "meaning": "を軽減する，を緩和する"
@@ -4933,7 +4933,7 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "<red>spark</red> a debate",
-          "japanese": "論争を<red>引き起こす</red>",
+          "japanese": "論争<red>を引き起こす</red>",
           "pos": "他",
           "phonetic": "[spɑ́ːrk]",
           "meaning": "を引き起こす"
@@ -4975,7 +4975,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>justify</red> one’s action",
-          "japanese": "行動を<red>正当化する</red>",
+          "japanese": "行動<red>を正当化する</red>",
           "pos": "他",
           "phonetic": "[dʒʌ́stəfài]",
           "meaning": "を正当化する"
@@ -5017,7 +5017,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>foster</red> the sense of community",
-          "japanese": "共同体感覚を<red>育む</red>",
+          "japanese": "共同体感覚<red>を育む</red>",
           "pos": "他",
           "phonetic": "[fɔ́stər, -fάs-]",
           "meaning": "を育てる，を育成する"
@@ -5133,7 +5133,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "be genetically <red>determined</red>",
-          "japanese": "遺伝的に<red>決定される</red>",
+          "japanese": "遺伝的に<red>決定され</red>る",
           "pos": "他",
           "phonetic": "[ditə́ːrmənd]",
           "meaning": "を決定する"
@@ -5154,7 +5154,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>influencer</red>",
-          "japanese": "インフルエンサー",
+          "japanese": "<red>インフルエンサー</red>",
           "pos": "名",
           "phonetic": "[ínfluənsər]",
           "meaning": "インフルエンサー"
@@ -5168,14 +5168,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "be equally <red>distributed</red>",
-          "japanese": "平等に<red>分配される</red>",
+          "japanese": "平等に<red>分配され</red>る",
           "pos": "他",
           "phonetic": "[distríbjuːtid]",
           "meaning": "を分配する，を配布する"
         },
         {
           "english": "the unfairness of <red>meritocracy</red>",
-          "japanese": "メリトクラシーの不公平さ",
+          "japanese": "<red>メリトクラシー</red>の不公平さ",
           "pos": "名",
           "phonetic": "[mèrətάkrəsi]",
           "meaning": "メリトクラシー，功績（能力）主義"
@@ -5254,7 +5254,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "be <red>perceived</red> as a threat",
-          "japanese": "脅威と<red>受け取られる</red>",
+          "japanese": "脅威<red>と受け取られる</red>",
           "pos": "他",
           "phonetic": "[pərsíːvd]",
           "meaning": "と捉える，を理解する"
@@ -5275,21 +5275,21 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>illustrate</red> the point",
-          "japanese": "要点を<red>説明する</red>",
+          "japanese": "要点<red>を説明する</red>",
           "pos": "他",
           "phonetic": "[íləstrèit]",
           "meaning": "を説明する，を例示する"
         },
         {
           "english": "be <red>deemed</red> necessary",
-          "japanese": "必要であると<red>みなされる</red>",
+          "japanese": "必要である<red>とみなされる</red>",
           "pos": "他",
           "phonetic": "[díːmd]",
           "meaning": "とみなす"
         },
         {
           "english": "regard O as <red>dull</red>",
-          "japanese": "Oを頭が悪い（おもしろくない）と思う",
+          "japanese": "Oを<red>頭が悪い（おもしろくない）</red>と思う",
           "pos": "形",
           "phonetic": "[dʌl]",
           "meaning": "鈍い，物わかりの悪い"
@@ -5303,7 +5303,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>fundamentalism</red>",
-          "japanese": "原理主義，根本主義",
+          "japanese": "<red>原理主義，根本主義</red>",
           "pos": "名",
           "phonetic": "[fʌ̀ndəméntəlìzəm]",
           "meaning": "原理主義，根本主義"
@@ -5317,7 +5317,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "be <red>convinced</red> of one’s guilt",
-          "japanese": "有罪であると<red>確信している</red>",
+          "japanese": "有罪である<red>と確信している</red>",
           "pos": "形",
           "phonetic": "[kənvínst]",
           "meaning": "納得（確信）している"
@@ -5338,7 +5338,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>grant</red> citizenship to A",
-          "japanese": "Aに市民権を<red>与える</red>",
+          "japanese": "Aに市民権<red>を与える</red>",
           "pos": "他",
           "phonetic": "[grǽnt]",
           "meaning": "を与える，を認める"
@@ -5422,14 +5422,14 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>explore</red> the possibility of A",
-          "japanese": "Aの可能性を<red>探る</red>",
+          "japanese": "Aの可能性<red>を探る</red>",
           "pos": "他",
           "phonetic": "[iksplɔ́ːr, eks-]",
           "meaning": "を探る，を詳しく調べる"
         },
         {
           "english": "<red>endanger</red> the health of A",
-          "japanese": "Aの健康を<red>危険にさらす</red>",
+          "japanese": "Aの健康<red>を危険にさらす</red>",
           "pos": "他",
           "phonetic": "[indéindʒər, en-]",
           "meaning": "を危険にさらす"
@@ -5478,7 +5478,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>operate</red> the machinery",
-          "japanese": "機械を<red>操作する</red>",
+          "japanese": "機械<red>を操作する</red>",
           "pos": "他",
           "phonetic": "[άpəreit]",
           "meaning": "を操作する，を運営する"
@@ -5573,7 +5573,7 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "at the <red>crucial</red> moment",
-          "japanese": "決定的瞬間に",
+          "japanese": "<red>決定的</red>瞬間に",
           "pos": "形",
           "phonetic": "[krúːʃəl]",
           "meaning": "決定的な，きわめて重要な"
@@ -5601,7 +5601,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>reverse</red> the positions",
-          "japanese": "立場を<red>逆転させる</red>",
+          "japanese": "立場<red>を逆転させる</red>",
           "pos": "他",
           "phonetic": "[rivə́ːrs, rə-]",
           "meaning": "を逆転させる，を逆にする"
@@ -5622,7 +5622,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>discard</red> the notion of A",
-          "japanese": "Aという考えを<red>捨て去る</red>",
+          "japanese": "Aという考え<red>を捨て去る</red>",
           "pos": "他",
           "phonetic": "[diskάːrd]",
           "meaning": "を廃棄する；（考えなど）を捨て去る"
@@ -5734,126 +5734,126 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "do not <red>hesitate</red> to ask",
-          "japanese": "遠慮せずに尋ねる",
+          "japanese": "<red>遠慮せずに</red>尋ねる",
           "pos": "他",
           "phonetic": "[hézəteit]",
           "meaning": "…するのをためらう，躊躇する"
         },
         {
           "english": "given the <red>circumstances</red>",
-          "japanese": "諸事情を考慮すると",
+          "japanese": "<red>諸事情</red>を考慮すると",
           "pos": "名",
           "phonetic": "[ðsə sərkə́mstænsiz]",
           "meaning": "事情，状況，境遇"
         },
         {
           "english": "<red>circumstantial</red>",
-          "japanese": "状況の",
+          "japanese": "<red>状況の</red>",
           "pos": "形",
           "phonetic": "[sə̀ːrkəmstǽnʃəl]",
           "meaning": "状況の"
         },
         {
           "english": "a <red>trustworthy</red> person",
-          "japanese": "信頼できる人",
+          "japanese": "<red>信頼できる</red>人",
           "pos": "形",
           "phonetic": "[trʌ́stwəːrði]",
           "meaning": "信頼できる，頼りになる"
         },
         {
           "english": "unconscious <red>bias</red>",
-          "japanese": "無意識の偏見",
+          "japanese": "無意識の<red>偏見</red>",
           "pos": "名",
           "phonetic": "[báiəs]",
           "meaning": "バイアス（偏見）；偏り"
         },
         {
           "english": "a <red>tendency</red> to follow others",
-          "japanese": "他の人々に追従する傾向",
+          "japanese": "他の人々に追従する<red>傾向</red>",
           "pos": "名",
           "phonetic": "[téndənsi]",
           "meaning": "傾向，風潮"
         },
         {
           "english": "a <red>positive</red> attitude",
-          "japanese": "積極的な態度",
+          "japanese": "<red>積極的な</red>態度",
           "pos": "形",
           "phonetic": "[pάzətiv]",
           "meaning": "積極的な，前向きな；好ましい"
         },
         {
           "english": "be <red>optimistic</red> about A",
-          "japanese": "Aについて楽観的である",
+          "japanese": "Aについて<red>楽観的</red>である",
           "pos": "形",
           "phonetic": "[ὰptəmístik]",
           "meaning": "楽観的な"
         },
         {
           "english": "<red>optimism</red>",
-          "japanese": "楽観主義（論）",
+          "japanese": "<red>楽観主義</red>（論）",
           "pos": "名",
           "phonetic": "[άptəmìzm]",
           "meaning": "楽観主義（論）"
         },
         {
           "english": "<red>unwittingly</red> offend O",
-          "japanese": "うっかりOを怒らせてしまう",
+          "japanese": "<red>うっかり</red>Oを怒らせてしまう",
           "pos": "副",
           "phonetic": "[ʌnwítiŋli]",
           "meaning": "気づかずに，うっかり"
         },
         {
           "english": "a <red>constructive</red> dialogue",
-          "japanese": "建設的な対話",
+          "japanese": "<red>建設的な</red>対話",
           "pos": "形",
           "phonetic": "[kənstrʌ́ktiv]",
           "meaning": "建設的な"
         },
         {
           "english": "enter a new <red>era</red>",
-          "japanese": "新時代に入る",
+          "japanese": "<red>新時代</red>に入る",
           "pos": "名",
           "phonetic": "[íərə, éərə, írə]",
           "meaning": "時代"
         },
         {
           "english": "the <red>myriad</red> stars",
-          "japanese": "無数の星々",
+          "japanese": "<red>無数の</red>星々",
           "pos": "形",
           "phonetic": "[míriəd]",
           "meaning": "無数の，数え切れない"
         },
         {
           "english": "cognitive <red>psychology</red>",
-          "japanese": "認知心理学",
+          "japanese": "認知<red>心理学</red>",
           "pos": "名",
           "phonetic": "[sàikάlədʒi]",
           "meaning": "心理学"
         },
         {
           "english": "<red>psychologist</red>",
-          "japanese": "心理学者",
+          "japanese": "<red>心理学者</red>",
           "pos": "名",
           "phonetic": "[saikάlədʒist]",
           "meaning": "心理学者"
         },
         {
           "english": "<red>investigate</red> the cause of A",
-          "japanese": "Aの原因を調査する",
+          "japanese": "Aの原因<red>を調査する</red>",
           "pos": "他",
           "phonetic": "[invéstəgèit]",
           "meaning": "を調査する，を研究する"
         },
         {
           "english": "<red>emerge</red> early in life",
-          "japanese": "早い時期（子どもの頃）に現れる",
+          "japanese": "早い時期（子どもの頃）に<red>現れる</red>",
           "pos": "自",
           "phonetic": "[imə́ːrdʒ]",
           "meaning": "現れる；明らかになる"
         },
         {
           "english": "<red>emergence</red>",
-          "japanese": "出現，発生",
+          "japanese": "<red>出現，発生</red>",
           "pos": "名",
           "phonetic": "[imə́ːrdʒəns]",
           "meaning": "出現，発生"
@@ -5902,119 +5902,119 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "a <red>sophisticated</red> reader",
-          "japanese": "洗練された【目の肥えた】読み手",
+          "japanese": "<red>洗練された【目の肥えた】</red>読み手",
           "pos": "形",
           "phonetic": "[səfístəkeitid]",
           "meaning": "洗練された，見識のある，熟練した"
         },
         {
           "english": "an <red>animate</red> object",
-          "japanese": "生命のある物体，生命体",
+          "japanese": "<red>生命のある</red>物体，<red>生命体</red>",
           "pos": "形",
           "phonetic": "[ǽnəmət]",
           "meaning": "生命のある，生きている"
         },
         {
           "english": "a physical <red>object</red>",
-          "japanese": "形のある物，有形物",
+          "japanese": "形のある<red>物</red>，<red>有形物</red>",
           "pos": "名",
           "phonetic": "[άbdʒikt, -dʒəkt]",
           "meaning": "物体，もの；対象"
         },
         {
           "english": "an <red>inanimate</red> object",
-          "japanese": "非生命体，無生物",
+          "japanese": "<red>非生命体，無生物</red>",
           "pos": "形",
           "phonetic": "[inǽnəmət]",
           "meaning": "無生物の，生命のない"
         },
         {
           "english": "a family with <red>preschoolers</red>",
-          "japanese": "未就学児のいる家庭",
+          "japanese": "<red>未就学児</red>のいる家庭",
           "pos": "名",
           "phonetic": "[prískúːlərz]",
           "meaning": "未就学児"
         },
         {
           "english": "an automotive <red>mechanic</red>",
-          "japanese": "自動車修理工",
+          "japanese": "自動車<red>修理工</red>",
           "pos": "名",
           "phonetic": "[məkǽnik, mi-]",
           "meaning": "整備士，修理工"
         },
         {
           "english": "an <red>accurate</red> description",
-          "japanese": "正確な記述",
+          "japanese": "<red>正確な</red>記述",
           "pos": "形",
           "phonetic": "[ǽkjərət]",
           "meaning": "正確な，精度の高い"
         },
         {
           "english": "<red>accuracy</red>",
-          "japanese": "正確さ；精度",
+          "japanese": "<red>正確さ；精度</red>",
           "pos": "名",
           "phonetic": "[ǽkjərəsi]",
           "meaning": "正確さ；精度"
         },
         {
           "english": "be met with <red>skepticism</red>",
-          "japanese": "懐疑の眼で見られる",
+          "japanese": "<red>懐疑</red>の眼で見られる",
           "pos": "名",
           "phonetic": "[sképtəsìzm]",
           "meaning": "懐疑（的態度）；疑い深さ"
         },
         {
           "english": "an <red>impressive</red> speech",
-          "japanese": "印象的な【見事な】演説",
+          "japanese": "<red>印象的な【見事な】</red>演説",
           "pos": "形",
           "phonetic": "[imprésiv]",
           "meaning": "印象的な，素晴らしい"
         },
         {
           "english": "an <red>evaluative</red> judgment",
-          "japanese": "評価的な判断",
+          "japanese": "<red>評価的な</red>判断",
           "pos": "形",
           "phonetic": "[ivǽljuətiv]",
           "meaning": "評価的な，査定の"
         },
         {
           "english": "take a <red>neutral</red> position",
-          "japanese": "中立の立場を取る",
+          "japanese": "<red>中立の</red>立場を取る",
           "pos": "形",
           "phonetic": "[n(j)úːtrəl]",
           "meaning": "中立の，公平な"
         },
         {
           "english": "a <red>colleague</red> at work",
-          "japanese": "職場の同僚",
+          "japanese": "職場の<red>同僚</red>",
           "pos": "名",
           "phonetic": "[kάliːg]",
           "meaning": "同僚，仲間"
         },
         {
           "english": "<red>reject</red> one’s offer",
-          "japanese": "申し出を拒絶する",
+          "japanese": "申し出<red>を拒絶する</red>",
           "pos": "他",
           "phonetic": "[ridʒékt, rə-]",
           "meaning": "を拒絶する，を拒否する"
         },
         {
           "english": "a cultural <red>trait</red>",
-          "japanese": "文化の特性",
+          "japanese": "文化の<red>特性</red>",
           "pos": "名",
           "phonetic": "[tréit]",
           "meaning": "特徴，特性"
         },
         {
           "english": "an objective <red>description</red> of A",
-          "japanese": "Aの客観的な記述",
+          "japanese": "Aの客観的な<red>記述</red>",
           "pos": "名",
           "phonetic": "[diskrípʃən]",
           "meaning": "記述，描写；説明"
         },
         {
           "english": "a <red>credible</red> expert",
-          "japanese": "信頼できる専門家",
+          "japanese": "<red>信頼できる</red>専門家",
           "pos": "形",
           "phonetic": "[krédəbl]",
           "meaning": "信頼できる，確実性の高い"
@@ -6070,112 +6070,112 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "be <red>exposed</red> to new ideas",
-          "japanese": "新しい考えにふれる",
+          "japanese": "新しい考えに<red>ふれ</red>る",
           "pos": "他",
           "phonetic": "[ikspóuzd, eks-]",
           "meaning": "をさらす；をふれさせる"
         },
         {
           "english": "respect one’s <red>peers</red>",
-          "japanese": "仲間を尊敬する",
+          "japanese": "<red>仲間</red>を尊敬する",
           "pos": "名",
           "phonetic": "[píərz]",
           "meaning": "仲間，（地位や年齢が）同じ人"
         },
         {
           "english": "<red>bully</red> younger children",
-          "japanese": "幼い子どもをいじめる",
+          "japanese": "幼い子ども<red>をいじめる</red>",
           "pos": "他",
           "phonetic": "[búli]",
           "meaning": "をいじめる，を脅す"
         },
         {
           "english": "<red>bullying</red>",
-          "japanese": "いじめ",
+          "japanese": "<red>いじめ</red>",
           "pos": "名",
           "phonetic": "[búliiŋ]",
           "meaning": "いじめ"
         },
         {
           "english": "be too <red>stubborn</red> to V",
-          "japanese": "頑固すぎてVできない",
+          "japanese": "<red>頑固</red>すぎてVできない",
           "pos": "形",
           "phonetic": "[stʌ́bərn]",
           "meaning": "頑固な，強情な"
         },
         {
           "english": "<red>stubbornly</red>",
-          "japanese": "頑固に，しぶとく",
+          "japanese": "<red>頑固に</red>，しぶとく",
           "pos": "副",
           "phonetic": "[stʌ́bərnli]",
           "meaning": "頑固に，しぶとく"
         },
         {
           "english": "have <red>contrary</red> views on A",
-          "japanese": "Aについて正反対の見解を持つ",
+          "japanese": "Aについて<red>正反対の</red>見解を持つ",
           "pos": "形",
           "phonetic": "[kάntrèri]",
           "meaning": "正反対の，真逆の"
         },
         {
           "english": "be <red>ingrained</red> in the culture",
-          "japanese": "文化にしっかりと根付いている",
+          "japanese": "文化に<red>しっかりと根付いて</red>いる",
           "pos": "形",
           "phonetic": "[ingréind]",
           "meaning": "しっかり根付いた；定着している"
         },
         {
           "english": "<red>struggle</red> desperately to V",
-          "japanese": "Vしようと必死に努力する",
+          "japanese": "Vしようと必死に<red>努力する</red>",
           "pos": "自",
           "phonetic": "[strʌ́gl, strə́gəl]",
           "meaning": "奮闘する，懸命に努力する"
         },
         {
           "english": "<red>integrate</red> A into B",
-          "japanese": "AをBに組み込む（と統合する）",
+          "japanese": "A<red>をBに組み込む</red>（と統合する）",
           "pos": "他",
           "phonetic": "[íntəgrèit]",
           "meaning": "を統合する"
         },
         {
           "english": "<red>integration</red>",
-          "japanese": "統合，統一",
+          "japanese": "<red>統合，統一</red>",
           "pos": "名",
           "phonetic": "[ìntəgréiʃən]",
           "meaning": "統合，統一"
         },
         {
           "english": "with the <red>intention</red> of V-ing",
-          "japanese": "Vする意図を持って",
+          "japanese": "Vする<red>意図</red>を持って",
           "pos": "名",
           "phonetic": "[inténʃən]",
           "meaning": "意図，目的"
         },
         {
           "english": "<red>intentional</red>",
-          "japanese": "意図的な，目的のある",
+          "japanese": "<red>意図的な</red>，<red>目的のある</red>",
           "pos": "形",
           "phonetic": "[inténʃənl]",
           "meaning": "意図的な，目的のある"
         },
         {
           "english": "practice <red>benevolence</red>",
-          "japanese": "慈善を行う",
+          "japanese": "<red>慈善</red>を行う",
           "pos": "名",
           "phonetic": "[bənévələns]",
           "meaning": "慈善，善意"
         },
         {
           "english": "<red>benevolent</red>",
-          "japanese": "慈悲深い，善意ある",
+          "japanese": "<red>慈悲深い，善意ある</red>",
           "pos": "形",
           "phonetic": "[bənévələnt]",
           "meaning": "慈悲深い，善意ある"
         },
         {
           "english": "<red>expertise</red> on the subject",
-          "japanese": "話題に関する専門知識",
+          "japanese": "話題に関する<red>専門知識</red>",
           "pos": "名",
           "phonetic": "[èkspərtíːz, -tíːs]",
           "meaning": "専門知識，専門的技術"
@@ -6236,119 +6236,119 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "liquid <red>assets</red>",
-          "japanese": "流動資産",
+          "japanese": "流動<red>資産</red>",
           "pos": "名",
           "phonetic": "[ǽsets]",
           "meaning": "資産，財産"
         },
         {
           "english": "trade in <red>cryptocurrency</red>",
-          "japanese": "暗号資産を取引する",
+          "japanese": "<red>暗号資産</red>を取引する",
           "pos": "名",
           "phonetic": "[kríptoukʌ̀rənsi, krìptoukə́ːrənsi]",
           "meaning": "暗号資産"
         },
         {
           "english": "<red>overtake</red> the bus",
-          "japanese": "バスを追い越す",
+          "japanese": "バス<red>を追い越す</red>",
           "pos": "他",
           "phonetic": "[òuvərtéik]",
           "meaning": "を追い越す，に勝る"
         },
         {
           "english": "social <red>mobility</red>",
-          "japanese": "社会的流動性　※階層間の移動",
+          "japanese": "社会的<red>流動性</red>　※階層間の移動",
           "pos": "名",
           "phonetic": "[moubíləti]",
           "meaning": "流動性，機動性"
         },
         {
           "english": "pay in local <red>currency</red>",
-          "japanese": "現地通貨で支払う",
+          "japanese": "現地<red>通貨</red>で支払う",
           "pos": "名",
           "phonetic": "[kə́ːrənsi]",
           "meaning": "通貨，貨幣"
         },
         {
           "english": "<red>decentralized</red> computing",
-          "japanese": "分散型コンピューティング",
+          "japanese": "<red>分散型</red>コンピューティング",
           "pos": "形",
           "phonetic": "[dìséntrəlàizd]",
           "meaning": "分散型の，非集中的な"
         },
         {
           "english": "face a <red>catastrophe</red>",
-          "japanese": "大災害に直面する",
+          "japanese": "<red>大災害</red>に直面する",
           "pos": "名",
           "phonetic": "[kətǽstrəfi]",
           "meaning": "大災害，惨禍"
         },
         {
           "english": "conclude a <red>transaction</red>",
-          "japanese": "取引を完了する",
+          "japanese": "<red>取引</red>を完了する",
           "pos": "名",
           "phonetic": "[trænsǽkʃən]",
           "meaning": "取引，やりとり"
         },
         {
           "english": "<red>verify</red> the theory",
-          "japanese": "理論の正しさを検証する",
+          "japanese": "理論の<red>正しさを検証する</red>",
           "pos": "他",
           "phonetic": "[vérəfài]",
           "meaning": "を検証する，を証明する"
         },
         {
           "english": "a <red>prominent</red> figure",
-          "japanese": "著名な人物",
+          "japanese": "<red>著名な</red>人物",
           "pos": "形",
           "phonetic": "[prάmənənt]",
           "meaning": "著名な，卓越した"
         },
         {
           "english": "a <red>safeguard</red> against error",
-          "japanese": "ミスの防止策",
+          "japanese": "ミスの<red>防止策</red>",
           "pos": "名",
           "phonetic": "[séifgɑ̀ːrd]",
           "meaning": "防護手段，安全装置"
         },
         {
           "english": "a <red>notorious</red> terrorist group",
-          "japanese": "悪名高いテロ集団",
+          "japanese": "<red>悪名高い</red>テロ集団",
           "pos": "形",
           "phonetic": "[noutɔ́ːriəs]",
           "meaning": "悪名高い，評判の悪い"
         },
         {
           "english": "<red>notoriously</red>",
-          "japanese": "悪名高く，知ってのとおり",
+          "japanese": "<red>悪名高く</red>，知ってのとおり",
           "pos": "副",
           "phonetic": "[noutɔ́ːriəsli]",
           "meaning": "悪名高く，知ってのとおり"
         },
         {
           "english": "<red>plummet</red> toward the ground",
-          "japanese": "地面めがけてまっすぐ落ちる",
+          "japanese": "地面めがけて<red>まっすぐ落ちる</red>",
           "pos": "自",
           "phonetic": "[plʌ́mət]",
           "meaning": "急落する，まっすぐ落ちる"
         },
         {
           "english": "price <red>fluctuations</red>",
-          "japanese": "物価の変動",
+          "japanese": "物価の<red>変動</red>",
           "pos": "名",
           "phonetic": "[flʌ̀ktʃuéiʃənz]",
           "meaning": "変動，動揺"
         },
         {
           "english": "<red>proliferate</red> endlessly",
-          "japanese": "果てしなく増加する",
+          "japanese": "果てしなく<red>増加する</red>",
           "pos": "自",
           "phonetic": "[prəlífərèit]",
           "meaning": "急増する，拡散する"
         },
         {
           "english": "<red>proliferation</red>",
-          "japanese": "拡散，急増",
+          "japanese": "<red>拡散，急増</red>",
           "pos": "名",
           "phonetic": "[prəlìfəréiʃən]",
           "meaning": "拡散，急増"

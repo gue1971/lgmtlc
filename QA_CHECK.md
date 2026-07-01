@@ -60,3 +60,11 @@
 - P34 sophisticated/impressive: 補足括弧をスクショどおり全角丸括弧にし，括弧内だけ赤字に修正
 - P35 exposed: スクショどおり「ふれる」全体を赤字に修正
 - P15 weaken: スクショどおり「弱まらせる」全体を赤字に修正
+
+## v46 body-page screenshot corrections
+- Rechecked Passage 1-36 body-page screenshots via Chrome-exported images and OCR candidates.
+- Corrected confirmed body text omissions only; ignored OCR-only noise.
+- P7: クライミング（壁面走行）ロボット
+- P18: オプトインして［同意の意思を示して］いる
+- P19: 20代前半を超えて（20代後半まで）生きる
+- P36: <red>分散</red>［←<red>分散化された</red>（《コンピューター用語》分散ネットワーク）］ネットワーク

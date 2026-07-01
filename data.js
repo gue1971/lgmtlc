@@ -1361,7 +1361,7 @@ window.LINGUA_DATA = {
         {
           "number": 3,
           "english": "There are many other similar examples. The adhesive <red>properties</red> of gecko feet have led to the development of reusable adhesives and climbing robots. Also, the remarkable ability of ants to <red>coordinate</red> <red>complex</red> tasks has led to <red>algorithms</red> for traffic management and <red>logistics</red>. Birds’ ability to migrate across vast distances without losing direction has also informed improvements in <red>navigation</red> systems. Time and again, humans tap into nature’s clever <red>strategies</red> and innovate on them.",
-          "translation": "他にも多くの同じような実例がある。ヤモリの足の接着力のある<red>性質</red>は，再利用可能な接着剤や，クライミングロボットの開発につながってきた。また，<red>複雑な</red>作業を<red>調整する</red>アリの驚くべき能力も，交通管理や<red>物流</red>の<red>アルゴリズム</red>につながってきた。方向を見失うことなく，とてつもない距離を渡る鳥の能力も，<red>誘導</red>システムの改善に影響を及ぼしてきた。幾度となく，人間は自然の賢い<red>戦略</red>を利用し，それに基づいて革新を行っているのだ。"
+          "translation": "他にも多くの同じような実例がある。ヤモリの足の接着力のある<red>性質</red>は，再利用可能な接着剤や，クライミング（壁面走行）ロボットの開発につながってきた。また，<red>複雑な</red>作業を<red>調整する</red>アリの驚くべき能力も，交通管理や<red>物流</red>の<red>アルゴリズム</red>につながってきた。方向を見失うことなく，とてつもない距離を渡る鳥の能力も，<red>誘導</red>システムの改善に影響を及ぼしてきた。幾度となく，人間は自然の賢い<red>戦略</red>を利用し，それに基づいて革新を行っているのだ。"
         },
         {
           "number": 4,
@@ -3282,7 +3282,7 @@ window.LINGUA_DATA = {
         {
           "number": 2,
           "english": "Despite Canada’s <red>lagging</red> donation indicators, most Canadians support organ donation. For example, 85 per cent of Ontarians support donation, although only one-third have opted-in to the current system.",
-          "translation": "カナダの臓器提供が<red>後れを取っている</red>ことが示されているにもかかわらず，カナダ人の大部分は臓器提供を支持している。例えば，オンタリオ州の人々の85パーセントは臓器提供を支持しているものの，現行の方式にオプトインして同意の意思を示しているのはわずか3分の1の人たちにすぎない。"
+          "translation": "カナダの臓器提供が<red>後れを取っている</red>ことが示されているにもかかわらず，カナダ人の大部分は臓器提供を支持している。例えば，オンタリオ州の人々の85パーセントは臓器提供を支持しているものの，現行の方式にオプトインして［同意の意思を示して］いるのはわずか3分の1の人たちにすぎない。"
         },
         {
           "number": 3,
@@ -3445,7 +3445,7 @@ window.LINGUA_DATA = {
         {
           "number": 1,
           "english": "The ability to <red>edit</red> human <red>genes</red> carries great promise in curing diseases. Researchers are investigating how gene editing can help combat complex diseases that involve <red>multiple</red> genes and often lifestyle and environmental factors. For instance, the technology could be used to <red>enhance</red> our own <red>immune</red> <red>defences</red> to attack cancer cells, or to cut the HIV <red>genome</red> from infected human cells. However, there is currently more focus on the many <red>genetic</red> diseases known to be caused by a single-gene <red>mutation</red>. Gene editing could cure many of them by <red>locating</red> and repairing an <red>alteration</red> in a single letter of DNA out of the 3.2 billion base pairs that make up the human genome. One example is Duchenne <red>muscular</red> dystrophy. It is a severe genetic <red>disorder</red> caused by a mutation in a gene that contains the instructions to make dystrophin, a protein necessary for the maintenance of <red>muscle</red> structure and function. The absence of this protein leads to debilitating <red>symptoms</red> as the muscles become progressively weaker. Patients with Duchenne muscular dystrophy rarely live beyond their early twenties. However, there is hope that gene editing can repair this mutation, thus <red>restoring</red> the gene’s capacity to instruct for dystrophin production. Although human trials have not begun and many challenges remain, successful trials in mice and in human cells in the laboratory have shown enormous potential. (continued)",
-          "translation": "ヒト<red>遺伝子</red>を<red>編集する</red>ことができることは，病気の治療に対して人々に大きな期待感を抱かせている。研究者たちは，遺伝子編集が<red>複数の</red>遺伝子及びしばしば生活様式や環境要因に関連する複雑な病気と闘うのに，どのように役立つかを調査中である。例えばこの技術は，がん細胞を攻撃するために自分自身の<red>免疫防御</red>力を<red>高め</red>たり，感染したヒト細胞からHIV（ヒト免疫不全ウイルス）<red>ゲノム</red>を切り取ったりするのに利用できる可能性がある。しかし目下のところ，単一遺伝子の<red>突然変異</red>によって引き起こされることがわかっている多くの遺伝性疾患へと，よりいっそうの注目が集まっている。遺伝子編集はそれらの疾患の多くを治すことが可能であるが，それはヒトゲノムを構成する32億の塩基対の中で，単一のDNA塩基の<red>変化</red>の位置を突き止めて修復することによって可能となる。その一例が，デュシェンヌ型筋ジストロフィーだ。これは重い遺伝性の<red>疾患</red>で，<red>筋肉</red>組織の構造や機能の維持に必要なタンパク質であるジストロフィンを作るための指示書を含む遺伝子の突然変異によって引き起こされる。このタンパク質の欠如によって，筋肉が次第に弱くなり，衰弱性の<red>症状</red>が生じるのである。デュシェンヌ型筋ジストロフィーの患者たちがその20代前半を超えて生きることはめったにない。しかし，遺伝子編集によってこの突然変異を修復することが可能であり，そうすることで遺伝子がジストロフィン生成を指示する能力を<red>回復する</red>ことができるという望みがある。人体での臨床試験は始まっていない上，多くの課題が残るが，実験室におけるマウス個体での，そしてヒトの細胞での順調な試験の結果は，非常に大きな可能性を示している。（続く）"
+          "translation": "ヒト<red>遺伝子</red>を<red>編集する</red>ことができることは，病気の治療に対して人々に大きな期待感を抱かせている。研究者たちは，遺伝子編集が<red>複数の</red>遺伝子及びしばしば生活様式や環境要因に関連する複雑な病気と闘うのに，どのように役立つかを調査中である。例えばこの技術は，がん細胞を攻撃するために自分自身の<red>免疫防御</red>力を<red>高め</red>たり，感染したヒト細胞からHIV（ヒト免疫不全ウイルス）<red>ゲノム</red>を切り取ったりするのに利用できる可能性がある。しかし目下のところ，単一遺伝子の<red>突然変異</red>によって引き起こされることがわかっている多くの遺伝性疾患へと，よりいっそうの注目が集まっている。遺伝子編集はそれらの疾患の多くを治すことが可能であるが，それはヒトゲノムを構成する32億の塩基対の中で，単一のDNA塩基の<red>変化</red>の位置を突き止めて修復することによって可能となる。その一例が，デュシェンヌ型筋ジストロフィーだ。これは重い遺伝性の<red>疾患</red>で，<red>筋肉</red>組織の構造や機能の維持に必要なタンパク質であるジストロフィンを作るための指示書を含む遺伝子の突然変異によって引き起こされる。このタンパク質の欠如によって，筋肉が次第に弱くなり，衰弱性の<red>症状</red>が生じるのである。デュシェンヌ型筋ジストロフィーの患者たちがその20代前半を超えて（20代後半まで）生きることはめったにない。しかし，遺伝子編集によってこの突然変異を修復することが可能であり，そうすることで遺伝子がジストロフィン生成を指示する能力を<red>回復する</red>ことができるという望みがある。人体での臨床試験は始まっていない上，多くの課題が残るが，実験室におけるマウス個体での，そしてヒトの細胞での順調な試験の結果は，非常に大きな可能性を示している。（続く）"
         }
       ],
       "phrases": [
@@ -6220,7 +6220,7 @@ window.LINGUA_DATA = {
         {
           "number": 2,
           "english": "Cryptocurrency relies on <red>decentralized</red> networks, where value is determined by market demand rather than government backing. This feature grants users more freedom but can lead to <red>catastrophe</red> if something goes wrong. Instead of banks, cryptocurrency <red>transactions</red> rely on blockchain technology, a system for tracking and <red>verifying</red> exchanges. These supposedly secure systems have nevertheless been the target of several high-profile hacks, including a 2016 incident in which hackers stole $60 million worth of cryptocurrency from a <red>prominent</red> blockchain, striking a major blow to user confidence.",
-          "translation": "暗号資産は<red>分散</red>ネットワークに依存するが，そこでは価値は政府の後ろ盾ではなく市場の需要によって決められる。この特徴が利用者にさらなる自由を与えるが，何か問題が起きると，<red>大惨事</red>につながりかねない。銀行の代わりに，暗号資産の<red>取引</red>は，やりとりを追跡し正しいかどうか<red>検証する</red>システムである，ブロックチェーン技術に依存している。これらの推定上は安全なシステムは，それでもいくつかの注目を浴びるハッキングの標的となってきた。それには，ハッカーたちが<red>有名な</red>ブロックチェーンから6,000万ドル相当の暗号資産を盗んだ2016年の事件が含まれており，これは利用者の信用に大きな打撃を与えた。"
+          "translation": "暗号資産は<red>分散</red>［←<red>分散化された</red>（《コンピューター用語》分散ネットワーク）］ネットワークに依存するが，そこでは価値は政府の後ろ盾ではなく市場の需要によって決められる。この特徴が利用者にさらなる自由を与えるが，何か問題が起きると，<red>大惨事</red>につながりかねない。銀行の代わりに，暗号資産の<red>取引</red>は，やりとりを追跡し正しいかどうか<red>検証する</red>システムである，ブロックチェーン技術に依存している。これらの推定上は安全なシステムは，それでもいくつかの注目を浴びるハッキングの標的となってきた。それには，ハッカーたちが<red>有名な</red>ブロックチェーンから6,000万ドル相当の暗号資産を盗んだ2016年の事件が含まれており，これは利用者の信用に大きな打撃を与えた。"
         },
         {
           "number": 3,

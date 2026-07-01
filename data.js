@@ -2788,7 +2788,7 @@ window.LINGUA_DATA = {
           "english": "cause O to <red>weaken</red>",
           "phonetic": "[wíːkən]",
           "pos": "自",
-          "japanese": "Oを<red>弱まら</red>せる",
+          "japanese": "Oを<red>弱まらせる</red>",
           "meaning": "弱まる，力を失う"
         },
         {
@@ -3465,7 +3465,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>genetic</red>",
-          "japanese": "<red>遺伝子</red>の；遺伝学的な",
+          "japanese": "<red>遺伝子の</red>；<red>遺伝学的な</red>",
           "pos": "形",
           "phonetic": "[dʒənétik]",
           "meaning": "遺伝子の；遺伝学的な"
@@ -3514,7 +3514,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "<red>locate</red> a particular gene",
-          "japanese": "特定の遺伝子の<red>場所を突き止める</red>",
+          "japanese": "特定の遺伝子<red>の場所を突き止める</red>",
           "pos": "他",
           "phonetic": "[lóukeit, -́]",
           "meaning": "の場所を特定する"
@@ -3528,7 +3528,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "severe <red>muscular</red> pain",
-          "japanese": "ひどい<red>筋肉痛</red>",
+          "japanese": "ひどい<red>筋肉</red>痛",
           "pos": "形",
           "phonetic": "[mʌ́skjulər]",
           "meaning": "筋肉の，筋肉質の"
@@ -5902,7 +5902,7 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "a <red>sophisticated</red> reader",
-          "japanese": "<red>洗練された【目の肥えた】</red>読み手",
+          "japanese": "<red>洗練された</red>（<red>目の肥えた</red>）読み手",
           "pos": "形",
           "phonetic": "[səfístəkeitid]",
           "meaning": "洗練された，見識のある，熟練した"
@@ -5965,7 +5965,7 @@ window.LINGUA_DATA = {
         },
         {
           "english": "an <red>impressive</red> speech",
-          "japanese": "<red>印象的な【見事な】</red>演説",
+          "japanese": "<red>印象的な</red>（<red>見事な</red>）演説",
           "pos": "形",
           "phonetic": "[imprésiv]",
           "meaning": "印象的な，素晴らしい"
@@ -6070,7 +6070,7 @@ window.LINGUA_DATA = {
       "phrases": [
         {
           "english": "be <red>exposed</red> to new ideas",
-          "japanese": "新しい考えに<red>ふれ</red>る",
+          "japanese": "新しい考えに<red>ふれる</red>",
           "pos": "他",
           "phonetic": "[ikspóuzd, eks-]",
           "meaning": "をさらす；をふれさせる"

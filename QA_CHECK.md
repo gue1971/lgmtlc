@@ -51,3 +51,12 @@
 - P15 cause O to weaken: Oを<red>弱まら</red>せる
 - P29 determined/distributed: 語幹「決定され」「分配され」に調整
 - P35 exposed/ingrained/intentional: 語幹・複数訳の赤字を調整
+
+## v45 Passage 19 user-verified red-range corrections
+- P19 genetic: <red>遺伝子の</red>；<red>遺伝学的な</red>
+- P19 locate: 特定の遺伝子<red>の場所を突き止める</red>
+- P19 muscular: ひどい<red>筋肉</red>痛
+- P19 locate meaning/polysemy: 語義欄はスクショどおり「の場所を特定する」を維持
+- P34 sophisticated/impressive: 補足括弧をスクショどおり全角丸括弧にし，括弧内だけ赤字に修正
+- P35 exposed: スクショどおり「ふれる」全体を赤字に修正
+- P15 weaken: スクショどおり「弱まらせる」全体を赤字に修正

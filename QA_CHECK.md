@@ -68,3 +68,8 @@
 - P18: オプトインして［同意の意思を示して］いる
 - P19: 20代前半を超えて（20代後半まで）生きる
 - P36: <red>分散</red>［←<red>分散化された</red>（《コンピューター用語》分散ネットワーク）］ネットワーク
+
+## v47 Passage 37 addition
+- Added Passage 37: The Spread of Fake News / フェイクニュースの拡散.
+- Added body text, Japanese translation, 17 phrase entries, and 4 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

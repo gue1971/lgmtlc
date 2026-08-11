@@ -230,7 +230,7 @@ window.LINGUA_DATA = {
         {
           "id": 37,
           "titleJa": "フェイクニュースの拡散",
-          "titleEn": ""
+          "titleEn": "The Spread of Fake News"
         },
         {
           "id": 38,
@@ -6375,6 +6375,181 @@ window.LINGUA_DATA = {
           "meaning": "普及（＋通貨，貨幣）",
           "example": "The term “biodiversity” has gained <red>currency</red> in recent years.",
           "translation": "「生物多様性」という言葉は近年広く使われるようになった"
+        }
+      ]
+    },
+    "37": {
+      "id": 37,
+      "chapter": 8,
+      "chapterTitle": "経済・経営・メディア",
+      "titleJa": "フェイクニュースの拡散",
+      "titleEn": "The Spread of Fake News",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The <red>availability</red> of information online and the spread of social media have radically changed our exposure to <red>disinformation</red>. “Fake news”, a phrase few had heard of before the 2016 US presidential election, has now become a catchphrase for politicians everywhere. Disinformation can take many forms, but at heart it can be <red>identified</red> by the harmful intentions of its creators to spread material they know to be false.",
+          "translation": "オンラインの情報を<red>利用できること</red>や，ソーシャルメディアの普及が，私たちの<red>偽情報</red>へのさらされ方を根本的に変えてきている。「フェイクニュース」とは，2016年のアメリカ大統領選挙以前には，ほとんど誰も聞いたことがなかった表現だが，現在ではあらゆる場所にいる政治家たちにとって，1つのキャッチフレーズとなっている。偽情報はさまざまな形を取ることがあるが，嘘だと知っている資料を広めようとする，その創作者たちの悪意によって，本質的には<red>特定され得る</red>のである。"
+        },
+        {
+          "number": 2,
+          "english": "To be sure, a limited amount of disinformation has always been with us. Even in Greek and Roman times, politicians spread false rumors hoping to gain advantages. Furthermore, <red>falsehoods</red> spread in the name of <red>commerce</red> have <red>characterized</red> much of the private sector since the Middle Ages. Before the arrival of <red>mass</red> media, harmful gossip could easily spread inside poor, rural communities, resulting in many forms of <red>injustice</red>. Nevertheless, the volume of falsehoods spread in earlier times was limited by technology.",
+          "translation": "確かに，限られた量の偽情報は常に私たちとともにあった。ギリシャ・ローマ時代においてでさえ，政治家たちは優位に立ちたいと望んで，偽の噂を拡散した。さらに，<red>商業</red>の名目で拡散された<red>嘘</red>は，中世以降，民間部門の多く<red>を特徴づけ</red>てきた。<red>マス</red>メディアが登場する前は，害のある噂話は貧しい田舎の地域社会の間で簡単に拡散でき，<red>不当行為</red>のさまざまな形につながった。それでもやはり，昔の時代に広まった嘘の量は，（当時の）テクノロジーによって制約されていた。"
+        },
+        {
+          "number": 3,
+          "english": "Certainly, the arrival of the internet has been a game-changer. Today, our willingness to believe things which are not true, or to accept ideas without due reflection has never been more <red>pronounced</red>. Much of what we see or hear digitally is brought to us by computer algorithms, which create <red>cognitive</red> bias. Instead of being exposed to a variety of ideas, we live increasingly in echo <red>chambers</red> where people are exposed to content containing similar, ever more extreme opinions. Indeed, as online disinformation videos attract an increasing number of viewers, they often become <red>viral</red>. This tends to <red>confer</red> a special kind of <red>legitimacy</red>, which is difficult to counter.",
+          "translation": "間違いなく，インターネットの到来は大変革をもたらすべきこととなっている。現在，事実ではないことを信じようとしたり，あるいは十分な考察をせずに考え方を受け入れようとしたりする我々の気持ちが，かつてこれほど<red>顕著</red>だったことはない。デジタルを通して私たちが見聞きしたものの多くは，コンピューターのアルゴリズムによって私たちに届けられるが，それが<red>認知</red>バイアスを作り出している。さまざまな考え方にさらされる代わりに，私たちはますます反響<red>室</red>（エコーチャンバー）に住むようになる。そこは人々が似たような，いっそう極端な意見を含むコンテンツにさらされる<red>空間</red>である。実際に，オンラインの偽情報動画が，ますます増加する視聴者たちを引きつけるにつれて，それらはしばしば<red>拡散する</red>。このことは特殊な<red>正当性を与える</red>傾向があり，それを抑えるのは困難なのである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "be readily <red>available</red>",
+          "japanese": "容易に<red>入手可能である</red>",
+          "pos": "形",
+          "phonetic": "[əvéiləbl]",
+          "meaning": "利用できる，入手可能の"
+        },
+        {
+          "english": "<red>availability</red>",
+          "japanese": "<red>入手可能性，利用可能性</red>",
+          "pos": "名",
+          "phonetic": "[əvèiləbíləti]",
+          "meaning": "入手可能性，利用可能性"
+        },
+        {
+          "english": "spread <red>disinformation</red>",
+          "japanese": "<red>偽情報</red>を拡散させる",
+          "pos": "名",
+          "phonetic": "[dìsinfərméiʃən]",
+          "meaning": "偽情報，虚報"
+        },
+        {
+          "english": "<red>identify</red> the news as fake",
+          "japanese": "ニュースがフェイクであると<red>確認する</red>",
+          "pos": "他",
+          "phonetic": "[aidéntəfài, idén-]",
+          "meaning": "を確認する，を特定する"
+        },
+        {
+          "english": "the truth or <red>falsehood</red> of A",
+          "japanese": "Aの真偽",
+          "pos": "名",
+          "phonetic": "[fɔ́ːlshùd]",
+          "meaning": "虚偽，うそ"
+        },
+        {
+          "english": "hinder the <red>commerce</red> of A",
+          "japanese": "Aの<red>商業活動</red>を妨げる",
+          "pos": "名",
+          "phonetic": "[kɑ́mərs, kɔ́mərs]",
+          "meaning": "商業活動，通商"
+        },
+        {
+          "english": "<red>commercial</red>",
+          "japanese": "<red>商業の</red>；<red>民間の</red>",
+          "pos": "形",
+          "phonetic": "[kəmərʃəl]",
+          "meaning": "商業の；民間の"
+        },
+        {
+          "english": "<red>characterize</red> a style",
+          "japanese": "スタイルを<red>特徴づける</red>",
+          "pos": "他",
+          "phonetic": "[kérəktəràiz, kǽr-]",
+          "meaning": "を特徴づける"
+        },
+        {
+          "english": "<red>mass</red> consumption",
+          "japanese": "<red>大量</red>消費",
+          "pos": "名",
+          "phonetic": "[mǽs]",
+          "meaning": "（一般）大衆；大量"
+        },
+        {
+          "english": "fight against <red>injustice</red>",
+          "japanese": "<red>不正</red>と戦う",
+          "pos": "名",
+          "phonetic": "[indʒʌ́stəs]",
+          "meaning": "不正"
+        },
+        {
+          "english": "a <red>pronounced</red> effect on A",
+          "japanese": "Aへの<red>顕著な</red>効果",
+          "pos": "形",
+          "phonetic": "[prənáunst, pər-]",
+          "meaning": "目立つ，顕著な"
+        },
+        {
+          "english": "<red>cognitive</red> abilities",
+          "japanese": "<red>認知</red>能力",
+          "pos": "形",
+          "phonetic": "[kɑ́gnətiv]",
+          "meaning": "認知の"
+        },
+        {
+          "english": "an echo <red>chamber</red>",
+          "japanese": "反響<red>室</red>：似た意見の人々が集まる<red>空間</red>",
+          "pos": "名",
+          "phonetic": "[tʃéimbər]",
+          "meaning": "部屋，空間；会議所"
+        },
+        {
+          "english": "go <red>viral</red>",
+          "japanese": "（ネット上で）<red>拡散する，バズる</red>",
+          "pos": "形",
+          "phonetic": "[váirəl]",
+          "meaning": "素早く拡散する"
+        },
+        {
+          "english": "<red>confer</red> an award",
+          "japanese": "賞<red>を授与する</red>",
+          "pos": "他",
+          "phonetic": "[kənfə́ːr]",
+          "meaning": "を与える，を授与する"
+        },
+        {
+          "english": "a <red>legitimate</red> reason",
+          "japanese": "<red>正当な</red>理由",
+          "pos": "形",
+          "phonetic": "[lidʒítəmət]",
+          "meaning": "正当な，合法的な"
+        },
+        {
+          "english": "<red>legitimacy</red>",
+          "japanese": "<red>正当性，合法性</red>",
+          "pos": "名",
+          "phonetic": "[lidʒítəməsi]",
+          "meaning": "正当性，合法性"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>identify</red>",
+          "pos": "他",
+          "meaning": "を…と同一視する（＋を確認する，を特定する）",
+          "example": "Children can easily <red>identify</red> themselves with superheroes.",
+          "translation": "子どもは容易に自分をスーパーヒーローと同一視できる（なりきれる）"
+        },
+        {
+          "headword": "<red>mass</red>",
+          "pos": "名",
+          "meaning": "かたまり；質量（＋（一般）大衆；大量）",
+          "example": "A glacier is an enormous <red>mass</red> of ice that moves over land.",
+          "translation": "氷河は地表を流れる巨大な氷のかたまりである"
+        },
+        {
+          "headword": "<red>mass</red>",
+          "pos": "名",
+          "meaning": "かたまり；質量（＋（一般）大衆；大量）",
+          "example": "The <red>mass</red> of an object remains the same wherever it is in the universe.",
+          "translation": "物体の質量は宇宙のどこであっても同一である"
+        },
+        {
+          "headword": "<red>viral</red>",
+          "pos": "形",
+          "meaning": "ウイルスの（＋素早く拡散する）",
+          "example": "The common cold is a <red>viral</red> disease.",
+          "translation": "風邪はウイルス性の病気です"
         }
       ]
     }

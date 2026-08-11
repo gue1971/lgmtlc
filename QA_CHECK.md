@@ -73,3 +73,8 @@
 - Added Passage 37: The Spread of Fake News / フェイクニュースの拡散.
 - Added body text, Japanese translation, 17 phrase entries, and 4 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v48 Passage 38 addition
+- Added Passage 38: Incorporating Diversity into Corporate Strategy (1) / 企業戦略にダイバーシティを取り入れること（1）.
+- Added body text, Japanese translation, 15 phrase entries, and 3 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

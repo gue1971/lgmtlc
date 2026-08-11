@@ -235,7 +235,7 @@ window.LINGUA_DATA = {
         {
           "id": 38,
           "titleJa": "企業戦略にダイバーシティを取り入れること（1）",
-          "titleEn": ""
+          "titleEn": "Incorporating Diversity into Corporate Strategy (1)"
         },
         {
           "id": 39,
@@ -6550,6 +6550,160 @@ window.LINGUA_DATA = {
           "meaning": "ウイルスの（＋素早く拡散する）",
           "example": "The common cold is a <red>viral</red> disease.",
           "translation": "風邪はウイルス性の病気です"
+        }
+      ]
+    },
+    "38": {
+      "id": 38,
+      "chapter": 8,
+      "chapterTitle": "経済・経営・メディア",
+      "titleJa": "企業戦略にダイバーシティを取り入れること（1）",
+      "titleEn": "Incorporating Diversity into Corporate Strategy (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Our latest analysis <red>reaffirms</red> the strong business case for both <red>gender</red> <red>diversity</red> and <red>ethnic</red> and cultural diversity in corporate leadership — and shows that this business case continues to <red>strengthen</red>. The most <red>diverse</red> companies are now more likely than ever to <red>outperform</red> non-diverse companies on <red>profitability</red>.",
+          "translation": "私たちの最新の分析は，企業の上層部における<red>ジェンダーの多様性</red>及び<red>民族的</red>・文化的多様性の両方に強いビジネスの実例を<red>再確認し</red>，このようなビジネスの実例が<red>強まり</red>続けていることを示している。最も<red>多様性のある</red>企業は，現在，多様性のない企業よりも，<red>収益性</red>において，以前にも増して<red>まさる</red>見込みである。"
+        },
+        {
+          "number": 2,
+          "english": "Our 2019 analysis finds that companies in the top quartile of gender diversity on <red>executive</red> teams were 25 percent more likely to experience above-average profitability than peer companies in the fourth quartile. This is up from 21 percent in 2017 and 15 percent in 2014.",
+          "translation": "2019年の私たちの分析によると，経営陣（←<red>幹部陣</red>）におけるジェンダーの多様性が上位4分の1の企業群は，下位4分の1の同業他社よりも，平均以上の収益性を経験する可能性が25パーセント高かった。これは2017年の21パーセント，また2014年の15パーセントから上昇している。"
+        },
+        {
+          "number": 3,
+          "english": "Moreover, we found that the higher the <red>representation</red>, the higher the likelihood of outperformance. Companies with more than 30 percent women on their executive teams are significantly more likely to outperform those with between 10 and 30 percent women, and these companies in turn are more likely to outperform those with fewer or no women executives. As a result, there is a <red>substantial</red> performance <red>differential</red> — 48 percent — between the most and least gender-diverse companies. (continued)",
+          "translation": "さらに，私たちは<red>代表職</red>（における多様性）が高ければ高いほど，優れた業績を挙げる可能性が高いことがわかった。経営陣に30パーセントを超える女性がいる企業群は，10パーセントから30パーセントの女性がいる企業群にまさる見込みがはるかに高く，逆にそれらの企業群は女性の役員がさらに少ないか，あるいはまったくいない企業群よりも優れている可能性が高い。結果として，最もジェンダーの多様性がある企業と最もない企業の間には，48パーセントという<red>相当な</red>業績の<red>差異</red>がある。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>reaffirm</red> a belief",
+          "japanese": "信念を<red>再確認する</red>",
+          "pos": "他",
+          "phonetic": "[rìːəfə́ːrm]",
+          "meaning": "を再確認する，を再び断言する"
+        },
+        {
+          "english": "<red>gender</red> equality",
+          "japanese": "<red>ジェンダー</red>平等",
+          "pos": "名",
+          "phonetic": "[dʒéndər]",
+          "meaning": "（社会的）性，ジェンダー"
+        },
+        {
+          "english": "biological <red>diversity</red>",
+          "japanese": "生物の<red>多様性</red>",
+          "pos": "名",
+          "phonetic": "[dəvə́ːrsəti, dai-]",
+          "meaning": "多様性"
+        },
+        {
+          "english": "<red>ethnic</red> divisions",
+          "japanese": "<red>民族の</red>対立",
+          "pos": "形",
+          "phonetic": "[éθnik]",
+          "meaning": "民族の"
+        },
+        {
+          "english": "The wind <red>strengthens</red>.",
+          "japanese": "風が<red>強まる</red>。",
+          "pos": "自",
+          "phonetic": "[stréŋkθənz]",
+          "meaning": "強くなる，強まる"
+        },
+        {
+          "english": "<red>diverse</red> backgrounds",
+          "japanese": "<red>多種多様な</red>バックグラウンド",
+          "pos": "形",
+          "phonetic": "[dəvə́ːrs, dai-, -́]",
+          "meaning": "多様な"
+        },
+        {
+          "english": "<red>diversify</red>",
+          "japanese": "<red>を多様化させる，を多角化する</red>",
+          "pos": "他",
+          "phonetic": "[dəvə́ːrsəfài, dai-]",
+          "meaning": "を多様化させる，を多角化する"
+        },
+        {
+          "english": "<red>outperform</red> the competition",
+          "japanese": "競合相手<red>をしのぐ</red>",
+          "pos": "他",
+          "phonetic": "[àutpərfɔ́ːrm]",
+          "meaning": "をしのぐ，より優秀である"
+        },
+        {
+          "english": "a <red>profitable</red> investment",
+          "japanese": "<red>利益を生む</red>投資",
+          "pos": "形",
+          "phonetic": "[prɑ́fətəbl]",
+          "meaning": "利益の出る，もうかる"
+        },
+        {
+          "english": "<red>profitability</red>",
+          "japanese": "<red>収益性，利益率</red>",
+          "pos": "名",
+          "phonetic": "[prɑ̀fətəbíləti]",
+          "meaning": "収益性，利益率"
+        },
+        {
+          "english": "the <red>executive</red> board",
+          "japanese": "<red>取締役</red>［理事］会",
+          "pos": "形",
+          "phonetic": "[igzékjətiv, egz-]",
+          "meaning": "経営の，執行権を持つ"
+        },
+        {
+          "english": "<red>represent</red> the government",
+          "japanese": "政府<red>を代表する</red>",
+          "pos": "他",
+          "phonetic": "[rèprizént]",
+          "meaning": "を代表する；を象徴する"
+        },
+        {
+          "english": "<red>representation</red>",
+          "japanese": "<red>代表（を務めること），代表職</red>",
+          "pos": "名",
+          "phonetic": "[rèprizentéiʃən]",
+          "meaning": "代表（を務めること），代表職"
+        },
+        {
+          "english": "at a <red>substantial</red> discount",
+          "japanese": "<red>大幅な</red>値引きで",
+          "pos": "形",
+          "phonetic": "[səbstǽnʃəl]",
+          "meaning": "相当な，多量の"
+        },
+        {
+          "english": "a wage <red>differential</red>",
+          "japanese": "賃金<red>差</red>",
+          "pos": "名",
+          "phonetic": "[dìfərénʃəl]",
+          "meaning": "差違，差"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>profitable</red>",
+          "pos": "形",
+          "meaning": "有意義な，実りのある（＋利益の出る，もうかる）",
+          "example": "They were satisfied with the <red>profitable</red> discussion.",
+          "translation": "彼らは有意義な議論に満足した"
+        },
+        {
+          "headword": "<red>representation</red>",
+          "pos": "名",
+          "meaning": "表現，描写（＋代表（を務めること），代表職）",
+          "example": "This image is a visual <red>representation</red> of the concept.",
+          "translation": "この画像はその概念の視覚的表現である"
+        },
+        {
+          "headword": "<red>substantial</red>",
+          "pos": "形",
+          "meaning": "実質的な，大筋における（＋相当な，多量の）",
+          "example": "We managed to reach <red>substantial</red> agreement on the matter.",
+          "translation": "我々はこの問題に関して何とか実質的な合意に達した"
         }
       ]
     }

@@ -240,7 +240,7 @@ window.LINGUA_DATA = {
         {
           "id": 39,
           "titleJa": "企業戦略にダイバーシティを取り入れること（2）",
-          "titleEn": ""
+          "titleEn": "Incorporating Diversity into Corporate Strategy (2)"
         },
         {
           "id": 40,
@@ -6704,6 +6704,120 @@ window.LINGUA_DATA = {
           "meaning": "実質的な，大筋における（＋相当な，多量の）",
           "example": "We managed to reach <red>substantial</red> agreement on the matter.",
           "translation": "我々はこの問題に関して何とか実質的な合意に達した"
+        }
+      ]
+    },
+    "39": {
+      "id": 39,
+      "chapter": 8,
+      "chapterTitle": "経済・経営・メディア",
+      "titleJa": "企業戦略にダイバーシティを取り入れること（2）",
+      "titleEn": "Incorporating Diversity into Corporate Strategy (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In the case of ethnic and cultural diversity, the findings are equally <red>compelling</red>. We found that companies in the top quartile outperformed those in the fourth by 36 percent in terms of profitability in 2019, slightly up from 33 percent in 2017 and 35 percent in 2014. And, as we have <red>previously</red> found, there continues to be a higher <red>likelihood</red> of outperformance difference with <red>ethnicity</red> than with gender.",
+          "translation": "民族と文化の多様性の場合で，調査結果は同じように<red>説得力がある</red>。私たちは，2019年の収益性の観点では，上位4分の1の企業群が，下位4分の1の企業群より36パーセント上回ったことがわかったが，これは2017年の33パーセントと2014年の35パーセントからわずかに上昇している。さらに，<red>これより前に</red>私たちが明らかにしたように，ジェンダーよりも<red>民族性</red>の多様性のほうが，優れた業績の差異がある<red>可能性</red>が継続して高い。"
+        },
+        {
+          "number": 2,
+          "english": "Despite this, progress <red>overall</red> has been slow. In the companies in our original 2014 data set, based in the United States and the United Kingdom, female representation on executive teams has risen from 15 percent in 2014 to 20 percent in 2019. Across our global data set, for which our data starts in 2017, this number has moved up just one percentage point from 14 to 15 percent in 2019 — and more than a third of companies still have no women at all on their executive teams. This lack of <red>material</red> progress is evident across all industries and in most countries. Similarly, representation of ethnic <red>minorities</red> on US and UK executive teams stood at only 13 percent in 2019, up from just 7 percent in 2014. For our global data set in 2019, this number is 14 percent, up from 12 percent in 2017. (continued)",
+          "translation": "このような結果があるとはいえ，進展は<red>全体で</red>遅々としてきた。私たちの最初の2014年のデータ群における，アメリカ合衆国とイギリスに拠点を置く企業群では，経営陣における女性の代表職（の比率）が2014年の15パーセントから2019年には20パーセントに上昇してきている。2017年に開始された，私たちの全世界のデータセットでは，この数字は14から2019年の15パーセントへとわずか1パーセントポイント上昇しただけである。さらに3分の1を上回る企業群は，依然としてその経営陣に女性がまったくいないままなのだ。この<red>重大な</red>進歩の欠如は，あらゆる産業全体で，また大部分の国々で明らかである。同様に，米国と英国の経営陣における<red>少数</red>民族の代表職（の比率）は，2019年にわずか13パーセントであり，これは2014年のたった7パーセントからの上昇である。2019年の私たちの全世界のデータセットでは，この数字は14パーセントで，2017年の12パーセントから上昇している。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "feel <red>compelled</red> to V",
+          "japanese": "V<red>せざるを得ない</red>と感じる",
+          "pos": "他",
+          "phonetic": "[kəmpéld]",
+          "meaning": "を強制する，を強いる"
+        },
+        {
+          "english": "<red>compelling</red>",
+          "japanese": "<red>注目せざるを得ない</red>；<red>圧倒的な</red>",
+          "pos": "形",
+          "phonetic": "[kəmpéliŋ]",
+          "meaning": "注目せざるを得ない；圧倒的な"
+        },
+        {
+          "english": "<red>compulsory</red>",
+          "japanese": "<red>強制的な</red>，<red>義務的な</red>",
+          "pos": "形",
+          "phonetic": "[kəmpʌ́lsəri]",
+          "meaning": "強制的な，義務的な"
+        },
+        {
+          "english": "a <red>previous</red> study",
+          "japanese": "<red>以前の</red>研究",
+          "pos": "形",
+          "phonetic": "[príːviəs]",
+          "meaning": "それ以前の，それまでの"
+        },
+        {
+          "english": "<red>previously</red>",
+          "japanese": "<red>以前に</red>，<red>従来は</red>",
+          "pos": "副",
+          "phonetic": "[príːviəsli]",
+          "meaning": "以前に，従来は"
+        },
+        {
+          "english": "the <red>likelihood</red> that SV",
+          "japanese": "SVである<red>可能性</red>",
+          "pos": "名",
+          "phonetic": "[láiklihùd]",
+          "meaning": "見込み，可能性"
+        },
+        {
+          "english": "of different <red>ethnicities</red>",
+          "japanese": "<red>民族性</red>の異なる",
+          "pos": "名",
+          "phonetic": "[eθnísətiz]",
+          "meaning": "民族性"
+        },
+        {
+          "english": "do well <red>overall</red>",
+          "japanese": "<red>全体的に</red>うまくやる",
+          "pos": "副",
+          "phonetic": "[òuvərɔ́ːl]",
+          "meaning": "全般的に，全体で"
+        },
+        {
+          "english": "<red>material</red> evidence",
+          "japanese": "<red>重要</red>証拠",
+          "pos": "形",
+          "phonetic": "[mətíəriəl]",
+          "meaning": "重要な，本質的な"
+        },
+        {
+          "english": "an ethnic <red>minority</red>",
+          "japanese": "民族的<red>少数派</red>",
+          "pos": "名",
+          "phonetic": "[mənɔ́ːrəti, mai-]",
+          "meaning": "少数派，半数以下"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>overall</red>",
+          "pos": "形",
+          "meaning": "全般的な，総合的な（＋全般的に，全体で）",
+          "example": "What is your <red>overall</red> impression of the music?",
+          "translation": "その音楽の全般的な印象はいかがですか"
+        },
+        {
+          "headword": "<red>material</red>",
+          "pos": "形",
+          "meaning": "物質的な（＋重要な，本質的な）",
+          "example": "It’s natural to seek <red>material</red> comfort.",
+          "translation": "物質的快適さを求めるのは自然なことだ"
+        },
+        {
+          "headword": "<red>minority</red>",
+          "pos": "名",
+          "meaning": "未成年（＋少数派，半数以下）",
+          "example": "You cannot sign a contract in your <red>minority</red>.",
+          "translation": "未成年の間は契約できません"
         }
       ]
     }

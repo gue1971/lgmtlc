@@ -6053,8 +6053,8 @@ window.LINGUA_DATA = {
       "paragraphs": [
         {
           "number": 1,
-          "english": "Why do we start life with rose-colored glasses?<br><br><br><br><br>Psychologists don’t know for sure why kids are so optimistic. It’s likely due in part to the positive social experiences that most children are lucky enough to have early in life.",
-          "translation": "私たちはなぜ人生をバラ色の眼鏡で始めるのだろうか<br><br><br><br><br>心理学者たちは，子どもたちがどうしてそれほど楽観的なのか，はっきりとはわからない。それは，大多数の子どもたちが人生の早い段階で幸運にも持つ，肯定的な社会経験が一因である可能性が高い。"
+          "english": "Why do we start life with rose-colored glasses?<br>Psychologists don’t know for sure why kids are so optimistic. It’s likely due in part to the positive social experiences that most children are lucky enough to have early in life.",
+          "translation": "私たちはなぜ人生をバラ色の眼鏡で始めるのだろうか<br>心理学者たちは，子どもたちがどうしてそれほど楽観的なのか，はっきりとはわからない。それは，大多数の子どもたちが人生の早い段階で幸運にも持つ，肯定的な社会経験が一因である可能性が高い。"
         },
         {
           "number": 2,

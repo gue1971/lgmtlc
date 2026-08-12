@@ -83,3 +83,7 @@
 - Added Passage 39: Incorporating Diversity into Corporate Strategy (2) / 企業戦略にダイバーシティを取り入れること（2）.
 - Added body text, Japanese translation, 10 phrase entries, and 3 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v50 Passage 35 spacing correction
+- Reduced excessive consecutive `<br>` spacing at the start of Passage 35 paragraph 1 in both English and Japanese text.
+- Updated PWA cache name to refresh cached data.js.

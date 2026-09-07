@@ -256,7 +256,7 @@ window.LINGUA_DATA = {
         {
           "id": 41,
           "titleJa": "傍観者効果と倫理観のジレンマ（1）",
-          "titleEn": ""
+          "titleEn": "Bystander Effect and the Dilemma of Ethics (1)"
         },
         {
           "id": 42,
@@ -6953,6 +6953,183 @@ window.LINGUA_DATA = {
           "meaning": "急勾配の（＋厳しい；高額な）",
           "example": "Be careful as the stairs are <red>steep</red>.",
           "translation": "階段が急なので注意してください"
+        }
+      ]
+    },
+    "41": {
+      "id": 41,
+      "chapter": 9,
+      "chapterTitle": "倫理・社会",
+      "titleJa": "傍観者効果と倫理観のジレンマ（1）",
+      "titleEn": "Bystander Effect and the Dilemma of Ethics (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Kitty Genovese’s <red>brutal</red> murder in 1964 shocked the public because many <red>reportedly</red> witnessed but chose to ignore the crime. Initial reactions <red>condemned</red> these <red>bystanders</red> for their perceived apathy and sparked debates about <red>urban</red> <red>indifference</red>. However, the seemingly unethical behavior surrounding this <red>tragedy</red> was later explained as a result of the bystander effect.",
+          "translation": "1964年のキティ・ジェノヴィーズの<red>残忍な</red>殺人は，人々に衝撃を与えた。それは，<red>報道によると</red>多くの人々が目撃したのに，その犯罪を無視することを選んだからである。当初の反応はこれらの<red>傍観者たち</red>を，知覚された無気力を理由に<red>非難する</red>ものであり，<red>都会の</red><red>無関心</red>についての議論を引き起こした。ところが，この<red>悲劇</red>を取り巻く，一見したところ非倫理的な行動は，のちに傍観者効果の結果として説明されたのである。"
+        },
+        {
+          "number": 2,
+          "english": "The bystander effect explains how individuals in a group may hesitate to help when they believe others will step in. This can happen even when help is clearly <red>warranted</red>, such as in the Genovese case. Three key factors contribute to this phenomenon. First, <red>diffusion of responsibility</red> occurs when people assume someone else will act, freeing them from personal responsibility. Second, <red>pluralistic ignorance</red> leads individuals to assume a situation isn’t serious because others fail to react, despite internal <red>disapproval</red> of what is happening. Finally, <red>evaluation apprehension</red> creates fear of being judged for <red>intervening</red>, especially if the attempt to help fails. (continued)",
+          "translation": "傍観者効果は，ある集団にいる個々人が，別の人たちが介入するだろうと考える時に，自分が手助けすることをどのようにためらう可能性があるかを説明している。これは，ジェノヴィーズ事件のような，助けるのが明らかに<red>必要である</red>場合でも起こり得る。3つの重要な要因がこの現象を引き起こしている。第一に，人々は誰か他の人が行動するだろうと思い込む場合，<red>責任の拡散</red>が起きて，個人の責任から自分を解放してしまう。第二に，起きていることに内心では<red>不賛成</red>でも，<red>多元的な無知</red>により，他の人たちが反応しないのだから状況は深刻ではないと思い込んでしまう。最後に，<red>評価不安</red>が，とりわけ助けようとする試みが失敗した場合，自分が<red>介在したこと</red>について批判されることへの恐怖心を生み出してしまう。（続く）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>brutal</red> treatment",
+          "japanese": "<red>残忍な</red>扱い",
+          "pos": "形",
+          "phonetic": "[brúːtl]",
+          "meaning": "残忍な，暴力的な"
+        },
+        {
+          "english": "have <red>reportedly</red> died",
+          "japanese": "死亡した<red>と伝えられている</red>",
+          "pos": "副",
+          "phonetic": "[ripɔ́ːrtidli, rə-]",
+          "meaning": "報道によれば，伝えられるところでは"
+        },
+        {
+          "english": "<red>condemn</red> terrorism",
+          "japanese": "テロ行為<red>を激しく非難する</red>",
+          "pos": "他",
+          "phonetic": "[kəndém]",
+          "meaning": "を強く非難する"
+        },
+        {
+          "english": "the <red>bystander</red> effect",
+          "japanese": "<red>傍観者</red>効果",
+          "pos": "名",
+          "phonetic": "[báistændər]",
+          "meaning": "傍観者，見物人"
+        },
+        {
+          "english": "<red>urban</red> population",
+          "japanese": "<red>都市</red>人口",
+          "pos": "形",
+          "phonetic": "[ə́ːrbən]",
+          "meaning": "都市の，都会の"
+        },
+        {
+          "english": "<red>indifference</red> towards art",
+          "japanese": "芸術への<red>無関心</red>",
+          "pos": "名",
+          "phonetic": "[indífərəns]",
+          "meaning": "無関心，無気力"
+        },
+        {
+          "english": "end in <red>tragedy</red>",
+          "japanese": "<red>悲劇</red>に終わる",
+          "pos": "名",
+          "phonetic": "[trǽdʒədi]",
+          "meaning": "悲劇，惨事"
+        },
+        {
+          "english": "<red>warrant</red> further study",
+          "japanese": "さらなる研究<red>を要する</red>",
+          "pos": "他",
+          "phonetic": "[wɔ́ːrənt, wɑ́ːr-]",
+          "meaning": "を必要とする，に値する"
+        },
+        {
+          "english": "<red>diffuse</red> light",
+          "japanese": "光<red>を拡散する</red>",
+          "pos": "他",
+          "phonetic": "[difjúːz]",
+          "meaning": "を拡散する，を広める"
+        },
+        {
+          "english": "<red>diffusion</red>",
+          "japanese": "<red>分散，拡散</red>",
+          "pos": "名",
+          "phonetic": "[difjúːʒən]",
+          "meaning": "分散，拡散"
+        },
+        {
+          "english": "carry heavy <red>responsibility</red>",
+          "japanese": "重大な<red>責任</red>を伴う",
+          "pos": "名",
+          "phonetic": "[rispɑ̀nsəbíləti, rə-]",
+          "meaning": "責任"
+        },
+        {
+          "english": "a <red>pluralistic</red> approach",
+          "japanese": "<red>多元的</red>アプローチ",
+          "pos": "形",
+          "phonetic": "[plùərəlístik]",
+          "meaning": "多元的な，多くの人がかかわる"
+        },
+        {
+          "english": "<red>Ignorance</red> is bliss.",
+          "japanese": "<red>無知</red>は幸福［知らぬが仏］",
+          "pos": "名",
+          "phonetic": "[ígnərəns]",
+          "meaning": "無知，知らないこと"
+        },
+        {
+          "english": "express <red>disapproval</red>",
+          "japanese": "<red>不賛成</red>の意を表明する",
+          "pos": "名",
+          "phonetic": "[dìsəprúːvəl]",
+          "meaning": "不承認，非難"
+        },
+        {
+          "english": "carry out an <red>evaluation</red>",
+          "japanese": "<red>評価</red>を実施する",
+          "pos": "名",
+          "phonetic": "[ivæ̀ljuéiʃən]",
+          "meaning": "評価"
+        },
+        {
+          "english": "have <red>apprehensions</red> about A",
+          "japanese": "Aに関する<red>心配</red>がある",
+          "pos": "名",
+          "phonetic": "[æ̀prihénʃənz]",
+          "meaning": "懸念，心配"
+        },
+        {
+          "english": "<red>apprehensive</red>",
+          "japanese": "<red>懸念して</red>，<red>恐れて</red>",
+          "pos": "形",
+          "phonetic": "[æ̀prihénsiv]",
+          "meaning": "懸念して，恐れて"
+        },
+        {
+          "english": "<red>intervene</red> in A",
+          "japanese": "Aに<red>干渉する</red>",
+          "pos": "自",
+          "phonetic": "[ìntərvíːn]",
+          "meaning": "干渉する，介入する"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>condemn</red>",
+          "pos": "他",
+          "meaning": "に有罪判決を下す（＋を強く非難する）",
+          "example": "The defendant was <red>condemned</red> to life imprisonment.",
+          "translation": "被告人は終身刑を言い渡された"
+        },
+        {
+          "headword": "<red>tragedy</red>",
+          "pos": "名",
+          "meaning": "残念な［悲しむべき］こと（＋悲劇，惨事）",
+          "example": "It’s a <red>tragedy</red> that hate speech is on the rise.",
+          "translation": "ヘイトスピーチが増えているのは残念なことだ"
+        },
+        {
+          "headword": "<red>warrant</red>",
+          "pos": "名／他",
+          "meaning": "許可証，令状；を保証する（＋を必要とする，に値する）",
+          "example": "The judge issued a <red>warrant</red> for his arrest.<br>We <red>warrant</red> our products against defects for one year.",
+          "translation": "裁判官は彼の逮捕状を出した<br>当社は，製品の欠陥に対して1年間保証します"
+        },
+        {
+          "headword": "<red>intervene</red>",
+          "pos": "自",
+          "meaning": "（会話に）割り込む（＋干渉する，介入する）",
+          "example": "“Wait a minute,” she <red>intervened</red>.",
+          "translation": "「ちょっと待って」と彼女は割って入った"
         }
       ]
     }

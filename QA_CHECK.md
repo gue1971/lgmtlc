@@ -92,3 +92,8 @@
 - Added Passage 40: Incorporating Diversity into Corporate Strategy (3) / 企業戦略にダイバーシティを取り入れること（3）.
 - Added body text, Japanese translation, 13 phrase entries, and 3 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v52 Passage 41 addition
+- Added Passage 41: Bystander Effect and the Dilemma of Ethics (1) / 傍観者効果と倫理観のジレンマ（1）.
+- Added body text, Japanese translation, 18 phrase entries, and 4 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

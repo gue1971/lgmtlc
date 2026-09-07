@@ -245,7 +245,7 @@ window.LINGUA_DATA = {
         {
           "id": 40,
           "titleJa": "企業戦略にダイバーシティを取り入れること（3）",
-          "titleEn": ""
+          "titleEn": "Incorporating Diversity into Corporate Strategy (3)"
         }
       ]
     },
@@ -6818,6 +6818,141 @@ window.LINGUA_DATA = {
           "meaning": "未成年（＋少数派，半数以下）",
           "example": "You cannot sign a contract in your <red>minority</red>.",
           "translation": "未成年の間は契約できません"
+        }
+      ]
+    },
+    "40": {
+      "id": 40,
+      "chapter": 8,
+      "chapterTitle": "経済・経営・メディア",
+      "titleJa": "企業戦略にダイバーシティを取り入れること（3）",
+      "titleEn": "Incorporating Diversity into Corporate Strategy (3)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "While overall progress on representation is slow, our research makes it clear that this in fact <red>hides</red> a widening gap between leading <red>inclusion</red> and diversity (I&D) practitioners and companies that have yet to embrace diversity. A third of the <red>firms</red> we analyzed have <red>achieved</red> real gains in top-team diversity over the five-year period. But most firms have made little progress or remained <red>static</red> and, in some, gender and cultural representation has even gone <red>backward</red>.",
+          "translation": "代表職に関して全体の進展は遅いが，私たちの研究が明らかにしているのは，実際にその遅さが，主な<red>インクルージョン</red>＆ダイバーシティ（I&D）の実践者たちと，多様性をいまだに受け入れていない企業群の間の開きつつある<red>差を隠している</red>ということだ。私たちが分析した<red>企業群</red>の3分の1は，5年の期間にわたって，経営陣の多様性において実際の向上を<red>達成してきた</red>。ところが，大部分の企業群はほとんど進展しないか，<red>変化しない</red>ままであり，さらにいくつかの企業では，ジェンダーと文化的な代表職（の比率）が<red>後退</red>さえしてしまっている。"
+        },
+        {
+          "number": 2,
+          "english": "This growing <red>polarization</red> between high and low performers is <red>reflected</red> in an increased likelihood of a performance <red>penalty</red>. In 2019, <red>fourth-quartile</red> companies for executive-team gender diversity were 19 percent more likely than companies in the other three quartiles to <red>underperform</red> on profitability. This is up from 15 percent in 2017 and nine percent in 2015. And for companies in the fourth quartile of both gender and ethnic diversity the penalty is even <red>steeper</red> in 2019: they are 27 percent more likely to underperform on profitability than all other companies in our data set. (The end)",
+          "translation": "多様性の実現度が高い企業群と低い企業群の間の，強まりつつあるこうした<red>二極化</red>は，業績における<red>不利益</red>の可能性が高まるということに<red>表れている</red>。2019年，経営陣のジェンダー多様性が下位<red>4分の1</red>の企業群は，残り4分の3の企業群と比較して，収益性が<red>低い</red>可能性が19パーセント高かった。これは，2017年の15パーセント及び2015年の9パーセントからの上昇である。またジェンダーと民族の多様性両方で下位4分の1の企業群にとって，その不利益は2019年にはさらに<red>厳しい</red>ものである。それらの企業は，私たちのデータセットにおける他のすべての企業群と比較して，収益性が低い可能性が27パーセント高いのだ。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>hide</red> an important fact",
+          "japanese": "重要な事実<red>を隠す</red>",
+          "pos": "他",
+          "phonetic": "[háid]",
+          "meaning": "を隠す"
+        },
+        {
+          "english": "<red>inclusion</red> of students with disabilities",
+          "japanese": "障碍を持つ生徒と<red>共に学ぶこと</red>",
+          "pos": "名",
+          "phonetic": "[inklúːʒən]",
+          "meaning": "包含；インクルージョン"
+        },
+        {
+          "english": "set up an IT <red>firm</red>",
+          "japanese": "IT<red>企業</red>を立ち上げる",
+          "pos": "名",
+          "phonetic": "[fə́ːrm]",
+          "meaning": "会社，法人"
+        },
+        {
+          "english": "<red>achieve</red> one’s objective",
+          "japanese": "目標<red>を達成する</red>",
+          "pos": "他",
+          "phonetic": "[ətʃíːv]",
+          "meaning": "を達成する，を成し遂げる"
+        },
+        {
+          "english": "a <red>static</red> image",
+          "japanese": "<red>静止</red>画像",
+          "pos": "形",
+          "phonetic": "[stǽtik]",
+          "meaning": "静止した；不活発な"
+        },
+        {
+          "english": "go <red>backward</red>",
+          "japanese": "<red>後退する</red>",
+          "pos": "副",
+          "phonetic": "[bǽkwərd]",
+          "meaning": "後方へ，逆向きに"
+        },
+        {
+          "english": "political <red>polarization</red>",
+          "japanese": "政治の<red>二極化</red>",
+          "pos": "名",
+          "phonetic": "[pòulərizéiʃən]",
+          "meaning": "二極化，格差の拡大"
+        },
+        {
+          "english": "<red>polarize</red>",
+          "japanese": "<red>を二極化させる</red>；<red>を偏光させる</red>",
+          "pos": "他",
+          "phonetic": "[póuləràiz]",
+          "meaning": "を二極化させる；を偏光させる"
+        },
+        {
+          "english": "<red>reflect</red> the views of A",
+          "japanese": "Aの意見<red>を反映する</red>",
+          "pos": "他",
+          "phonetic": "[riflékt, rə-]",
+          "meaning": "を反射する；を反映する"
+        },
+        {
+          "english": "a severe <red>penalty</red>",
+          "japanese": "重い<red>刑罰</red>",
+          "pos": "名",
+          "phonetic": "[pénəlti]",
+          "meaning": "刑罰，罰金"
+        },
+        {
+          "english": "the first <red>quartile</red>",
+          "japanese": "第一<red>四分位数</red>（下から25％の位置にある数）",
+          "pos": "名",
+          "phonetic": "[kwɔ́ːrtail, -tìl]",
+          "meaning": "四分位数（データを4等分したときの区切り値）"
+        },
+        {
+          "english": "<red>underperform</red> badly",
+          "japanese": "期待を大きく<red>下回る</red>",
+          "pos": "自",
+          "phonetic": "[ʌ̀ndərpərfɔ́ːrm]",
+          "meaning": "標準以下である，期待外れである"
+        },
+        {
+          "english": "a <red>steep</red> penalty",
+          "japanese": "<red>厳しい</red>罰",
+          "pos": "形",
+          "phonetic": "[stíːp]",
+          "meaning": "厳しい；高額な"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>firm</red>",
+          "pos": "形",
+          "meaning": "堅い，強固な（＋会社，法人）",
+          "example": "She took a <red>firm</red> stand against prejudice.",
+          "translation": "彼女は偏見に対して断固たる態度を取った"
+        },
+        {
+          "headword": "<red>backward</red>",
+          "pos": "形／副",
+          "meaning": "遅れている；後ろ向きに（＋後方へ，逆向きに）",
+          "example": "Our company is technologically <red>backward</red>.<br>The man slowly moved <red>backward</red>.",
+          "translation": "我が社は技術的に後れを取っている<br>男はゆっくり後ずさりした"
+        },
+        {
+          "headword": "<red>steep</red>",
+          "pos": "形",
+          "meaning": "急勾配の（＋厳しい；高額な）",
+          "example": "Be careful as the stairs are <red>steep</red>.",
+          "translation": "階段が急なので注意してください"
         }
       ]
     }

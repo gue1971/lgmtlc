@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lingua-mvp-v52';
+const CACHE_NAME = 'lingua-mvp-v53';
 const CORE_ASSETS = [
   './',
   './index.html',
@@ -30,27 +30,20 @@ self.addEventListener('activate', event => {
 
 self.addEventListener('fetch', event => {
   const req = event.request;
-
-  // 音声など外部URLは通常取得。失敗時だけキャッシュを探す。
-  if (new URL(req.url).origin !== location.origin) {
-    event.respondWith(
-      fetch(req).then(res => {
-        const copy = res.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(req, copy)).catch(() => {});
-        return res;
-      }).catch(() => caches.match(req))
-    );
-    return;
-  }
+  if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
 
   event.respondWith(
-    caches.match(req).then(cached => {
-      if (cached) return cached;
-      return fetch(req).then(res => {
+    fetch(req).then(res => {
+      if (res.ok) {
         const copy = res.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(req, copy)).catch(() => {});
-        return res;
-      });
+        event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.put(req, copy)));
+      }
+      return res;
+    }).catch(async () => {
+      const cached = await caches.match(req);
+      if (cached) return cached;
+      if (req.mode === 'navigate') return (await caches.match('./index.html')) || Response.error();
+      return Response.error();
     })
   );
 });

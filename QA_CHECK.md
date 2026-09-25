@@ -97,3 +97,9 @@
 - Added Passage 41: Bystander Effect and the Dilemma of Ethics (1) / 傍観者効果と倫理観のジレンマ（1）.
 - Added body text, Japanese translation, 18 phrase entries, and 4 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v53 Tailscale PWA support
+- Added a loopback-only static server for Tailscale Serve on HTTPS port 10000.
+- Changed same-origin PWA assets to network-first with offline cache fallback, and left external audio requests to the browser.
+- Documented setup and installation on a phone.
+- Added a macOS LaunchAgent so the local server restarts at login.

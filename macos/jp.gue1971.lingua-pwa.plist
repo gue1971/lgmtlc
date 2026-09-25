@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>jp.gue1971.lingua-pwa</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/local/bin/node</string>
+    <string>/Users/gue1971/MyWorks/教育/リンガメタリカ/lgmtlc/server.mjs</string>
+  </array>
+  <key>WorkingDirectory</key>
+  <string>/Users/gue1971/MyWorks/教育/リンガメタリカ/lgmtlc</string>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>KeepAlive</key>
+  <true/>
+  <key>ThrottleInterval</key>
+  <integer>5</integer>
+  <key>StandardOutPath</key>
+  <string>/Users/gue1971/Library/Logs/lingua-pwa.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/gue1971/Library/Logs/lingua-pwa.error.log</string>
+</dict>
+</plist>

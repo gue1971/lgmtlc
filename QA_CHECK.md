@@ -103,3 +103,8 @@
 - Changed same-origin PWA assets to network-first with offline cache fallback, and left external audio requests to the browser.
 - Documented setup and installation on a phone.
 - Added a macOS LaunchAgent so the local server restarts at login.
+
+## v54 Port-free Android install URL
+- Moved the Tailscale Serve route to HTTPS 443 at `/lingua/` and removed the port 10000 route.
+- Made `/lingua/` the manifest start URL and app identity; redirect `/lingua` to the trailing-slash URL.
+- Updated the setup instructions for Android installation.

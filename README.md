@@ -10,16 +10,16 @@ node server.mjs
 
 自動起動設定を入れ直す場合は、`macos/jp.gue1971.lingua-pwa.plist` を `~/Library/LaunchAgents/` にコピーして `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/jp.gue1971.lingua-pwa.plist` を実行する。
 
-Tailscaleの公開設定は、初回または設定を変更するときに実行する。
+Tailscaleの公開設定は、初回または設定を変更するときに実行する。既存の443番の配信に `/lingua/` を追加する。
 
 ```sh
-tailscale serve --bg --https=10000 8788
+tailscale serve --bg --https=443 --set-path=/lingua 8788
 tailscale serve status
 ```
 
-このMac miniでのURLは `https://mac-mini.tailec7e85.ts.net:10000/`。スマートフォンで開き、iPhoneではSafariの共有メニューから「ホーム画面に追加」を選ぶ。HTTPSなのでPWAとしてインストールでき、取得済みの本文・語句はオフラインでも表示できる。音声は外部サイトから取得するため、再生にはネット接続が必要。
+このMac miniでのURLは `https://mac-mini.tailec7e85.ts.net/lingua/`。末尾の `/` まで含めてスマートフォンで開く。AndroidではChromeの「アプリをインストール」、iPhoneではSafariの共有メニューから「ホーム画面に追加」を選ぶ。取得済みの本文・語句はオフラインでも表示できる。音声は外部サイトから取得するため、再生にはネット接続が必要。
 
-ローカル配信は `127.0.0.1:8788` のみに待ち受ける。Tailscale Serveの設定は他のアプリが使う443番・8443番を変更せず、10000番を使用する。Mac miniの電源が切れている間はTailscale経由で接続できない。
+ローカル配信は `127.0.0.1:8788` のみに待ち受ける。Tailscale Serveの443番にある他のアプリのパスは維持する。Mac miniの電源が切れている間はTailscale経由で接続できない。
 
 - Passage 1〜20を再確認
 - 数字表示の統一処理を全Passage共通に強化

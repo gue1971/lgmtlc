@@ -276,7 +276,7 @@ window.LINGUA_DATA = {
         {
           "id": 45,
           "titleJa": "多民族国家の民主主義（2）",
-          "titleEn": ""
+          "titleEn": "Democracy in Multinational States (2)"
         }
       ]
     },
@@ -310,7 +310,7 @@ window.LINGUA_DATA = {
           "titleEn": ""
         }
       ]
-    }
+    },
   ],
   "passages": {
     "1": {
@@ -7510,6 +7510,50 @@ window.LINGUA_DATA = {
       "polysemy": [
         {"headword":"<red>identity</red>","pos":"名","meaning":"身元，正体（＋独自性，主体性）","example":"You will be asked to show proof of <red>identity</red>.","translation":"（身分を証明するものを提示するよう求められるでしょう）"},
         {"headword":"<red>decline</red>","pos":"他","meaning":"を断る（＋低下，減少）","example":"I did not expect him to <red>decline</red> the offer.","translation":"（彼がオファーを断るとは予想していなかった）"}
+      ]
+    },
+    "45": {
+      "id": 45,
+      "chapter": 9,
+      "chapterTitle": "倫理・社会",
+      "titleJa": "多民族国家の民主主義（2）",
+      "titleEn": "Democracy in Multinational States (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "The United States will be the first Western democracy where white citizens lose their majority <red>status</red>. This <red>is projected to</red> happen in 2045, and other countries will follow. Around 2050, white citizens will become a minority in Canada and New Zealand. The shift will likely happen in the United Kingdom in 2066, and in all English-speaking countries by 2100. Far-right parties in all of these countries have issued <red>ominous</red> warnings about the end of white <red>dominance</red>, seeking to fan <red>hatred</red> by <red>emphasizing</red> the great cost — economic, social, moral — of such <red>transformation</red>.",
+          "translation": "アメリカ合衆国は，白人市民がその多数派の<red>地位</red>を失う，初めての西欧の民主主義国となるだろう。これは2045年に起こると<red>予測されており</red>，他の諸国も続くことになる。2050年頃には，白人市民はカナダとニュージーランドで少数派となるだろう。この転換は，イギリスで2066年に，また英語を話すすべての国々では2100年までに起こる可能性が高いだろう。これらすべての国々の極右政党は，白人<red>優越</red>の終焉について<red>不穏な</red>警告を発してきており，そのような<red>転換</red>に関する経済的，社会的，倫理的な多大な犠牲を<red>強調する</red>ことで，<red>憎悪</red>をあおろうとしている。"
+        },
+        {
+          "number": 2,
+          "english": "Yet that is a <red>myth</red>, the latest in a long line of <red>illusions</red> created by people who see power as a <red>zero-sum</red> proposition. Many American cities have already proven it wrong. In Birmingham and Memphis — and other cities that have transitioned from a white to a black majority — black <red>mayors</red> have been elected and won the support of white <red>voters</red>. Whites who had worried that black leadership would lead to black <red>revenge</red> and white economic decline realized that their fear had been unnecessary. Their lives continued much as before, while the lives of black residents improved. People learned that having a multiethnic party in power was not a <red>menace</red> to their well-being. A rise of black power did not mean an <red>equivalent</red> loss of white power. A new peaceful equilibrium was reached. (The end)",
+          "translation": "しかしそれは<red>作り話</red>，すなわち権力を<red>ゼロサム</red>の問題と考える人によって作り出された，これまでの数々の<red>幻想</red>における最新のものである。多くのアメリカの都市が，すでにそれが間違いであると証明してきた。バーミングハムやメンフィス，そして白人から黒人の多数派へと転換してきた他の都市で，黒人の<red>市長たち</red>が選出され，白人の<red>有権者ら</red>の支持を勝ち取った。黒人が首長になることが，黒人による<red>復讐</red>と白人経済の低下につながるだろうと懸念していた白人たちは，彼らの恐怖は必要のないものだったとわかったのだ。彼らの生活は以前と同じように続き，黒人の住民らの生活は向上した。人々は，多民族の政党が政権をとっている状態は，彼らの幸福にとっての<red>脅威</red>ではないと知ったのだ。黒人の権力が増大しても，その<red>相当分</red>だけ白人の権力が弱まるということにはならなかった。新しい平和的な均衡が達成されたのだ。（完）"
+        }
+      ],
+      "phrases": [
+        {"english":"raise the <red>status</red> of nurses","japanese":"看護師の<red>地位</red>を高める","pos":"名","phonetic":"[stéitəs, stéitəs]","meaning":"地位，身分"},
+        {"english":"<red>be projected to</red> happen","japanese":"起こると<red>予測されている</red>","pos":"Vする","phonetic":"[prədʒéktəd, prou-]","meaning":"Vすると予測される"},
+        {"english":"an <red>ominous</red> sign","japanese":"<red>不吉</red>な前兆","pos":"形","phonetic":"[ɑ́mənəs]","meaning":"不吉な，不気味な"},
+        {"english":"the <red>dominance</red> of English","japanese":"英語の<red>優勢</red>","pos":"名","phonetic":"[dɑ́mənəns]","meaning":"優越，支配"},
+        {"english":"<red>hatred</red> toward A","japanese":"Aへの<red>憎悪</red>","pos":"名","phonetic":"[héitrəd]","meaning":"憎悪，嫌悪"},
+        {"english":"<red>emphasize</red> the importance","japanese":"重要性を<red>力説する</red>","pos":"他","phonetic":"[émfəsàiz]","meaning":"を強調する，を力説する"},
+        {"english":"<red>emphasis</red>","japanese":"<red>強調</red>，<red>力点</red>","pos":"名","phonetic":"[émfəsis]","meaning":"強調，力点","example":"deserve special <red>emphasis</red>","translation":"（特別な強調に値する）"},
+        {"english":"undergo a <red>transformation</red>","japanese":"<red>変化</red>を遂げる","pos":"名","phonetic":"[træ̀nsfərméiʃən]","meaning":"変化，変容"},
+        {"english":"<red>transform</red>","japanese":"<red>を一変させる</red>，<red>を変貌させる</red>","pos":"他","phonetic":"[trænsfɔ́ːrm]","meaning":"を一変させる，を変貌させる","example":"<red>transform</red> the world","translation":"（世界を一変させる）"},
+        {"english":"the popular <red>myth</red> that SV","japanese":"SVというよくある<red>俗説</red>","pos":"名","phonetic":"[miθ]","meaning":"作り話，俗説"},
+        {"english":"give the <red>illusion</red> that SV","japanese":"SVだという<red>幻想</red>を与える","pos":"名","phonetic":"[ilúːʒən]","meaning":"幻想，錯覚"},
+        {"english":"a <red>zero-sum</red> game","japanese":"<red>ゼロサム</red>ゲーム","pos":"形","phonetic":"[zíərousʌ̀m, -səm]","meaning":"ゼロサムの"},
+        {"english":"be elected <red>mayor</red>","japanese":"<red>市長</red>に選出される","pos":"名","phonetic":"[méiər, méər]","meaning":"市長，自治体の長"},
+        {"english":"have the right to <red>vote</red>","japanese":"<red>投票する</red>権利を持つ","pos":"自","phonetic":"[vóut]","meaning":"投票する"},
+        {"english":"<red>eligible voter</red>","japanese":"<red>有権者</red>","pos":"名","phonetic":"[élədʒəbəl vóutər]","meaning":"有権者","example":"the number of <red>eligible voters</red>","translation":"（有権者の数）"},
+        {"english":"take <red>revenge</red> on A","japanese":"Aに<red>復讐</red>する","pos":"名","phonetic":"[rivéndʒ, rə-]","meaning":"復讐，報復"},
+        {"english":"the growing <red>menace</red>","japanese":"増大する<red>脅威</red>","pos":"名","phonetic":"[ménəs]","meaning":"脅威，危険なもの（人物）"},
+        {"english":"an <red>equivalent</red> amount of A","japanese":"<red>同量</red>のA","pos":"形","phonetic":"[ikwívələnt]","meaning":"同等の，同量の"}
+      ],
+      "polysemy": [
+        {"headword":"<red>status</red>","pos":"名","meaning":"情勢，状況（＋地位，身分）","example":"You cannot return to the pre-pandemic <red>status</red> quo.","translation":"（パンデミック以前の状況に戻ることはできない）"},
+        {"headword":"<red>myth</red>","pos":"名","meaning":"神話（＋作り話，俗説）","example":"Every culture has its own creation <red>myth</red>.","translation":"（あらゆる文化には創造神話がある）"},
+        {"headword":"<red>equivalent</red>","pos":"名","meaning":"相当語句，同等物（＋同等の，同量の）","example":"What is the Japanese <red>equivalent</red> of “black eye”?","translation":"（日本語でblack eyeに相当する表現は何ですか）"}
       ]
     }
   }

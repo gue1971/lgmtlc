@@ -123,3 +123,8 @@
 - Added Passage 44: Democracy in Multinational States (1) / 多民族国家の民主主義（1）.
 - Added the body paragraph and translation, 17 phrase entries, and 2 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v58 Passage 45 addition
+- Added Passage 45: Democracy in Multinational States (2) / 多民族国家の民主主義（2）.
+- Added both body paragraphs and translations, 18 phrase entries, and 3 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

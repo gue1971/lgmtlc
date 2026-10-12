@@ -261,7 +261,7 @@ window.LINGUA_DATA = {
         {
           "id": 42,
           "titleJa": "傍観者効果と倫理観のジレンマ（2）",
-          "titleEn": ""
+          "titleEn": "Bystander Effect and the Dilemma of Ethics (2)"
         },
         {
           "id": 43,
@@ -7130,6 +7130,176 @@ window.LINGUA_DATA = {
           "meaning": "（会話に）割り込む（＋干渉する，介入する）",
           "example": "“Wait a minute,” she <red>intervened</red>.",
           "translation": "「ちょっと待って」と彼女は割って入った"
+        }
+      ]
+    },
+    "42": {
+      "id": 42,
+      "chapter": 9,
+      "chapterTitle": "倫理・社会",
+      "titleJa": "傍観者効果と倫理観のジレンマ（2）",
+      "titleEn": "Bystander Effect and the Dilemma of Ethics (2)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "Yet focusing <red>solely</red> on these psychological factors <red>risks</red> <red>overlooking</red> the importance of moral courage. After all, countless <red>incidents</red> of potential <red>tragic</red> <red>inaction</red> seem to have been prevented by brave individuals who <red>inspired</red> their peers. For example, in 2017 during the <red>ferocious</red> Hurricane Harvey, community <red>volunteers</red> worked together to <red>rescue</red> endangered <red>elderly</red> residents.",
+          "translation": "しかし，これらの心理的要因<red>だけ</red>に注目してしまうと，道徳的勇気の重要性を<red>見過ごす恐れがある</red>。なにしろ，数えきれないほどの，<red>悲劇的にも誰も行動を起こさない</red>可能性があった<red>事件</red>が，その場に居合わせた人々を<red>奮い立たせた</red>勇敢な個人によって防がれてきたように思えるからだ。例えば，2017年，<red>猛烈な</red>ハリケーン・ハービーのさなかに，地域社会の<red>ボランティアたち</red>が，危険にさらされた<red>高齢の</red>住民たちを<red>救助する</red>ために一致協力した。"
+        },
+        {
+          "number": 2,
+          "english": "The cure to the bystander effect requires not academic analysis but encouragement of direct action. Practical training should include <red>assigning</red> specific tasks to <red>witnesses</red> of an <red>emergency</red>, like instructing them to <red>notify</red> the <red>authorities</red>. Only through preparation and fostering courage can society counter the bystander effect. (The end)",
+          "translation": "傍観者効果の対策には，机上の分析ではなく，直接的な行動を奨励することが必要である。実践の訓練には，<red>緊急事態</red>の<red>目撃者たち</red>に，<red>警察当局に通報する</red>ように指示するといった，特定の任務を<red>割り当てること</red>が含まれるべきである。準備することと勇気を培うことを通じてのみ，社会は傍観者効果に対抗することができるのである。（完）"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "be based <red>solely</red> on A",
+          "japanese": "A<red>のみ</red>に基づく",
+          "pos": "副",
+          "phonetic": "[sóulli]",
+          "meaning": "もっぱら，〜のみで"
+        },
+        {
+          "english": "<red>risk</red> being expelled",
+          "japanese": "追放される<red>危険を冒す</red>",
+          "pos": "他",
+          "phonetic": "[rísk]",
+          "meaning": "のリスクを冒す，…する危険性がある"
+        },
+        {
+          "english": "<red>overlook</red> a critical fact",
+          "japanese": "重大な事実を<red>見落とす</red>",
+          "pos": "他",
+          "phonetic": "[òuvərlúk]",
+          "meaning": "を見落とす，を見過ごす"
+        },
+        {
+          "english": "a curious <red>incident</red>",
+          "japanese": "興味深い<red>できごと</red>",
+          "pos": "名",
+          "phonetic": "[ínsədənt, -dənt]",
+          "meaning": "できごと，事件"
+        },
+        {
+          "english": "<red>tragic</red> consequences",
+          "japanese": "<red>悲劇的な</red>結果",
+          "pos": "形",
+          "phonetic": "[trǽdʒik]",
+          "meaning": "悲劇的な，悲しい"
+        },
+        {
+          "english": "excuse for <red>inaction</red>",
+          "japanese": "<red>不履行</red>の言い訳",
+          "pos": "名",
+          "phonetic": "[inǽkʃən]",
+          "meaning": "何もしないこと，無為"
+        },
+        {
+          "english": "<red>inspire</red> a child",
+          "japanese": "子どもを<red>奮起させる</red>",
+          "pos": "他",
+          "phonetic": "[inspáiər]",
+          "meaning": "を奮起させる，をやる気にさせる"
+        },
+        {
+          "english": "<red>inspiration</red>",
+          "japanese": "<red>ひらめき</red>，<red>着想</red>",
+          "pos": "名",
+          "phonetic": "[ìnspəréiʃən]",
+          "meaning": "ひらめき，着想"
+        },
+        {
+          "english": "a <red>ferocious</red> storm",
+          "japanese": "<red>猛烈な</red>嵐",
+          "pos": "形",
+          "phonetic": "[fəróuʃəs]",
+          "meaning": "（勢いが）猛烈な，激しい"
+        },
+        {
+          "english": "recruit <red>volunteers</red>",
+          "japanese": "<red>ボランティア</red>を募る",
+          "pos": "名",
+          "phonetic": "[vɑ̀ləntíərz]",
+          "meaning": "ボランティア，志願者"
+        },
+        {
+          "english": "<red>rescue</red> the passengers",
+          "japanese": "乗客を<red>救助する</red>",
+          "pos": "他",
+          "phonetic": "[réskjuː]",
+          "meaning": "を救助する，を助け出す"
+        },
+        {
+          "english": "an <red>elderly</red> patient",
+          "japanese": "<red>高齢の</red>患者",
+          "pos": "形",
+          "phonetic": "[éldərli]",
+          "meaning": "年配の，高齢の"
+        },
+        {
+          "english": "<red>assign</red> the job to A",
+          "japanese": "仕事をAに<red>割り当てる</red>",
+          "pos": "他",
+          "phonetic": "[əsáin]",
+          "meaning": "を割り当てる，を課す"
+        },
+        {
+          "english": "the <red>witness</red> to a robbery",
+          "japanese": "強盗事件の<red>目撃者</red>",
+          "pos": "名",
+          "phonetic": "[wítnəs]",
+          "meaning": "目撃者"
+        },
+        {
+          "english": "cope with an <red>emergency</red>",
+          "japanese": "<red>緊急事態</red>に対処する",
+          "pos": "名",
+          "phonetic": "[imərdʒənsi]",
+          "meaning": "緊急事態，非常事態"
+        },
+        {
+          "english": "<red>notify</red> the police",
+          "japanese": "警察に<red>通報する</red>",
+          "pos": "他",
+          "phonetic": "[nóutəfài]",
+          "meaning": "に知らせる，に通知する"
+        },
+        {
+          "english": "the judicial <red>authorities</red>",
+          "japanese": "司法<red>当局</red>",
+          "pos": "名",
+          "phonetic": "[ɔθɔ́ːrətiz, ə-]",
+          "meaning": "当局"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>risk</red>",
+          "pos": "他",
+          "meaning": "を危険にさらす（＋のリスクを冒す，…する危険性がある）",
+          "example": "He <red>risked</red> his political life to avoid war.",
+          "translation": "彼は戦争を回避するために自分の政治生命をかけた"
+        },
+        {
+          "headword": "<red>overlook</red>",
+          "pos": "他",
+          "meaning": "を見下ろす，を一望する（＋を見落とす，を見過ごす）",
+          "example": "The hotel <red>overlooks</red> the lake.",
+          "translation": "そのホテルは湖を一望できる"
+        },
+        {
+          "headword": "<red>inspire</red>",
+          "pos": "他",
+          "meaning": "の着想を与える（＋を奮起させる，をやる気にさせる）",
+          "example": "This story is <red>inspired</red> by a real person.",
+          "translation": "この物語は実在の人物から着想を得ている"
+        },
+        {
+          "headword": "<red>authority</red>",
+          "pos": "名",
+          "meaning": "権威（者）（＋当局，警察）",
+          "example": "The professor is an <red>authority</red> on cognitive science.",
+          "translation": "その教授は認知科学の権威だ"
         }
       ]
     }

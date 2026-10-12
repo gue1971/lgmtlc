@@ -208,3 +208,4 @@ select {
   -webkit-user-select: text;
   user-select: text;
 }
+.phrase-example{margin-top:8px;font-family:Georgia,"Times New Roman",serif;font-size:16px;line-height:1.55;color:#3d3832}.phrase-example-translation{margin-top:3px;font-size:14px;line-height:1.5;color:var(--muted)}

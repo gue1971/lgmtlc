@@ -266,7 +266,7 @@ window.LINGUA_DATA = {
         {
           "id": 43,
           "titleJa": "パンデミック下の差別と偏見",
-          "titleEn": ""
+          "titleEn": "Pandemic Discrimination and Prejudice"
         },
         {
           "id": 44,
@@ -7300,6 +7300,178 @@ window.LINGUA_DATA = {
           "meaning": "権威（者）（＋当局，警察）",
           "example": "The professor is an <red>authority</red> on cognitive science.",
           "translation": "その教授は認知科学の権威だ"
+        }
+      ]
+    },
+    "43": {
+      "id": 43,
+      "chapter": 9,
+      "chapterTitle": "倫理・社会",
+      "titleJa": "パンデミック下の差別と偏見",
+      "titleEn": "Pandemic Discrimination and Prejudice",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "There is nothing new about the tendency to look for scapegoats during pandemics. Indeed, at many points in history, <red>anxiety</red> about <red>contagious</red> disease has <red>manifested</red> itself in the form of fear mongering and <red>xenophobia</red>.",
+          "translation": "感染症の大流行中にスケープゴートを探す傾向は，今に始まったことではない。実際に，歴史の多くの時点で，<red>伝染病</red>に関する<red>不安</red>は恐怖を利用することや<red>外国人嫌い</red>の形で<red>現れて</red>きた。"
+        },
+        {
+          "number": 2,
+          "english": "Contagious disease functions not only at the <red>biological</red> level, but also at the social level, since fear about contagious diseases can clearly contribute to <red>discriminatory</red> <red>discourse</red> about foreigners. This form of <red>stigmatization</red> can have lasting effects on individuals, on minority communities and on society as a whole.",
+          "translation": "伝染病は<red>生物学的</red>段階のみならず，社会的段階においてもかかわってくる。というのは伝染病に関する恐怖が，明らかに外国人についての<red>差別的な発言</red>［←<red>会話</red>］の一因となりかねないからだ。この<red>非難</red>の形は，個々人に，少数派の社会に，そして社会全体にも，長期にわたる影響を与えることがある。"
+        },
+        {
+          "number": 3,
+          "english": "A popular video produced in April by the Japanese Red Cross explains that pandemics occur in three waves. The first wave is that of contagious disease, generally associated with “physical infection.” The second is that of worry or fear and can be said to be a “psychological infection.” The third is related to <red>prejudice</red> and <red>discrimination</red>, and can be characterized as “social infection.”",
+          "translation": "日本赤十字社によって4月に製作されたある一般向け動画は，感染症の大流行は3つの波で起こると説明している。最初の波は，伝染病の波で，一般に「身体的感染」と関連している。2つ目は心配と恐怖の波で，「心理的感染」であると言えるかもしれない。3つ目は<red>偏見</red>と<red>差別</red>に関係したもので，「社会的感染」とみなせるかもしれない。"
+        },
+        {
+          "number": 4,
+          "english": "As the video explains, there is a <red>circular</red> movement between these three types of infection, causing the disease to lead to fear which in turn leads to discrimination. In this sense fear actually contributes to the spread of the disease, since people who are <red>victims</red> of discrimination are less likely to admit that they are infected, which can make the work of diagnostics and <red>tracing</red> more difficult.",
+          "translation": "この動画が説明するように，これら3種類の感染の間には<red>循環する</red>動きがあり，病気が恐怖を引き起こし，次に恐怖が差別を引き起こす原因となっている。この意味では，恐怖が実際にこの病気がまん延する一因となっているというのも，差別の<red>犠牲者</red>である人々は，自分たちが感染していると認める可能性は低く，そのことが診断や<red>追跡</red>の仕事をさらに難しくしかねないからである。"
+        }
+      ],
+      "phrases": [
+        {
+          "english": "<red>anxiety</red> disorder",
+          "japanese": "<red>不安</red>障害",
+          "pos": "名",
+          "phonetic": "[æŋzáiəti]",
+          "meaning": "不安，心配"
+        },
+        {
+          "english": "a <red>contagious</red> disease",
+          "japanese": "<red>接触感染する</red>病気",
+          "pos": "形",
+          "phonetic": "[kəntéidʒəs]",
+          "meaning": "接触感染する"
+        },
+        {
+          "english": "<red>contagion</red>",
+          "japanese": "<red>接触感染</red>，<red>伝染</red>",
+          "pos": "名",
+          "phonetic": "[kəntéidʒən]",
+          "meaning": "接触感染，伝染",
+          "example": "emotional <red>contagion</red>",
+          "translation": "（感情の伝染（もらい泣きなど））"
+        },
+        {
+          "english": "<red>manifest</red> oneself",
+          "japanese": "<red>現れ出る</red>",
+          "pos": "他",
+          "phonetic": "[mænəfést]",
+          "meaning": "《～ oneself で》現れる，出現する"
+        },
+        {
+          "english": "combat <red>xenophobia</red>",
+          "japanese": "排外主義と戦う",
+          "pos": "名",
+          "phonetic": "[zènəfóubiə]",
+          "meaning": "外国（人）嫌い"
+        },
+        {
+          "english": "a <red>biological</red> weapon",
+          "japanese": "<red>生物</red>兵器",
+          "pos": "形",
+          "phonetic": "[bàiəlɑ́dʒikəl]",
+          "meaning": "生物の，生物学的な"
+        },
+        {
+          "english": "a <red>discriminatory</red> remark",
+          "japanese": "<red>差別的な</red>発言",
+          "pos": "形",
+          "phonetic": "[diskrímənətɔ̀ːri]",
+          "meaning": "差別的な"
+        },
+        {
+          "english": "an intellectual <red>discourse</red>",
+          "japanese": "知的な<red>対話</red>",
+          "pos": "名",
+          "phonetic": "[diskɔ́ːrs, -ə-]",
+          "meaning": "談話，対話"
+        },
+        {
+          "english": "for fear of <red>stigmatization</red>",
+          "japanese": "<red>汚名</red>を恐れて",
+          "pos": "名",
+          "phonetic": "[stìgmətəzéiʃən, -tai-]",
+          "meaning": "汚名を着せること，非難"
+        },
+        {
+          "english": "<red>stigma</red>",
+          "japanese": "<red>汚名</red>，<red>烙印</red>",
+          "pos": "名",
+          "phonetic": "[stígme]",
+          "meaning": "汚名，烙印",
+          "example": "a <red>stigma</red> attached to A",
+          "translation": "（Aにまつわる汚名）"
+        },
+        {
+          "english": "overcome <red>prejudice</red>",
+          "japanese": "<red>偏見</red>を克服する",
+          "pos": "名",
+          "phonetic": "[prédʒədəs]",
+          "meaning": "偏見，先入観"
+        },
+        {
+          "english": "be <red>discriminated</red> against",
+          "japanese": "<red>差別される</red>",
+          "pos": "自",
+          "phonetic": "[diskrímənèitid]",
+          "meaning": "差別的に扱う"
+        },
+        {
+          "english": "<red>discrimination</red>",
+          "japanese": "<red>差別</red>",
+          "pos": "名",
+          "phonetic": "[diskrìmənéiʃən]",
+          "meaning": "差別",
+          "example": "age <red>discrimination</red>",
+          "translation": "（年齢差別）"
+        },
+        {
+          "english": "the <red>circular</red> economy",
+          "japanese": "<red>循環型</red>経済",
+          "pos": "形",
+          "phonetic": "[sə́ːrkjələr]",
+          "meaning": "円形の，循環する"
+        },
+        {
+          "english": "accident <red>victims</red>",
+          "japanese": "事故の<red>被害者</red>",
+          "pos": "名",
+          "phonetic": "[víktimz]",
+          "meaning": "犠牲者"
+        },
+        {
+          "english": "contact <red>tracing</red>",
+          "japanese": "（感染症の）接触者<red>追跡</red>",
+          "pos": "名",
+          "phonetic": "[tréisiŋ]",
+          "meaning": "追跡，跡をたどること"
+        }
+      ],
+      "polysemy": [
+        {
+          "headword": "<red>manifest</red>",
+          "pos": "他／形",
+          "meaning": "を明確に示す；明白な（＋～ oneself で現れる，出現する）",
+          "example": "The chairman <red>manifested</red> his intention to resign from his position.<br>Joy was <red>manifest</red> on the child’s face.",
+          "translation": "（会長は自らの職を辞する意向を明らかにした）<br>（子どもの顔にはうれしさが明白に現れていた）"
+        },
+        {
+          "headword": "<red>biological</red>",
+          "pos": "形",
+          "meaning": "血のつながった，生みの（＋生物の，生物学的な）",
+          "example": "These orphans don’t know their <red>biological</red> mothers.",
+          "translation": "（この孤児たちは生みの親を知らない）"
+        },
+        {
+          "headword": "<red>discriminate</red>",
+          "pos": "自",
+          "meaning": "区別する，識別する（＋差別的に扱う）",
+          "example": "Babies soon learn to <red>discriminate</red> between male and female voices.",
+          "translation": "（赤ちゃんはすぐに男の声と女の声を識別できるようになる）"
         }
       ]
     }

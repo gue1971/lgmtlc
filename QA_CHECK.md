@@ -113,3 +113,8 @@
 - Added Passage 42: Bystander Effect and the Dilemma of Ethics (2) / 傍観者効果と倫理観のジレンマ（2）.
 - Added both body paragraphs and translations, 17 phrase entries, and 4 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v56 Passage 43 addition
+- Added Passage 43: Pandemic Discrimination and Prejudice / パンデミック下の差別と偏見.
+- Added all four body paragraphs and translations, 16 phrase entries, and 3 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

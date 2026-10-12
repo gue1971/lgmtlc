@@ -244,6 +244,8 @@ function renderPhrases(passage) {
         <span>${escapeHtml(phrase.phonetic || "")}</span>
       </div>
       <div class="phrase-meaning">${marked(phrase.meaning || "")}</div>
+      ${phrase.example ? `<div class="phrase-example">${marked(phrase.example)}</div>` : ""}
+      ${phrase.translation ? `<div class="phrase-example-translation">${marked(phrase.translation)}</div>` : ""}
     </li>
   `).join("")}</ul>`;
 

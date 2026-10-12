@@ -118,3 +118,8 @@
 - Added Passage 43: Pandemic Discrimination and Prejudice / パンデミック下の差別と偏見.
 - Added all four body paragraphs and translations, 16 phrase entries, and 3 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v57 Passage 44 addition
+- Added Passage 44: Democracy in Multinational States (1) / 多民族国家の民主主義（1）.
+- Added the body paragraph and translation, 17 phrase entries, and 2 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

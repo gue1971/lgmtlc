@@ -271,7 +271,7 @@ window.LINGUA_DATA = {
         {
           "id": 44,
           "titleJa": "多民族国家の民主主義（1）",
-          "titleEn": ""
+          "titleEn": "Democracy in Multinational States (1)"
         },
         {
           "id": 45,
@@ -7473,6 +7473,43 @@ window.LINGUA_DATA = {
           "example": "Babies soon learn to <red>discriminate</red> between male and female voices.",
           "translation": "（赤ちゃんはすぐに男の声と女の声を識別できるようになる）"
         }
+      ]
+    },
+    "44": {
+      "id": 44,
+      "chapter": 9,
+      "chapterTitle": "倫理・社会",
+      "titleJa": "多民族国家の民主主義（1）",
+      "titleEn": "Democracy in Multinational States (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "America at present faces a <red>monumental</red> challenge: to create a truly <red>multiethnic democracy</red>, one that can survive and thrive as global <red>migration</red> continues to shape the country’s ethnic and gender <red>identity</red>. The world has changed dramatically since the late 1700s. Democracy is no longer just for white men who own farms. It now includes women; <red>rural</red>, urban, and <red>suburban</red> families; people who were born here and people who risked their lives to come here; individuals of all ethnic groups. We need them all. Countries that try to stop <red>immigration</red> will slowly die because their populations will <red>dwindle</red>. Our democracy will have to protect the rights of small groups while also building a <red>unifying</red> national identity. We will need to show the world that a transition to multiethnic democracy can be done peacefully and with no <red>decline</red> in <red>prosperity</red>. (continued)",
+          "translation": "アメリカは現在のところ，<red>非常に重要な</red>課題に直面している。その課題とは，真に<red>多民族の民主主義</red>を作るということであり，それは，地球規模の<red>移住</red>がこの国の民族とジェンダーの<red>独自性</red>を形成し続ける中で，生き残り，繁栄することができる民主主義である。1700年代後半から，世界は劇的に変化してきた。民主主義は，もはや農場を所有する白人の男性のためだけのものではない。いまやそれに含まれるのは，女性，<red>いなかの</red>，都市の，それに<red>郊外の</red>家族たち，ここで生まれた人々やその命を危険に晒してここに来た人々，すべての民族集団の人たちだ。私たちには彼ら全員が必要である。<red>移民</red>を止めようとする国は，その人口が<red>減少していく</red>ことになるので，ゆっくりと滅びるだろう。私たちの民主主義は，<red>1つにまとまっていく</red>国民意識を築きながらも，小集団の権利を守らなければならないだろう。私たちは，多民族民主主義への移行は，平和的に，かつ繁栄が<red>衰えることなしに</red>，行われ得ることを世界に示す必要があるだろう。（続く）"
+        }
+      ],
+      "phrases": [
+        {"english":"a <red>monumental</red> discovery","japanese":"<red>大</red>発見","pos":"形","phonetic":"[mɑ̀ndʒəméntl]","meaning":"非常に重要な；巨大な"},
+        {"english":"a <red>multiethnic</red> society","japanese":"<red>多民族</red>社会","pos":"形","phonetic":"[mʌ̀ltiéθnik]","meaning":"多民族の"},
+        {"english":"fight for <red>democracy</red>","japanese":"<red>民主主義</red>を求めて戦う","pos":"名","phonetic":"[dimɑ́krəsi]","meaning":"民主主義"},
+        {"english":"the expansion of <red>migration</red>","japanese":"<red>移住</red>の拡大","pos":"名","phonetic":"[maigréiʃən]","meaning":"移動，移住"},
+        {"english":"<red>migratory</red>","japanese":"<red>移住性</red>の，<red>回遊性</red>の","pos":"形","phonetic":"[máigrətɔ̀ːri]","meaning":"移住性の，回遊性の","example":"a <red>migratory</red> bird","translation":"（渡り鳥）"},
+        {"english":"ethnic <red>identity</red>","japanese":"民族としての<red>独自性</red>","pos":"名","phonetic":"[aidéntəti]","meaning":"独自性，主体性"},
+        {"english":"in <red>rural</red> areas","japanese":"<red>田園</red>地帯で","pos":"形","phonetic":"[rúərəl]","meaning":"いなかの，農村の"},
+        {"english":"move out to the <red>suburbs</red>","japanese":"<red>郊外</red>に引っ越す","pos":"名","phonetic":"[sʌ́bərbz]","meaning":"（都市の）郊外，近郊"},
+        {"english":"<red>suburban</red>","japanese":"<red>郊外</red>にある，<red>郊外</red>で暮らす","pos":"形","phonetic":"[səbə́ːrbən]","meaning":"郊外にある，郊外で暮らす","example":"a typical <red>suburban</red> house","translation":"（典型的な郊外の家屋）"},
+        {"english":"the <red>immigration</red> policies","japanese":"<red>移民</red>政策","pos":"名","phonetic":"[ìmigréiʃən]","meaning":"移民，移住"},
+        {"english":"<red>immigrant</red>","japanese":"<red>移民</red>，<red>移住者</red>","pos":"名","phonetic":"[ímigrənt]","meaning":"移民，移住者","example":"an <red>immigrant</red> worker","translation":"（移民労働者）"},
+        {"english":"<red>dwindle</red> away to nothing","japanese":"徐々に減ってゼロになる","pos":"自","phonetic":"[dwíndl]","meaning":"徐々に減る；弱まる"},
+        {"english":"<red>unify</red> in grief","japanese":"悲しみの中で<red>1つにまとまる</red>","pos":"自","phonetic":"[júːnəfài]","meaning":"1つになる，一体化する"},
+        {"english":"<red>unification</red>","japanese":"<red>統一</red>","pos":"名","phonetic":"[jùːnəfikéiʃən]","meaning":"統一","example":"economic <red>unification</red>","translation":"（経済的統合）"},
+        {"english":"a sharp <red>decline</red> in sales","japanese":"売上の急激な<red>減少</red>","pos":"名","phonetic":"[dikláin]","meaning":"低下，減少"},
+        {"english":"bring <red>prosperity</red> to A","japanese":"Aに<red>繁栄</red>をもたらす","pos":"名","phonetic":"[prɑspérəti]","meaning":"繁栄，成功"},
+        {"english":"<red>prosperous</red>","japanese":"<red>繁栄</red>している，<red>豊か</red>な","pos":"形","phonetic":"[prɑ́spərəs]","meaning":"繁栄している，豊かな","example":"in <red>prosperous</red> times","translation":"（繁栄時に）"}
+      ],
+      "polysemy": [
+        {"headword":"<red>identity</red>","pos":"名","meaning":"身元，正体（＋独自性，主体性）","example":"You will be asked to show proof of <red>identity</red>.","translation":"（身分を証明するものを提示するよう求められるでしょう）"},
+        {"headword":"<red>decline</red>","pos":"他","meaning":"を断る（＋低下，減少）","example":"I did not expect him to <red>decline</red> the offer.","translation":"（彼がオファーを断るとは予想していなかった）"}
       ]
     }
   }

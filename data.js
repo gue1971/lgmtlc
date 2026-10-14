@@ -302,7 +302,7 @@ window.LINGUA_DATA = {
         {
           "id": 49,
           "titleJa": "昆虫食を考える（1）",
-          "titleEn": ""
+          "titleEn": "Considering entomophagy (1)"
         },
         {
           "id": 50,
@@ -7657,6 +7657,54 @@ window.LINGUA_DATA = {
       "polysemy": [
         {"headword":"<red>ripple</red>","pos":"名","meaning":"さざ波（＋波紋のように広がる，伝播する）","example":"The pebble made <red>ripples</red> in the pond.","translation":"（小石が池にさざ波を立てた）"},
         {"headword":"<red>diplomacy</red>","pos":"名","meaning":"交渉術，応対技術（＋外交（術））","example":"She showed great <red>diplomacy</red> in dealing with her client.","translation":"（彼女は顧客対応でみごとな交渉術を発揮した）"}
+      ]
+    },
+    "49": {
+      "id": 49,
+      "chapter": 10,
+      "chapterTitle": "未来志向の探究課題",
+      "titleJa": "昆虫食を考える（1）",
+      "titleEn": "Considering entomophagy (1)",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "<red>Insects</red> are a <red>nutritious</red> food source that can be produced more sustainably than <red>conventional livestock</red>. While eating insects is common in many world regions, in western cultures it is more likely met with <red>disgust</red>.",
+          "translation": "<red>昆虫</red>は，<red>栄養のある</red>食料源であり，<red>従来型の家畜</red>よりも持続的に生産され得る。昆虫を食べることは世界の多くの地域で一般的なことであるが，西洋文化においては<red>嫌悪感</red>をもって受け止められる可能性が高い。"
+        },
+        {
+          "number": 2,
+          "english": "The consumption of insects has slowly increased as the benefits become widely discussed. More than 2,000 <red>edible</red> species have been identified. But would incorporating insects into our diets really reduce the environmental <red>footprint</red> of food production, and can this be achieved? Insects are high in fat, <red>protein</red> and nutrients. This varies between species and <red>lifecycle</red> stage; however, the protein content of insects is frequently 40% to 60%. Insects also provide all of the essential <red>amino acids</red> required for human <red>nutrition</red>. Adult <red>crickets</red> are 65% protein by weight, which is higher than both beef (23%) and tofu (8%). Insects are also high in <red>minerals</red> such as <red>copper</red>, iron and magnesium. It is therefore of no surprise that insects are consumed by humans in many world regions today.",
+          "translation": "昆虫の消費は，その利点が広く議論されるようになるにつれて，ゆっくりと増加してきている。2,000を超える<red>食用</red>種が確認されてきた。しかし，昆虫を私たちの食事に取り入れることが，本当に食糧生産の環境<red>フットプリント</red>を削減することになるのだろうか，またこれは達成され得るのだろうか。昆虫は脂肪分や<red>タンパク質</red>，そして栄養素を多く含んでいる。これは種，及び<red>ライフサイクル（生活環）</red>の段階で異なるが，昆虫のタンパク質の含有量は，40%から60%であることが珍しくない。昆虫はまた，人間の<red>栄養</red>に必要とされるすべての必須<red>アミノ酸</red>を供給してくれる。成虫の<red>コオロギ</red>は，重量では65%がタンパク質で，これは牛肉（23%）と豆腐（8%）のどちらよりも高い。また，昆虫は<red>ミネラル類</red>，例えば<red>銅</red>，鉄，マグネシウムなどを多く含んでいる。したがって，今日世界の多くの地域で昆虫が人間により食されていることは，驚くにはあたらないのである。"
+        },
+        {
+          "number": 3,
+          "english": "Insects are far more efficient at converting their feed into energy than conventional livestock. Adult crickets and mealworm <red>larvae</red> need 5-10 times less feed than <red>cattle</red> to produce the same weight gain. Insects are also cold-blooded, so do not use their metabolism to heat or cool themselves, further reducing energy and food use. (continued)",
+          "translation": "昆虫は従来型の家畜類と比較して，そのエサをエネルギーに転換するということについて，はるかに効率的である。コオロギの成虫とミールワームの<red>幼虫</red>は，同じ体重の増加を生み出すために，<red>畜牛</red>の5〜10分の1のエサしか必要としない。昆虫はその上，変温のため，体を温めたり冷やしたりするための代謝を使わず，これがさらにエネルギーや食料の消費を低減している。（続く）"
+        }
+      ],
+      "phrases": [
+        {"english":"beneficial <red>insects</red>","japanese":"益<red>虫</red>","pos":"名","phonetic":"[ínsekts]","meaning":"昆虫"},
+        {"english":"<red>conventional</red> medicine","japanese":"<red>従来の</red>（西洋医学による）医療","pos":"形","phonetic":"[kənvénʃənəl]","meaning":"従来の，伝統的な"},
+        {"english":"a <red>livestock</red> farm","japanese":"<red>家畜</red>農場","pos":"名","phonetic":"[láivstɑ̀k]","meaning":"家畜"},
+        {"english":"an expression of <red>disgust</red>","japanese":"<red>嫌悪</red>の表情（表れ）","pos":"名","phonetic":"[disgʌ́st, diz-]","meaning":"嫌悪，不快感"},
+        {"english":"<red>disgusting</red>","japanese":"<red>気持ち悪い</red>；<red>許しがたい</red>","pos":"形","phonetic":"[disgʌ́stiŋ, diz-]","meaning":"気持ち悪い；許しがたい","example":"a <red>disgusting</red> scene","translation":"（気分の悪くなる光景）"},
+        {"english":"an <red>edible</red> flower","japanese":"<red>食用</red>花","pos":"形","phonetic":"[édəbl]","meaning":"食べられる，食用になる"},
+        {"english":"environmental <red>footprint</red>","japanese":"環境<red>フットプリント</red>","pos":"名","phonetic":"[fútprìnt]","meaning":"足跡"},
+        {"english":"be rich in <red>protein</red>","japanese":"<red>タンパク質</red>を豊富に含む","pos":"名","phonetic":"[próutiːn, -tiən]","meaning":"タンパク質"},
+        {"english":"product <red>lifecycle</red>","japanese":"製品<red>ライフサイクル</red>","pos":"名","phonetic":"[láifsàikl]","meaning":"ライフサイクル，生涯（成長）過程"},
+        {"english":"amino <red>acids</red>","japanese":"アミノ<red>酸</red>","pos":"名","phonetic":"[ǽsɪdz]","meaning":"酸"},
+        {"english":"inadequate <red>nutrition</red>","japanese":"<red>栄養</red>不足","pos":"名","phonetic":"[n(j)uːtríʃən]","meaning":"栄養（成分）"},
+        {"english":"<red>nutritious</red>","japanese":"<red>栄養価の高い</red>","pos":"形","phonetic":"[n(j)uːtríʃəs]","meaning":"栄養価の高い","example":"a <red>nutritious</red> diet","translation":"（栄養のある食事）"},
+        {"english":"farm <red>crickets</red> for food","japanese":"食用に<red>コオロギ</red>を養殖する","pos":"名","phonetic":"[kríkəts]","meaning":"コオロギ"},
+        {"english":"essential <red>minerals</red>","japanese":"必須<red>ミネラル</red>","pos":"名","phonetic":"[mínərəlz]","meaning":"ミネラル，無機物；鉱物"},
+        {"english":"a <red>copper</red> mine","japanese":"<red>銅</red>（鉱）山","pos":"名","phonetic":"[kɑ́pər]","meaning":"銅"},
+        {"english":"an insect <red>larva</red>","japanese":"昆虫の<red>幼虫</red>","pos":"名","phonetic":"[lɑ́rvə]","meaning":"幼虫，幼生"},
+        {"english":"a herd of <red>cattle</red>","japanese":"<red>牛</red>の群れ","pos":"名","phonetic":"[kǽtl]","meaning":"《集合的に》牛，畜牛"}
+      ],
+      "polysemy": [
+        {"headword":"<red>conventional</red>","pos":"形","meaning":"核兵器ではない，通常の（＋従来の，伝統的な）","example":"Conventional weapons include cluster bombs and landmines.","translation":"（通常兵器にはクラスター爆弾や地雷が含まれる）"},
+        {"headword":"<red>footprint</red>","pos":"名","meaning":"設置面積（＋足跡）","example":"We have replaced the photocopier with one that has a smaller <red>footprint</red>.","translation":"（コピー機を設置面積の小さい機種に買い換えた）"},
+        {"headword":"<red>cricket</red>","pos":"名","meaning":"フェアプレー（＋コオロギ）※同音異義語","example":"That’s not <red>cricket</red>.","translation":"（それはフェアではない）"}
       ]
     }
   }

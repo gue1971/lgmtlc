@@ -138,3 +138,8 @@
 - Added Passage 48: Navigating a World of Geopolitical Risks / 地政学リスクの世界の舵を取る.
 - Added all four body paragraphs and translations, 20 phrase entries, and 2 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v61 Passage 49 addition
+- Added Passage 49: Considering entomophagy (1) / 昆虫食を考える（1）.
+- Added all three available body paragraphs and translations, 17 phrase entries, and 3 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

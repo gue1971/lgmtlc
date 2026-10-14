@@ -133,3 +133,8 @@
 - Added Passage 47: Should Governments Intervene in Birthrates? / 政府は出生率に介入するべきか？.
 - Added all three body paragraphs and translations, 17 phrase entries, and 3 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v60 Passage 48 addition
+- Added Passage 48: Navigating a World of Geopolitical Risks / 地政学リスクの世界の舵を取る.
+- Added all four body paragraphs and translations, 20 phrase entries, and 2 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.

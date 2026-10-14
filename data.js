@@ -297,7 +297,7 @@ window.LINGUA_DATA = {
         {
           "id": 48,
           "titleJa": "地政学リスクの世界の舵を取る",
-          "titleEn": ""
+          "titleEn": "Navigating a World of Geopolitical Risks"
         },
         {
           "id": 49,
@@ -7602,6 +7602,61 @@ window.LINGUA_DATA = {
         {"headword":"<red>pour</red>","pos":"他","meaning":"を注ぐ（＋を投入する，を提供する）","example":"He <red>poured</red> coffee for the guest.","translation":"（彼は客にコーヒーを注いだ）"},
         {"headword":"<red>expand</red>","pos":"自","meaning":"説明を加える，詳述する（＋拡大する；膨張する）","example":"I will <red>expand</red> on this idea later.","translation":"（この考えについては後ほど詳述します）"},
         {"headword":"<red>seize</red>","pos":"他","meaning":"《感情が》襲う（＋を捕まえる，をつかむ）","example":"He was suddenly <red>seized</red> with terror.","translation":"（彼は不意に恐怖に襲われた）"}
+      ]
+    },
+    "48": {
+      "id": 48,
+      "chapter": 10,
+      "chapterTitle": "未来志向の探究課題",
+      "titleJa": "地政学リスクの世界の舵を取る",
+      "titleEn": "Navigating a World of Geopolitical Risks",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "In today’s world of interconnectivity, events in one country can quickly <red>ripple</red> across the globe. From major natural disasters to minor economic shifts, any change to the <red>precarious</red> balance of our globalized world can impact everything from food prices to the energy supply. For all the benefits of a connected world, we must recognize the <red>vulnerabilities</red> of nations to global <red>geopolitical</red> risks.",
+          "translation": "今日の互いに繋がり合う世界では，一国のできごとは世界中にすぐ<red>波紋のように広がり</red>かねない。大規模な自然災害からちょっとした経済の変化まで，私たちの国際化した世界の<red>不安定な</red>均衡に対するどんな変化も，食品価格からエネルギー供給まで，何もかもに影響を与える可能性がある。繋がった世界の恩恵はいろいろとあるが，私たちは世界的な<red>地政学的な</red>リスクに対する，国々の<red>脆弱性</red>を認識しなければならないのである。"
+        },
+        {
+          "number": 2,
+          "english": "Consider the energy sector as an example. Dependence on oil-producing nations makes global markets <red>susceptible</red> to political <red>instability</red> in those regions. Similarly, <red>disruptions</red> in food production can lead to <red>soaring</red> prices that affect both producers and consumers on opposite sides of the planet. Even elections in major countries can <red>reconfigure</red> international economic <red>alliances</red> and send shockwaves through global markets.",
+          "translation": "例として，エネルギー部門を考えてみよう。石油を生産する国々へ依存することは，世界市場がそのような地域における政情<red>不安</red>の<red>影響を受けやすく</red>してしまう。同じように，食糧生産の<red>混乱</red>は，地球の反対側にいる生産者と消費者のどちらにも影響を与える価格<red>高騰</red>へとつながりかねない。主要国における選挙でさえ，国際的な経済<red>同盟</red>を<red>再構成</red>したり，世界市場に衝撃を与えたりすることがある。"
+        },
+        {
+          "number": 3,
+          "english": "Several countries are working on innovative solutions to these challenges. Clean energy, such as hydrogen produced using renewable resources, is one attempt to reduce dependence on foreign energy resources like oil while simultaneously supporting global <red>sustainability</red> goals. Similarly, technological <red>innovations</red> in agriculture aim to <red>localize</red> food production, lessening reliance on global supply chains. Even <red>grassroots</red> efforts can make a difference, such as the Farm-to-Table Movement that aims to increase local food consumption rates.",
+          "translation": "いくつかの国々は，これらの課題への革新的な解決策に取り組みつつある。再生可能な資源を利用して生成される水素などのクリーンエネルギーは，石油のような外国のエネルギー資源への依存を軽減し，同時に世界規模の<red>持続可能性</red>目標を支持する1つの試みである。同様に，農業における技術的<red>革新</red>は，食糧生産を<red>現地化する</red>ことをねらいとし，国際的な供給網への依存を和らげている。<red>草の根</red>の取り組みも，状況を改善する可能性がある。例えば，その土地の食べものの消費率を増加させることを目標とする「農場から食卓へ運動」などのように。"
+        },
+        {
+          "number": 4,
+          "english": "There is no single solution to the problems of a complicated world. However, the path to a stable global future will require a combination of <red>diplomacy</red>, innovation, and shared responsibility. We must continue our best effort to seek meaningful solutions while respecting the delicate balance of power.",
+          "translation": "複雑な世界の諸問題には，単一の解決策はない。しかし，安定した世界の未来への道のりには，<red>外交</red>，革新，そして共同責任の組み合わせが必要になるだろう。私たちは，微妙な勢力均衡を尊重しつつ，有意義な解決策を探し求める最大限の努力を続けなければならない。"
+        }
+      ],
+      "phrases": [
+        {"english":"<red>ripple</red> across the economy","japanese":"経済に<red>波及する</red>","pos":"自","phonetic":"[rípl]","meaning":"波紋のように広がる，伝播する"},
+        {"english":"in a <red>precarious</red> position","japanese":"<red>不安定な</red>立場で","pos":"形","phonetic":"[prikέəriəs, pro-]","meaning":"不安定な，崩れやすい"},
+        {"english":"in a <red>vulnerable</red> position","japanese":"<red>攻撃されやすい</red>位置に","pos":"形","phonetic":"[vʌ́lnərəbl, vʌ́lnər-]","meaning":"傷つきやすい，攻撃を受けやすい"},
+        {"english":"<red>vulnerability</red>","japanese":"<red>脆弱性</red>","pos":"名","phonetic":"[vʌ̀lnərəbíləti, vʌ̀lnər-]","meaning":"脆弱性","example":"system <red>vulnerability</red>","translation":"（システムの脆弱性）"},
+        {"english":"Middle Eastern <red>geopolitics</red>","japanese":"中東の<red>地政学</red>","pos":"名","phonetic":"[dʒìːoupɑ́lətiks]","meaning":"地政学"},
+        {"english":"<red>geopolitical</red>","japanese":"<red>地政学</red>の，<red>地政学的</red>な","pos":"形","phonetic":"[dʒìːoupəlítikl]","meaning":"地政学の，地政学的な","example":"a <red>geopolitical</red> risk","translation":"（地政学的リスク）"},
+        {"english":"be <red>susceptible</red> to scratches","japanese":"ひっかき傷が<red>つきやすい</red>","pos":"形","phonetic":"[səsέptəbl]","meaning":"影響を受けやすい，敏感な"},
+        {"english":"cause political <red>instability</red>","japanese":"政治の<red>不安定性</red>を引き起こす","pos":"名","phonetic":"[ìnstəbíləti]","meaning":"不安定性，不安"},
+        {"english":"<red>disrupt</red> the balance of A","japanese":"Aのバランスを<red>乱す</red>","pos":"他","phonetic":"[disrʌ́pt]","meaning":"を混乱させる，を中断させる"},
+        {"english":"<red>disruption</red>","japanese":"<red>混乱</red>，<red>中断</red>","pos":"名","phonetic":"[disrʌ́pʃən]","meaning":"混乱，中断","example":"a <red>disruption</red> in the schedule","translation":"（スケジュールの乱れ）"},
+        {"english":"<red>soaring</red> prices","japanese":"<red>急騰する</red>価格","pos":"形","phonetic":"[sɔ́ːriŋ]","meaning":"急上昇する，右肩上がりの"},
+        {"english":"<red>reconfigure</red> the system","japanese":"システムを<red>再構成する</red>","pos":"他","phonetic":"[rikənfígjər]","meaning":"を再構成する，を改編する"},
+        {"english":"a military <red>alliance</red>","japanese":"軍事<red>同盟</red>","pos":"名","phonetic":"[əláiəns]","meaning":"同盟（関係）"},
+        {"english":"<red>ally</red>","japanese":"<red>同盟国</red>；<red>協力者</red>","pos":"名","phonetic":"[ǽlai, əlái]","meaning":"同盟国；協力者","example":"the US <red>allies</red>","translation":"（アメリカの同盟国）"},
+        {"english":"<red>sustainability</red> of resources","japanese":"資源の<red>持続可能性</red>","pos":"名","phonetic":"[səstèinəbíləti]","meaning":"持続可能性"},
+        {"english":"technological <red>innovation</red>","japanese":"テクノロジーの<red>革新</red>","pos":"名","phonetic":"[ìnəvéiʃən]","meaning":"革新，新手法"},
+        {"english":"<red>localize</red> the production of A","japanese":"Aの生産を<red>現地で行う</red>","pos":"他","phonetic":"[lóukəlàiz]","meaning":"をある地域に限定する，を局地化する"},
+        {"english":"at the <red>grassroots</red> level","japanese":"<red>草の根</red>のレベルで","pos":"形","phonetic":"[grǽsrùːts]","meaning":"草の根の，一般大衆の"},
+        {"english":"through <red>diplomacy</red>","japanese":"<red>外交</red>を通じて","pos":"名","phonetic":"[diplóuməsi]","meaning":"外交（術）"},
+        {"english":"<red>diplomatic</red>","japanese":"<red>外交上</red>の；<red>如才ない</red>","pos":"形","phonetic":"[dìpləmǽtik]","meaning":"外交上の；如才ない","example":"a <red>diplomatic</red> solution","translation":"（外交上の解決）"}
+      ],
+      "polysemy": [
+        {"headword":"<red>ripple</red>","pos":"名","meaning":"さざ波（＋波紋のように広がる，伝播する）","example":"The pebble made <red>ripples</red> in the pond.","translation":"（小石が池にさざ波を立てた）"},
+        {"headword":"<red>diplomacy</red>","pos":"名","meaning":"交渉術，応対技術（＋外交（術））","example":"She showed great <red>diplomacy</red> in dealing with her client.","translation":"（彼女は顧客対応でみごとな交渉術を発揮した）"}
       ]
     }
   }

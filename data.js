@@ -292,7 +292,7 @@ window.LINGUA_DATA = {
         {
           "id": 47,
           "titleJa": "政府は出生率に介入するべきか？",
-          "titleEn": ""
+          "titleEn": "Should Governments Intervene in Birthrates?"
         },
         {
           "id": 48,
@@ -7554,6 +7554,54 @@ window.LINGUA_DATA = {
         {"headword":"<red>status</red>","pos":"名","meaning":"情勢，状況（＋地位，身分）","example":"You cannot return to the pre-pandemic <red>status</red> quo.","translation":"（パンデミック以前の状況に戻ることはできない）"},
         {"headword":"<red>myth</red>","pos":"名","meaning":"神話（＋作り話，俗説）","example":"Every culture has its own creation <red>myth</red>.","translation":"（あらゆる文化には創造神話がある）"},
         {"headword":"<red>equivalent</red>","pos":"名","meaning":"相当語句，同等物（＋同等の，同量の）","example":"What is the Japanese <red>equivalent</red> of “black eye”?","translation":"（日本語でblack eyeに相当する表現は何ですか）"}
+      ]
+    },
+    "47": {
+      "id": 47,
+      "chapter": 10,
+      "chapterTitle": "未来志向の探究課題",
+      "titleJa": "政府は出生率に介入するべきか？",
+      "titleEn": "Should Governments Intervene in Birthrates?",
+      "paragraphs": [
+        {
+          "number": 1,
+          "english": "When society faces major problems, the government is often expected to come to the rescue, and falling birthrates are no <red>exception</red>. While government intervention to increase population may seem <red>logical</red> at first glance, many question the necessity and ability of the government to tackle this <red>massive</red> challenge.",
+          "translation": "社会が大きな問題に直面する場合，政府はよく救済を期待されるが，出生率の低下も<red>例外</red>ではない。人口を増加させるための政府の介入は，一見したところ<red>筋が通っている</red>ように思えるかもしれないが，多くの人々が，この<red>非常に大きな</red>課題に取り組むための政府の必要性や能力に疑問を抱いている。"
+        },
+        {
+          "number": 2,
+          "english": "Singapore is one country often cited for its bold policies to encourage <red>childbirth</red>. The government tried every conceivable financial approach: significant tax breaks, generous baby bonuses, extended <red>maternity</red> leave, and even housing initiatives — all to make raising children easier and thus more popular. Yet despite these measures, Singapore’s <red>fertility</red> rate continues to fall short of the <red>replacement</red> rates required to keep its population numbers stable. Singapore is not alone either: many nations <red>grappling</red> with declining birthrates have implemented natalist policies, with <red>underwhelming</red> results. This raises the question of whether it is not pocketbooks but social attitudes and cultural trends that are the real cause behind the decline.",
+          "translation": "シンガポールは，<red>出産</red>を奨励するその大胆な政策でよく引用される国の1つである。同国政府はあらゆる考え得る財政的な取り組みを試した。それは，大規模な優遇税制措置，気前のよいベビーボーナス，長期の<red>出産休暇</red>，そして住宅の新政策までも，すべてが子育てをしやすくし，その結果もっと人気のあるものにするためである。ところがこれらの対策を行っても，シンガポールの<red>出生率</red>は，その人口数を継続して安定的にするために求められる<red>置換率</red>に届かない状態であり続けている。シンガポールだけではない。低下する出生率に<red>取り組んでいる</red>多くの国々が，人口増加主義的政策を実施してきたが，<red>期待外れの</red>結果に終わっている。このことが，お金の問題ではなく社会的態度や文化的な動向が，出生率低下の裏にある本当の原因となっているのではないかという疑問を提起している。"
+        },
+        {
+          "number": 3,
+          "english": "Instead of <red>pouring</red> resources into costly policies with <red>meager</red> results, it’s time to <red>reconsider</red> the value of increasing population as a societal goal. Some suggest that declining birthrates could bring benefits, such as easing the strain on Earth’s resources. Moreover, labor <red>shortages</red> in an aging society could lead to new technologies and work structures that prioritize quality of life over <red>relentless</red> economic <red>expansion</red>. Instead of viewing fewer births as a crisis, we should <red>seize</red> this opportunity to build a more sustainable and balanced future for humankind.",
+          "translation": "<red>わずかばかりの</red>結果しか伴わない費用のかかる政策に資源を<red>つぎ込む</red>代わりに，社会的な目標として，人口を増やすということの価値を<red>考え直す</red>時なのである。低下する出生率が，地球の資源に対する負担を取り除くなど，恩恵をもたらすかもしれないと言う人もいる。さらに，高齢化社会における労働力<red>不足</red>が，<red>容赦なく続く</red>経済の<red>拡大</red>よりも，生活の質を優先させるための新たな技術や労働の構造に結びつく可能性がある。出生数が少なくなることを危機として捉えるのではなく，私たちは人類にとっていっそう持続可能な，そして釣り合いの取れた未来を築くために，この機会を<red>つかみ取る</red>べきなのである。"
+        }
+      ],
+      "phrases": [
+        {"english":"without <red>exception</red>","japanese":"<red>例外</red>なく","pos":"名","phonetic":"[iksépʃən, ek-, ek-]","meaning":"例外"},
+        {"english":"a <red>logical</red> consequence","japanese":"<red>論理的</red>帰結","pos":"形","phonetic":"[lɑ́dʒikəl]","meaning":"論理的な"},
+        {"english":"on a <red>massive</red> scale","japanese":"<red>巨大な</red>規模で","pos":"形","phonetic":"[mǽsiv]","meaning":"巨大な，膨大な"},
+        {"english":"natural <red>childbirth</red>","japanese":"自然<red>分娩</red>","pos":"名","phonetic":"[tʃáildbərθ]","meaning":"出産，分娩"},
+        {"english":"take <red>maternity</red> leave","japanese":"<red>出産</red>休暇を取る","pos":"名","phonetic":"[mətə́ːrnəti]","meaning":"母性，（形容詞的に）妊産婦用の"},
+        {"english":"<red>replacement</red>-level fertility","japanese":"人口<red>置換</red>水準","pos":"名","phonetic":"[ripléismənt, rə-]","meaning":"置換，置き換え"},
+        {"english":"<red>grapple</red> with the problem","japanese":"問題に<red>取り組む</red>","pos":"自","phonetic":"[grǽpl]","meaning":"取り組む，格闘する"},
+        {"english":"an <red>underwhelming</red> result","japanese":"<red>期待外れ</red>の結果","pos":"形","phonetic":"[ʌ̀ndərwélmiŋ]","meaning":"期待外れの，振るわない"},
+        {"english":"<red>pour</red> lots of money into A","japanese":"Aに大金を<red>投入する</red>","pos":"他","phonetic":"[pɔ́ːr]","meaning":"を投入する，を提供する"},
+        {"english":"<red>meager</red> resources","japanese":"<red>わずかな</red>資源","pos":"形","phonetic":"[míːgər]","meaning":"不十分な，わずかな"},
+        {"english":"<red>reconsider</red> the decision","japanese":"決定を<red>再検討する</red>","pos":"他","phonetic":"[rikənsáidər]","meaning":"を再考する，を再検討する"},
+        {"english":"a labor <red>shortage</red>","japanese":"労働力<red>不足</red>","pos":"名","phonetic":"[ʃɔ́ːrtidʒ]","meaning":"不足"},
+        {"english":"the <red>relentless</red> pursuit of A","japanese":"Aの<red>絶え間ない</red>追求","pos":"形","phonetic":"[riléntləs]","meaning":"絶え間ない，容赦なく続く"},
+        {"english":"<red>expand</red> at the rate of A","japanese":"Aの割合で<red>拡大する</red>","pos":"自","phonetic":"[ikspǽnd, eks-]","meaning":"拡大する；膨張する"},
+        {"english":"<red>expansion</red>","japanese":"<red>拡大</red>，<red>拡張</red>","pos":"名","phonetic":"[ikspǽnʃən, eks-]","meaning":"拡大，拡張","example":"the rapid <red>expansion</red> of cities","translation":"（都市の急速な拡大）"},
+        {"english":"<red>seize</red> the opportunity","japanese":"チャンスを<red>つかむ</red>","pos":"他","phonetic":"[síːz]","meaning":"を捕まえる，をつかむ"},
+        {"english":"<red>seizure</red>","japanese":"<red>没収</red>，<red>押収</red>；<red>発作</red>","pos":"名","phonetic":"[síːʒər]","meaning":"没収，押収；発作","example":"the <red>seizure</red> of drugs","translation":"（麻薬の押収）"}
+      ],
+      "polysemy": [
+        {"headword":"<red>pour</red>","pos":"他","meaning":"を注ぐ（＋を投入する，を提供する）","example":"He <red>poured</red> coffee for the guest.","translation":"（彼は客にコーヒーを注いだ）"},
+        {"headword":"<red>expand</red>","pos":"自","meaning":"説明を加える，詳述する（＋拡大する；膨張する）","example":"I will <red>expand</red> on this idea later.","translation":"（この考えについては後ほど詳述します）"},
+        {"headword":"<red>seize</red>","pos":"他","meaning":"《感情が》襲う（＋を捕まえる，をつかむ）","example":"He was suddenly <red>seized</red> with terror.","translation":"（彼は不意に恐怖に襲われた）"}
       ]
     }
   }

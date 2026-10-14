@@ -128,3 +128,8 @@
 - Added Passage 45: Democracy in Multinational States (2) / 多民族国家の民主主義（2）.
 - Added both body paragraphs and translations, 18 phrase entries, and 3 polysemy entries from the provided screenshots.
 - Updated PWA cache name to refresh cached data.js.
+
+## v59 Passage 47 addition
+- Added Passage 47: Should Governments Intervene in Birthrates? / 政府は出生率に介入するべきか？.
+- Added all three body paragraphs and translations, 17 phrase entries, and 3 polysemy entries from the provided screenshots.
+- Updated PWA cache name to refresh cached data.js.
